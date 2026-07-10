@@ -8,9 +8,9 @@
 
 # 1. OBJETO DEL PRESENTE DOCUMENTO
 
-La presente Acta Fundacional tiene como finalidad dejar constancia escrita del origen del Proyecto, de la voluntad inicial de las partes, de los aportes realizados desde su nacimiento, de los principios que motivaron su creación y de la intención común de desarrollar un patrimonio empresarial sostenible mediante la construcción de una marca personal alrededor del automovilismo.
+La presente Acta Fundacional tiene como finalidad dejar constancia escrita del origen del Proyecto, de la voluntad inicial de las partes, de los aportes realizados desde su nacimiento, de los principios que motivaron su creación y de la intención común de desarrollar un Patrimonio Empresarial sostenible alrededor del automovilismo, la creación de contenido, el desarrollo de talento y la explotación de oportunidades comerciales.
 
-Las partes reconocen expresamente que este documento constituye la memoria histórica del Proyecto y deberá utilizarse como criterio interpretativo del Contrato Maestro y de todos los documentos complementarios que hagan parte del sistema documental del Proyecto.
+Las partes reconocen expresamente que este documento constituye la memoria histórica oficial del Proyecto y deberá utilizarse como criterio interpretativo del Contrato Maestro y de todos los documentos complementarios que hagan parte del Sistema Documental del Proyecto.
 
 ---
 
@@ -20,60 +20,69 @@ Intervienen en la presente Acta:
 
 ### ANDRÉS DAVID MEJÍA HERRERA
 
-Quien actúa como:
+Mayor de edad, identificado con cédula de ciudadanía No. 1035425065, expedida en Copacabana, quien actúa como:
 
-- Fundador del Proyecto.
-- Inversionista Fundacional.
-- Director Estratégico.
-- Productor Ejecutivo.
-- Administrador de los recursos empresariales.
+- Fundador del Proyecto;
+- Inversionista Fundacional;
+- Director Estratégico;
+- Productor Ejecutivo;
+- administrador de los recursos empresariales;
+- responsable principal de la estructuración, financiación y dirección inicial del Proyecto.
 
 ---
 
-### FELIPE GIL
+### LUIS FELIPE GIL BETANCUR
 
-Quien actúa como:
+Mayor de edad, identificado con cédula de ciudadanía No. 1026152827, expedida en Itagüí, quien actúa como:
 
-- Talento Fundador.
-- Imagen principal del Proyecto.
-- Representante Deportivo.
-- Vocero técnico del Proyecto.
+- Talento Fundador;
+- representante deportivo;
+- vocero técnico del Proyecto;
+- participante principal en el proceso de desarrollo público, deportivo y comercial impulsado mediante el Proyecto.
 
 ---
 
 # 3. ANTECEDENTES
 
-Durante el año 2022, en la ciudad de Medellín, las partes iniciaron una relación de colaboración derivada del préstamo por parte de ANDRÉS DAVID MEJÍA HERRERA de un vehículo Suzuki Swift GTi de su propiedad, con el propósito de que FELIPE GIL analizara y ayudara a solucionar una falla mecánica presentada en dicho vehículo.
+Durante el año 2022, en la ciudad de Medellín, las partes iniciaron una relación de colaboración derivada del préstamo, por parte de ANDRÉS DAVID MEJÍA HERRERA, de un vehículo Suzuki Swift GTi de su propiedad, con el propósito de que LUIS FELIPE GIL BETANCUR analizara y ayudara a solucionar una falla mecánica presentada en dicho vehículo.
 
-Una vez solucionado el inconveniente y restablecido el funcionamiento del automóvil, ANDRÉS DAVID MEJÍA HERRERA identificó la posibilidad de desarrollar un proyecto empresarial basado en la imagen, conocimiento técnico y habilidades deportivas de FELIPE GIL.
+Una vez solucionado el inconveniente y restablecido el funcionamiento del automóvil, ANDRÉS DAVID MEJÍA HERRERA identificó en los conocimientos técnicos, habilidades deportivas y potencial comunicativo de LUIS FELIPE GIL BETANCUR una oportunidad para desarrollar un proyecto empresarial.
 
-Como consecuencia de ello propuso la creación de redes sociales, producción audiovisual y desarrollo de contenido especializado con el propósito de construir una marca personal capaz de generar valor económico sostenible.
+En ese momento no existía una marca personal consolidada, un producto comercial organizado, una estructura empresarial, una comunidad digital significativa ni una fuente estable de ingresos construida alrededor de LUIS FELIPE GIL BETANCUR.
+
+Como consecuencia de dicha identificación, ANDRÉS DAVID MEJÍA HERRERA propuso la creación de redes sociales, la producción audiovisual, el desarrollo de contenido especializado, la participación estratégica en actividades deportivas y la organización de una estructura empresarial capaz de transformar aquel potencial en un Patrimonio Empresarial sostenible.
 
 ---
 
 # 4. NACIMIENTO DEL PROYECTO
 
-Las partes reconocen expresamente que la iniciativa de crear el Proyecto fue propuesta por ANDRÉS DAVID MEJÍA HERRERA.
+Las partes reconocen expresamente que la iniciativa de crear y estructurar el Proyecto fue propuesta por ANDRÉS DAVID MEJÍA HERRERA.
 
 El Proyecto nació desde cero.
 
 Al momento de su creación:
 
 - no existía una empresa;
-- no existía una estructura comercial;
+- no existía una sociedad comercial;
+- no existía una estructura organizada de monetización;
 - no existía una estrategia empresarial;
 - no existía una comunidad digital consolidada;
 - no existía una producción permanente de contenido;
-- no existían ingresos derivados de la marca personal;
-- no existía un patrimonio empresarial organizado alrededor de FELIPE GIL.
+- no existían ingresos relevantes derivados de una marca personal;
+- no existían activos comerciales organizados;
+- no existía una marca comercial consolidada alrededor de LUIS FELIPE GIL BETANCUR;
+- no existía un Patrimonio Empresarial organizado alrededor del talento, la imagen o la actividad deportiva;
+- no existía certeza alguna acerca de la viabilidad económica del Proyecto.
 
-Las partes reconocen que el Proyecto comenzó únicamente porque ambas decidieron desarrollarlo conjuntamente.
+Las capacidades técnicas y deportivas preexistentes de LUIS FELIPE GIL BETANCUR constituían potencial humano y profesional, pero todavía no habían sido estructuradas como un producto empresarial, una marca comercial consolidada ni una fuente organizada de generación de ingresos.
+
+Las partes reconocen que el Proyecto comenzó porque ANDRÉS DAVID MEJÍA HERRERA identificó dicho potencial, formuló la iniciativa empresarial y decidió aportar recursos económicos, activos, tiempo profesional, estrategia, infraestructura y capacidad operativa para desarrollarlo, contando con la aceptación y participación de LUIS FELIPE GIL BETANCUR.
 
 ---
 
 # 5. FINALIDAD ORIGINAL
 
-Desde su nacimiento el Proyecto tuvo como propósito principal construir una marca personal con capacidad de generar patrimonio mediante múltiples fuentes de ingreso.
+Desde su nacimiento, el Proyecto tuvo como propósito principal transformar capacidades técnicas, deportivas y comunicativas en un Patrimonio Empresarial capaz de producir valor económico sostenible mediante múltiples fuentes de ingreso.
 
 Entre ellas:
 
@@ -88,91 +97,186 @@ Entre ellas:
 - productos digitales;
 - consultorías;
 - licenciamiento;
-- nuevas líneas de negocio derivadas de la reputación y posicionamiento del Proyecto.
-- la eventual constitución de una sociedad comercial que administre el patrimonio.
- 
-El automovilismo fue concebido como una herramienta estratégica para fortalecer la credibilidad, generar contenido y aumentar el reconocimiento público, mas no como el único objeto económico del Proyecto.
+- merchandising;
+- nuevas líneas de negocio derivadas de la reputación, comunidad y posicionamiento construidos mediante el Proyecto;
+- la eventual constitución de una sociedad comercial que administre el Patrimonio Empresarial.
+
+El automovilismo fue concebido como una herramienta estratégica para desarrollar experiencia, credibilidad, contenido, exposición pública y reconocimiento comercial, mas no como el único objeto económico del Proyecto.
 
 ---
 
 # 6. DISTRIBUCIÓN ORIGINAL DE FUNCIONES
 
-Desde el inicio del Proyecto las partes acordaron una distribución de funciones basada en sus capacidades.
+Desde el inicio del Proyecto, las partes acordaron una distribución de funciones basada en sus capacidades, recursos y posibilidades reales de participación.
 
 ### ANDRÉS DAVID MEJÍA HERRERA asumiría principalmente:
 
+- concepción de la iniciativa empresarial;
 - dirección estratégica;
 - planificación empresarial;
+- estructuración del modelo de negocio;
 - inversión inicial;
+- asunción del riesgo económico y patrimonial;
 - administración de recursos;
 - adquisición de equipos;
+- financiación de actividades deportivas;
+- utilización de activos personales;
 - producción audiovisual;
 - edición de contenido;
 - administración de redes sociales;
 - crecimiento digital;
 - administración de activos;
 - coordinación logística;
-- protección patrimonial.
+- desarrollo comercial;
+- organización tecnológica;
+- protección patrimonial;
+- trabajo profesional no remunerado durante la etapa inicial.
 
-### FELIPE GIL asumiría principalmente:
+### LUIS FELIPE GIL BETANCUR asumiría principalmente:
 
-- representación pública;
 - participación en competencias;
-- creación de contenido frente a cámara;
-- fortalecimiento técnico de la marca;
-- interacción con patrocinadores;
-- generación de credibilidad profesional.
+- desarrollo progresivo de su representación pública;
+- participación frente a cámara;
+- aporte de conocimientos técnicos;
+- aporte de habilidades deportivas;
+- validación técnica del contenido;
+- interacción con patrocinadores y aliados;
+- desarrollo progresivo de credibilidad profesional;
+- participación en el proceso de construcción de la marca y del Patrimonio Empresarial.
+
+La distribución anterior no implica que los aportes de las partes fueran equivalentes en naturaleza, valor, riesgo, oportunidad o impacto económico.
 
 ---
 
 # 7. RIESGO FUNDACIONAL
 
-Las partes reconocen expresamente que durante la etapa inicial el mayor riesgo económico fue asumido por ANDRÉS DAVID MEJÍA HERRERA.
+Las partes reconocen expresamente que durante la etapa inicial el mayor riesgo económico, financiero y patrimonial fue asumido por ANDRÉS DAVID MEJÍA HERRERA.
 
 Dicho riesgo comprendió, entre otros:
 
-- inversión de recursos propios;
+- inversión de recursos económicos propios;
+- utilización de dinero proveniente de su trabajo, experiencia y actividades desarrolladas con anterioridad al Proyecto;
 - utilización de activos personales;
 - financiación de actividades deportivas;
 - compra de equipos;
+- adquisición de herramientas;
 - producción de contenido;
 - administración operativa;
+- dirección estratégica;
 - tiempo profesional no remunerado;
-- exposición patrimonial derivada de un proyecto que en ese momento no tenía garantía alguna de éxito.
+- asunción de obligaciones y créditos personales;
+- exposición patrimonial derivada de un Proyecto que en ese momento no tenía ingresos suficientes, patrimonio propio ni garantía alguna de éxito.
 
-Las partes reconocen que sin la asunción de dicho riesgo el Proyecto no habría podido iniciar.
+Las partes reconocen que los recursos aportados por ANDRÉS DAVID MEJÍA HERRERA no surgieron del Proyecto, sino de patrimonio, trabajo, conocimientos, capacidades e ingresos obtenidos previamente por él y posteriormente expuestos al riesgo empresarial para financiar la creación y desarrollo del Proyecto.
 
----
+Las partes reconocen igualmente que, sin la iniciativa empresarial, la capacidad de ejecución, los recursos económicos y la asunción de riesgo de ANDRÉS DAVID MEJÍA HERRERA, el Proyecto no habría podido iniciar ni alcanzar su etapa inicial de desarrollo.
 
-# 8. RECONOCIMIENTO DEL TALENTO
-
-Las partes reconocen igualmente que el Proyecto requería de una persona con conocimientos técnicos, habilidades deportivas y credibilidad frente al público.
-
-FELIPE GIL aportó dichos elementos desde el nacimiento del Proyecto, permitiendo que la estrategia empresarial propuesta pudiera ejecutarse y consolidarse.
-
-Las partes reconocen que la combinación entre inversión, estrategia, producción e imagen permitió la creación del patrimonio actualmente existente.
+La posterior evolución, crecimiento o generación de ingresos del Proyecto no elimina, reduce ni equipara automáticamente el valor histórico del riesgo asumido durante la etapa fundacional.
 
 ---
 
-# 9. PRINCIPIOS FUNDACIONALES
+# 8. DESARROLLO DEL TALENTO Y CREACIÓN DEL VALOR EMPRESARIAL
 
-Desde el nacimiento del Proyecto ambas partes aceptaron los siguientes principios:
+Las partes reconocen que, al momento de la creación del Proyecto, LUIS FELIPE GIL BETANCUR poseía conocimientos técnicos, habilidades deportivas y experiencia relacionada con el automovilismo.
+
+Sin embargo, dichos atributos todavía no constituían por sí mismos:
+
+- una marca comercial consolidada;
+- un producto empresarial terminado;
+- una comunidad digital significativa;
+- una estructura organizada de monetización;
+- un sistema permanente de producción de contenido;
+- una biblioteca audiovisual de valor comercial;
+- una red consolidada de patrocinadores;
+- un Patrimonio Empresarial independiente;
+- una fuente estable de ingresos derivada de su imagen o actividad pública.
+
+El desarrollo público, deportivo, comunicativo y comercial de LUIS FELIPE GIL BETANCUR se produjo progresivamente dentro del Proyecto mediante, entre otros elementos:
+
+- la estrategia empresarial;
+- la inversión económica;
+- la financiación de actividades;
+- la producción continua de contenido;
+- la utilización y adquisición de activos;
+- la administración de redes sociales;
+- la exposición pública;
+- la planificación deportiva;
+- la edición audiovisual;
+- la generación de oportunidades;
+- la construcción de comunidad;
+- las relaciones comerciales;
+- el trabajo y participación de ambas partes.
+
+Las partes reconocen que el valor empresarial actualmente existente no era un activo previamente consolidado aportado por LUIS FELIPE GIL BETANCUR, sino el resultado de un proceso de desarrollo, inversión, producción, exposición y organización ejecutado durante la vida del Proyecto.
+
+El reconocimiento de las capacidades personales de LUIS FELIPE GIL BETANCUR no podrá interpretarse como desconocimiento, disminución o equiparación automática del Capital Empresarial Fundacional, del Riesgo Empresarial Histórico ni de la función habilitante cumplida por ANDRÉS DAVID MEJÍA HERRERA.
+
+---
+
+# 9. RECONOCIMIENTO DEL CAPITAL EMPRESARIAL FUNDACIONAL
+
+Las partes reconocen expresamente que la iniciativa, la estructuración empresarial, la dirección estratégica, el capital, los activos, la infraestructura y el riesgo patrimonial aportados por ANDRÉS DAVID MEJÍA HERRERA constituyeron los elementos habilitantes para transformar capacidades personales preexistentes en un Proyecto empresarial organizado.
+
+Estos aportes conforman el Capital Empresarial Fundacional y deberán ser reconocidos durante toda la existencia del Proyecto, especialmente en procesos relacionados con:
+
+- valoración;
+- distribución económica;
+- Buy-Out;
+- reorganización;
+- constitución de una sociedad;
+- ingreso de inversionistas;
+- venta;
+- liquidación;
+- terminación de la relación entre las partes;
+- resolución de controversias.
+
+El Capital Empresarial Fundacional no se limita al valor nominal de los recursos económicos aportados.
+
+Para su reconocimiento deberán considerarse también:
+
+- el momento en que se realizaron los aportes;
+- la ausencia de ingresos y patrimonio previo;
+- la alta incertidumbre existente;
+- la probabilidad de fracaso;
+- el origen personal de los recursos;
+- el costo de oportunidad soportado;
+- la duración de la exposición patrimonial;
+- el trabajo profesional no remunerado;
+- el impacto efectivo de dichos aportes en la creación del Patrimonio Empresarial.
+
+Su reconocimiento será permanente y no se extinguirá por el simple transcurso del tiempo, por la generación posterior de ingresos ni por la reducción o suspensión de nuevas inversiones personales de ANDRÉS DAVID MEJÍA HERRERA.
+
+---
+
+# 10. PRINCIPIOS FUNDACIONALES
+
+Desde el nacimiento del Proyecto, las partes aceptaron los siguientes principios:
 
 - construir patrimonio antes que beneficios inmediatos;
+- reconocer el origen y oportunidad de los aportes;
+- preservar la memoria económica del Proyecto;
 - actuar con transparencia;
-- compartir el crecimiento del Proyecto;
+- proteger el Capital Empresarial Fundacional;
 - proteger el valor construido;
-- preservar la reputación de la marca;
+- preservar la reputación;
 - priorizar el crecimiento sostenible;
-- desarrollar un patrimonio que pudiera perdurar en el tiempo.
+- impedir la apropiación unilateral del patrimonio;
+- reconocer que el riesgo asumido en la etapa de mayor incertidumbre posee un valor histórico propio;
+- desarrollar un patrimonio capaz de perdurar en el tiempo.
 
 ---
 
-# 10. DECLARACIÓN FINAL
+# 11. DECLARACIÓN FINAL
 
-Las partes manifiestan que el presente documento refleja de manera fiel los hechos que dieron origen al Proyecto y constituye la memoria histórica oficial del mismo.
+Las partes manifiestan que el presente documento refleja de manera fiel los hechos que dieron origen al Proyecto y constituye su memoria histórica oficial.
 
-En consecuencia, cualquier interpretación futura relacionada con los derechos, obligaciones, aportes o patrimonio del Proyecto deberá considerar la presente Acta Fundacional como referencia principal para comprender el espíritu, finalidad y origen de la relación empresarial existente entre las partes.
+En consecuencia, cualquier interpretación futura relacionada con los derechos, obligaciones, aportes, inversiones, activos, riesgos, titularidad o Patrimonio Empresarial deberá considerar la presente Acta Fundacional como referencia principal para comprender el espíritu, finalidad y origen de la relación empresarial existente entre las partes.
+
+La presente Acta no deberá interpretarse como una declaración de igualdad matemática entre los aportes realizados por las partes.
+
+Cada aporte deberá evaluarse conforme a su naturaleza, oportunidad, riesgo, origen, duración e impacto efectivo en la creación y desarrollo del Proyecto.
+
+Las partes reconocen especialmente que el capital y el riesgo económico asumidos por ANDRÉS DAVID MEJÍA HERRERA durante la etapa de mayor incertidumbre tuvieron carácter fundacional y habilitante, sin perjuicio del reconocimiento de la participación técnica, deportiva y operativa desarrollada por LUIS FELIPE GIL BETANCUR dentro del Proyecto.
 
 ---
 
@@ -180,20 +284,24 @@ En consecuencia, cualquier interpretación futura relacionada con los derechos, 
 
 En constancia de aceptación, las partes firman la presente Acta Fundacional.
 
-_______________________________
+_________________________________
 
-ANDRÉS DAVID MEJÍA HERRERA
+ANDRÉS DAVID MEJÍA HERRERA  
+C.C. No. 1035425065 expedida en Copacabana  
+Fundador e Inversionista Fundacional  
 
-Fundador e Inversionista Fundacional
+Firma: ______________________________
 
-Fecha: _______________________
+Fecha: ______________________________
 
 ---
 
-_______________________________
+_________________________________
 
-FELIPE GIL
+LUIS FELIPE GIL BETANCUR  
+C.C. No. 1026152827 expedida en Itagüí  
+Talento Fundador  
 
-Talento Fundador
+Firma: ______________________________
 
-Fecha: _______________________
+Fecha: ______________________________
