@@ -1,263 +1,820 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DEL PROYECTO
 
-Versión: 2.0
+**Versión: 3.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
 ---
 
-# OBJETO
+# 1. OBJETO
 
-El presente Anexo tiene por finalidad documentar de manera cronológica, verificable y permanente todos los aportes económicos, patrimoniales, materiales, tecnológicos y estratégicos realizados por las partes para la creación, desarrollo y consolidación del Patrimonio Empresarial del Proyecto.
+El presente Anexo tiene como finalidad identificar, documentar, clasificar y conservar de manera cronológica, verificable y permanente los aportes económicos, patrimoniales, materiales, tecnológicos, estratégicos y operativos realizados para la creación, desarrollo y consolidación del Proyecto.
 
-Su propósito consiste en:
+Sus objetivos principales son:
 
-- preservar la memoria financiera del Proyecto;
-- identificar el origen de los recursos utilizados;
-- reconocer objetivamente el riesgo asumido por cada parte;
-- facilitar la valoración futura del Proyecto;
-- servir como soporte para procesos de reorganización, Buy-Out, constitución de una sociedad, ingreso de inversionistas o liquidación.
+- preservar la memoria financiera y patrimonial;
+- identificar el origen de los recursos;
+- reconocer la oportunidad y el riesgo de cada aporte;
+- determinar quién asumió efectivamente cada desembolso u obligación;
+- diferenciar aportes, préstamos, gastos, anticipos, activos y servicios;
+- evitar la pérdida de información histórica;
+- impedir la doble contabilización;
+- soportar procesos de valoración;
+- establecer criterios de reconocimiento y recuperación;
+- servir como soporte para Buy-Out, reorganización, constitución de sociedad, ingreso de inversionistas, venta o liquidación.
 
-Este documento tiene naturaleza histórica y probatoria.
+Este documento tiene naturaleza histórica, económica, patrimonial y probatoria.
 
-No constituye contabilidad oficial ni reemplaza las obligaciones legales, tributarias o comerciales aplicables.
+No constituye por sí solo contabilidad oficial ni reemplaza las obligaciones contables, tributarias, societarias o comerciales aplicables.
 
 ---
 
-# PRINCIPIOS
+# 2. IDENTIFICACIÓN DE LAS PARTES
+
+## ANDRÉS DAVID MEJÍA HERRERA
+
+Mayor de edad, identificado con cédula de ciudadanía No. **1035425065**, expedida en **Copacabana**.
+
+Actúa dentro del Proyecto como:
+
+- Fundador;
+- Inversionista Fundacional;
+- Director Estratégico;
+- principal responsable de la exposición económica, financiera y patrimonial durante la etapa fundacional.
+
+## LUIS FELIPE GIL BETANCUR
+
+Mayor de edad, identificado con cédula de ciudadanía No. **1026152827**, expedida en **Itagüí**.
+
+Actúa dentro del Proyecto como:
+
+- Talento Fundador;
+- representante deportivo;
+- vocero técnico;
+- participante principal en la creación de contenido y representación pública.
+
+---
+
+# 3. PRINCIPIOS
 
 Todo registro contenido en este Anexo se regirá por los siguientes principios:
 
-- Veracidad.
-- Transparencia.
-- Trazabilidad.
-- Conservación histórica.
-- Buena fe.
-- No alteración del historial.
+- veracidad;
+- transparencia;
+- trazabilidad;
+- conservación histórica;
+- buena fe;
+- documentación;
+- diferenciación patrimonial;
+- reconocimiento del riesgo;
+- no eliminación del historial;
+- no doble contabilización;
+- proporcionalidad;
+- coherencia con el Contrato Maestro;
+- protección del Capital Empresarial Fundacional.
 
-Ningún registro podrá eliminarse.
+Ningún registro histórico podrá eliminarse.
 
-Las correcciones deberán realizarse mediante nuevos registros que expliquen la modificación correspondiente.
+Las correcciones deberán efectuarse mediante nuevos registros que indiquen:
+
+- el dato original;
+- el dato corregido;
+- la razón de la corrección;
+- la fecha;
+- el responsable;
+- el soporte correspondiente.
 
 ---
 
-# CAPITAL EMPRESARIAL FUNDACIONAL
+# 4. DEFINICIÓN DEL CAPITAL EMPRESARIAL FUNDACIONAL
 
-Las partes reconocen que durante la etapa inicial del Proyecto fueron realizados aportes extraordinarios en un escenario donde:
+Se entiende por Capital Empresarial Fundacional el conjunto de recursos, activos, obligaciones, infraestructura, trabajo estratégico y exposición patrimonial que hicieron posible el nacimiento y desarrollo inicial del Proyecto cuando este:
 
-- el Proyecto no tenía patrimonio;
-- no existían ingresos;
-- no existían patrocinadores;
-- no existía comunidad digital consolidada;
-- no existía valor comercial demostrable;
-- existía un alto riesgo de fracaso.
+- no tenía patrimonio empresarial propio;
+- no generaba ingresos suficientes;
+- no contaba con patrocinadores relevantes;
+- no tenía una comunidad digital consolidada;
+- no poseía una producción permanente de contenido;
+- no tenía valor comercial demostrable;
+- carecía de capacidad de autofinanciación;
+- presentaba una alta probabilidad de fracaso.
 
-En consecuencia, dichos aportes conforman el CAPITAL EMPRESARIAL FUNDACIONAL del Proyecto.
+El Capital Empresarial Fundacional comprende especialmente los recursos aportados durante la etapa en que la viabilidad económica del Proyecto era incierta y no existía garantía de recuperación.
 
-El Capital Empresarial Fundacional comprende no solamente dinero, sino también:
+---
 
-- activos físicos;
-- equipos;
-- vehículos;
+# 5. RECONOCIMIENTO ESPECIAL DEL APORTE DE ANDRÉS
+
+Las partes reconocen expresamente que la mayor exposición económica, financiera y patrimonial durante la etapa fundacional fue asumida por ANDRÉS DAVID MEJÍA HERRERA.
+
+Los recursos aportados por ANDRÉS DAVID MEJÍA HERRERA provenían de:
+
+- su trabajo;
+- sus conocimientos;
+- sus actividades profesionales;
+- sus ingresos personales;
+- su patrimonio preexistente;
+- sus activos personales;
+- su capacidad de crédito;
+- recursos obtenidos antes o fuera del Proyecto.
+
+Dichos recursos no habían sido generados por el Proyecto.
+
+Fueron expuestos voluntariamente a una iniciativa que, al momento de recibirlos, no ofrecía certeza de retorno, ingresos estables ni patrimonio suficiente para responder por ellos.
+
+Las partes reconocen que estos aportes tuvieron carácter habilitante, pues permitieron:
+
+- iniciar el Proyecto;
+- desarrollar la producción audiovisual;
+- adquirir equipos;
+- financiar actividades;
+- utilizar vehículos y activos;
+- construir comunidad;
+- desarrollar la presencia digital;
+- generar oportunidades comerciales;
+- transformar capacidades personales preexistentes en un Proyecto empresarial organizado.
+
+---
+
+# 6. ELEMENTOS QUE PUEDEN INTEGRAR EL CAPITAL EMPRESARIAL FUNDACIONAL
+
+Podrán registrarse como Capital Empresarial Fundacional, cuando estén debidamente identificados:
+
+- dinero aportado directamente;
+- pagos realizados por cuenta del Proyecto;
+- créditos personales asumidos para financiarlo;
+- intereses y costos financieros directamente relacionados;
+- equipos adquiridos;
+- vehículos utilizados;
+- herramientas;
 - infraestructura;
-- tecnología;
 - producción audiovisual;
+- edición;
+- publicidad;
+- transporte;
+- logística;
+- inscripciones;
+- repuestos;
+- mantenimiento;
+- tecnología;
+- software;
+- licencias;
+- almacenamiento;
+- servicios contratados;
+- trabajo profesional no remunerado;
 - dirección estratégica;
-- tiempo profesional;
+- administración;
+- organización empresarial;
+- desarrollo tecnológico;
+- tiempo de producción;
 - riesgo patrimonial;
-- cualquier otro recurso determinante para el nacimiento del Proyecto.
+- costo de oportunidad;
+- demás recursos determinantes para el nacimiento o consolidación inicial.
+
+La inclusión de un elemento deberá indicar claramente si se trata de:
+
+- desembolso real;
+- activo personal puesto a disposición;
+- activo transferido;
+- servicio ejecutado;
+- obligación financiera;
+- gasto;
+- inversión;
+- aporte no dinerario;
+- valoración estimada.
 
 ---
 
-# RECONOCIMIENTO DEL RIESGO EMPRESARIAL HISTÓRICO
+# 7. NATURALEZA DEL CAPITAL EMPRESARIAL FUNDACIONAL
 
-Las partes reconocen expresamente que el Capital Empresarial Fundacional representa un riesgo extraordinario asumido durante la etapa de mayor incertidumbre del Proyecto.
+El Capital Empresarial Fundacional no se limita al valor nominal de los desembolsos realizados.
 
-En consecuencia:
+Para su análisis deberán considerarse:
 
-El reconocimiento del Capital Empresarial Fundacional no dependerá únicamente de su valor nominal.
-
-También deberá considerarse:
-
-- el momento en que fue aportado;
+- la fecha del aporte;
+- la etapa del Proyecto;
 - la inexistencia de patrimonio previo;
-- el nivel de incertidumbre existente;
+- la ausencia de ingresos suficientes;
 - la probabilidad de fracaso;
-- el impacto que dicho aporte tuvo en la creación del patrimonio actual.
+- el tiempo durante el cual el recurso permaneció expuesto;
+- el costo de oportunidad;
+- el impacto efectivo en el desarrollo;
+- la disponibilidad de fuentes alternativas;
+- el nivel de riesgo asumido;
+- la pérdida de liquidez;
+- los costos financieros relacionados.
 
-Este reconocimiento tendrá carácter permanente durante toda la vida del Proyecto.
+Su reconocimiento no constituye automáticamente una deuda personal de LUIS FELIPE GIL BETANCUR.
 
----
+Tampoco deberá interpretarse como un simple préstamo nominal sin reconocimiento del riesgo, la oportunidad y el impacto empresarial.
 
-# FINALIDAD DEL CAPITAL EMPRESARIAL FUNDACIONAL
-
-El Capital Empresarial Fundacional tendrá como finalidad servir de referencia para:
-
-- valoración del Proyecto;
-- Buy-Out;
-- reorganización empresarial;
-- ingreso de nuevos inversionistas;
-- constitución de una sociedad;
-- liquidación;
-- resolución de controversias relacionadas con aportes históricos.
-
-Su reconocimiento no constituye una obligación automática de reembolso.
-
-Su finalidad consiste en preservar el equilibrio económico derivado del riesgo asumido durante la etapa fundacional.
+Constituye un derecho histórico de reconocimiento económico y patrimonial que deberá considerarse obligatoriamente en los eventos previstos en el Contrato Maestro.
 
 ---
 
-# CLASIFICACIÓN DE LOS REGISTROS
+# 8. CLASIFICACIÓN DE LOS REGISTROS
 
-Cada registro deberá clasificarse como:
+Cada registro deberá asignarse a una categoría principal.
 
-## Capital Fundacional
+## 8.1. Capital Empresarial Fundacional
 
-Recursos destinados a crear el Proyecto durante su etapa inicial.
+Recursos aportados durante la etapa inicial y de mayor incertidumbre.
+
+## 8.2. Inversión posterior
+
+Recursos destinados al crecimiento después de la etapa fundacional.
+
+## 8.3. Préstamo
+
+Dinero entregado con obligación expresa de devolución.
+
+## 8.4. Anticipo
+
+Pago temporal realizado por una parte por cuenta del Proyecto.
+
+## 8.5. Gasto operativo
+
+Recurso destinado al funcionamiento ordinario.
+
+## 8.6. Gasto deportivo
+
+Incluye, entre otros:
+
+- inscripciones;
+- transporte;
+- hospedaje;
+- combustible;
+- llantas;
+- repuestos;
+- mantenimiento;
+- asistencia técnica;
+- logística de competencia.
+
+## 8.7. Producción audiovisual
+
+Incluye:
+
+- fotografía;
+- video;
+- edición;
+- diseño;
+- publicidad;
+- sonido;
+- producción;
+- posproducción.
+
+## 8.8. Tecnología
+
+Incluye:
+
+- software;
+- licencias;
+- hosting;
+- almacenamiento;
+- inteligencia artificial;
+- automatizaciones;
+- servicios digitales.
+
+## 8.9. Activo
+
+Incluye:
+
+- vehículos;
+- equipos;
+- herramientas;
+- computadores;
+- cámaras;
+- infraestructura.
+
+## 8.10. Servicio o trabajo no remunerado
+
+Actividad efectivamente ejecutada sin pago inmediato.
+
+## 8.11. Reembolso
+
+Valor restituido a quien había realizado un pago por cuenta del Proyecto.
+
+## 8.12. Recuperación de capital
+
+Valor aplicado al reconocimiento económico del Capital Empresarial Fundacional.
+
+## 8.13. Ingreso del Proyecto
+
+Recurso generado por:
+
+- patrocinio;
+- monetización;
+- publicidad;
+- venta;
+- curso;
+- evento;
+- servicio;
+- licencia;
+- alianza;
+- otra actividad empresarial.
 
 ---
 
-## Inversión
+# 9. FORMATO OBLIGATORIO DEL REGISTRO
 
-Recursos destinados al crecimiento del Proyecto.
+Cada registro deberá contener, cuando corresponda:
 
----
-
-## Gasto Operativo
-
-Funcionamiento normal.
-
----
-
-## Gasto Deportivo
-
-Competencias.
-
-Inscripciones.
-
-Transporte.
-
-Hospedaje.
-
-Combustible.
-
-Llantas.
-
-Repuestos.
+| Campo | Información requerida |
+|-------|------------------------|
+| ID | Identificador único |
+| Fecha | Fecha del aporte o transacción |
+| Responsable | Persona que aportó, pagó o asumió la obligación |
+| Beneficiario | Proyecto, proveedor, evento o activo beneficiado |
+| Clasificación | Categoría conforme al presente Anexo |
+| Descripción | Explicación clara del concepto |
+| Valor nominal | Valor efectivamente pagado o asumido |
+| Moneda | COP, USD u otra |
+| Tasa de conversión | Cuando corresponda |
+| Fuente de recursos | Personal, patrocinio, ingreso del Proyecto, crédito u otra |
+| Forma de pago | Transferencia, efectivo, tarjeta, crédito u otra |
+| Estado | Pagado, parcial, pendiente, financiado o recuperado |
+| Saldo pendiente | Valor aún no reconocido o recuperado |
+| Activo asociado | Cuando corresponda |
+| Soporte | Factura, comprobante, contrato u otra evidencia |
+| Observaciones | Riesgo, finalidad o aclaraciones |
 
 ---
 
-## Producción Audiovisual
+# 10. FUENTE DE LOS RECURSOS
 
-Fotografía.
+Todo registro deberá identificar obligatoriamente la fuente económica.
 
-Video.
+Las fuentes podrán clasificarse como:
 
-Edición.
+- patrimonio personal de Andrés;
+- patrimonio personal de Luis Felipe;
+- ingreso de patrocinio;
+- monetización;
+- venta de productos;
+- curso;
+- evento;
+- servicio;
+- ingreso digital;
+- financiación externa;
+- crédito personal;
+- crédito del Proyecto;
+- reinversión;
+- ingreso no identificado;
+- otra fuente documentada.
 
-Publicidad.
+No podrá registrarse como aporte personal un valor pagado con ingresos del Proyecto.
 
-Diseño.
-
----
-
-## Tecnología
-
-Software.
-
-Licencias.
-
-Hosting.
-
-IA.
-
-Automatizaciones.
-
----
-
-## Activos
-
-Vehículos.
-
-Equipos.
-
-Herramientas.
-
-Computadores.
+Tampoco podrá registrarse como ingreso del Proyecto un valor que corresponda a préstamo o aporte personal pendiente de reconocimiento.
 
 ---
 
-## Otros
+# 11. REGLA CONTRA LA DOBLE CONTABILIZACIÓN
 
-Registrar descripción.
+Un mismo desembolso, activo, factura, servicio u obligación no podrá reconocerse dos veces.
+
+En particular:
+
+- un gasto pagado por Andrés no podrá registrarse simultáneamente como gasto y como un segundo aporte independiente;
+- un activo no podrá registrarse por su valor total y volver a registrarse íntegramente como gasto;
+- un reembolso no podrá contabilizarse como nuevo ingreso;
+- una recuperación de capital no podrá registrarse como nueva inversión;
+- un crédito no podrá reconocerse simultáneamente como dinero personal y como ingreso del Proyecto;
+- el trabajo no remunerado no podrá duplicarse en varias categorías por una misma actividad y periodo.
+
+Cuando un mismo hecho tenga varias consecuencias, deberá existir un registro principal y referencias relacionadas, sin duplicar el valor económico.
 
 ---
 
-# FORMATO DEL REGISTRO
+# 12. SOPORTES
 
-Cada registro deberá contener, cuando sea posible:
-
-| Fecha | Responsable | Clasificación | Descripción | Valor | Soporte | Observaciones |
-|--------|-------------|---------------|-------------|-------|----------|---------------|
-
----
-
-# SOPORTES
-
-Podrán anexarse:
+Podrán utilizarse como soporte:
 
 - facturas;
 - comprobantes bancarios;
+- extractos;
 - contratos;
 - recibos;
 - fotografías;
 - videos;
 - correos electrónicos;
+- mensajes;
 - certificaciones;
 - órdenes de compra;
-- cualquier otro medio idóneo.
+- documentos de crédito;
+- documentos de propiedad;
+- registros contables;
+- testimonios;
+- calendarios;
+- archivos de producción;
+- cualquier otro medio probatorio idóneo.
+
+La ausencia de factura no elimina automáticamente la existencia del aporte.
+
+Sin embargo, podrá afectar:
+
+- su fuerza probatoria;
+- la precisión del valor;
+- su clasificación;
+- el método de valoración aplicable.
 
 ---
 
-# AUDITORÍA
+# 13. VALORACIÓN DEL TRABAJO NO REMUNERADO
 
-Ambas partes tendrán derecho permanente a revisar este registro.
+El trabajo profesional no remunerado podrá registrarse históricamente cuando sea relevante y verificable.
 
-Cuando exista controversia respecto de algún registro, las partes procurarán resolverla mediante Acta de Aclaración.
+Para ello deberá identificarse:
+
+- persona responsable;
+- actividad;
+- periodo;
+- dedicación estimada;
+- resultado producido;
+- evidencia;
+- tarifa o metodología de referencia;
+- observaciones.
+
+El registro de trabajo no remunerado:
+
+- no crea automáticamente una relación laboral;
+- no constituye por sí solo una deuda salarial;
+- no impone obligaciones futuras;
+- no deberá valorarse arbitrariamente;
+- deberá evitar duplicar actividades ya incluidas en otros registros.
+
+Su finalidad consiste en reconocer la existencia y relevancia económica del trabajo efectivamente aportado.
 
 ---
 
-# ACTUALIZACIÓN
+# 14. ACTIVOS PERSONALES UTILIZADOS
+
+Cuando un activo personal sea utilizado por el Proyecto, deberá registrarse indicando:
+
+- titular jurídico;
+- fecha de incorporación;
+- modalidad de uso;
+- duración;
+- valor aproximado;
+- gastos asociados;
+- mejoras realizadas;
+- responsable de los pagos;
+- estado;
+- condiciones de devolución.
+
+La utilización de un activo personal no transferirá automáticamente su propiedad.
+
+El reconocimiento económico por utilización, deterioro, mejora o exposición deberá determinarse conforme al Contrato Maestro, al Anexo B y al Anexo H.
+
+---
+
+# 15. FINANCIACIÓN ORDINARIA DEL PROYECTO
+
+La operación futura del Proyecto deberá financiarse prioritariamente mediante recursos generados por su propia actividad.
+
+Estos recursos incluyen:
+
+- patrocinios;
+- monetización;
+- publicidad;
+- cursos;
+- conferencias;
+- eventos;
+- productos físicos;
+- productos digitales;
+- licencias;
+- servicios;
+- alianzas;
+- reinversión de ingresos;
+- demás fuentes empresariales.
+
+Los ingresos de patrocinadores deberán aplicarse conforme a:
+
+- el contrato respectivo;
+- los compromisos adquiridos;
+- los presupuestos aprobados;
+- las actividades deportivas asociadas;
+- la producción de contenido comprometida;
+- los gastos operativos relacionados;
+- la sostenibilidad general del Proyecto.
+
+---
+
+# 16. AUSENCIA DE OBLIGACIÓN DE FINANCIACIÓN PERMANENTE
+
+La calidad de Fundador, Inversionista Fundacional o Director Estratégico de ANDRÉS DAVID MEJÍA HERRERA no implica obligación permanente de financiar el Proyecto con recursos personales.
+
+ANDRÉS DAVID MEJÍA HERRERA no estará obligado a:
+
+- realizar nuevos aportes;
+- financiar competencias;
+- cubrir déficits;
+- pagar obligaciones comerciales;
+- adquirir activos;
+- asumir nuevos créditos;
+- otorgar garantías;
+- aportar vehículos;
+- financiar gastos personales de LUIS FELIPE GIL BETANCUR;
+- sustituir con patrimonio personal la falta de ingresos del Proyecto.
+
+La ausencia, reducción o suspensión de nuevos aportes no constituirá:
+
+- incumplimiento;
+- abandono;
+- renuncia;
+- pérdida de participación;
+- reducción de derechos históricos;
+- pérdida del reconocimiento del Capital Empresarial Fundacional;
+- pérdida de facultades estratégicas o administrativas.
+
+---
+
+# 17. NUEVOS APORTES VOLUNTARIOS
+
+Todo nuevo aporte personal de ANDRÉS DAVID MEJÍA HERRERA será voluntario.
+
+Antes de realizarlo podrá evaluar:
+
+- sus posibilidades económicas;
+- el riesgo;
+- la conveniencia empresarial;
+- la disponibilidad de ingresos del Proyecto;
+- el nivel de recuperación del Capital Empresarial Fundacional;
+- la capacidad futura de reconocimiento;
+- la capacidad futura de recuperación;
+- la existencia de patrocinadores;
+- las alternativas disponibles.
+
+Todo nuevo aporte deberá documentarse indicando si corresponde a:
+
+- inversión;
+- préstamo;
+- anticipo;
+- gasto;
+- aporte a capital;
+- adquisición de activo;
+- garantía;
+- otra modalidad.
+
+La falta de documento no transformará automáticamente el aporte en donación ni eliminará el derecho a demostrarlo por otros medios.
+
+---
+
+# 18. RECUPERACIÓN DEL CAPITAL EMPRESARIAL FUNDACIONAL
+
+La recuperación podrá producirse mediante mecanismos expresamente definidos en el Contrato Maestro o mediante acuerdo escrito.
+
+Podrá incluir, entre otros:
+
+- asignaciones provenientes de ingresos;
+- distribución de utilidades;
+- pagos en procesos de Buy-Out;
+- reconocimiento dentro de una valoración;
+- adjudicación de activos;
+- compensaciones;
+- pagos en una reorganización;
+- reconocimiento societario;
+- pagos en una liquidación;
+- otros mecanismos aprobados.
+
+Toda recuperación deberá registrarse indicando:
+
+- fecha;
+- monto;
+- origen de los recursos;
+- concepto;
+- capital al que se aplica;
+- saldo anterior;
+- saldo posterior;
+- soporte.
+
+La recuperación no deberá confundirse con:
+
+- salario;
+- utilidad ordinaria;
+- reembolso de gastos;
+- devolución de préstamo;
+- pago por servicios;
+- distribución por participación.
+
+---
+
+# 19. RECUPERACIÓN Y REINVERSIÓN
+
+La recuperación total o parcial del Capital Empresarial Fundacional no genera obligación automática de reinvertir los recursos recuperados.
+
+ANDRÉS DAVID MEJÍA HERRERA podrá decidir voluntariamente realizar nuevas inversiones considerando:
+
+- el nivel de recuperación alcanzado;
+- las necesidades del Proyecto;
+- los riesgos existentes;
+- sus posibilidades económicas;
+- la rentabilidad esperada;
+- la existencia de ingresos propios;
+- la disponibilidad de patrocinadores;
+- la capacidad de recuperación del nuevo aporte.
+
+La decisión de conservar, utilizar o destinar a otros fines los recursos recuperados corresponde exclusivamente a su titular.
+
+---
+
+# 20. PRIORIDAD DE LOS INGRESOS DEL PROYECTO
+
+Antes de solicitar aportes personales, el Proyecto deberá procurar utilizar sus ingresos conforme a un presupuesto aprobado.
+
+El orden deberá considerar, según corresponda:
+
+1. impuestos y obligaciones legales;
+2. compromisos adquiridos con patrocinadores;
+3. obligaciones contractuales con terceros;
+4. gastos necesarios para generar el ingreso;
+5. seguridad y operación;
+6. mantenimiento de activos esenciales;
+7. reservas razonables;
+8. recuperación o reconocimiento de aportes conforme al Contrato Maestro;
+9. reinversión;
+10. distribución de excedentes.
+
+Este orden podrá ajustarse según la naturaleza de cada contrato, ingreso o situación, pero no podrá utilizarse para imponer financiación personal obligatoria a ANDRÉS DAVID MEJÍA HERRERA.
+
+---
+
+# 21. INSUFICIENCIA DE RECURSOS
+
+Cuando los ingresos sean insuficientes, deberán considerarse:
+
+- reducción de gastos;
+- aplazamiento de actividades;
+- ajuste del calendario deportivo;
+- modificación de producción;
+- búsqueda de nuevos patrocinadores;
+- generación de nuevas fuentes de ingreso;
+- financiación externa aprobada;
+- aportes voluntarios documentados.
+
+La falta de recursos no autoriza a ninguna parte para exigir unilateralmente a ANDRÉS DAVID MEJÍA HERRERA que cubra el déficit.
+
+---
+
+# 22. AUDITORÍA Y DERECHO DE REVISIÓN
+
+Ambas partes tendrán derecho a consultar el registro y sus soportes.
+
+La revisión deberá realizarse respetando:
+
+- confidencialidad;
+- protección de datos;
+- integridad de la documentación;
+- trazabilidad;
+- conservación del historial.
+
+Cuando exista controversia sobre un registro, deberá señalarse como:
+
+- controvertido;
+- pendiente de soporte;
+- pendiente de valoración;
+- pendiente de clasificación.
+
+El registro no deberá eliminarse mientras se resuelve la controversia.
+
+---
+
+# 23. PROCESO DE ACLARACIÓN
+
+Cuando alguna parte cuestione un registro deberá indicar por escrito:
+
+- ID del registro;
+- motivo;
+- valor controvertido;
+- clasificación propuesta;
+- soporte disponible;
+- corrección solicitada.
+
+Las partes procurarán resolverlo mediante Acta de Aclaración.
+
+Si no existe acuerdo, el registro permanecerá identificado como controvertido y podrá ser evaluado mediante los mecanismos previstos en el Contrato Maestro.
+
+---
+
+# 24. ACTUALIZACIÓN
 
 Este documento permanecerá abierto durante toda la vida del Proyecto.
 
-Cada nuevo aporte deberá incorporarse respetando el orden cronológico.
+Cada nuevo registro deberá incorporarse cronológicamente.
 
-Ningún registro histórico podrá eliminarse.
+Los registros no podrán eliminarse.
+
+Las actualizaciones deberán conservar:
+
+- versión;
+- fecha;
+- autor;
+- motivo;
+- modificaciones;
+- soportes.
 
 ---
 
-# DECLARACIÓN FINAL
+# 25. EFECTOS EN VALORACIÓN, BUY-OUT Y LIQUIDACIÓN
 
-Las partes reconocen que el presente documento constituye la memoria financiera histórica oficial del Proyecto.
+En cualquier proceso de:
 
-En consecuencia, cualquier valoración futura deberá considerar no solamente el monto económico registrado, sino también el riesgo empresarial asumido, la oportunidad del aporte y la contribución efectiva de cada registro en la creación del patrimonio actualmente existente.
+- valoración;
+- Buy-Out;
+- reorganización;
+- constitución de sociedad;
+- ingreso de inversionistas;
+- venta;
+- terminación;
+- liquidación;
+
+deberán considerarse:
+
+- los aportes nominales;
+- la fecha de cada aporte;
+- el riesgo;
+- el tiempo de exposición;
+- la recuperación previamente recibida;
+- los saldos pendientes;
+- los activos asociados;
+- el impacto empresarial;
+- los costos financieros;
+- las obligaciones pendientes;
+- la posibilidad de doble contabilización.
+
+El reconocimiento del Capital Empresarial Fundacional deberá ser coherente con el valor total del Proyecto y con los demás derechos económicos previstos en el Contrato Maestro.
+
+No podrá utilizarse simultáneamente el mismo concepto para obtener dos compensaciones económicas idénticas.
+
+---
+
+# 26. NO EXTINCIÓN POR EL PASO DEL TIEMPO
+
+El reconocimiento histórico del Capital Empresarial Fundacional no se extinguirá por:
+
+- el crecimiento posterior del Proyecto;
+- la aparición de patrocinadores;
+- la generación de ingresos;
+- la reducción de nuevos aportes;
+- la suspensión de financiación personal;
+- la delegación de funciones;
+- la constitución futura de una sociedad;
+- el simple transcurso del tiempo.
+
+Su tratamiento concreto deberá efectuarse conforme al Contrato Maestro, los acuerdos posteriores y la legislación aplicable.
+
+---
+
+# 27. DECLARACIÓN FINAL
+
+Las partes reconocen que el presente documento constituye la memoria financiera y patrimonial histórica del Proyecto.
+
+Reconocen especialmente que:
+
+1. la mayor exposición económica durante la etapa fundacional fue asumida por ANDRÉS DAVID MEJÍA HERRERA;
+
+2. los recursos aportados por él provenían de su patrimonio, trabajo, capacidad y actividades anteriores o externas al Proyecto;
+
+3. dichos recursos fueron expuestos cuando no existía garantía de éxito ni capacidad suficiente de autofinanciación;
+
+4. el reconocimiento del Capital Empresarial Fundacional deberá considerar valor, oportunidad, riesgo, duración e impacto;
+
+5. dicho reconocimiento no convierte automáticamente a LUIS FELIPE GIL BETANCUR en deudor personal;
+
+6. tampoco convierte a ANDRÉS DAVID MEJÍA HERRERA en financiador permanente;
+
+7. la operación futura deberá financiarse prioritariamente con patrocinios y demás ingresos propios;
+
+8. los nuevos aportes personales serán voluntarios y deberán documentarse;
+
+9. la recuperación de valores históricos no obliga a reinvertirlos;
+
+10. ningún aporte podrá contabilizarse dos veces.
 
 ---
 
 # FIRMAS
 
-_______________________________
+En constancia de aceptación, las partes firman el presente Anexo.
 
-ANDRÉS DAVID MEJÍA HERRERA
+_________________________________
 
-Fecha: _______________________
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. **1035425065**, expedida en **Copacabana**  
+Fundador e Inversionista Fundacional  
+
+Firma: ______________________________
+
+Fecha: ______________________________
 
 ---
 
-_______________________________
+_________________________________
 
-FELIPE GIL
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. **1026152827**, expedida en **Itagüí**  
+Talento Fundador  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
