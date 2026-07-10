@@ -1,337 +1,218 @@
 # ANEXO E
-# REGISTRO DE PROPIEDAD INTELECTUAL, DERECHOS DE IMAGEN Y ACTIVOS DIGITALES
+# PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL
 
-Versión: 1.0
+**Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
 ---
 
-# OBJETO
+# 1. OBJETO
 
-El presente Anexo tiene por finalidad identificar, registrar y proteger todos los activos relacionados con la propiedad intelectual, derechos de imagen, identidad comercial, contenido digital y desarrollos tecnológicos generados durante la ejecución del Proyecto.
-
-Este documento constituye el inventario oficial de los activos intangibles del Proyecto y servirá como soporte para procesos de valoración, auditoría, reorganización empresarial, constitución de sociedades, protección patrimonial, licenciamiento, explotación comercial y resolución de controversias.
+El presente Anexo protege los contenidos, marcas, producciones, activos digitales, derechos de imagen, desarrollos tecnológicos y usos de inteligencia artificial relacionados con el Proyecto.
 
 ---
 
-# PRINCIPIOS
+# 2. PARTES
 
-Todos los activos aquí registrados deberán respetar los siguientes principios:
+## ANDRÉS DAVID MEJÍA HERRERA
 
-- Conservación histórica.
-- Trazabilidad.
-- Buena fe.
-- Transparencia.
-- Protección patrimonial.
-- Protección de los derechos morales del autor.
-- Protección de la identidad personal del Talento.
-- Protección del patrimonio económico del Proyecto.
+C.C. No. **1035425065**, expedida en **Copacabana**. Fundador, Inversionista Fundacional, Director Estratégico y Productor Ejecutivo.
+
+## LUIS FELIPE GIL BETANCUR
+
+C.C. No. **1026152827**, expedida en **Itagüí**. Talento Fundador, representante deportivo y vocero técnico.
 
 ---
 
-# CLASIFICACIÓN GENERAL
+# 3. DERECHOS PERSONALÍSIMOS
 
-Los activos se clasificarán en las siguientes categorías:
+El nombre civil, imagen, voz, rostro, identidad, intimidad, honra y datos personales de LUIS FELIPE GIL BETANCUR continúan bajo su titularidad.
 
-I. Derechos de Imagen.
+Su participación en el Proyecto no constituye cesión absoluta de dichos derechos.
 
-II. Marcas.
-
-III. Contenido Audiovisual.
-
-IV. Contenido Técnico.
-
-V. Propiedad Intelectual.
-
-VI. Activos Tecnológicos.
-
-VII. Inteligencia Artificial.
-
-VIII. Bases de Datos.
-
-IX. Otros Activos Intangibles.
+El Proyecto tendrá derechos de utilización dentro de su objeto, incluyendo contenido, publicaciones, archivos históricos, promoción, monetización, campañas propias y compromisos comerciales legítimamente adquiridos.
 
 ---
 
-# FORMATO GENERAL
+# 4. VALOR EMPRESARIAL DESARROLLADO
 
-Cada activo deberá registrarse utilizando la siguiente estructura.
+Aunque los derechos personalísimos siguen siendo de LUIS FELIPE GIL BETANCUR, el valor comercial creado alrededor de su participación mediante:
 
-| ID | Activo | Categoría | Fecha | Responsable | Titular | Observaciones |
-|----|---------|-----------|-------|-------------|----------|---------------|
+- inversión;
+- estrategia;
+- producción;
+- edición;
+- campañas;
+- competencias;
+- contenido;
+- comunidad;
+- administración;
+- relaciones comerciales;
 
----
+forma parte del Patrimonio Empresarial.
 
-# I. DERECHOS DE IMAGEN
-
-Registrar, entre otros:
-
-- nombre artístico;
-
-- imagen pública;
-
-- fotografía promocional;
-
-- material institucional;
-
-- sesiones fotográficas;
-
-- banco oficial de imágenes;
-
-- voz autorizada;
-
-- videos institucionales;
-
-- material para patrocinadores.
+Los derechos personalísimos no podrán utilizarse para apropiarse unilateralmente de la marca, comunidad, cuentas, contenidos, goodwill o ingresos desarrollados mediante el Proyecto.
 
 ---
 
-# II. MARCAS
+# 5. CONTENIDOS
 
-Registrar:
+Los videos, fotografías, audios, guiones, diseños, cursos, transmisiones, campañas, miniaturas, archivos maestros y demás contenidos creados para el Proyecto constituyen activos empresariales, sin perjuicio de los derechos morales y personalísimos aplicables.
 
-- nombre comercial;
+La aparición frente a cámara no atribuye automáticamente todos los derechos patrimoniales de una producción.
 
-- logotipos;
+La financiación o producción tampoco elimina los derechos personales o morales de sus participantes.
 
-- isotipos;
-
-- imagotipos;
-
-- eslogan;
-
-- identidad visual;
-
-- manual de marca;
-
-- registros oficiales;
-
-- dominios asociados.
+Ninguna parte podrá eliminar, ocultar, retener o apropiarse unilateralmente de los contenidos o archivos maestros.
 
 ---
 
-# III. CONTENIDO AUDIOVISUAL
+# 6. MARCA E IDENTIDAD
 
-Registrar:
+Las marcas, logotipos, identidad visual, eslóganes, nombres comerciales, dominios y elementos gráficos desarrollados mediante el Proyecto forman parte de su Patrimonio Empresarial.
 
-- videos;
+La utilización del nombre de LUIS FELIPE GIL BETANCUR dentro de una marca no transfiere su nombre civil.
 
-- fotografías;
-
-- reels;
-
-- shorts;
-
-- documentales;
-
-- podcasts;
-
-- entrevistas;
-
-- transmisiones;
-
-- miniaturas;
-
-- piezas publicitarias;
-
-- campañas.
+Tampoco permite que el titular del nombre se apropie unilateralmente del valor comercial, diseño, posicionamiento, cuentas o goodwill financiados y desarrollados por el Proyecto.
 
 ---
 
-# IV. CONTENIDO TÉCNICO
+# 7. REDES Y ACTIVOS DIGITALES
 
-Registrar:
+Las cuentas, canales, dominios, plataformas, analíticas, cuentas publicitarias, bibliotecas, repositorios y sistemas de monetización desarrollados para el Proyecto constituyen activos empresariales.
 
-- cursos;
+El correo o teléfono utilizado para registrarlos no determina por sí solo la titularidad económica.
 
-- conferencias;
+Ninguna parte podrá unilateralmente:
 
-- capacitaciones;
-
-- manuales;
-
-- procedimientos;
-
-- metodologías;
-
-- documentos técnicos;
-
-- presentaciones;
-
-- investigaciones.
+- excluir administradores;
+- cambiar accesos;
+- transferir cuentas;
+- eliminar contenido;
+- redirigir ingresos;
+- desviar comunidad;
+- ocultar métricas;
+- impedir su explotación legítima.
 
 ---
 
-# V. PROPIEDAD INTELECTUAL
+# 8. CURSOS, MÉTODOS Y PRODUCTOS
 
-Registrar:
+Los conocimientos personales continúan perteneciendo a cada parte.
 
-- diseños;
-
-- documentos;
-
-- procesos;
-
-- estrategias;
-
-- modelos de negocio;
-
-- metodologías propias;
-
-- procedimientos internos;
-
-- diagramas;
-
-- mapas conceptuales.
+Los cursos, guiones, grabaciones, documentos, metodologías estructuradas, materiales, productos y formatos creados dentro del Proyecto constituyen activos explotables conforme al Contrato Maestro.
 
 ---
 
-# VI. ACTIVOS TECNOLÓGICOS
+# 9. AUTORIZACIÓN DE USO ORDINARIO
 
-Registrar:
+LUIS FELIPE GIL BETANCUR autoriza el uso razonable de su imagen, voz y participación en materiales producidos dentro del Proyecto para:
 
-- software desarrollado;
+- cuentas oficiales;
+- monetización;
+- promoción;
+- archivo histórico;
+- portafolios;
+- propuestas comerciales;
+- campañas propias;
+- patrocinadores aprobados;
+- productos y servicios del Proyecto.
 
+La autorización no comprende usos ilícitos, engañosos, difamatorios, pornográficos o ajenos al objeto empresarial.
+
+---
+
+# 10. PATROCINADORES
+
+Los usos de imagen y contenido para patrocinadores deberán respetar el alcance, plazo y finalidad del acuerdo comercial correspondiente.
+
+La terminación de una campaña no obliga a eliminar publicaciones históricas legítimamente realizadas durante su vigencia, salvo pacto o causa legal diferente.
+
+---
+
+# 11. INTELIGENCIA ARTIFICIAL
+
+Queda prohibido, sin autorización previa, expresa y específica:
+
+- clonar voz;
+- replicar rostro;
+- crear avatares o dobles digitales;
+- generar declaraciones ficticias;
+- entrenar modelos con material privado;
+- entregar datasets biométricos;
+- crear deepfakes;
+- simular campañas no aprobadas.
+
+La autorización ordinaria de imagen o contenido no incluye automáticamente entrenamiento de modelos ni creación de réplicas digitales.
+
+---
+
+# 12. DESARROLLOS TECNOLÓGICOS
+
+Podrán integrar el Patrimonio Empresarial:
+
+- software;
 - automatizaciones;
-
 - scripts;
-
-- APIs;
-
-- asistentes virtuales;
-
-- plataformas propias;
-
+- asistentes;
+- GPT personalizados;
+- prompts estructurados;
+- bases de datos;
+- flujos;
+- integraciones;
 - herramientas internas.
 
----
-
-# VII. INTELIGENCIA ARTIFICIAL
-
-Registrar:
-
-- GPT personalizados;
-
-- Agentes IA;
-
-- Prompts estratégicos;
-
-- modelos entrenados;
-
-- datasets;
-
-- flujos automáticos;
-
-- voces sintéticas;
-
-- avatares digitales;
-
-- réplicas digitales;
-
-- modelos tridimensionales;
-
-- herramientas de IA desarrolladas para el Proyecto.
+Deberán respetarse las licencias y derechos de terceros.
 
 ---
 
-# VIII. BASES DE DATOS
+# 13. INGRESOS
 
-Registrar:
-
-- patrocinadores;
-
-- clientes;
-
-- proveedores;
-
-- medios de comunicación;
-
-- contactos comerciales;
-
-- CRM;
-
-- listas de correo;
-
-- comunidades privadas;
-
-- métricas históricas.
+Los ingresos obtenidos mediante contenido, marca, cuentas, comunidad, licencias, campañas, cursos, productos, tecnología o inteligencia artificial autorizada serán ingresos del Proyecto cuando se originen en activos o relaciones desarrollados dentro de éste.
 
 ---
 
-# IX. DERECHOS DE IMAGEN E IA
+# 14. TERMINACIÓN
 
-Cuando exista autorización para utilizar inteligencia artificial, deberá registrarse:
+La terminación de la relación no elimina:
 
-- alcance de la autorización;
+- el derecho a explotar contenidos ya producidos;
+- el archivo histórico;
+- las obligaciones con patrocinadores;
+- los derechos económicos sobre activos desarrollados;
+- el reconocimiento de la inversión y producción;
+- las restricciones contra apropiación unilateral.
 
-- finalidad;
-
-- duración;
-
-- limitaciones;
-
-- campañas autorizadas;
-
-- responsable;
-
-- fecha de aprobación.
-
-Toda autorización será específica.
-
-No podrá interpretarse como autorización general para cualquier uso futuro.
+Los nuevos usos de derechos personalísimos deberán respetar el Contrato Maestro y la finalidad empresarial legítima.
 
 ---
 
-# PROHIBICIÓN DE USOS NO AUTORIZADOS
+# 15. FUTURA SOCIEDAD
 
-Toda utilización de la imagen, voz, identidad, contenido o activos intelectuales fuera del objeto del Proyecto deberá contar con autorización escrita conforme al Contrato Maestro.
+Los derechos personalísimos no podrán aportarse como propiedad de una sociedad.
 
-Igualmente queda prohibido:
-
-- entrenar modelos de IA de terceros;
-
-- vender datasets;
-
-- comercializar activos digitales del Proyecto;
-
-- licenciar contenido sin autorización;
-
-- crear versiones derivadas con fines distintos al Proyecto.
+Las marcas, contenidos, software, cuentas y demás activos sí podrán transferirse o licenciarse mediante documento expreso.
 
 ---
 
-# REGISTRO DE LICENCIAS
+# 16. DECLARACIÓN FINAL
 
-Toda licencia concedida por cualquiera de las partes deberá registrarse indicando:
+Las partes reconocen que:
 
-- beneficiario;
+1. los derechos personalísimos de LUIS FELIPE GIL BETANCUR continúan bajo su titularidad;
 
-- alcance;
+2. el valor empresarial desarrollado alrededor de su participación pertenece al Patrimonio Empresarial;
 
-- duración;
+3. los contenidos y cuentas no pueden apropiarse unilateralmente;
 
-- contraprestación;
+4. la inversión, producción, estrategia y trabajo de ANDRÉS DAVID MEJÍA HERRERA conservan reconocimiento económico;
 
-- restricciones.
+5. la inteligencia artificial y las réplicas digitales requieren autorización específica;
 
----
+6. los ingresos derivados de los activos serán tratados conforme al Contrato Maestro;
 
-# ACTUALIZACIÓN
-
-Este documento permanecerá vigente durante toda la existencia del Proyecto.
-
-Toda modificación deberá registrarse cronológicamente.
-
-Nunca se eliminarán registros históricos.
-
----
-
-# DECLARACIÓN FINAL
-
-Las partes reconocen que los activos intelectuales, digitales y tecnológicos representan una parte esencial del valor económico del Proyecto.
-
-En consecuencia, el presente Anexo constituye el registro oficial del patrimonio intelectual del Proyecto y servirá como referencia para cualquier proceso de protección jurídica, valoración económica, auditoría, reorganización empresarial o explotación comercial.
+7. la protección de derechos personales no destruye los derechos económicos adquiridos por el Proyecto.
 
 ---
 
@@ -339,14 +220,22 @@ En consecuencia, el presente Anexo constituye el registro oficial del patrimonio
 
 _________________________________
 
-ANDRÉS DAVID MEJÍA HERRERA
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. **1035425065**, expedida en **Copacabana**  
+Fundador, Inversionista Fundacional y Director Estratégico  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
 
 ---
 
 _________________________________
 
-FELIPE GIL
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. **1026152827**, expedida en **Itagüí**  
+Talento Fundador  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________

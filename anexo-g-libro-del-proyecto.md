@@ -1,279 +1,194 @@
 # ANEXO G
 # LIBRO DEL PROYECTO Y MEMORIA EMPRESARIAL
 
-Versión: 1.0
+**Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
 ---
 
-# OBJETO
+# 1. OBJETO
 
-El presente documento constituye el Libro Oficial del Proyecto.
+El Libro del Proyecto conserva la memoria histórica, económica, patrimonial, comercial y operativa de la relación entre las partes.
 
-Su finalidad consiste en preservar la historia empresarial del Proyecto, registrar sus principales acontecimientos, documentar las decisiones relevantes, conservar la memoria institucional y servir como evidencia objetiva de la evolución del patrimonio construido por las partes.
-
-Este documento tendrá carácter permanente y será actualizado durante toda la existencia del Proyecto.
+Su finalidad es servir como apoyo probatorio y no imponer burocracia innecesaria para que un aporte, inversión, actividad o derecho pueda ser reconocido.
 
 ---
 
-# PRINCIPIOS
+# 2. PARTES
 
-El Libro del Proyecto se regirá por los siguientes principios:
+## ANDRÉS DAVID MEJÍA HERRERA
 
-- Veracidad.
-- Transparencia.
-- Conservación histórica.
-- Trazabilidad.
-- Buena fe.
-- No alteración del historial.
+C.C. No. **1035425065**, expedida en **Copacabana**. Fundador, Inversionista Fundacional y Director Estratégico.
 
-Las anotaciones nunca serán eliminadas.
+## LUIS FELIPE GIL BETANCUR
 
-Cuando exista alguna corrección deberá agregarse una nueva anotación explicando la modificación correspondiente.
+C.C. No. **1026152827**, expedida en **Itagüí**. Talento Fundador, representante deportivo y vocero técnico.
 
 ---
 
-# ESTRUCTURA
-
-Cada registro deberá contener, cuando sea posible:
-
-- Fecha.
-- Lugar.
-- Participantes.
-- Descripción del acontecimiento.
-- Decisiones tomadas.
-- Impacto para el Proyecto.
-- Evidencias asociadas.
-- Observaciones.
-
----
-
-# CAPÍTULO I
-# DECISIONES ESTRATÉGICAS
-
-Registrar:
-
-- cambios importantes;
-
-- nuevas líneas de negocio;
-
-- cambios de estrategia;
-
-- expansión;
-
-- nuevos mercados;
-
-- cambios de imagen;
-
-- modificaciones relevantes.
-
----
-
-# CAPÍTULO II
-# ACTIVOS IMPORTANTES
-
-Registrar:
-
-- compra de vehículos;
-
-- adquisición de equipos;
-
-- nuevas oficinas;
-
-- nuevas herramientas;
-
-- infraestructura;
-
-- tecnología;
-
-- automatizaciones.
-
----
-
-# CAPÍTULO III
-# LOGROS
-
-Registrar:
-
-- victorias;
-
-- podios;
-
-- campeonatos;
-
-- récords;
-
-- crecimiento de comunidad;
-
-- reconocimientos;
-
-- premios;
-
-- certificaciones;
-
-- alianzas importantes.
-
----
-
-# CAPÍTULO IV
-# PATROCINADORES
-
-Registrar:
-
-- ingreso de nuevos patrocinadores;
-
-- renovación;
-
-- finalización de contratos;
-
-- campañas importantes;
-
-- nuevos productos.
-
----
-
-# CAPÍTULO V
-# DESARROLLO EMPRESARIAL
-
-Registrar:
-
-- nuevas unidades de negocio;
-
-- cursos;
-
-- academias;
-
-- membresías;
-
-- eventos;
-
-- productos digitales;
-
-- software;
-
-- inteligencia artificial;
-
-- nuevas fuentes de ingreso.
-
----
-
-# CAPÍTULO VI
-# APRENDIZAJES
-
-Registrar:
-
-- errores importantes;
-
-- lecciones aprendidas;
-
-- mejoras implementadas;
-
-- recomendaciones futuras;
-
-- cambios de procesos.
-
----
-
-# CAPÍTULO VII
-# INNOVACIÓN
-
-Registrar:
-
-- nuevas tecnologías;
-
-- herramientas IA;
-
-- automatizaciones;
-
-- procesos desarrollados;
-
-- metodologías propias.
-
----
-
-# CAPÍTULO VIII
-# CRISIS
-
-Registrar:
-
-- accidentes;
-
-- demandas;
-
-- problemas con patrocinadores;
-
-- problemas técnicos;
-
-- incidentes reputacionales;
-
-- planes de recuperación.
-
----
-
-# CAPÍTULO IX
-# DECISIONES RELEVANTES
-
-Registrar toda decisión que haya producido un impacto significativo sobre:
-
-- patrimonio;
-
-- estrategia;
-
-- inversión;
-
-- marca;
-
-- comunidad;
-
-- crecimiento;
-
-- estructura empresarial.
-
----
-
-# CAPÍTULO X
-# FOTOGRAFÍAS Y EVIDENCIAS
-
-Cada registro podrá contener:
-
-- fotografías;
-
-- videos;
-
-- documentos;
-
-- enlaces;
-
+# 3. HECHOS QUE PODRÁN CONSERVARSE
+
+Podrán conservarse referencias relacionadas con:
+
+- inversiones;
+- aportes;
+- trabajo y tiempo;
+- activos;
+- ingresos y gastos;
+- patrocinios;
+- contenido;
+- competencias;
+- decisiones;
 - contratos;
+- crisis;
+- oportunidades;
+- incumplimientos;
+- recuperación de capital;
+- crecimiento y resultados.
 
-- capturas de pantalla;
-
-- publicaciones;
-
-- cualquier otro elemento que permita reconstruir objetivamente el hecho registrado.
-
----
-
-# ACTUALIZACIÓN
-
-Se recomienda realizar una actualización al menos una vez por trimestre.
-
-No obstante, cualquier hecho relevante podrá registrarse inmediatamente después de ocurrido.
+La ausencia de una anotación no elimina la posibilidad de probar el hecho mediante contratos, facturas, mensajes, correos, archivos, fotografías, videos, testimonios, registros de plataforma u otros medios válidos.
 
 ---
 
-# VALOR PROBATORIO
+# 4. ANOTACIONES UNILATERALES
 
-Las partes reconocen que el presente Libro constituye una memoria institucional del Proyecto.
+Cualquiera de las partes podrá incorporar información o conservar evidencia.
 
-Sin reemplazar otros medios de prueba, podrá utilizarse como elemento de apoyo para reconstruir cronológicamente la evolución del Proyecto, sus activos, decisiones, inversiones y principales acontecimientos.
+Una anotación unilateral:
+
+- no modifica el contrato;
+- no crea por sí sola una deuda;
+- no transfiere propiedad;
+- no demuestra definitivamente un incumplimiento;
+- no equivale a aceptación de la otra parte.
+
+Cuando exista desacuerdo, la anotación podrá considerarse controvertida sin necesidad de eliminarla.
 
 ---
 
-# DECLARACIÓN FINAL
+# 5. DECISIONES
 
-Las partes manifiestan que el presente Libro tiene como finalidad preservar la historia empresarial del Proyecto para evitar la pérdida de información, fortalecer la continuidad institucional y facilitar la transmisión ordenada del conocimiento acumulado durante la ejecución del Proyecto.
+Las decisiones que requieran aprobación conjunta deberán constar por cualquier medio verificable que demuestre consentimiento.
+
+El silencio no constituye aprobación.
+
+Las decisiones ordinarias podrán ejecutarse conforme a las funciones y facultades establecidas en el Contrato Maestro y el Anexo F.
+
+---
+
+# 6. EVIDENCIA
+
+Serán admisibles como soporte, según corresponda:
+
+- facturas;
+- comprobantes;
+- extractos;
+- contratos;
+- mensajes;
+- correos;
+- fotografías;
+- videos;
+- archivos digitales;
+- registros de redes;
+- analíticas;
+- testimonios;
+- documentos de propiedad;
+- cualquier otro medio legalmente válido.
+
+No será obligatorio utilizar un formato específico para que el aporte, trabajo, inversión o actividad pueda ser reconocido.
+
+---
+
+# 7. CAPITAL, TRABAJO Y RIESGO
+
+El Libro podrá servir para reconstruir:
+
+- dinero invertido;
+- activos aportados;
+- tiempo profesional;
+- trabajo no remunerado;
+- dirección estratégica;
+- producción;
+- riesgo patrimonial;
+- costo de oportunidad;
+- ingresos generados;
+- recuperaciones realizadas.
+
+La falta de registro inmediato no extingue estos derechos.
+
+---
+
+# 8. PARTICIPACIÓN DE LUIS FELIPE
+
+Podrá conservarse evidencia sobre:
+
+- grabaciones;
+- competencias;
+- campañas;
+- eventos;
+- entrevistas;
+- compromisos con patrocinadores;
+- validaciones técnicas;
+- ausencias;
+- reprogramaciones;
+- impedimentos;
+- incumplimientos.
+
+Una acusación unilateral no constituye automáticamente incumplimiento probado.
+
+---
+
+# 9. INTEGRIDAD
+
+Ninguna parte podrá:
+
+- destruir evidencia;
+- alterar archivos;
+- falsificar fechas;
+- ocultar ingresos;
+- borrar registros relevantes;
+- atribuir aceptaciones inexistentes;
+- utilizar el Libro para imponer financiación personal;
+- utilizarlo para apropiarse de activos.
+
+Las correcciones podrán realizarse dejando constancia del cambio sin necesidad de procedimientos excesivos.
+
+---
+
+# 10. VALOR PROBATORIO
+
+El valor de cada elemento dependerá de:
+
+- autenticidad;
+- fecha;
+- coherencia;
+- soporte;
+- relación con otros hechos;
+- aceptación o contradicción;
+- legislación aplicable.
+
+El Libro complementa, pero no reemplaza, el Contrato Maestro ni los documentos legales de propiedad.
+
+---
+
+# 11. DECLARACIÓN FINAL
+
+Las partes reconocen que:
+
+1. el Libro es una memoria flexible, no una carga administrativa;
+
+2. ningún derecho depende exclusivamente de llenar una matriz o formato;
+
+3. los aportes podrán demostrarse por cualquier medio válido;
+
+4. ninguna anotación unilateral crea obligaciones definitivas;
+
+5. el dinero, tiempo, trabajo y riesgo invertidos deben protegerse;
+
+6. la recuperación del Capital Empresarial Fundacional no obliga a reinvertir;
+
+7. la operación deberá orientarse al crecimiento, sostenibilidad y éxito del Proyecto.
 
 ---
 
@@ -281,14 +196,22 @@ Las partes manifiestan que el presente Libro tiene como finalidad preservar la h
 
 _________________________________
 
-ANDRÉS DAVID MEJÍA HERRERA
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. **1035425065**, expedida en **Copacabana**  
+Fundador, Inversionista Fundacional y Director Estratégico  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
 
 ---
 
 _________________________________
 
-FELIPE GIL
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. **1026152827**, expedida en **Itagüí**  
+Talento Fundador  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________

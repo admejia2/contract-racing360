@@ -1,251 +1,213 @@
 # ANEXO H
-# MATRIZ OFICIAL DE PROPIEDAD, TITULARIDAD Y ADMINISTRACIÓN DE ACTIVOS
+# MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS
 
-Versión: 1.0
+**Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
 ---
 
-# OBJETO
+# 1. OBJETO
 
-El presente Anexo tiene como finalidad identificar de manera precisa la titularidad, administración, origen y forma de utilización de todos los activos relacionados con el Proyecto.
+El presente Anexo establece los principios para diferenciar:
 
-Su propósito consiste en:
+- titularidad jurídica;
+- participación económica;
+- administración;
+- custodia;
+- uso;
+- fuente de los recursos;
+- derechos de recuperación.
 
-- evitar controversias sobre la propiedad de los activos;
-- facilitar auditorías;
-- soportar procesos de valoración;
-- documentar la evolución patrimonial;
-- facilitar reorganizaciones empresariales;
-- proteger el patrimonio construido.
-
-La presente Matriz constituye el registro oficial de titularidad del Proyecto.
-
----
-
-# PRINCIPIOS
-
-Todo activo deberá registrarse respetando:
-
-- Veracidad.
-- Transparencia.
-- Conservación histórica.
-- Buena fe.
-- Trazabilidad.
-- Protección patrimonial.
-
-La ausencia temporal de un activo dentro de la presente Matriz no modifica automáticamente su titularidad.
+No será obligatorio llenar una matriz detallada para que un derecho pueda demostrarse mediante otros medios válidos.
 
 ---
 
-# CLASIFICACIÓN DE TITULARIDAD
+# 2. PARTES
 
-Todo activo deberá clasificarse en una de las siguientes categorías.
+## ANDRÉS DAVID MEJÍA HERRERA
 
-## A. Propiedad Personal de Andrés
+C.C. No. **1035425065**, expedida en **Copacabana**. Fundador, Inversionista Fundacional y Director Estratégico.
 
-Bienes cuya propiedad corresponde exclusivamente a ANDRÉS DAVID MEJÍA HERRERA.
+## LUIS FELIPE GIL BETANCUR
 
----
-
-## B. Propiedad Personal de Felipe
-
-Bienes cuya propiedad corresponde exclusivamente a FELIPE GIL.
+C.C. No. **1026152827**, expedida en **Itagüí**. Talento Fundador, representante deportivo y vocero técnico.
 
 ---
 
-## C. Patrimonio Empresarial del Proyecto
+# 3. TITULARIDAD JURÍDICA
 
-Bienes adquiridos, desarrollados o incorporados para el desarrollo del Proyecto conforme al Contrato Maestro.
+La titularidad jurídica corresponde a quien pueda acreditarla conforme a la naturaleza del activo y los documentos aplicables.
 
----
+La presente Matriz no reemplaza:
 
-## D. Activos Cedidos Temporalmente
-
-Bienes personales puestos temporalmente al servicio del Proyecto.
-
-Su utilización no modifica la propiedad.
-
----
-
-## E. Activos Licenciados
-
-Bienes cuyo uso ha sido autorizado mediante licencia.
-
-La licencia no modifica la propiedad.
+- licencias de tránsito;
+- contratos;
+- facturas;
+- registros de marca;
+- cesiones;
+- documentos societarios;
+- registros públicos.
 
 ---
 
-# MATRIZ GENERAL
+# 4. PARTICIPACIÓN ECONÓMICA
 
-Cada activo deberá registrarse utilizando la siguiente estructura.
+Una persona podrá tener derechos económicos sobre un activo aunque no figure como su propietario formal, cuando haya realizado aportes, pagos, inversiones, mejoras o asumido riesgos reconocidos contractualmente.
 
-| ID | Activo | Titular Jurídico | Administrador | Uso autorizado | Fecha ingreso | Estado | Observaciones |
-|----|---------|-----------------|---------------|----------------|---------------|--------|---------------|
-
----
-
-# ORIGEN DEL ACTIVO
-
-Cada activo deberá indicar su origen.
-
-Podrá clasificarse como:
-
-- adquirido antes del Proyecto;
-
-- adquirido durante el Proyecto;
-
-- desarrollado por el Proyecto;
-
-- recibido mediante patrocinio;
-
-- recibido mediante donación;
-
-- recibido mediante préstamo;
-
-- desarrollado conjuntamente;
-
-- otro.
+La participación económica no transfiere automáticamente la propiedad jurídica.
 
 ---
 
-# ADMINISTRACIÓN
+# 5. ADMINISTRACIÓN Y CUSTODIA
 
-Se deberá identificar quién administra normalmente el activo.
+Administrar, controlar técnicamente, custodiar, reparar, usar o mantener un activo no convierte a la persona en su propietaria.
 
-Entre otros:
-
-- Andrés;
-
-- Felipe;
-
-- Proyecto;
-
-- tercero autorizado.
-
-La administración no modifica la titularidad.
+El administrador o custodio no podrá apropiarse unilateralmente del activo, sus ingresos o sus accesos.
 
 ---
 
-# USO
+# 6. BIENES PERSONALES
 
-Todo activo deberá indicar:
+Los bienes personales conservarán su titularidad original.
 
-- uso exclusivo;
+Su utilización dentro del Proyecto no implica donación, cesión ni copropiedad.
 
-- uso compartido;
-
-- uso deportivo;
-
-- uso comercial;
-
-- uso audiovisual;
-
-- uso administrativo;
-
-- uso tecnológico;
-
-- uso institucional.
+Esto protege especialmente los activos adquiridos por ANDRÉS DAVID MEJÍA HERRERA antes del Proyecto o mediante su patrimonio personal.
 
 ---
 
-# DISPOSICIÓN
+# 7. SUZUKI SWIFT GTi
 
-Cuando corresponda deberá indicarse si el activo puede:
+El Suzuki Swift GTi continúa siendo propiedad personal de ANDRÉS DAVID MEJÍA HERRERA.
 
-- venderse;
+Su utilización en competencias, contenido, pruebas, campañas o actividades comerciales no modifica su titularidad.
 
-- licenciarse;
-
-- arrendarse;
-
-- modificarse;
-
-- darse de baja;
-
-- prestarse.
-
-Y quién tiene competencia para autorizar dichas actuaciones.
+Las inversiones o mejoras efectuadas sobre el vehículo podrán generar derechos de recuperación o reconocimiento, pero no transferencia automática de propiedad.
 
 ---
 
-# ACTIVOS INTANGIBLES
+# 8. YACAR CAR CROSS
 
-También deberán registrarse, entre otros:
+La situación jurídica y económica del Yacar Car Cross deberá determinarse conforme a:
 
-- goodwill;
+- documento de propiedad;
+- valor de adquisición;
+- pagos efectivamente realizados;
+- origen de los recursos;
+- financiación pendiente;
+- obligaciones;
+- acuerdos existentes;
+- evidencia disponible.
 
-- comunidad;
-
-- marca;
-
-- dominio;
-
-- reputación;
-
-- biblioteca audiovisual;
-
-- estrategias;
-
-- metodologías;
-
-- procesos;
-
-- GPT personalizados;
-
-- asistentes IA;
-
-- automatizaciones;
-
-- datasets;
-
-- propiedad intelectual.
+Ningún porcentaje económico se considerará propiedad jurídica sin el soporte correspondiente.
 
 ---
 
-# ACTIVOS FUTUROS
+# 9. ACTIVOS DIGITALES
 
-Todo nuevo activo desarrollado durante la vigencia del Proyecto deberá incorporarse a la presente Matriz dentro de un plazo razonable desde su creación o adquisición.
+Las cuentas digitales deberán diferenciar:
 
----
+- titular técnico;
+- administrador;
+- beneficiario económico;
+- ingresos;
+- mecanismos de recuperación.
 
-# CAMBIO DE TITULARIDAD
-
-Todo cambio de titularidad deberá registrarse mediante:
-
-- Acta;
-
-- Contrato;
-
-- Documento de cesión;
-
-- Resolución judicial;
-
-- cualquier otro documento válido.
-
-Nunca se eliminará el historial anterior.
+El correo o teléfono de creación no atribuye propiedad económica exclusiva.
 
 ---
 
-# AUDITORÍA
+# 10. DERECHOS PERSONALÍSIMOS
 
-Las partes tendrán derecho permanente a revisar la presente Matriz.
+El nombre, imagen, voz e identidad de LUIS FELIPE GIL BETANCUR no son propiedad del Proyecto.
 
-Cuando exista controversia sobre la titularidad de un activo, prevalecerán:
-
-1. El Contrato Maestro.
-2. La presente Matriz.
-3. Los documentos soporte.
-4. Las Actas del Proyecto.
+El Proyecto conservará los derechos económicos y de explotación legítima sobre contenidos, campañas, marca, comunidad y activos desarrollados alrededor de su participación, conforme al Contrato Maestro.
 
 ---
 
-# DECLARACIÓN FINAL
+# 11. ACTIVOS CON INGRESOS DEL PROYECTO
 
-Las partes reconocen que la presente Matriz constituye uno de los principales mecanismos de protección patrimonial del Proyecto.
+Los activos adquiridos mediante patrocinios, monetización, ventas, cursos, eventos, servicios u otros ingresos propios estarán económicamente vinculados al Proyecto.
 
-Su finalidad consiste en preservar la claridad sobre la propiedad, administración y utilización de los activos, evitando que el paso del tiempo genere incertidumbre respecto de su origen o titularidad.
+Ninguna parte podrá apropiarse unilateralmente de ellos por figurar como comprador formal o administrador.
+
+---
+
+# 12. MEJORAS Y APORTES
+
+El pago de una mejora o gasto deberá interpretarse según su verdadera naturaleza:
+
+- inversión;
+- préstamo;
+- anticipo;
+- gasto;
+- Capital Empresarial Fundacional;
+- derecho de recuperación.
+
+La falta de una clasificación escrita inmediata no convierte el aporte en donación.
+
+---
+
+# 13. VENTA Y TERMINACIÓN
+
+La venta o distribución de activos deberá considerar:
+
+- titularidad;
+- financiación;
+- deudas;
+- aportes;
+- mejoras;
+- derechos económicos;
+- Capital Empresarial Fundacional;
+- valor de mercado.
+
+Ninguna parte podrá disponer unilateralmente de activos esenciales o compartidos.
+
+---
+
+# 14. FUTURA SOCIEDAD
+
+La creación de una sociedad no transfiere automáticamente los activos.
+
+Cada transferencia deberá acordarse y documentarse según la naturaleza del activo.
+
+Los derechos personalísimos no podrán aportarse como propiedad societaria.
+
+---
+
+# 15. PREVALENCIA
+
+En caso de controversia deberán analizarse conjuntamente:
+
+1. documentos legales de propiedad;
+2. Contrato Maestro;
+3. documentos de adquisición o financiación;
+4. presente Anexo;
+5. demás anexos;
+6. evidencia disponible.
+
+La interpretación deberá evitar enriquecimiento injustificado, apropiación unilateral y desconocimiento del dinero, tiempo, trabajo o riesgo aportados.
+
+---
+
+# 16. DECLARACIÓN FINAL
+
+Las partes reconocen que:
+
+1. propiedad, administración y participación económica son conceptos diferentes;
+
+2. los bienes personales no se transfieren por su uso;
+
+3. los pagos y mejoras pueden generar derechos económicos;
+
+4. los activos desarrollados con ingresos del Proyecto deben beneficiar al Proyecto;
+
+5. el Capital Empresarial Fundacional conserva reconocimiento permanente;
+
+6. ninguna parte podrá apropiarse unilateralmente de los activos o su valor;
+
+7. la falta de una matriz detallada no elimina derechos demostrables por otros medios.
 
 ---
 
@@ -253,14 +215,22 @@ Su finalidad consiste en preservar la claridad sobre la propiedad, administraci�
 
 _________________________________
 
-ANDRÉS DAVID MEJÍA HERRERA
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. **1035425065**, expedida en **Copacabana**  
+Fundador, Inversionista Fundacional y Director Estratégico  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
 
 ---
 
 _________________________________
 
-FELIPE GIL
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. **1026152827**, expedida en **Itagüí**  
+Talento Fundador  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________

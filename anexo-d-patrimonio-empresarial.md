@@ -1,331 +1,322 @@
 # ANEXO D
-# REGISTRO Y MATRIZ DEL PATRIMONIO EMPRESARIAL DEL PROYECTO
+# PATRIMONIO EMPRESARIAL DEL PROYECTO
 
-Versión: 1.0
+**Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
 ---
 
-# OBJETO
+# 1. OBJETO
 
-El presente Anexo tiene como finalidad identificar, clasificar y documentar todos los activos que conforman el Patrimonio Empresarial del Proyecto.
+El presente Anexo define el alcance del Patrimonio Empresarial desarrollado mediante el Proyecto y establece los principios para proteger su valor, sus activos, su continuidad y su explotación económica.
 
-Su propósito consiste en:
-
-- preservar la memoria patrimonial;
-- facilitar la valoración del Proyecto;
-- identificar el origen de cada activo;
-- determinar su naturaleza;
-- proteger el patrimonio construido conjuntamente;
-- evitar controversias futuras sobre la titularidad de los activos.
-
-Este documento deberá actualizarse periódicamente durante toda la vida del Proyecto.
+El Patrimonio Empresarial comprende los activos materiales e inmateriales creados, adquiridos, organizados o desarrollados para cumplir el objeto del Proyecto, sin perjuicio de la titularidad jurídica individual de cada bien.
 
 ---
 
-# PRINCIPIOS
+# 2. PARTES
 
-Todo activo registrado deberá cumplir los siguientes principios:
+## ANDRÉS DAVID MEJÍA HERRERA
 
-- Identificación.
-- Trazabilidad.
-- Conservación histórica.
-- Transparencia.
-- Clasificación uniforme.
+Identificado con cédula de ciudadanía No. **1035425065**, expedida en **Copacabana**, quien actúa como Fundador, Inversionista Fundacional y Director Estratégico.
 
-La ausencia de un activo dentro del presente documento no implica automáticamente que no pertenezca al Proyecto.
+## LUIS FELIPE GIL BETANCUR
 
-Sin embargo, este registro constituirá la principal referencia patrimonial del mismo.
+Identificado con cédula de ciudadanía No. **1026152827**, expedida en **Itagüí**, quien actúa como Talento Fundador, representante deportivo y vocero técnico.
 
 ---
 
-# CLASIFICACIÓN GENERAL
+# 3. NATURALEZA DEL PATRIMONIO EMPRESARIAL
 
-Los activos del Proyecto se clasifican en las siguientes categorías:
+Mientras no exista una sociedad formalmente constituida, el Proyecto corresponde a una organización contractual y no a una persona jurídica independiente.
 
-I. Activos Físicos.
+Por tanto, la expresión Patrimonio Empresarial identifica una unidad económica organizada, pero no reemplaza los documentos necesarios para acreditar la titularidad legal de cada activo.
 
-II. Activos Digitales.
+Deberán diferenciarse:
 
-III. Activos Intelectuales.
-
-IV. Activos Comerciales.
-
-V. Activos Tecnológicos.
-
-VI. Activos Reputacionales.
-
-VII. Activos Estratégicos.
-
-VIII. Otros Activos.
+- titularidad jurídica;
+- participación económica;
+- administración;
+- custodia;
+- autorización de uso;
+- fuente de los recursos;
+- derechos de terceros.
 
 ---
 
-# FORMATO GENERAL
+# 4. ACTIVOS COMPRENDIDOS
 
-Cada activo deberá registrarse utilizando la siguiente estructura.
+Podrán integrar el Patrimonio Empresarial:
 
-| ID | Activo | Categoría | Fecha incorporación | Origen | Responsable | Estado | Observaciones |
-|----|---------|-----------|--------------------|---------|-------------|--------|---------------|
-
----
-
-# I. ACTIVOS FÍSICOS
-
-Registrar, entre otros:
-
-- vehículos;
-
-- computadores;
-
-- cámaras;
-
-- drones;
-
-- lentes;
-
-- micrófonos;
-
-- herramientas;
-
-- simuladores;
-
-- mobiliario;
-
-- equipos de competencia;
-
-- equipos audiovisuales.
-
----
-
-# II. ACTIVOS DIGITALES
-
-Registrar:
-
-- Facebook;
-
-- Instagram;
-
-- YouTube;
-
-- TikTok;
-
-- Threads;
-
-- X;
-
-- página web;
-
-- dominios;
-
-- Google Workspace;
-
-- Google Drive;
-
-- Meta Business;
-
-- Google Analytics;
-
-- cuentas publicitarias;
-
-- servidores;
-
-- hosting;
-
-- repositorios digitales.
-
----
-
-# III. ACTIVOS INTELECTUALES
-
-Registrar:
-
-- marca;
-
-- logotipos;
-
-- identidad visual;
-
-- manuales;
-
-- metodologías;
-
-- procesos internos;
-
-- guiones;
-
-- cursos;
-
-- plantillas;
-
-- diseños;
-
-- documentos técnicos;
-
-- estrategias.
-
----
-
-# IV. ACTIVOS COMERCIALES
-
-Registrar:
-
-- patrocinadores;
-
-- convenios;
-
-- contratos comerciales;
-
-- alianzas estratégicas;
-
-- cartera de clientes;
-
-- proveedores;
-
-- relaciones institucionales;
-
-- distribuidores.
-
----
-
-# V. ACTIVOS TECNOLÓGICOS
-
-Registrar:
-
-- desarrollos propios;
-
-- automatizaciones;
-
-- herramientas IA;
-
-- GPT personalizados;
-
-- prompts;
-
-- asistentes virtuales;
-
-- modelos de IA;
-
-- datasets;
-
-- flujos automáticos;
-
-- software desarrollado.
-
----
-
-# VI. ACTIVOS REPUTACIONALES
-
-Registrar:
-
+- marcas y nombres comerciales;
+- logotipos e identidad visual;
+- redes sociales y canales;
+- dominios y páginas web;
 - comunidad digital;
+- biblioteca audiovisual;
+- fotografías, videos y producciones;
+- cursos y productos digitales;
+- contratos y relaciones con patrocinadores;
+- bases de datos legítimamente construidas;
+- procesos y metodologías documentadas;
+- software, automatizaciones y desarrollos tecnológicos;
+- cuentas de monetización;
+- goodwill y reputación comercial;
+- vehículos, equipos y herramientas adquiridos para el Proyecto;
+- oportunidades comerciales originadas por los activos o la actividad del Proyecto.
 
-- reputación;
-
-- goodwill;
-
-- posicionamiento;
-
-- credibilidad técnica;
-
-- presencia en medios;
-
-- premios;
-
-- reconocimientos;
-
-- historial deportivo.
+La ausencia de un activo en un listado no elimina su posible vinculación con el Proyecto cuando pueda demostrarse mediante cualquier medio probatorio válido.
 
 ---
 
-# VII. ACTIVOS ESTRATÉGICOS
+# 5. BIENES PERSONALES
 
-Registrar:
+Los bienes adquiridos antes del Proyecto o pagados con patrimonio personal conservarán su titularidad original, salvo transferencia expresa.
 
-- metodología empresarial;
+La utilización de un bien personal dentro del Proyecto no constituye:
 
-- estrategia comercial;
+- donación;
+- cesión;
+- transferencia de propiedad;
+- copropiedad automática;
+- renuncia del titular;
+- pérdida del derecho de recuperación.
 
-- estrategia digital;
-
-- estrategia deportiva;
-
-- procesos administrativos;
-
-- modelos de monetización;
-
-- planes de expansión;
-
-- relaciones institucionales.
+La administración, custodia, reparación, mejora o utilización de un activo tampoco modifica por sí sola su titularidad.
 
 ---
 
-# VIII. ACTIVOS FUTUROS
+# 6. ACTIVOS DE ANDRÉS
 
-Toda nueva categoría de activo desarrollada durante la vigencia del Proyecto podrá incorporarse al presente registro mediante Acta de Actualización.
+Los activos personales de ANDRÉS DAVID MEJÍA HERRERA utilizados dentro del Proyecto conservarán su propiedad personal, salvo acuerdo escrito diferente.
+
+Esto incluye especialmente:
+
+- Suzuki Swift GTi;
+- vehículos;
+- equipos audiovisuales;
+- computadores;
+- herramientas;
+- infraestructura;
+- tecnología;
+- recursos adquiridos con patrimonio personal.
+
+Su utilización deberá ser reconocida dentro del Capital Empresarial Fundacional cuando haya contribuido materialmente al nacimiento, crecimiento o valorización del Proyecto.
 
 ---
 
-# RESPONSABLE DE CUSTODIA
+# 7. ACTIVOS ADQUIRIDOS CON INGRESOS DEL PROYECTO
 
-Cada activo deberá identificar:
+Los activos adquiridos con:
 
-- custodio;
+- patrocinios;
+- monetización;
+- publicidad;
+- cursos;
+- productos;
+- eventos;
+- servicios;
+- licencias;
+- otros ingresos propios;
 
-- ubicación;
+se considerarán económicamente vinculados al Proyecto.
 
-- medio de respaldo;
+Su titularidad formal, administración y eventual distribución deberán interpretarse conforme al Contrato Maestro, la fuente de los recursos y los documentos de adquisición.
 
-- procedimiento de recuperación cuando corresponda.
+Ninguna parte podrá apropiarse unilateralmente de estos activos por aparecer como comprador, administrador, usuario o titular técnico.
 
 ---
 
-# BAJA DE ACTIVOS
+# 8. ACTIVOS DIGITALES
 
-Cuando un activo deje de utilizarse deberá conservarse su registro histórico.
+Las redes sociales, canales, dominios, correos institucionales, cuentas publicitarias, cuentas de monetización y plataformas creadas o desarrolladas para el Proyecto constituyen activos empresariales.
 
-Nunca se eliminará del presente documento.
+El correo, teléfono o cuenta personal utilizados para crearlos no determinan por sí solos su titularidad económica.
 
-Se clasificará como:
+Ninguna parte podrá unilateralmente:
 
-- retirado;
+- eliminar administradores;
+- cambiar mecanismos de recuperación;
+- ocultar ingresos;
+- borrar contenido;
+- transferir cuentas;
+- redirigir audiencias;
+- apropiarse de la monetización;
+- impedir injustificadamente la continuidad.
 
+---
+
+# 9. COMUNIDAD Y GOODWILL
+
+Los seguidores individuales no son propiedad de ninguna parte.
+
+Sin embargo, la estructura organizada de cuentas, contenido, métricas, posicionamiento, confianza comercial, relaciones con patrocinadores y capacidad de monetización constituye valor empresarial.
+
+La reputación estrictamente personal previa de cada parte continuará siendo personal.
+
+El goodwill, reconocimiento y valor comercial desarrollados mediante inversión, producción, estrategia, contenido, actividad deportiva y exposición organizada forman parte del Patrimonio Empresarial.
+
+---
+
+# 10. CONOCIMIENTOS Y RESULTADOS
+
+Los conocimientos, habilidades y experiencia personal de las partes no son apropiables.
+
+Sí podrán integrar el Patrimonio Empresarial los resultados creados mediante esas capacidades, tales como:
+
+- contenidos;
+- cursos;
+- manuales;
+- guiones;
+- metodologías documentadas;
+- productos;
+- procesos;
+- software;
+- campañas;
+- formatos;
+- materiales educativos.
+
+---
+
+# 11. MEJORAS Y PAGOS SOBRE ACTIVOS AJENOS
+
+El pago de reparaciones, mejoras o gastos sobre un activo perteneciente a otra persona no transfiere automáticamente la propiedad del activo principal.
+
+Podrá generar, según las circunstancias:
+
+- derecho de recuperación;
+- crédito;
+- compensación;
+- reconocimiento dentro del Capital Empresarial Fundacional;
+- participación económica expresamente acordada.
+
+---
+
+# 12. CAPITAL, TIEMPO Y TRABAJO
+
+El Patrimonio Empresarial no se limita a bienes comprados.
+
+También deberá reconocerse el valor producido mediante:
+
+- dinero invertido;
+- tiempo profesional;
+- trabajo no remunerado;
+- dirección estratégica;
+- producción;
+- edición;
+- administración;
+- tecnología;
+- exposición patrimonial;
+- riesgo;
+- costo de oportunidad.
+
+La ausencia de factura no elimina automáticamente un aporte cuando pueda demostrarse mediante otros medios.
+
+---
+
+# 13. INGRESOS Y GANANCIAS
+
+Los ingresos derivados del Patrimonio Empresarial deberán tratarse como ingresos del Proyecto.
+
+Antes de distribuir ganancias deberán considerarse:
+
+- obligaciones legales;
+- compromisos con patrocinadores;
+- gastos necesarios;
+- deudas;
+- reservas razonables;
+- recuperación del Capital Empresarial Fundacional;
+- inversiones posteriores reconocidas;
+- sostenibilidad del Proyecto.
+
+La generación de ingresos no extingue el reconocimiento de la inversión, el riesgo, el tiempo o el trabajo histórico.
+
+---
+
+# 14. DISPOSICIÓN DE ACTIVOS
+
+Los activos esenciales no podrán venderse, transferirse, licenciarse de forma permanente, gravarse o destruirse unilateralmente.
+
+Toda operación deberá considerar:
+
+- titularidad jurídica;
+- participación económica;
+- fuente de los recursos;
+- obligaciones pendientes;
+- Capital Empresarial Fundacional;
+- impacto sobre la continuidad;
+- valor de mercado.
+
+---
+
+# 15. FUTURA SOCIEDAD
+
+La constitución de una sociedad no transferirá automáticamente los activos.
+
+Cada activo podrá ser:
+
+- aportado;
 - vendido;
+- licenciado;
+- arrendado;
+- entregado en uso;
+- conservado como propiedad personal.
 
-- destruido;
-
-- reemplazado;
-
-- transferido;
-
-según corresponda.
+El valor de los activos, aportes, trabajo, riesgo y Capital Empresarial Fundacional deberá reflejarse en la estructura societaria o económica que se acuerde.
 
 ---
 
-# AUDITORÍA
+# 16. TERMINACIÓN
 
-Las partes tendrán derecho a verificar la existencia, estado y utilización de los activos registrados.
+La terminación de la relación entre las partes no permitirá que una de ellas se lleve unilateralmente:
 
-Cuando exista controversia sobre un activo deberá levantarse un Acta de Revisión.
+- cuentas;
+- comunidad;
+- contenidos;
+- marca;
+- contratos;
+- ingresos;
+- activos;
+- oportunidades;
+- goodwill;
+- biblioteca audiovisual.
+
+La distribución deberá realizarse conforme a titularidad, derechos económicos, inversión, riesgo, trabajo aportado, deudas y valor empresarial.
 
 ---
 
-# ACTUALIZACIÓN
+# 17. NO DOBLE CONTABILIZACIÓN
 
-Este documento permanecerá vigente durante toda la vida del Proyecto.
+Un mismo activo, gasto, aporte o servicio no podrá reconocerse dos veces.
 
-Toda modificación deberá quedar registrada cronológicamente.
-
-Ningún activo histórico podrá eliminarse.
+El hecho de aparecer en varios anexos no crea múltiples derechos sobre el mismo valor.
 
 ---
 
-# DECLARACIÓN FINAL
+# 18. DECLARACIÓN FINAL
 
-Las partes reconocen que el patrimonio del Proyecto está conformado no solamente por bienes materiales sino también por activos digitales, tecnológicos, intelectuales, comerciales y reputacionales cuyo valor podrá incrementarse significativamente con el paso del tiempo.
+Las partes reconocen que:
 
-En consecuencia, el presente Anexo constituye el registro patrimonial oficial del Proyecto y servirá como referencia para procesos de valoración, reorganización, auditoría, Buy-Out, liquidación o constitución de una sociedad.
+1. el Patrimonio Empresarial es una unidad económica creada progresivamente;
+
+2. la titularidad legal y el derecho económico pueden ser diferentes;
+
+3. los bienes personales no se transfieren por su simple utilización;
+
+4. los ingresos propios deben sostener prioritariamente la operación;
+
+5. el tiempo, trabajo, dinero y riesgo aportados deben ser reconocidos;
+
+6. el Capital Empresarial Fundacional de ANDRÉS DAVID MEJÍA HERRERA conserva reconocimiento permanente;
+
+7. ANDRÉS DAVID MEJÍA HERRERA no queda obligado a financiar indefinidamente;
+
+8. LUIS FELIPE GIL BETANCUR conserva sus derechos personalísimos;
+
+9. ninguna parte podrá apropiarse unilateralmente del valor construido;
+
+10. la interpretación deberá favorecer la continuidad, sostenibilidad y éxito económico del Proyecto.
 
 ---
 
@@ -333,14 +324,22 @@ En consecuencia, el presente Anexo constituye el registro patrimonial oficial de
 
 _________________________________
 
-ANDRÉS DAVID MEJÍA HERRERA
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. **1035425065**, expedida en **Copacabana**  
+Fundador, Inversionista Fundacional y Director Estratégico  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
 
 ---
 
 _________________________________
 
-FELIPE GIL
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. **1026152827**, expedida en **Itagüí**  
+Talento Fundador  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
