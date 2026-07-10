@@ -7,29 +7,35 @@
 # CAPÍTULO I
 # DISPOSICIONES GENERALES
 
-## CLÁUSULA 1. PARTES
+# CLÁUSULA 1.
+# PARTES
 
 Entre los suscritos:
 
-**ANDRÉS DAVID MEJÍA HERRERA**, mayor de edad, identificado conforme aparece al pie de su firma, quien para efectos del presente contrato actuará en calidad de:
+**ANDRÉS DAVID MEJÍA HERRERA**, mayor de edad, identificado con cédula de ciudadanía No. **1035425065**, expedida en **Copacabana**, quien actúa como:
 
 - Fundador;
 - Inversionista Fundacional;
-- Director Estratégico del Proyecto;
+- Director Estratégico;
+- Productor Ejecutivo;
+- responsable principal de la estructuración empresarial;
+- responsable principal de la mayor exposición económica, financiera y patrimonial durante la etapa fundacional;
 
-y quien en adelante podrá denominarse **EL FUNDADOR**,
+y quien en adelante se denominará **EL FUNDADOR**,
 
 y
 
-**FELIPE GIL**, mayor de edad, identificado conforme aparece al pie de su firma, quien actuará como:
+**LUIS FELIPE GIL BETANCUR**, mayor de edad, identificado con cédula de ciudadanía No. **1026152827**, expedida en **Itagüí**, quien actúa como:
 
 - Talento Fundador;
-- Embajador Deportivo;
-- Representante Técnico de la Marca Personal;
+- representante deportivo;
+- vocero técnico;
+- participante principal frente a cámara;
+- responsable de las actividades técnicas, deportivas, comunicativas y públicas que dependan de su intervención personal;
 
-y quien en adelante podrá denominarse **EL TALENTO**,
+y quien en adelante se denominará **EL TALENTO**,
 
-se celebra el presente **ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DE UNA MARCA PERSONAL Y PROYECTO DEPORTIVO**, el cual se regirá por las siguientes cláusulas.
+se celebra el presente Acuerdo de Fundadores para el desarrollo, protección y explotación del Proyecto Empresarial relacionado con el automovilismo, la creación de contenido, la actividad deportiva, la marca, la comunidad y las oportunidades comerciales derivadas.
 
 ---
 
@@ -113,97 +119,82 @@ Para efectos del presente contrato se entenderá por:
 
 ## Proyecto
 
-El conjunto organizado de activos materiales e inmateriales destinados a desarrollar y explotar económicamente la marca personal objeto del presente acuerdo.
+La organización contractual y empresarial creada por las partes para desarrollar, administrar, proteger y explotar económicamente activos, contenidos, comunidad, relaciones comerciales, actividad deportiva y oportunidades relacionadas con su objeto.
 
----
+Mientras no exista una sociedad formalmente constituida, el Proyecto no será una persona jurídica independiente ni adquirirá automáticamente la propiedad formal de todos los activos utilizados.
 
-## Fundador
+## EL FUNDADOR
 
-La persona que concibió originalmente el proyecto, estructuró el modelo empresarial y dirigió su creación.
+ANDRÉS DAVID MEJÍA HERRERA, quien concibió originalmente la iniciativa, identificó la oportunidad empresarial, estructuró el modelo, asumió la dirección estratégica y soportó la mayor exposición económica, financiera y patrimonial durante la etapa fundacional.
 
----
+## EL TALENTO
 
-## Inversionista Fundacional
+LUIS FELIPE GIL BETANCUR, quien aporta conocimientos técnicos, habilidades deportivas, participación pública, representación frente a cámara y ejecución personal dentro del Proyecto.
 
-La persona que asumió el riesgo económico inicial mediante dinero, activos, equipos, financiación, créditos o cualquier otro recurso necesario para poner en marcha el proyecto cuando éste aún no generaba valor económico relevante.
+Al comienzo del Proyecto, estas capacidades constituían potencial humano, técnico y comunicativo, pero todavía no conformaban una marca comercial consolidada, una comunidad significativa, una estructura organizada de monetización ni un producto empresarial terminado.
 
----
+## Patrimonio Empresarial
 
-## Talento
+La unidad económica compuesta por los activos, derechos, contenidos, cuentas, comunidad, relaciones, procesos, productos y valores empresariales creados, adquiridos, organizados o desarrollados para el Proyecto.
 
-La persona cuya imagen, conocimiento, desempeño deportivo, reputación y presencia pública forman parte esencial del proyecto.
+La expresión Patrimonio Empresarial no reemplaza los documentos necesarios para acreditar la titularidad jurídica formal de cada activo.
 
----
+## Capital Empresarial Fundacional
 
-## Patrimonio del Proyecto
+El conjunto de dinero, activos, infraestructura, financiación, créditos, trabajo profesional, producción, administración, dirección estratégica, tecnología, tiempo, costo de oportunidad y riesgo patrimonial aportados durante la creación y desarrollo inicial del Proyecto, cuando éste carecía de ingresos suficientes, comunidad consolidada, patrocinadores relevantes y certeza de recuperación.
 
-Conjunto de activos tangibles e intangibles desarrollados durante la vigencia del presente acuerdo.
+Su reconocimiento:
 
-Comprende, entre otros:
+- no se limita al valor nominal de los desembolsos;
+- deberá considerar oportunidad, riesgo, duración e impacto;
+- no constituye automáticamente deuda personal de EL TALENTO;
+- no convierte a EL FUNDADOR en financiador permanente.
 
-- contenido;
+## Riesgo Empresarial Histórico
 
-- comunidad;
+La exposición económica, financiera, profesional y patrimonial asumida al destinar recursos propios al Proyecto durante una etapa de alta incertidumbre.
 
-- marca;
-
-- goodwill;
-
-- biblioteca audiovisual;
-
-- relaciones comerciales;
-
-- metodologías;
-
-- bases de datos;
-
-- contratos;
-
-- patrocinios;
-
-- reputación;
-
-- posicionamiento digital;
-
-- demás activos generados por el proyecto.
-
----
-
-## Capital Histórico
-
-Valor acumulado derivado de los aportes efectuados desde el nacimiento del proyecto y reconocido conforme al presente contrato.
-
----
+El Riesgo Empresarial Histórico es un criterio de valoración del Capital Empresarial Fundacional y no un segundo activo que permita duplicar el mismo aporte.
 
 ## Cuenta de Capital
 
-Registro contractual donde se documentarán los aportes económicos realizados por cada parte.
+El registro contractual de aportes, inversiones, préstamos, anticipos, activos, servicios, ingresos, reembolsos, recuperaciones y obligaciones relacionadas con el Proyecto.
 
----
+La ausencia de un registro formal no extingue un aporte que pueda demostrarse por otros medios válidos.
 
-## Cuenta de Recuperación del Fundador
+## Ingreso del Proyecto
 
-Registro destinado a documentar las inversiones históricas, activos aportados y riesgos económicos asumidos por EL FUNDADOR.
+Todo recurso generado por patrocinios, monetización, publicidad, cursos, eventos, productos, servicios, licencias, alianzas o cualquier otra actividad vinculada con el Patrimonio Empresarial.
 
-Su finalidad será servir de referencia para procesos de valoración, Buy-Out, reorganización o liquidación.
+## Aporte Personal Voluntario
 
----
+Todo recurso personal destinado al Proyecto voluntariamente.
 
-## Valor Empresarial
+Ninguna necesidad económica del Proyecto convierte automáticamente a EL FUNDADOR en obligado a efectuar aportes personales.
 
-Valor económico total del proyecto considerando tanto activos tangibles como intangibles.
+## Participación Económica
 
----
+El derecho contractual sobre valor, ingresos, utilidades, activos o resultados económicos.
+
+La participación económica no equivale necesariamente a titularidad jurídica formal.
 
 ## Comunidad
 
-Conjunto de seguidores, suscriptores, clientes, usuarios y audiencias desarrolladas mediante el proyecto.
+La estructura organizada de cuentas, audiencias, seguidores, contenido, métricas, interacción, posicionamiento y capacidad de distribución desarrollada mediante el Proyecto.
 
----
+## Goodwill Empresarial
 
-## Goodwill
+El valor comercial derivado de la marca, comunidad, contenidos, posicionamiento, confianza de patrocinadores, relaciones comerciales y capacidad organizada de monetización desarrollados mediante el Proyecto.
 
-Valor comercial derivado del reconocimiento público, reputación, posicionamiento, confianza del mercado y relaciones comerciales obtenidas durante la vigencia del proyecto.
+## Derechos Personalísimos
+
+Los derechos relacionados con nombre civil, imagen, voz, rostro, identidad, intimidad, honra, integridad y datos personales.
+
+Estos derechos no se transfieren como propiedad del Proyecto, sin perjuicio de las autorizaciones de uso y de los derechos económicos sobre los activos empresariales desarrollados.
+
+## Buy-Out
+
+El procedimiento mediante el cual una parte adquiere total o parcialmente los derechos económicos de la otra sobre el Proyecto, previa valoración y reconocimiento del Capital Empresarial Fundacional, activos, pasivos, ingresos, riesgos y demás derechos aplicables.
 
 ---
 
@@ -632,110 +623,150 @@ Constituyen patrimonio del Proyecto, entre otros:
 ---
 
 # CLÁUSULA 22.
-# PRINCIPIO DE COMPLEMENTARIEDAD
+# COMPLEMENTARIEDAD Y DIFERENCIACIÓN DE LOS APORTES
 
-Las partes reconocen expresamente que el Proyecto únicamente existe gracias a la combinación de aportes complementarios.
+Las partes reconocen que el Proyecto fue desarrollado mediante aportes de diferente naturaleza.
 
-En consecuencia:
+EL FUNDADOR aportó principalmente:
 
-- el capital sin Talento no habría generado el mismo resultado;
+- iniciativa empresarial;
+- dirección estratégica;
+- inversión;
+- financiación;
+- activos;
+- infraestructura;
+- producción;
+- edición;
+- administración;
+- organización tecnológica;
+- exposición económica;
+- trabajo profesional;
+- riesgo patrimonial.
 
-- el Talento sin estructura empresarial tampoco habría generado el mismo resultado;
+EL TALENTO aportó principalmente:
 
-- la producción sin estrategia habría tenido un valor inferior;
+- conocimientos técnicos;
+- habilidades deportivas;
+- participación frente a cámara;
+- ejecución técnica;
+- representación pública;
+- colaboración en contenidos;
+- participación en actividades comerciales y deportivas.
 
-- la estrategia sin ejecución tampoco habría generado patrimonio.
+La complementariedad no implica que los aportes sean iguales en:
 
-Las partes renuncian expresamente a sostener que el Proyecto fue construido exclusivamente por una de ellas.
+- valor;
+- oportunidad;
+- riesgo;
+- duración;
+- costo;
+- impacto;
+- exposición patrimonial;
+- posibilidad de sustitución.
+
+Al momento de iniciar el Proyecto, las capacidades de EL TALENTO todavía no constituían por sí solas una marca comercial consolidada, una comunidad relevante, una biblioteca audiovisual, una estructura organizada de monetización ni un Patrimonio Empresarial independiente.
+
+Las partes reconocen el carácter habilitante de la iniciativa, estructura, inversión, trabajo y riesgo asumidos principalmente por EL FUNDADOR.
+
+El reconocimiento de la participación de EL TALENTO no podrá utilizarse para desconocer o equiparar automáticamente el Capital Empresarial Fundacional.
+
+El reconocimiento del Capital Empresarial Fundacional tampoco transfiere a EL FUNDADOR los derechos personalísimos de EL TALENTO.
 
 ---
 
 # CLÁUSULA 23.
 # FUNCIONES DEL FUNDADOR
 
-Durante la vigencia del presente contrato corresponderá principalmente al FUNDADOR:
+Corresponderá principalmente a EL FUNDADOR:
 
-- diseñar la estrategia empresarial;
-
-- dirigir el crecimiento del Proyecto;
-
-- aprobar inversiones;
-
-- administrar recursos;
-
-- coordinar producción;
-
-- dirigir campañas;
-
-- administrar redes sociales;
-
-- administrar activos digitales;
-
+- definir la estrategia empresarial;
+- dirigir el crecimiento;
+- estructurar modelos de negocio;
+- administrar o supervisar los recursos;
+- coordinar la producción;
+- administrar o supervisar cuentas y activos digitales;
 - coordinar proveedores;
-
-- adquirir equipos;
-
-- administrar información;
-
-- coordinar logística;
-
-- proteger el patrimonio económico;
-
 - desarrollar nuevas líneas de negocio;
+- analizar oportunidades;
+- proteger el Patrimonio Empresarial;
+- proponer presupuestos;
+- coordinar la ejecución general;
+- delegar funciones operativas;
+- adoptar decisiones ordinarias dentro de su competencia.
 
-- proponer alianzas estratégicas.
+Estas funciones deberán ejercerse con diligencia razonable y orientación hacia la sostenibilidad y el éxito del Proyecto.
 
-Las anteriores funciones podrán delegarse parcialmente sin perder la calidad de Fundador.
+No implican obligación de EL FUNDADOR de:
+
+- realizar nuevos aportes personales;
+- financiar competencias;
+- cubrir déficits;
+- adquirir activos con su patrimonio;
+- asumir créditos;
+- otorgar garantías;
+- mantener un nivel mínimo de inversión;
+- sustituir con dinero personal la falta de ingresos del Proyecto.
+
+La delegación o reducción de funciones operativas no implicará pérdida de su calidad de Fundador, participación económica, dirección estratégica ni reconocimiento histórico.
 
 ---
 
 # CLÁUSULA 24.
-# FUNCIONES DEL TALENTO
+# FUNCIONES Y PARTICIPACIÓN CONTINUA DEL TALENTO
 
-Corresponderá principalmente al TALENTO:
+Corresponderá principalmente a EL TALENTO:
 
 - representar públicamente al Proyecto;
+- participar activa y razonablemente en la creación de contenido;
+- asistir a grabaciones previamente coordinadas;
+- participar frente a cámara;
+- aportar y validar conocimiento técnico;
+- participar en actividades deportivas aprobadas;
+- atender compromisos con patrocinadores;
+- participar en entrevistas, eventos, cursos y campañas acordadas;
+- proteger la reputación del Proyecto;
+- informar oportunamente impedimentos;
+- colaborar con las líneas de negocio que requieran razonablemente su presencia o conocimiento.
 
-- producir contenido frente a cámara;
+La participación de EL TALENTO constituye una función continua y esencial.
 
-- participar en competencias;
+No se exigirá disponibilidad absoluta y deberán respetarse la salud, seguridad, fuerza mayor, incapacidades, riesgos deportivos y compromisos previamente informados.
 
-- fortalecer la credibilidad técnica;
+La negativa reiterada e injustificada a participar en actividades razonables, financiadas, coordinadas y previamente acordadas podrá constituir incumplimiento.
 
-- participar en entrevistas;
-
-- atender patrocinadores cuando sea requerido;
-
-- participar en eventos;
-
-- desarrollar actividades de formación relacionadas con su conocimiento;
-
-- proteger la reputación pública del Proyecto.
+EL TALENTO no podrá utilizar su imagen, presencia, control operativo o falta de participación con el propósito de paralizar injustificadamente el Proyecto, forzar una negociación o apropiarse unilateralmente del valor construido.
 
 ---
 
 # CLÁUSULA 25.
 # DIRECCIÓN ESTRATÉGICA
 
-Las partes reconocen que la dirección estratégica del Proyecto fue ejercida inicialmente por el FUNDADOR.
+Las partes reconocen que la iniciativa y dirección estratégica del Proyecto fueron concebidas y ejercidas principalmente por EL FUNDADOR desde su origen.
 
-Dicha dirección comprendió principalmente:
+EL FUNDADOR conservará la dirección estratégica principal, incluyendo facultades razonables para:
 
-- creación del modelo empresarial;
+- orientar el crecimiento;
+- organizar la operación;
+- definir estrategias de monetización;
+- coordinar producción y publicación;
+- administrar o supervisar activos digitales;
+- evaluar inversiones;
+- diseñar procesos;
+- coordinar proveedores;
+- proteger el Patrimonio Empresarial;
+- delegar ejecución operativa.
 
-- planificación;
+La dirección estratégica deberá respetar:
 
-- inversión;
+- los derechos económicos de las partes;
+- los derechos personalísimos;
+- las decisiones extraordinarias reservadas a ambas partes;
+- los compromisos vigentes;
+- la sostenibilidad financiera.
 
-- decisiones económicas;
+La dirección estratégica no convierte a EL FUNDADOR en financiador permanente.
 
-- estructura de crecimiento;
-
-- administración digital;
-
-- desarrollo operativo.
-
-Las partes reconocen igualmente que la dirección estratégica podrá modificarse únicamente mediante acuerdo escrito.
+La ausencia de nuevas inversiones personales, la delegación operativa o la reducción razonable de su participación diaria no constituirán por sí solas abandono, incumplimiento, renuncia ni pérdida de derechos.
 
 ---
 
@@ -843,152 +874,212 @@ Reconocen que el valor económico alcanzado no puede atribuirse exclusivamente a
 El patrimonio del Proyecto constituye el resultado de una construcción empresarial conjunta, progresiva y acumulativa, cuya protección constituye el objetivo principal del presente contrato.
 
 # CAPÍTULO IV
-# CAPITAL FUNDACIONAL, RIESGO HISTÓRICO Y RECUPERACIÓN DEL VALOR
+# CAPITAL EMPRESARIAL FUNDACIONAL, RIESGO EMPRESARIAL HISTÓRICO Y RECUPERACIÓN DEL VALOR
 
 ---
 
 # CLÁUSULA 31.
-# PRINCIPIO DEL CAPITAL FUNDACIONAL
+# CAPITAL EMPRESARIAL FUNDACIONAL
 
-Las partes reconocen que todo proyecto empresarial requiere una etapa inicial de formación en la cual uno o varios de sus fundadores asumen riesgos económicos antes de que exista un retorno financiero.
+Las partes reconocen que el Proyecto fue creado y desarrollado inicialmente mediante recursos aportados cuando no existían ingresos suficientes, patrocinadores relevantes, comunidad consolidada, patrimonio organizado ni garantía de recuperación.
 
-En el presente Proyecto, las inversiones efectuadas durante dicha etapa constituyen el **Capital Fundacional**, cuyo reconocimiento es esencial para comprender el origen y evolución del patrimonio construido.
+El Capital Empresarial Fundacional comprende, cuando corresponda:
 
-El Capital Fundacional no se limita al dinero efectivamente desembolsado, sino que comprende el conjunto de recursos económicos, materiales y estratégicos aportados para hacer posible la existencia del Proyecto.
+- dinero;
+- pagos;
+- financiación;
+- créditos;
+- activos;
+- vehículos;
+- equipos;
+- herramientas;
+- infraestructura;
+- tecnología;
+- producción audiovisual;
+- edición;
+- administración;
+- dirección estratégica;
+- trabajo profesional no remunerado;
+- tiempo;
+- costos financieros;
+- costo de oportunidad;
+- exposición y riesgo patrimonial.
+
+Las partes reconocen que la mayor exposición económica, financiera y patrimonial durante la etapa fundacional fue asumida por EL FUNDADOR.
+
+El Capital Empresarial Fundacional:
+
+- tendrá reconocimiento permanente;
+- deberá considerarse en toda valoración;
+- deberá considerarse en Buy-Out;
+- deberá considerarse en reorganización;
+- deberá considerarse al constituir una sociedad;
+- deberá considerarse al ingresar inversionistas;
+- deberá considerarse en venta o liquidación;
+- no se extinguirá por el crecimiento posterior;
+- no se extinguirá por la generación de ingresos;
+- no se extinguirá por la reducción o suspensión de nuevos aportes personales.
+
+Su reconocimiento no convierte automáticamente a EL TALENTO en deudor personal.
+
+Tampoco convierte a EL FUNDADOR en financiador permanente.
 
 ---
 
 # CLÁUSULA 32.
-# RIESGO HISTÓRICO
+# RIESGO EMPRESARIAL HISTÓRICO
 
-Las partes reconocen que el riesgo asumido durante la etapa inicial del Proyecto constituye un activo económico relevante.
+El Riesgo Empresarial Histórico corresponde a la exposición económica, financiera, patrimonial y profesional asumida al destinar recursos propios al Proyecto durante una etapa de alta incertidumbre.
 
-Se entiende por **Riesgo Histórico** la exposición patrimonial asumida por cualquiera de las partes al destinar recursos propios, asumir obligaciones financieras o comprometer bienes personales para el desarrollo del Proyecto cuando éste aún no generaba ingresos suficientes.
+Para analizarlo se considerarán:
 
-El Riesgo Histórico deberá ser considerado expresamente en cualquier proceso de:
+- fecha y oportunidad del aporte;
+- inexistencia de ingresos suficientes;
+- inexistencia de patrimonio previo;
+- probabilidad de fracaso;
+- duración de la exposición;
+- pérdida de liquidez;
+- costo financiero;
+- costo de oportunidad;
+- activos comprometidos;
+- impacto efectivo del aporte.
 
-- valoración del Proyecto;
+Las partes reconocen que EL FUNDADOR asumió la mayor parte del Riesgo Empresarial Histórico durante la etapa fundacional.
 
-- incorporación de nuevos inversionistas;
+El Riesgo Empresarial Histórico será un criterio obligatorio de valoración del Capital Empresarial Fundacional.
 
-- reorganización;
-
-- Buy-Out;
-
-- liquidación;
-
-- venta total o parcial del Proyecto.
+No constituye un activo separado que permita duplicar el valor del mismo desembolso, activo, servicio u obligación.
 
 ---
 
 # CLÁUSULA 33.
 # CUENTA DE CAPITAL
 
-Se crea la **Cuenta de Capital**, la cual tendrá naturaleza exclusivamente contractual.
+La Cuenta de Capital servirá como registro contractual de:
 
-Su finalidad será registrar cronológicamente todos los aportes realizados por las partes.
+- Capital Empresarial Fundacional;
+- inversiones posteriores;
+- préstamos;
+- anticipos;
+- activos;
+- gastos;
+- servicios;
+- obligaciones;
+- ingresos;
+- reembolsos;
+- recuperación de capital.
 
-Podrán registrarse, entre otros:
+Los aportes podrán demostrarse mediante cualquier medio probatorio válido.
 
-- dinero;
+La falta de registro inmediato, factura o formato específico no convierte automáticamente el aporte en donación ni extingue el derecho a demostrarlo.
 
-- equipos;
+Un mismo desembolso, activo, servicio u obligación no podrá reconocerse dos veces.
 
-- vehículos;
+En particular:
 
-- software;
+- un activo no podrá contabilizarse nuevamente como segundo aporte por su valor completo;
+- un préstamo no será ingreso definitivo;
+- un reembolso no será una nueva inversión;
+- una recuperación de capital no será un nuevo aporte;
+- el riesgo no se sumará como segundo valor nominal sobre el mismo aporte.
 
-- licencias;
-
-- herramientas;
-
-- activos físicos;
-
-- activos digitales;
-
-- gastos extraordinarios;
-
-- inversiones aprobadas;
-
-- aportes posteriores.
-
-La Cuenta de Capital servirá como referencia para procesos de valoración, reorganización y liquidación.
+La Cuenta de Capital servirá como referencia para valoración, Buy-Out, reorganización, constitución de sociedad, venta, terminación y liquidación.
 
 ---
 
 # CLÁUSULA 34.
-# CUENTA DE RECUPERACIÓN DEL FUNDADOR
+# RECONOCIMIENTO Y RECUPERACIÓN DEL CAPITAL EMPRESARIAL FUNDACIONAL
 
-Se crea igualmente la **Cuenta de Recuperación del Fundador**, destinada a documentar el riesgo económico histórico asumido por EL FUNDADOR.
+El Capital Empresarial Fundacional constituye un derecho histórico de reconocimiento económico y patrimonial.
 
-En esta cuenta podrán registrarse, entre otros:
+No será tratado automáticamente como:
 
-- inversiones directas;
+- salario;
+- utilidad ordinaria;
+- deuda personal de EL TALENTO;
+- donación;
+- aporte perdido;
+- obligación de reinversión;
+- valor adicional duplicado sobre los mismos recursos.
 
-- financiación deportiva;
+Su reconocimiento podrá materializarse mediante:
 
-- créditos personales;
+- valoración;
+- participación económica;
+- Buy-Out;
+- reconocimiento societario;
+- crédito;
+- adjudicación;
+- distribución de recursos;
+- compensación;
+- pago en liquidación;
+- cualquier otro mecanismo escrito.
 
-- compra de vehículos;
+La recuperación total o parcial del Capital Empresarial Fundacional no obliga a EL FUNDADOR a reinvertir los recursos recuperados.
 
-- adquisición de equipos;
+La ausencia, reducción o suspensión de nuevos aportes personales:
 
-- gastos de producción;
-
-- desplazamientos;
-
-- adecuaciones;
-
-- mejoras permanentes;
-
-- inversiones extraordinarias.
-
-La Cuenta de Recuperación del Fundador no constituye una deuda automática a cargo del TALENTO.
-
-Su finalidad consiste en preservar la memoria económica del Proyecto y servir como criterio obligatorio de análisis durante cualquier procedimiento de valoración.
+- no constituirá incumplimiento;
+- no constituirá abandono;
+- no reducirá los derechos históricos;
+- no disminuirá automáticamente la participación;
+- no extinguirá el Capital Empresarial Fundacional;
+- no eliminará las facultades estratégicas de EL FUNDADOR.
 
 ---
 
 # CLÁUSULA 35.
-# RECONOCIMIENTO DEL CAPITAL HISTÓRICO
+# PROTECCIÓN DEL VALOR HISTÓRICO
 
-Las partes reconocen que las inversiones realizadas durante la etapa inicial permitieron crear un patrimonio que anteriormente no existía.
+Ninguna valoración futura podrá desconocer que el Patrimonio Empresarial fue desarrollado mediante inversión, trabajo, tiempo, producción, dirección, activos y riesgo asumidos desde el nacimiento del Proyecto.
 
-En consecuencia, ninguna valoración futura podrá desconocer que el patrimonio económico actual deriva, al menos en parte, del Capital Histórico acumulado durante la construcción del Proyecto.
+El crecimiento posterior, la aparición de patrocinadores, la generación de ingresos o el posicionamiento alcanzado no eliminan el valor histórico de los aportes que permitieron crear dicho patrimonio.
+
+El reconocimiento del valor histórico deberá integrarse con la valoración total del Proyecto, evitando duplicaciones.
 
 ---
 
 # CLÁUSULA 36.
-# NO PÉRDIDA DEL CAPITAL HISTÓRICO
+# NO PÉRDIDA DE LOS DERECHOS HISTÓRICOS
 
-La suspensión o terminación de nuevas inversiones personales por cualquiera de las partes no implicará, por sí sola:
+La suspensión o terminación de nuevas inversiones personales no implicará:
 
-- pérdida del Capital Histórico;
-
-- desaparición del Riesgo Histórico;
-
+- pérdida del Capital Empresarial Fundacional;
+- desaparición del Riesgo Empresarial Histórico;
 - extinción de la Cuenta de Capital;
+- renuncia a derechos económicos consolidados;
+- pérdida de la calidad de Fundador;
+- pérdida de facultades estratégicas;
+- obligación de vender o transferir derechos.
 
-- renuncia a los derechos económicos previamente consolidados.
-
-Las nuevas inversiones podrán modificar el valor económico del Proyecto, pero no eliminarán el reconocimiento de los aportes ya realizados.
+Las nuevas inversiones podrán generar derechos adicionales cuando sean reconocidas, pero no eliminarán los aportes ya realizados.
 
 ---
 
 # CLÁUSULA 37.
-# DIFERENCIA ENTRE CAPITAL HISTÓRICO Y NUEVAS INVERSIONES
+# APORTES HISTÓRICOS Y NUEVAS INVERSIONES
 
-Las partes distinguen expresamente dos categorías:
+Se diferencian:
 
-## Capital Histórico
+## Capital Empresarial Fundacional
 
-Conjunto de inversiones que permitieron crear el Proyecto.
+Recursos, tiempo, trabajo, activos y riesgo que permitieron crear y desarrollar inicialmente el Proyecto.
 
 ## Nuevas Inversiones
 
-Recursos destinados a expandir o fortalecer un Proyecto ya existente.
+Recursos destinados a expandir, fortalecer o sostener un Proyecto que ya cuenta con activos, comunidad, posicionamiento o ingresos.
 
-Ambas categorías tendrán tratamientos diferentes dentro de los procesos de valoración.
+Ambas categorías podrán recibir tratamiento económico diferente atendiendo a:
+
+- fecha;
+- riesgo;
+- finalidad;
+- impacto;
+- duración;
+- posibilidad de recuperación;
+- situación financiera del Proyecto.
+
+La igualdad nominal entre dos aportes no implica igualdad de riesgo ni de contribución económica.
 
 ---
 
@@ -997,39 +1088,81 @@ Ambas categorías tendrán tratamientos diferentes dentro de los procesos de val
 
 Ninguna parte estará obligada a realizar inversiones personales adicionales.
 
-Toda nueva inversión requerirá autorización escrita de ambas partes, salvo los gastos ordinarios previamente aprobados.
+Toda nueva inversión personal será voluntaria y podrá reconocerse como:
 
-Las partes procurarán que el Proyecto alcance progresivamente autonomía financiera.
+- inversión;
+- préstamo;
+- anticipo;
+- gasto;
+- adquisición de activo;
+- aporte de capital;
+- garantía;
+- otra modalidad compatible con su naturaleza.
+
+La falta de acuerdo para efectuar una nueva inversión no constituirá incumplimiento.
+
+Cuando no existan recursos suficientes, deberán considerarse:
+
+- reducción de gastos;
+- aplazamiento;
+- ajuste de actividades;
+- búsqueda de patrocinadores;
+- generación de nuevos ingresos;
+- financiación externa aprobada.
+
+La falta de recursos no autoriza a exigir unilateralmente a EL FUNDADOR que cubra el déficit.
 
 ---
 
 # CLÁUSULA 39.
-# AUTOSOSTENIBILIDAD
+# AUTOSOSTENIBILIDAD Y FINANCIACIÓN DEL PROYECTO
 
-Las partes reconocen que la finalidad del Proyecto consiste en generar recursos suficientes para sostener su propia operación.
+La operación, producción, crecimiento y actividad deportiva deberán financiarse prioritariamente mediante:
 
-En consecuencia, la financiación permanente mediante recursos personales constituye una medida excepcional y no una obligación indefinida de ninguna de las partes.
+- patrocinios;
+- monetización;
+- publicidad;
+- cursos;
+- eventos;
+- productos;
+- servicios;
+- licencias;
+- alianzas;
+- demás ingresos propios.
+
+Los recursos de patrocinadores deberán destinarse prioritariamente a los compromisos, producción, actividades, costos y obligaciones relacionados con dichos acuerdos.
+
+La financiación permanente mediante patrimonio personal constituye una medida voluntaria y excepcional, no una obligación indefinida de EL FUNDADOR.
+
+La aprobación de una actividad, competencia, campaña o inversión no significa que EL FUNDADOR deba pagarla personalmente.
 
 ---
 
 # CLÁUSULA 40.
-# PRIORIDAD DEL CAPITAL HISTÓRICO
+# PRIORIDAD ECONÓMICA Y DISTRIBUCIÓN DE GANANCIAS
 
-Antes de distribuir beneficios extraordinarios derivados de:
+Antes de distribuir ganancias o beneficios extraordinarios deberán considerarse, según corresponda:
 
-- venta del Proyecto;
+1. impuestos y obligaciones legales;
+2. compromisos con patrocinadores;
+3. deudas y obligaciones con terceros;
+4. gastos necesarios para generar el ingreso;
+5. mantenimiento y continuidad;
+6. reservas razonables;
+7. préstamos, anticipos y reembolsos;
+8. reconocimiento o recuperación del Capital Empresarial Fundacional;
+9. inversiones posteriores;
+10. distribución de excedentes conforme a los derechos económicos pactados.
 
-- ingreso de inversionistas;
+El orden podrá adaptarse razonablemente a cada situación, pero no podrá utilizarse para:
 
-- venta de activos relevantes;
+- desconocer el Capital Empresarial Fundacional;
+- impedir indefinidamente la distribución de ganancias;
+- crear gastos artificiales;
+- imponer financiación personal;
+- favorecer unilateralmente a una parte.
 
-- reorganización empresarial;
-
-- licenciamiento de la marca;
-
-- monetización extraordinaria,
-
-deberá analizarse el tratamiento del Capital Histórico y del Riesgo Histórico conforme al presente contrato.
+La generación de utilidades no elimina el reconocimiento del dinero, trabajo, tiempo, activos y riesgo históricamente aportados.
 
 ---
 
@@ -1047,9 +1180,9 @@ Las partes reconocen que el crecimiento del Proyecto constituye una consecuencia
 
 En caso de reorganización, Buy-Out, venta o liquidación, las partes procurarán una solución económicamente equitativa que considere simultáneamente:
 
-- el Capital Histórico;
+- el Capital Empresarial Fundacional;
 
-- el Riesgo Histórico;
+- el Riesgo Empresarial Histórico;
 
 - los aportes de trabajo;
 
@@ -1061,16 +1194,16 @@ En caso de reorganización, Buy-Out, venta o liquidación, las partes procurará
 
 - el valor empresarial existente al momento de la operación.
 
-La recuperación del Capital Histórico no constituirá un derecho absoluto a una suma determinada, pero sí un elemento obligatorio de valoración y negociación.
+La recuperación del Capital Empresarial Fundacional no constituirá un derecho absoluto a una suma determinada, pero sí un elemento obligatorio de valoración y negociación.
 
 ---
 
 # CLÁUSULA 43.
 # DECLARACIÓN FINAL
 
-Las partes reconocen que el Capital Fundacional constituye el cimiento económico sobre el cual fue posible desarrollar el Proyecto.
+Las partes reconocen que el Capital Empresarial Fundacional constituye el cimiento económico sobre el cual fue posible desarrollar el Proyecto.
 
-En consecuencia, el reconocimiento del Riesgo Histórico y de las inversiones fundacionales constituye un principio esencial del presente contrato y deberá informar toda interpretación relacionada con la distribución del valor económico generado por el Proyecto.
+En consecuencia, el reconocimiento del Riesgo Empresarial Histórico y de las inversiones fundacionales constituye un principio esencial del presente contrato y deberá informar toda interpretación relacionada con la distribución del valor económico generado por el Proyecto.
 
 # CAPÍTULO V
 # PARTICIPACIÓN EN EL VALOR EMPRESARIAL
@@ -1148,9 +1281,9 @@ La comunidad, la reputación, el posicionamiento, el contenido, las relaciones c
 ---
 
 # CLÁUSULA 48.
-# NO LIMITACIÓN AL CAPITAL HISTÓRICO
+# NO LIMITACIÓN AL CAPITAL EMPRESARIAL FUNDACIONAL
 
-La recuperación del Capital Histórico no extingue automáticamente los derechos económicos derivados de la participación en el Valor Empresarial.
+La recuperación del Capital Empresarial Fundacional no extingue automáticamente los derechos económicos derivados de la participación en el Valor Empresarial.
 
 Salvo pacto expreso en contrario, el reconocimiento de las inversiones históricas y la participación en el patrimonio empresarial constituyen conceptos jurídicos diferentes y complementarios.
 
@@ -1208,7 +1341,7 @@ En consecuencia, los aportes realizados durante las etapas iniciales del Proyect
 # CLÁUSULA 52.
 # RIESGO FUNDACIONAL
 
-Las partes reconocen que el Capital Fundacional fue aportado en una etapa en la que existía una probabilidad sustancial de que el Proyecto no lograra desarrollarse o no generara retorno económico alguno.
+Las partes reconocen que el Capital Empresarial Fundacional fue aportado en una etapa en la que existía una probabilidad sustancial de que el Proyecto no lograra desarrollarse o no generara retorno económico alguno.
 
 Por ello, el riesgo asumido durante dicha etapa constituye un elemento diferenciador que deberá ser considerado en cualquier valoración económica prevista en el presente contrato.
 
@@ -3130,7 +3263,7 @@ Toda reorganización deberá respetar:
 
 los derechos históricos;
 
-el Capital Fundacional;
+el Capital Empresarial Fundacional;
 
 la valoración del Proyecto;
 
@@ -3447,10 +3580,10 @@ La constitución de la sociedad no implicará la pérdida, reducción o desconoc
 
 En particular deberán respetarse:
 
-- el Capital Fundacional;
+- el Capital Empresarial Fundacional;
 - la Cuenta de Capital;
-- la Cuenta de Recuperación del Fundador;
-- el reconocimiento del Riesgo Histórico;
+- la Capital Empresarial Fundacional;
+- el reconocimiento del Riesgo Empresarial Histórico;
 - la Memoria Fundacional;
 - las reglas de valoración;
 - los derechos patrimoniales sobre los activos del Proyecto;
@@ -3505,7 +3638,7 @@ En especial deberán preservarse:
 - las cláusulas de Tag Along;
 - las cláusulas de Drag Along;
 - la protección contra dilución;
-- el reconocimiento del Capital Fundacional y del Riesgo Histórico.
+- el reconocimiento del Capital Empresarial Fundacional y del Riesgo Empresarial Histórico.
 
 ---
 
