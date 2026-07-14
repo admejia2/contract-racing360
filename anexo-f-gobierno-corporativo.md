@@ -1,372 +1,948 @@
 # ANEXO F
-# MANUAL DE GOBIERNO CORPORATIVO Y OPERACIÓN DEL PROYECTO
+# MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DEL PROYECTO
 
-Versión: 1.0
+**Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
 ---
 
-# OBJETO
+# 1. OBJETO
 
-El presente Manual establece la forma en que se administrará y operará el Proyecto en su actividad diaria.
+El presente Manual establece la estructura de dirección, administración, operación, toma de decisiones, control de recursos y ejecución diaria del Proyecto.
 
-Su finalidad consiste en:
+Sus objetivos son:
 
+- preservar la dirección estratégica;
 - evitar conflictos operativos;
-- definir responsabilidades;
-- facilitar la toma de decisiones;
-- proteger el patrimonio del Proyecto;
-- mantener una administración organizada y transparente.
+- impedir la parálisis por desacuerdos;
+- diferenciar decisiones ordinarias y extraordinarias;
+- establecer responsabilidades;
+- controlar los recursos;
+- proteger el Patrimonio Empresarial;
+- garantizar continuidad;
+- asegurar el cumplimiento de compromisos con patrocinadores;
+- mantener trazabilidad de las decisiones;
+- impedir que la dirección empresarial sea interpretada como obligación personal de financiación.
 
-Este documento desarrolla el Contrato Maestro y podrá actualizarse mediante Acta firmada por ambas partes.
+Este Manual desarrolla el Contrato Maestro y no podrá modificar los derechos económicos, históricos o patrimoniales allí reconocidos.
 
 ---
 
-# PRINCIPIOS
+# 2. IDENTIFICACIÓN DE LAS PARTES
 
-Toda decisión deberá observar los siguientes principios:
+## ANDRÉS DAVID MEJÍA HERRERA
+
+Mayor de edad, identificado con cédula de ciudadanía No. **1035425065**, expedida en **Copacabana**.
+
+Actúa como:
+
+- Fundador;
+- Inversionista Fundacional;
+- Director Estratégico;
+- responsable principal de la dirección empresarial y administrativa;
+- custodio o administrador de diferentes activos y sistemas del Proyecto.
+
+## LUIS FELIPE GIL BETANCUR
+
+Mayor de edad, identificado con cédula de ciudadanía No. **1026152827**, expedida en **Itagüí**.
+
+Actúa como:
+
+- Talento Fundador;
+- representante deportivo;
+- vocero técnico;
+- participante principal frente a cámara;
+- responsable principal de la ejecución técnica, deportiva y pública que dependa de su intervención personal.
+
+---
+
+# 3. PRINCIPIOS DE GOBIERNO
+
+La dirección y operación se regirán por:
 
 - buena fe;
-
 - transparencia;
-
+- trazabilidad;
 - eficiencia;
-
-- crecimiento sostenible;
-
-- protección del patrimonio;
-
-- respeto mutuo;
-
-- conservación del valor del Proyecto.
-
----
-
-# ESTRUCTURA GENERAL
-
-El Proyecto estará administrado bajo dos grandes áreas.
-
-## Dirección Empresarial
-
-Responsable:
-
-ANDRÉS DAVID MEJÍA HERRERA
+- continuidad;
+- razonabilidad;
+- responsabilidad por áreas;
+- protección patrimonial;
+- sostenibilidad económica;
+- respeto por los presupuestos;
+- cumplimiento de compromisos;
+- ausencia de financiación personal presumida;
+- prohibición de abuso del veto;
+- prohibición de apropiación unilateral;
+- conservación de accesos;
+- prevención de conflictos de interés.
 
 ---
 
-## Dirección Técnica y Deportiva
+# 4. ESTRUCTURA DE DIRECCIÓN
 
-Responsable:
+El Proyecto se organizará bajo las siguientes áreas:
 
-FELIPE GIL
+## 4.1. Dirección Estratégica y Empresarial
 
----
+Responsable principal:
 
-# RESPONSABILIDADES DEL FUNDADOR
+**ANDRÉS DAVID MEJÍA HERRERA**
 
-Corresponderán principalmente al FUNDADOR:
+Comprende:
 
-- estrategia empresarial;
-
-- dirección financiera;
-
-- inversiones;
-
+- estrategia;
+- modelo de negocio;
+- planificación;
+- administración;
 - presupuesto;
-
-- adquisición de activos;
-
-- administración del patrimonio;
-
-- producción audiovisual;
-
-- edición;
-
-- administración tecnológica;
-
-- inteligencia artificial;
-
-- automatización;
-
+- monetización;
+- producción;
 - infraestructura digital;
+- crecimiento;
+- protección patrimonial;
+- evaluación financiera;
+- nuevos negocios;
+- coordinación general.
 
-- análisis financiero;
+## 4.2. Dirección Técnica, Deportiva y de Representación
 
-- crecimiento del Proyecto.
+Responsable principal:
 
----
+**LUIS FELIPE GIL BETANCUR**
 
-# RESPONSABILIDADES DEL TALENTO
+Comprende:
 
-Corresponderán principalmente al TALENTO:
-
+- criterio técnico;
+- preparación deportiva;
+- conducción;
+- validación técnica;
+- participación frente a cámara;
 - representación pública;
+- ejecución de actividades deportivas;
+- interacción técnica con patrocinadores;
+- cumplimiento de compromisos que requieran su presencia.
 
-- competencias;
+La existencia de áreas distintas no convierte todas las decisiones en decisiones conjuntas.
 
-- preparación deportiva;
-
-- generación de contenido;
-
-- entrevistas;
-
-- relación técnica con patrocinadores;
-
-- capacitaciones;
-
-- conferencias;
-
-- fortalecimiento de la reputación profesional;
-
-- validación técnica del contenido.
+Cada responsable tendrá autonomía razonable dentro de su competencia, presupuesto y reglas del Contrato Maestro.
 
 ---
 
-# DECISIONES EXCLUSIVAS DEL FUNDADOR
+# 5. DIRECCIÓN ESTRATÉGICA DEL FUNDADOR
 
-Podrá decidir directamente sobre:
+Corresponderá principalmente a ANDRÉS DAVID MEJÍA HERRERA:
 
-- compra de equipos;
+- definir y actualizar la estrategia empresarial;
+- orientar el crecimiento;
+- proponer y estructurar líneas de negocio;
+- administrar o supervisar los recursos del Proyecto;
+- elaborar propuestas presupuestales;
+- coordinar la producción audiovisual;
+- administrar o supervisar redes y activos digitales;
+- seleccionar herramientas tecnológicas;
+- organizar documentación;
+- coordinar proveedores;
+- diseñar procesos;
+- evaluar oportunidades;
+- analizar rentabilidad y riesgo;
+- proteger el Patrimonio Empresarial;
+- dirigir campañas propias;
+- coordinar la ejecución general;
+- delegar funciones operativas;
+- adoptar medidas razonables para mantener la continuidad.
 
-- software;
+Estas funciones implican responsabilidad de dirección y diligencia razonable.
 
-- infraestructura;
+No implican obligación de:
 
+- aportar dinero personal;
+- financiar competencias;
+- cubrir déficits;
+- asumir créditos;
+- otorgar garantías;
+- comprar equipos con recursos propios;
+- aportar vehículos;
+- pagar obligaciones de LUIS FELIPE GIL BETANCUR;
+- mantener un nivel mínimo de inversión;
+- sustituir con patrimonio personal la falta de ingresos del Proyecto.
+
+Toda inversión personal de ANDRÉS DAVID MEJÍA HERRERA será voluntaria, expresa y documentada.
+
+---
+
+# 6. FUNCIONES CONTINUAS DEL TALENTO
+
+Corresponderá principalmente a LUIS FELIPE GIL BETANCUR:
+
+- participar activa y razonablemente en la creación de contenido;
+- asistir a grabaciones previamente coordinadas;
+- participar frente a cámara;
+- aportar y validar contenido técnico;
+- representar públicamente al Proyecto;
+- atender campañas aprobadas;
+- cumplir compromisos con patrocinadores;
+- participar en entrevistas y eventos;
+- participar en cursos y conferencias acordados;
+- mantener preparación razonable para actividades deportivas aprobadas;
+- proteger la reputación;
+- informar impedimentos con anticipación;
+- entregar información técnica necesaria;
+- colaborar en productos y líneas de negocio que requieran su conocimiento o presencia.
+
+Su participación constituye una función continua y esencial.
+
+No se exigirá disponibilidad absoluta.
+
+Las actividades deberán coordinarse con anticipación razonable y respetar:
+
+- salud;
+- seguridad;
+- incapacidades;
+- fuerza mayor;
+- compromisos previamente informados;
+- tiempos de preparación;
+- riesgos deportivos;
+- circunstancias justificadas.
+
+La negativa reiterada e injustificada a participar en actividades previamente acordadas podrá constituir incumplimiento.
+
+---
+
+# 7. CLASIFICACIÓN DE DECISIONES
+
+Las decisiones se clasificarán en:
+
+1. decisiones ordinarias;
+2. decisiones de área;
+3. decisiones presupuestales;
+4. decisiones extraordinarias;
+5. decisiones urgentes;
+6. decisiones sobre derechos personalísimos.
+
+---
+
+# 8. DECISIONES ORDINARIAS DEL FUNDADOR
+
+ANDRÉS DAVID MEJÍA HERRERA podrá adoptar directamente decisiones ordinarias relacionadas con:
+
+- calendario editorial;
+- formatos de contenido;
 - edición;
-
-- automatización;
-
-- publicidad digital;
-
+- diseño;
+- publicación;
 - herramientas tecnológicas;
+- software;
+- automatización;
+- organización documental;
+- infraestructura digital;
+- contratación puntual de proveedores;
+- campañas propias;
+- optimización de procesos;
+- administración de cuentas;
+- analítica;
+- publicidad dentro del presupuesto;
+- compras menores dentro del presupuesto;
+- coordinación logística;
+- programación de producción;
+- protección y respaldo de activos digitales.
 
-- contratación de proveedores técnicos;
+Estas decisiones no requerirán aprobación conjunta cuando:
 
-- organización administrativa.
-
-Siempre que no modifique los derechos económicos de las partes.
+- estén dentro del objeto del Proyecto;
+- estén dentro del presupuesto disponible;
+- no modifiquen derechos económicos;
+- no transfieran activos importantes;
+- no generen deuda personal para la otra parte;
+- no afecten derechos personalísimos.
 
 ---
 
-# DECISIONES EXCLUSIVAS DEL TALENTO
+# 9. DECISIONES ORDINARIAS DEL TALENTO
 
-Podrá decidir directamente sobre:
-
-- preparación deportiva;
-
-- entrenamiento;
+LUIS FELIPE GIL BETANCUR podrá decidir directamente sobre:
 
 - técnicas de conducción;
+- preparación física y deportiva;
+- configuración técnica;
+- seguridad deportiva;
+- criterio técnico del contenido;
+- validación de afirmaciones técnicas;
+- entrenamiento;
+- participación técnica dentro de actividades previamente aprobadas.
 
-- participación en actividades deportivas previamente aprobadas;
+Estas decisiones no podrán:
 
-- aspectos técnicos relacionados con el deporte.
-
-Siempre que no comprometa recursos económicos extraordinarios del Proyecto.
-
----
-
-# DECISIONES CONJUNTAS OBLIGATORIAS
-
-Requerirán aprobación de ambas partes:
-
-- venta de activos importantes;
-
-- contratación de créditos;
-
-- modificación del objeto del Proyecto;
-
-- ingreso de nuevos inversionistas;
-
-- constitución de sociedades;
-
-- compra de vehículos;
-
-- adquisición de inmuebles;
-
-- licenciamiento de la marca;
-
-- cesión de propiedad intelectual;
-
-- patrocinadores exclusivos;
-
-- modificación del Contrato Maestro.
+- comprometer recursos no presupuestados;
+- contratar obligaciones;
+- modificar acuerdos comerciales;
+- utilizar marcas sin autorización;
+- comprometer al Proyecto frente a terceros;
+- crear gastos personales exigibles a ANDRÉS DAVID MEJÍA HERRERA.
 
 ---
 
-# GASTOS
+# 10. DECISIONES PRESUPUESTALES
 
-Los gastos se clasifican en:
+El Proyecto procurará contar con un presupuesto periódico que identifique:
 
-## Ordinarios
+- ingresos esperados;
+- patrocinios;
+- monetización;
+- gastos operativos;
+- producción;
+- actividad deportiva;
+- obligaciones tributarias;
+- reservas;
+- recuperación de aportes;
+- reinversión;
+- contingencias.
 
-Podrán aprobarse por el responsable del área correspondiente.
+La aprobación de un presupuesto no obliga a ANDRÉS DAVID MEJÍA HERRERA a cubrirlo con recursos personales.
 
----
+El presupuesto solamente podrá ejecutarse con:
 
-## Extraordinarios
+- ingresos disponibles;
+- recursos de patrocinadores;
+- monetización;
+- ventas;
+- otros ingresos propios;
+- financiación externa aprobada;
+- aportes personales voluntarios y documentados.
 
-Requerirán aprobación conjunta.
+Cuando no existan recursos suficientes deberá:
 
-Entre otros:
-
-- compra de vehículos;
-
-- remodelaciones;
-
-- equipos de alto valor;
-
-- contratación permanente;
-
-- inversiones estratégicas.
-
----
-
-# PATROCINADORES
-
-La negociación comercial podrá ser adelantada por cualquiera de las partes.
-
-Sin embargo:
-
-ningún patrocinio podrá formalizarse sin informar previamente a la otra parte.
-
-Los contratos deberán archivarse dentro del Sistema Documental del Proyecto.
+- reducirse el alcance;
+- aplazarse la actividad;
+- buscarse patrocinio;
+- modificarse el presupuesto;
+- aprobarse otra fuente de financiación.
 
 ---
 
-# REDES SOCIALES
+# 11. UMBRALES ECONÓMICOS
 
-Las redes oficiales del Proyecto serán administradas conjuntamente.
+Las partes podrán establecer mediante acta:
 
-Las publicaciones ordinarias podrán programarse conforme al calendario editorial.
+- valor máximo de gastos ordinarios;
+- valor máximo de contratación individual;
+- valor que requiere aprobación conjunta;
+- límites de caja;
+- límites de publicidad;
+- reservas mínimas;
+- autorizaciones por categoría.
 
-No podrán realizarse publicaciones que:
+Mientras no exista un umbral formal:
 
-- afecten la reputación del Proyecto;
+- solo podrán ejecutarse gastos necesarios y razonables;
+- deberá verificarse disponibilidad real;
+- no podrán contraerse deudas extraordinarias;
+- no podrá presumirse financiación personal;
+- las operaciones de alto impacto requerirán aprobación conjunta.
+
+---
+
+# 12. DECISIONES EXTRAORDINARIAS
+
+Requerirán aprobación expresa de ambas partes:
+
+- modificación del Contrato Maestro;
+- modificación de porcentajes económicos;
+- ingreso de inversionistas;
+- constitución de una sociedad;
+- venta total del Proyecto;
+- liquidación;
+- cesión general de la marca;
+- venta o transferencia de activos esenciales;
+- endeudamiento significativo a nombre del Proyecto;
+- otorgamiento de garantías sobre activos esenciales;
+- compra de inmuebles;
+- adquisición de vehículos con obligación conjunta;
+- patrocinio con exclusividad general o de larga duración;
+- cesión definitiva de propiedad intelectual esencial;
+- licencia general o permanente de imagen;
+- creación de réplicas digitales;
+- entrenamiento de inteligencia artificial con imagen o voz;
+- modificación material del objeto empresarial;
+- acuerdos que impidan operar en una línea principal de negocio.
+
+La aprobación conjunta de una decisión no implica que ANDRÉS DAVID MEJÍA HERRERA esté obligado a financiarla.
+
+La decisión deberá identificar expresamente su fuente de recursos.
+
+---
+
+# 13. PROHIBICIÓN DE ABUSO DEL VETO
+
+Ninguna parte podrá utilizar la necesidad de aprobación conjunta para:
+
+- paralizar injustificadamente el Proyecto;
+- exigir beneficios personales;
+- imponer financiación;
+- desviar oportunidades;
+- impedir el cumplimiento de contratos vigentes;
+- bloquear decisiones ordinarias de la otra área;
+- apropiarse de activos;
+- forzar una venta;
+- obtener ventajas ajenas al objeto contractual.
+
+La negativa a una decisión extraordinaria deberá estar basada en una razón empresarial, económica, reputacional, legal, técnica o personal legítima.
+
+El silencio no constituirá aprobación.
+
+---
+
+# 14. PROPUESTAS Y PLAZO DE RESPUESTA
+
+Las propuestas que requieran decisión conjunta deberán contener, cuando corresponda:
+
+- descripción;
+- objetivo;
+- presupuesto;
+- fuente de financiación;
+- duración;
+- obligaciones;
+- riesgos;
+- contraprestación;
+- impacto sobre imagen;
+- impacto sobre patrimonio;
+- documentos asociados.
+
+La otra parte deberá procurar responder dentro de un plazo razonable.
+
+Cuando exista fecha comercial o contractual concreta, deberá indicarse expresamente.
+
+La falta de respuesta no autoriza:
+
+- asumir consentimiento;
+- comprometer derechos personalísimos;
+- generar deudas;
+- transferir activos;
+- usar recursos personales.
+
+---
+
+# 15. PATROCINIOS
+
+La búsqueda y negociación preliminar de patrocinios podrá ser realizada por cualquiera de las partes.
+
+Toda propuesta deberá informarse oportunamente.
+
+Antes de formalizar un patrocinio deberán definirse:
+
+- patrocinador;
+- duración;
+- valor;
+- pagos;
+- productos o servicios recibidos;
+- exclusividad;
+- actividades;
+- uso de imagen;
+- contenido;
+- competencias;
+- gastos;
+- responsables;
+- penalidades;
+- fuente de financiación adicional;
+- derechos posteriores a la terminación.
+
+Los recursos provenientes de patrocinadores deberán aplicarse prioritariamente a:
+
+- compromisos adquiridos;
+- producción;
+- actividad deportiva asociada;
+- gastos operativos relacionados;
+- obligaciones tributarias;
+- sostenibilidad;
+- reservas;
+- reconocimiento económico conforme al Contrato Maestro.
+
+Un patrocinio no podrá imponer a ANDRÉS DAVID MEJÍA HERRERA la obligación de cubrir con recursos personales los costos no financiados, salvo aceptación expresa y escrita.
+
+---
+
+# 16. OBLIGACIONES FRENTE A PATROCINADORES
+
+Cuando LUIS FELIPE GIL BETANCUR haya conocido y aprobado una campaña que requiera su participación, deberá cumplir razonablemente:
+
+- grabaciones;
+- apariciones;
+- publicaciones;
+- eventos;
+- entrevistas;
+- actividades promocionales;
+- obligaciones deportivas;
+- uso autorizado de productos;
+- entregables técnicos.
+
+Cuando exista impedimento deberá informarlo inmediatamente para:
+
+- reprogramar;
+- sustituir entregables;
+- negociar con el patrocinador;
+- reducir daños;
+- evitar penalidades.
+
+El incumplimiento injustificado que cause pérdida económica, devolución, sanción o daño reputacional podrá generar las consecuencias establecidas en el Contrato Maestro.
+
+---
+
+# 17. INGRESOS Y CUENTAS
+
+Todo ingreso del Proyecto deberá:
+
+- registrarse;
+- identificar su origen;
+- depositarse o administrarse mediante mecanismos trazables;
+- aplicarse conforme al contrato o presupuesto;
+- conservar soportes;
+- diferenciarse de recursos personales.
+
+Ninguna parte podrá:
+
+- redirigir ingresos;
+- recibir pagos ocultos;
+- solicitar pagos personales por oportunidades del Proyecto;
+- omitir comisiones;
+- alterar informes;
+- utilizar recursos sin soporte.
+
+---
+
+# 18. GASTOS ORDINARIOS
+
+Podrán ejecutarse por el responsable del área cuando:
+
+- estén presupuestados;
+- exista disponibilidad;
+- sean necesarios;
+- correspondan al objeto;
+- tengan soporte;
+- no generen obligación personal para la otra parte.
+
+Todo gasto deberá identificar:
+
+- fecha;
+- responsable;
+- concepto;
+- valor;
+- fuente;
+- beneficiario;
+- soporte.
+
+---
+
+# 19. GASTOS EXTRAORDINARIOS
+
+Requerirán aprobación conjunta cuando:
+
+- superen el umbral acordado;
+- no estén presupuestados;
+- impliquen deuda;
+- comprometan activos esenciales;
+- tengan duración prolongada;
+- afecten sustancialmente la liquidez;
+- generen obligaciones futuras relevantes.
+
+La aprobación deberá indicar quién paga y con qué recursos.
+
+Ningún gasto extraordinario se presumirá a cargo personal de ANDRÉS DAVID MEJÍA HERRERA.
+
+---
+
+# 20. CONTRATACIÓN DE TERCEROS
+
+Podrán contratarse:
+
+- productores;
+- editores;
+- fotógrafos;
+- diseñadores;
+- mecánicos;
+- ingenieros;
+- asesores;
+- abogados;
+- contadores;
+- proveedores tecnológicos;
+- personal de eventos;
+- otros prestadores.
+
+Toda contratación deberá definir:
+
+- alcance;
+- valor;
+- duración;
+- propiedad intelectual;
+- confidencialidad;
+- entregables;
+- responsable;
+- fuente de pago;
+- terminación.
+
+---
+
+# 21. CONFLICTOS DE INTERÉS
+
+Cada parte deberá informar cualquier interés personal, familiar, comercial o económico que pueda afectar una decisión.
+
+Existe conflicto de interés cuando una parte:
+
+- contrata consigo misma;
+- contrata familiares o vinculados;
+- recibe comisión;
+- tiene participación en un proveedor;
+- negocia para beneficio propio;
+- desvía una oportunidad;
+- utiliza información del Proyecto.
+
+La operación podrá realizarse únicamente si:
+
+- se informa;
+- las condiciones son razonables;
+- se documenta;
+- no perjudica al Proyecto;
+- recibe aprobación cuando corresponda.
+
+---
+
+# 22. OPORTUNIDADES EMPRESARIALES
+
+Toda oportunidad originada principalmente por:
+
+- comunidad;
+- reputación;
+- contenido;
+- cuentas;
+- patrocinadores;
+- contactos;
+- posicionamiento;
+- actividad deportiva financiada;
+- campañas;
+- activos;
+- información del Proyecto;
+
+deberá ser informada y tratada conforme al Contrato Maestro.
+
+Ninguna parte podrá canalizarla por fuera para excluir económicamente a la otra.
+
+---
+
+# 23. REDES SOCIALES Y ACTIVOS DIGITALES
+
+La administración operativa podrá estar concentrada en quien tenga capacidad técnica para ejercerla.
+
+Sin embargo, deberán existir:
+
+- administradores de respaldo;
+- autenticación de dos factores;
+- códigos de recuperación;
+- registro de accesos;
+- copias de seguridad;
+- separación de cuentas personales;
+- control de permisos;
+- plan de recuperación.
+
+Ninguna parte podrá unilateralmente:
+
+- excluir a la otra;
+- eliminar administradores;
+- cambiar mecanismos de recuperación;
+- transferir cuentas;
+- borrar contenido;
+- redirigir monetización;
+- ocultar métricas;
+- entregar accesos a terceros no autorizados.
+
+Las restricciones técnicas temporales destinadas a detener un ataque, fraude o acceso no autorizado deberán documentarse e informarse.
+
+---
+
+# 24. PUBLICACIONES
+
+Las publicaciones ordinarias podrán ejecutarse conforme a la estrategia y calendario editorial.
+
+No podrán publicarse contenidos que:
 
 - incumplan contratos;
+- afecten injustificadamente la reputación;
+- revelen información confidencial;
+- infrinjan derechos de terceros;
+- atribuyan declaraciones falsas;
+- comprometan políticamente al Proyecto sin acuerdo;
+- utilicen IA prohibida;
+- creen riesgos legales innecesarios.
 
-- generen conflictos innecesarios;
+La edición ordinaria no requerirá aprobación individual de cada pieza, salvo que:
 
-- contradigan la estrategia general.
-
----
-
-# CONTRASEÑAS
-
-Todas las cuentas deberán mantenerse protegidas mediante:
-
-- autenticación de dos factores;
-
-- respaldo de códigos;
-
-- registro de administradores;
-
-- actualización periódica.
-
-Ninguna parte podrá excluir unilateralmente a la otra del acceso a las plataformas oficiales.
+- exista contrato que la exija;
+- se trate de una campaña sensible;
+- utilice réplica digital;
+- contenga afirmaciones personales delicadas;
+- comprometa derechos no autorizados.
 
 ---
 
-# ARCHIVO DIGITAL
+# 25. ARCHIVO Y DOCUMENTACIÓN
 
-Toda la información relevante deberá almacenarse de manera organizada.
-
-Entre otros:
+Deberán conservarse organizadamente:
 
 - contratos;
-
-- videos;
-
-- fotografías;
-
-- diseños;
-
-- campañas;
-
+- actas;
 - presupuestos;
-
-- documentos jurídicos;
-
-- documentación técnica.
+- facturas;
+- pagos;
+- contenido;
+- archivos maestros;
+- campañas;
+- propuestas;
+- documentación técnica;
+- accesos;
+- licencias;
+- soportes de propiedad;
+- información de patrocinadores;
+- registros de decisiones.
 
 Se procurará mantener al menos dos respaldos independientes.
 
 ---
 
-# REUNIONES
+# 26. REUNIONES
 
-Las partes procurarán reunirse periódicamente para revisar:
+Las partes procurarán realizar reuniones periódicas para revisar:
 
-- resultados;
-
-- inversiones;
-
-- nuevos negocios;
-
+- ingresos;
+- gastos;
+- patrocinios;
+- producción;
+- actividades deportivas;
 - riesgos;
-
 - oportunidades;
+- obligaciones;
+- cronogramas;
+- activos;
+- decisiones pendientes.
 
-- cumplimiento de objetivos.
+La falta de reuniones no suspenderá la operación ordinaria.
 
-Las decisiones relevantes deberán registrarse mediante Acta.
+Las decisiones extraordinarias deberán documentarse.
 
 ---
 
-# INFORMES
+# 27. INFORMES
 
-Al menos una vez por año se elaborará un informe general que incluya:
+Se procurará elaborar periódicamente informes sobre:
 
 - estado financiero;
-
-- crecimiento del patrimonio;
-
+- ingresos;
+- gastos;
+- obligaciones;
 - comunidad;
-
-- patrocinadores;
-
+- métricas;
+- patrocinios;
 - activos;
-
+- recuperación de aportes;
+- riesgos;
 - proyectos futuros.
 
----
-
-# RESOLUCIÓN OPERATIVA DE DIFERENCIAS
-
-Cuando exista desacuerdo operativo, las partes procurarán resolverlo mediante reunión directa antes de acudir a los mecanismos de solución de controversias previstos en el Contrato Maestro.
+La información deberá ser razonablemente accesible para ambas partes.
 
 ---
 
-# ACTUALIZACIÓN
+# 28. DECISIONES URGENTES
 
-El presente Manual podrá actualizarse conforme evolucione el Proyecto.
+Una parte podrá adoptar una medida urgente sin aprobación previa cuando sea razonablemente necesaria para:
 
-Las modificaciones no podrán alterar los derechos patrimoniales establecidos en el Contrato Maestro.
+- evitar pérdida de una cuenta;
+- detener fraude;
+- proteger datos;
+- preservar evidencia;
+- evitar incumplimiento contractual inmediato;
+- detener una publicación dañina;
+- proteger la salud o seguridad;
+- evitar daño material a un activo;
+- cumplir una obligación legal impostergable.
+
+La medida deberá:
+
+- limitarse a lo necesario;
+- documentarse;
+- informarse tan pronto sea posible;
+- no utilizarse para apropiarse del activo;
+- revisarse posteriormente.
 
 ---
 
-# DECLARACIÓN FINAL
+# 29. DELEGACIÓN
 
-Las partes reconocen que el presente Manual tiene naturaleza operativa.
+Las funciones operativas podrán delegarse en terceros.
 
-Su finalidad consiste en facilitar la administración diaria del Proyecto, reducir riesgos de gestión y contribuir a la conservación del patrimonio construido conjuntamente.
+La delegación:
+
+- no transfiere derechos económicos;
+- no elimina responsabilidades;
+- no modifica la calidad de Fundador o Talento;
+- deberá respetar confidencialidad;
+- deberá limitar accesos;
+- deberá documentarse cuando sea relevante.
+
+ANDRÉS DAVID MEJÍA HERRERA podrá delegar ejecución operativa sin perder su dirección estratégica.
+
+---
+
+# 30. AUSENCIA TEMPORAL
+
+Cuando una parte no pueda participar temporalmente deberá:
+
+- informar;
+- identificar duración probable;
+- entregar información necesaria;
+- permitir continuidad;
+- colaborar en reprogramación.
+
+La ausencia temporal justificada no constituye abandono.
+
+La ausencia prolongada o reiterada deberá tratarse conforme al Contrato Maestro.
+
+---
+
+# 31. PROHIBICIÓN DE PARÁLISIS INTENCIONAL
+
+Ninguna parte podrá utilizar:
+
+- contraseñas;
+- accesos;
+- imagen;
+- archivos;
+- información;
+- firmas;
+- aprobaciones;
+- presencia personal;
+- custodia de activos;
+
+para paralizar injustificadamente la operación, forzar una negociación o obtener beneficios indebidos.
+
+Esta regla no elimina el derecho de negar usos no autorizados de derechos personalísimos o decisiones extraordinarias legítimamente controvertidas.
+
+---
+
+# 32. INCUMPLIMIENTOS OPERATIVOS
+
+Podrán constituir incumplimiento operativo:
+
+- ocultar información relevante;
+- desviar ingresos;
+- incumplir campañas;
+- faltar injustificadamente a actividades confirmadas;
+- bloquear cuentas;
+- eliminar contenido;
+- impedir acceso;
+- comprometer recursos sin autorización;
+- contratar obligaciones no aprobadas;
+- desviar oportunidades;
+- revelar información confidencial;
+- incumplir presupuestos de manera grave;
+- utilizar recursos personales ajenos sin autorización.
+
+Antes de declarar incumplimiento deberá procurarse:
+
+- notificación;
+- explicación;
+- corrección;
+- reprogramación;
+- mitigación.
+
+Lo anterior no será necesario cuando exista conducta grave, fraude, apropiación, destrucción de evidencia o daño irreversible.
+
+---
+
+# 33. RESOLUCIÓN DE DIFERENCIAS OPERATIVAS
+
+Las diferencias operativas deberán tratarse inicialmente mediante:
+
+1. comunicación directa;
+2. reunión;
+3. propuesta escrita;
+4. acta de desacuerdo;
+5. mecanismo contractual correspondiente.
+
+Mientras se resuelve una diferencia:
+
+- continuará la operación ordinaria posible;
+- se cumplirán contratos vigentes;
+- se protegerán los activos;
+- no se asumirán nuevas obligaciones extraordinarias;
+- no se impondrá financiación personal.
+
+---
+
+# 34. ACTUALIZACIÓN DEL MANUAL
+
+El presente Manual podrá actualizarse mediante acta firmada por ambas partes.
+
+Las actualizaciones no podrán:
+
+- modificar porcentajes económicos;
+- eliminar el Capital Empresarial Fundacional;
+- obligar a financiación personal;
+- transferir derechos personalísimos;
+- reducir derechos consolidados;
+- modificar el Contrato Maestro por vía indirecta.
+
+---
+
+# 35. DECLARACIÓN FINAL
+
+Las partes reconocen que:
+
+1. ANDRÉS DAVID MEJÍA HERRERA ejerce principalmente la dirección estratégica, empresarial y administrativa;
+
+2. dicha dirección no lo convierte en financiador permanente;
+
+3. el Proyecto deberá operar prioritariamente con patrocinios y demás ingresos propios;
+
+4. las inversiones personales futuras serán voluntarias y documentadas;
+
+5. LUIS FELIPE GIL BETANCUR mantiene una función continua y esencial en contenido, representación, actividad técnica y compromisos comerciales;
+
+6. cada parte tendrá autonomía razonable dentro de su área;
+
+7. las decisiones conjuntas se reservan para asuntos extraordinarios;
+
+8. ninguna parte podrá abusar de su veto o capacidad operativa;
+
+9. las cuentas, activos y recursos no podrán utilizarse para excluir o paralizar;
+
+10. toda decisión que implique gastos deberá identificar su fuente de financiación;
+
+11. aprobar una actividad no significa que Andrés deba pagarla personalmente;
+
+12. la continuidad y protección del Patrimonio Empresarial deberán prevalecer sobre bloqueos injustificados.
 
 ---
 
 # FIRMAS
 
+En constancia de aceptación, las partes firman el presente Anexo.
+
 _________________________________
 
-ANDRÉS DAVID MEJÍA HERRERA
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. **1035425065**, expedida en **Copacabana**  
+Fundador, Inversionista Fundacional y Director Estratégico  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________
 
 ---
 
 _________________________________
 
-FELIPE GIL
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. **1026152827**, expedida en **Itagüí**  
+Talento Fundador  
 
-Fecha: _______________________
+Firma: ______________________________
+
+Fecha: ______________________________

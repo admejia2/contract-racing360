@@ -1,0 +1,4 @@
+*.bak
+audit-*.md
+contrato-maestro-reescrito.md
+exportar-auditoria-actual.ps1
