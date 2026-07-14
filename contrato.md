@@ -420,22 +420,98 @@ No podrán desviarse unilateralmente a fines personales ajenos al acuerdo corres
 
 ---
 
-## CLÁUSULA 25. PRIORIDAD ECONÓMICA
+<!-- NATURALEZA-Y-DENOMINACION-PROYECTO -->
 
-Antes de distribuir ganancias deberán considerarse, según corresponda:
+## CLÁUSULA 24A. NATURALEZA Y DENOMINACIÓN DE LA RELACIÓN
 
-1. impuestos y obligaciones legales;
-2. compromisos con patrocinadores;
-3. obligaciones con terceros;
-4. gastos necesarios para generar el ingreso;
-5. mantenimiento de activos esenciales;
-6. reservas razonables;
-7. préstamos, anticipos y reembolsos;
-8. reconocimiento o recuperación del Capital Empresarial Fundacional;
-9. inversiones posteriores;
-10. distribución de excedentes.
+Para todos los efectos del presente contrato, la actividad regulada se denominará:
 
-Este orden podrá ajustarse de manera razonable según la naturaleza del ingreso, pero no podrá utilizarse para impedir indefinidamente la distribución de ganancias ni favorecer artificialmente a una parte.
+**PROYECTO EMPRESARIAL CONJUNTO RACING360**
+
+o, cuando el contexto lo permita:
+
+**EL PROYECTO.**
+
+ANDRÉS DAVID MEJÍA HERRERA y LUIS FELIPE GIL BETANCUR se denominarán individualmente LA PARTE y conjuntamente LAS PARTES.
+
+La utilización de las expresiones EL PROYECTO, proyecto empresarial conjunto, colaboración empresarial, comunidad, marca o negocio no implica por sí sola la creación de una persona jurídica independiente.
+
+Mientras LAS PARTES no constituyan y registren expresamente una sociedad comercial, no se afirmará en este contrato que existe una sociedad formal con personería jurídica separada.
+
+Esta denominación contractual no podrá utilizarse para desconocer la realidad económica de las operaciones ni las normas imperativas que resulten aplicables según la forma en que LAS PARTES actúen frente a terceros.
+
+La eventual constitución futura de una sociedad, vehículo empresarial, nueva marca, cuenta, canal o persona jurídica no extinguirá ni trasladará automáticamente:
+
+- el Capital Empresarial Fundacional;
+- las inversiones reconocidas;
+- los derechos históricos;
+- las obligaciones de rendición de cuentas;
+- la propiedad de activos personales;
+- las reglas de recuperación;
+- las obligaciones de propiedad intelectual.
+
+Toda migración deberá documentarse mediante acuerdo escrito de LAS PARTES.
+
+<!-- FIN-NATURALEZA-Y-DENOMINACION-PROYECTO -->
+
+---
+
+## CLÁUSULA 25. CASCADA OBLIGATORIA DE PAGOS Y PROHIBICIÓN DE DISTRIBUCIONES ANTICIPADAS
+
+Todo ingreso en dinero o susceptible de valoración económica recibido directa o indirectamente por EL PROYECTO deberá registrarse y aplicarse conforme al siguiente orden:
+
+1. impuestos, retenciones y obligaciones legales exigibles;
+
+2. obligaciones laborales o contractuales vencidas y debidamente soportadas;
+
+3. gastos operativos indispensables para conservar la continuidad de EL PROYECTO;
+
+4. pagos a proveedores y compromisos previamente autorizados;
+
+5. mantenimiento, reparación, seguros, almacenamiento, inscripciones, transporte y conservación de activos esenciales;
+
+6. constitución o reposición de una reserva operativa razonable aprobada conforme a las reglas de gobierno;
+
+7. reembolsos documentados y autorizados que no constituyan recuperación duplicada;
+
+8. pago de deudas empresariales exigibles;
+
+9. recuperación del Capital Empresarial Fundacional y de las inversiones posteriores reconocidas, junto con la actualización monetaria pactada;
+
+10. distribución de excedentes libres, únicamente después de encontrarse totalmente recuperados los conceptos anteriores.
+
+Mientras exista saldo pendiente del Capital Empresarial Fundacional o de inversiones posteriores reconocidas, no podrán distribuirse a ninguna de LAS PARTES:
+
+- excedentes libres;
+- utilidades;
+- anticipos de utilidades;
+- dividendos;
+- retiros personales;
+- beneficios económicos personales;
+- pagos en especie con finalidad personal;
+- préstamos encubiertos;
+- gastos personales cargados a EL PROYECTO;
+- pagos simulados mediante terceros;
+- facturación sin causa empresarial real.
+
+La prohibición podrá exceptuarse únicamente mediante acuerdo previo, expreso y escrito de LAS PARTES, referido a un ingreso, operación, evento o transacción específica.
+
+No se considerarán distribución de excedentes libres:
+
+- impuestos;
+- gastos operativos soportados;
+- pagos reales a proveedores;
+- mantenimiento de activos;
+- reservas aprobadas;
+- reembolsos documentados;
+- honorarios expresamente autorizados por escrito;
+- pagos de deudas empresariales;
+- devoluciones de anticipos debidamente soportadas;
+- recuperación del Capital Empresarial Fundacional.
+
+Ninguna operación podrá clasificarse simultáneamente como gasto, aporte, recuperación y distribución.
+
+La desviación de ingresos hacia cuentas personales, nuevas marcas, terceros, sociedades, canales o vehículos relacionados no alterará la aplicación obligatoria de esta cascada cuando los recursos provengan materialmente de EL PROYECTO.
 
 ---
 
@@ -1454,11 +1530,42 @@ Para efectos contractuales se fija como domicilio principal Medellín y su área
 
 ---
 
-## CLÁUSULA 90. VIGENCIA
+## CLÁUSULA 90. DURACIÓN INDEFINIDA, CONTINUIDAD Y PERMANENCIA DE LOS DERECHOS HISTÓRICOS
 
 El presente contrato entrará en vigor desde su firma y reconocerá los hechos, aportes y relaciones desarrollados desde el inicio de EL PROYECTO el **1 de junio de 2022**.
 
-Tendrá duración indefinida mientras existan actividades, activos, obligaciones o derechos económicos vinculados con EL PROYECTO.
+Tendrá duración indefinida mientras continúe, directa o indirectamente, cualquiera de las siguientes actividades:
+
+- explotación de EL PROYECTO;
+- uso o explotación de la marca;
+- operación de redes sociales, canales o comunidades;
+- utilización o monetización del contenido;
+- ejecución de patrocinios;
+- explotación de activos empresariales;
+- continuación del negocio mediante terceros;
+- migración a una sociedad, nueva marca, cuenta, canal o vehículo empresarial.
+
+La reducción de carga operativa, inactividad temporal, ausencia, retiro administrativo, terminación de funciones, suspensión de producción o falta de participación cotidiana del Inversionista Fundacional no constituirá:
+
+- renuncia;
+- condonación;
+- abandono;
+- novación;
+- cesión;
+- transferencia;
+- pérdida de propiedad;
+- extinción del saldo pendiente;
+- autorización para apropiarse de activos, cuentas, contenidos o ingresos.
+
+Los derechos económicos históricos reconocidos, el saldo del Capital Empresarial Fundacional, las inversiones posteriores reconocidas, los deberes de rendición de cuentas y las reglas de propiedad conservarán sus efectos mientras subsista la obligación correspondiente.
+
+La terminación de la colaboración personal o de una actividad específica no extinguirá automáticamente las obligaciones nacidas durante la ejecución del contrato.
+
+LAS PARTES realizarán reconocimientos y cierres financieros periódicos destinados a conservar la trazabilidad, determinar saldos y documentar la continuidad de las obligaciones.
+
+La presente cláusula no pretende excluir ni modificar normas legales imperativas sobre prescripción, caducidad o exigibilidad. Su finalidad es impedir que la mera inactividad operativa, el cambio de vehículo empresarial o la continuidad unilateral de EL PROYECTO sean interpretados como renuncia o extinción voluntaria de derechos.
+
+Toda renuncia, condonación, transacción, cesión o modificación de los derechos económicos históricos deberá constar en documento escrito, expreso y firmado por la parte titular del derecho.
 
 ---
 

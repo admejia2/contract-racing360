@@ -890,6 +890,131 @@ Los ingresos y patrocinios utilizados para pagar gastos no podrán contabilizars
 
 ---
 
+<!-- BLINDAJE-IPC-CIERRE-FINANCIERO-ANUAL -->
+
+# 23.3. ACTUALIZACIÓN MONETARIA DEL CAPITAL EMPRESARIAL FUNDACIONAL
+
+El saldo pendiente por recuperar del Capital Empresarial Fundacional, en adelante CEF, y de toda inversión posterior expresamente reconocida por escrito, se actualizará anualmente con el propósito exclusivo de conservar su poder adquisitivo.
+
+## 23.3.1. Fecha de corte
+
+La fecha ordinaria de corte será el treinta y uno de diciembre de cada año.
+
+El ajuste se calculará y registrará durante los primeros treinta días calendario del año siguiente.
+
+## 23.3.2. Base de actualización
+
+La base de actualización estará constituida por:
+
+1. el saldo actualizado del CEF al inicio del período;
+
+2. más las nuevas inversiones o anticipos expresamente reconocidos durante el año;
+
+3. menos las recuperaciones de capital efectivamente recibidas y reconocidas durante el mismo período.
+
+No se incluirán valores que se encuentren válidamente controvertidos y que carezcan de soporte suficiente, hasta que sean conciliados, reconocidos o definidos mediante el mecanismo contractual aplicable.
+
+## 23.3.3. Indicador aplicable
+
+Sobre la base resultante se aplicará la variación anual del Índice de Precios al Consumidor, IPC, total nacional, correspondiente al año calendario inmediatamente anterior, certificada o publicada oficialmente por el Departamento Administrativo Nacional de Estadística, DANE.
+
+Si la variación anual del IPC fuere negativa, el factor de actualización aplicable será cero por ciento, de manera que el saldo no se reduzca por deflación, salvo acuerdo escrito posterior entre las partes.
+
+## 23.3.4. Fórmula
+
+El saldo actualizado se calculará así:
+
+**Saldo actualizado final = saldo pendiente después de recuperaciones + ajuste por IPC.**
+
+El ajuste por IPC será igual al saldo pendiente después de recuperaciones multiplicado por la variación anual positiva del IPC expresada en forma decimal.
+
+## 23.3.5. Naturaleza del ajuste
+
+La actualización monetaria:
+
+- conserva el valor real del capital reconocido;
+- no constituye por sí sola interés remuneratorio;
+- no constituye por sí sola interés moratorio;
+- no representa una nueva inversión;
+- no constituye utilidad;
+- no constituye distribución;
+- no podrá contabilizarse dos veces.
+
+El saldo actualizado de cada año será la base inicial del período siguiente.
+
+# 23.4. REUNIÓN Y ACTA DE CIERRE FINANCIERO ANUAL
+
+Durante los primeros treinta días calendario de cada año, las partes realizarán una Reunión de Cierre Financiero Anual.
+
+El acta deberá consolidar como mínimo:
+
+1. saldo inicial del CEF;
+
+2. nuevas inversiones reconocidas;
+
+3. anticipos y gastos susceptibles de reconocimiento;
+
+4. ingresos recibidos por EL PROYECTO;
+
+5. ingresos reinvertidos;
+
+6. patrocinios en dinero o especie;
+
+7. recuperaciones de capital;
+
+8. distribuciones o beneficios entregados;
+
+9. gastos pagados directamente por patrocinadores;
+
+10. pagos aplicados a activos o deudas;
+
+11. saldo antes del IPC;
+
+12. porcentaje oficial del IPC aplicado;
+
+13. valor del ajuste;
+
+14. saldo actualizado final.
+
+## 23.4.1. Preparación y envío
+
+ANDRÉS DAVID MEJÍA HERRERA, como Inversionista Fundacional, podrá preparar el proyecto de cierre con base en los soportes disponibles.
+
+El proyecto deberá enviarse a LUIS FELIPE GIL BETANCUR mediante correo electrónico, mensajería instantánea verificable o cualquier otro medio que permita acreditar su envío.
+
+## 23.4.2. Plazo de observaciones
+
+La parte receptora contará con diez días hábiles para formular objeciones concretas, individualizadas y acompañadas de los soportes disponibles.
+
+La objeción de una partida no suspenderá:
+
+- el cierre de las partidas no discutidas;
+- la actualización por IPC del saldo no discutido;
+- la continuidad del libro financiero;
+- la conservación de los derechos económicos reconocidos.
+
+## 23.4.3. Inasistencia o falta de firma
+
+La inasistencia, el silencio, la negativa injustificada a reunirse o la falta de firma no impedirán:
+
+- elaborar el acta;
+- registrar el saldo soportado;
+- aplicar el IPC;
+- conservar la trazabilidad histórica;
+- continuar la rendición de cuentas.
+
+En estos casos, el acta tendrá carácter de registro financiero unilateral soportado y podrá ser controvertida posteriormente con evidencia concreta.
+
+No se entenderá que la falta de objeción crea por sí sola una confesión irrevocable sobre valores que legalmente requieran prueba adicional.
+
+## 23.4.4. Prohibición de doble contabilización
+
+Ningún ingreso, aporte, patrocinio, gasto, devolución o recuperación podrá contabilizarse simultáneamente bajo dos categorías que produzcan un doble beneficio o una doble reducción del saldo.
+
+<!-- FIN-BLINDAJE-IPC-CIERRE-FINANCIERO-ANUAL -->
+
+---
+
 # 24. ACTUALIZACIÓN
 
 Este documento permanecerá abierto durante toda la vida del Proyecto.
