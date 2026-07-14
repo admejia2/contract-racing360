@@ -297,6 +297,96 @@ La negativa reiterada e injustificada a participar en actividades razonables, fi
 
 ---
 
+<!-- CLAUSULA-17A-PROPUESTA-VALOR -->
+
+## CLÁUSULA 17A. PROPUESTA DE VALOR, BENEFICIOS PRESENTES Y ÉXITO COMPARTIDO
+
+LAS PARTES reconocen que EL PROYECTO fue concebido por EL FUNDADOR con el propósito de integrar las capacidades deportivas, técnicas y comunicativas de EL TALENTO con la inversión, dirección estratégica, producción audiovisual, administración, tecnología, financiación y gestión empresarial aportadas por EL FUNDADOR.
+
+La finalidad común de EL PROYECTO consiste en trabajar organizada y diligentemente para construir éxito deportivo, reputacional, digital, profesional y empresarial en beneficio de ambas partes.
+
+La propuesta de valor recibida por EL TALENTO no se limita a una eventual distribución futura de excedentes.
+
+Desde el inicio de EL PROYECTO, EL TALENTO ha recibido o puede recibir, según disponibilidad, financiación, aprobación y viabilidad, beneficios directos e indirectos consistentes en:
+
+- participación en competencias y actividades deportivas;
+- pago o financiación de inscripciones;
+- transporte, hospedaje y logística;
+- utilización de vehículos, equipos e infraestructura;
+- preparación, mantenimiento y asistencia técnica;
+- producción audiovisual profesional;
+- grabación, fotografía, edición y posproducción;
+- creación y publicación de contenido;
+- administración y crecimiento de redes sociales;
+- construcción de comunidad;
+- fortalecimiento y posicionamiento de su imagen;
+- desarrollo de reputación deportiva y técnica;
+- exposición ante patrocinadores, medios y aliados;
+- creación de portafolio y trayectoria pública;
+- acceso a oportunidades comerciales;
+- valorización profesional;
+- apoyo estratégico, empresarial, tecnológico y administrativo.
+
+LAS PARTES reconocen que estos beneficios poseen valor económico, profesional, publicitario, reputacional y estratégico, aunque no siempre sean entregados directamente en dinero.
+
+La participación de EL TALENTO en competencias, producciones, campañas, eventos y oportunidades financiadas, producidas o gestionadas por EL PROYECTO constituye ejecución material de la propuesta de valor y evidencia de los beneficios recibidos durante la relación contractual.
+
+Dichos beneficios no constituirán automáticamente:
+
+- salario;
+- relación laboral;
+- donación;
+- distribución de utilidades;
+- anticipo de una participación económica futura;
+- pago personal exigible a EL TALENTO;
+- devolución del Capital Empresarial Fundacional.
+
+Su clasificación dependerá de la fuente de financiación, finalidad, soporte y acuerdo aplicable a cada caso.
+
+EL FUNDADOR se obliga a desarrollar esfuerzos razonables y profesionalmente diligentes para:
+
+- dirigir la estrategia;
+- organizar la operación;
+- producir y coordinar contenidos;
+- administrar los recursos;
+- procurar fuentes de financiación;
+- desarrollar oportunidades deportivas y comerciales;
+- gestionar relaciones con aliados y patrocinadores;
+- proteger y aumentar el Patrimonio Empresarial;
+- procurar la continuidad y sostenibilidad de EL PROYECTO.
+
+EL TALENTO se obliga a desarrollar esfuerzos razonables y profesionalmente diligentes para:
+
+- participar en actividades previamente coordinadas;
+- desarrollar sus capacidades deportivas y técnicas;
+- colaborar activamente en la producción de contenido;
+- representar adecuadamente a EL PROYECTO;
+- atender compromisos previamente aprobados;
+- proteger su reputación y la de EL PROYECTO;
+- contribuir al crecimiento de la comunidad;
+- contribuir al desarrollo de oportunidades deportivas y comerciales.
+
+Las obligaciones descritas son obligaciones de colaboración, diligencia y ejecución razonable, y no constituyen garantía de:
+
+- victorias;
+- resultados deportivos determinados;
+- número específico de seguidores;
+- viralización;
+- contratación de patrocinadores determinados;
+- nivel mínimo de ingresos;
+- fama;
+- valorización específica;
+- rentabilidad;
+- éxito comercial asegurado.
+
+La ausencia de alguno de esos resultados no constituirá por sí sola incumplimiento cuando la parte correspondiente haya actuado de buena fe, haya cumplido las actividades acordadas y haya desplegado esfuerzos razonables y verificables.
+
+Ninguna parte podrá exigir para sí todo el valor del éxito obtenido, pues este será resultado de la integración de los aportes, funciones, recursos, imagen, trabajo, capacidades y riesgos asumidos por ambas partes, sin perjuicio de la prioridad del Capital Empresarial Fundacional y de las reglas económicas que posteriormente se acuerden por escrito.
+
+<!-- FIN-CLAUSULA-17A-PROPUESTA-VALOR -->
+
+---
+
 ## CLÁUSULA 18. PROHIBICIÓN DE PARALIZACIÓN
 
 Ninguna parte podrá usar su acceso, imagen, control técnico, administración, titularidad formal o falta de participación para:
@@ -456,6 +546,79 @@ Toda migración deberá documentarse mediante acuerdo escrito de LAS PARTES.
 
 ---
 
+<!-- CLAUSULA-24B-REVISION-CEF -->
+
+## CLÁUSULA 24B. REVISIÓN Y OBJECIÓN DEL CAPITAL EMPRESARIAL FUNDACIONAL
+
+EL TALENTO tendrá derecho a conocer y revisar los registros, soportes, cálculos, actualizaciones y recuperaciones que integren el Capital Empresarial Fundacional.
+
+La entrega de información podrá realizarse mediante estados consolidados, inventarios, extractos pertinentes, comprobantes, archivos de producción, facturas, contratos, registros tecnológicos y demás medios razonablemente verificables.
+
+EL TALENTO dispondrá de quince días hábiles contados desde la entrega del respectivo estado o acta para formular objeciones específicas y sustentadas.
+
+Toda objeción deberá indicar:
+
+- el registro cuestionado;
+- el motivo concreto;
+- el valor discutido;
+- la evidencia disponible;
+- la corrección propuesta.
+
+Las objeciones generales, la simple negativa, el silencio, la falta de respuesta o la afirmación no sustentada de desconocimiento no suspenderán indefinidamente el cierre financiero.
+
+La falta de objeción dentro del plazo constituirá aceptación para fines internos y probatorios, sin perjuicio de los derechos irrenunciables establecidos por la ley.
+
+Las objeciones no impedirán reconocer la parte del saldo que no se encuentre discutida.
+
+El derecho de revisión no autoriza a EL TALENTO a eliminar registros, alterar soportes, bloquear cierres, retener información ni desconocer aportes verificables efectivamente realizados por EL FUNDADOR.
+
+<!-- FIN-CLAUSULA-24B-REVISION-CEF -->
+
+---
+
+<!-- CLAUSULA-24C-VALORACION-INDEPENDIENTE -->
+
+## CLÁUSULA 24C. VALORACIÓN INDEPENDIENTE DE APORTES Y TRABAJO NO REMUNERADO
+
+Cuando LAS PARTES no logren acordar el valor económico de un aporte, activo, servicio, trabajo profesional no remunerado, producción audiovisual, costo de oportunidad o derecho empresarial, la diferencia será sometida a valoración independiente.
+
+LAS PARTES procurarán designar conjuntamente al profesional dentro de los diez días hábiles siguientes a la comunicación del desacuerdo.
+
+Si no existe acuerdo, cualquiera de LAS PARTES podrá solicitar la designación de un profesional independiente a:
+
+- la Cámara de Comercio de Medellín para Antioquia;
+- un centro de conciliación autorizado;
+- una asociación profesional;
+- una firma con experiencia comprobable en valoración empresarial, producción audiovisual, marketing digital o propiedad intelectual.
+
+La valoración deberá considerar, según corresponda:
+
+- evidencia disponible;
+- periodo de ejecución;
+- horas o jornadas razonablemente estimadas;
+- complejidad;
+- tarifas de mercado;
+- costo razonable de sustitución;
+- pagos previamente recibidos;
+- recursos de EL PROYECTO utilizados;
+- participación de terceros;
+- resultados producidos;
+- depreciación;
+- actualización monetaria;
+- prevención de doble contabilización.
+
+El profesional deberá declarar su independencia y ausencia de conflicto de interés.
+
+LAS PARTES podrán presentar observaciones y evidencia antes de emitirse el dictamen.
+
+El resultado será obligatorio para LAS PARTES, salvo error aritmético manifiesto, fraude, conflicto de interés no revelado o violación grave del procedimiento.
+
+Los costos de valoración serán asumidos inicialmente por partes iguales, sin perjuicio de que el profesional, conciliador, árbitro o autoridad competente determine una distribución diferente cuando una objeción resulte manifiestamente infundada o abusiva.
+
+<!-- FIN-CLAUSULA-24C-VALORACION-INDEPENDIENTE -->
+
+---
+
 ## CLÁUSULA 25. CASCADA OBLIGATORIA DE PAGOS, LÍMITE DE RESERVAS Y AMORTIZACIÓN DEL CAPITAL
 
 Todo ingreso en dinero efectivamente recibido por EL PROYECTO deberá registrarse y aplicarse conforme al siguiente orden:
@@ -540,6 +703,56 @@ La recuperación total o parcial no obliga a EL FUNDADOR a reinvertir los recurs
 Los excedentes disponibles, una vez atendidas las prioridades económicas, se distribuirán conforme a los porcentajes o reglas económicas acordados por escrito.
 
 En ausencia de una regla específica firmada, no podrá presumirse una distribución definitiva únicamente por el hecho de que una parte haya recibido, administrado o facturado un ingreso.
+
+---
+
+<!-- CLAUSULA-27A-DETERMINACION-ECONOMICA-FUTURA -->
+
+## CLÁUSULA 27A. DETERMINACIÓN POSTERIOR DE LA PARTICIPACIÓN ECONÓMICA
+
+LAS PARTES reconocen que a la fecha de firma no existe un porcentaje general y definitivo de distribución económica sobre el valor residual de EL PROYECTO.
+
+La ausencia de porcentaje no permitirá presumir:
+
+- igualdad económica;
+- distribución por mitades;
+- sociedad de hecho;
+- donación;
+- renuncia al Capital Empresarial Fundacional;
+- apropiación unilateral del Patrimonio Empresarial.
+
+La participación económica definitiva deberá establecerse mediante anexo escrito y firmado después de:
+
+1. cerrar y conciliar el Capital Empresarial Fundacional;
+
+2. identificar las recuperaciones efectuadas;
+
+3. valorar los aportes verificables de ambas partes;
+
+4. separar los bienes personales;
+
+5. identificar las deudas, créditos y obligaciones pendientes;
+
+6. establecer el inventario de activos empresariales;
+
+7. valorar el aporte de imagen, actividad deportiva, conocimiento, producción, administración, estrategia y trabajo no remunerado;
+
+8. evitar doble contabilización.
+
+Mientras no exista dicho anexo:
+
+- ningún porcentaje se entenderá reconocido;
+- ninguna parte podrá atribuirse la totalidad del valor residual;
+- los ingresos se aplicarán conforme a la cascada de pagos;
+- el Capital Empresarial Fundacional conservará su prioridad;
+- las distribuciones extraordinarias requerirán acuerdo escrito;
+- los bienes personales conservarán su titularidad original.
+
+La obligación de negociar el anexo económico deberá ejecutarse de buena fe, pero no obligará a ninguna parte a aceptar un porcentaje que no considere debidamente soportado.
+
+La falta de acuerdo se resolverá mediante valoración independiente y los mecanismos de negociación, conciliación, Buy-Out o liquidación establecidos en el contrato.
+
+<!-- FIN-CLAUSULA-27A-DETERMINACION-ECONOMICA-FUTURA -->
 
 ---
 
@@ -763,6 +976,51 @@ Los seguidores individuales no son propiedad de ninguna parte.
 La estructura organizada de cuentas, contenido, métricas, relaciones, posicionamiento, confianza comercial y capacidad de monetización constituye valor empresarial.
 
 El goodwill desarrollado mediante inversión, estrategia, producción, actividad deportiva, contenido y comunidad forma parte del Patrimonio Empresarial.
+
+---
+
+<!-- CLAUSULA-42A-IMAGEN-POSTERIOR -->
+
+## CLÁUSULA 42A. USO DE CONTENIDOS E IMAGEN DESPUÉS DE LA TERMINACIÓN
+
+La terminación, retiro, Buy-Out o liquidación no obligará a eliminar automáticamente los contenidos producidos y publicados legítimamente durante la vigencia de EL PROYECTO.
+
+Los contenidos históricos podrán permanecer:
+
+- publicados en las cuentas oficiales;
+- disponibles en archivos;
+- incluidos en portafolios;
+- monetizados en su formato original;
+- utilizados para acreditar la historia, trayectoria y resultados de EL PROYECTO.
+
+La permanencia y monetización histórica no implicarán que EL TALENTO continúa vinculado, recomienda nuevos productos o patrocina actividades posteriores.
+
+Después de la terminación no podrá utilizarse la imagen, voz, nombre o identidad de EL TALENTO para:
+
+- crear campañas publicitarias nuevas;
+- respaldar patrocinadores nuevos;
+- lanzar productos o servicios nuevos;
+- simular su participación actual;
+- atribuirle opiniones o declaraciones no realizadas;
+- generar reproducciones mediante inteligencia artificial;
+- crear contenido sintético nuevo;
+- modificar material histórico de forma que altere sustancialmente su sentido;
+
+sin autorización previa, expresa y escrita de EL TALENTO.
+
+EL FUNDADOR y EL PROYECTO conservarán sus derechos económicos, autorales, de producción, edición, archivo y prueba sobre el contenido legítimamente realizado, en la medida en que dichos derechos hayan sido adquiridos o aportados conforme al contrato.
+
+La explotación de contenidos históricos deberá respetar la honra, reputación, integridad, intimidad y derechos personalísimos de EL TALENTO.
+
+La eliminación de contenido histórico únicamente procederá por:
+
+- acuerdo escrito;
+- orden de autoridad competente;
+- infracción legal comprobada;
+- afectación grave y objetiva a derechos fundamentales;
+- incumplimiento de una obligación contractual específica.
+
+<!-- FIN-CLAUSULA-42A-IMAGEN-POSTERIOR -->
 
 ---
 

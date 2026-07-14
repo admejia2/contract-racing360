@@ -266,6 +266,44 @@ Desde el nacimiento del Proyecto, las partes aceptaron los siguientes principios
 
 ---
 
+<!-- PRODUCCION-DIGITAL-FUNDACIONAL-ANDRES -->
+
+# 10A. PRODUCCIÓN, EDICIÓN Y ESTRATEGIA DIGITAL EJECUTADA POR ANDRÉS
+
+Las partes reconocen que ANDRÉS DAVID MEJÍA HERRERA, en su calidad de Fundador, Director Estratégico y Productor Ejecutivo, asumió de manera principal y continua la concepción, preparación, grabación, producción, edición, ajuste, publicación, administración y estrategia de una parte sustancial del contenido digital desarrollado desde el nacimiento del Proyecto.
+
+A la fecha de elaboración de este registro, dicho trabajo comprende, como mínimo aproximado:
+
+- más de ochenta reels producidos para Instagram;
+- más de mil doscientas publicaciones preparadas, administradas o publicadas en Facebook;
+- cuarenta y tres videos largos producidos para YouTube;
+- más de trescientas publicaciones preparadas, administradas o publicadas en TikTok.
+
+El trabajo desarrollado por ANDRÉS DAVID MEJÍA HERRERA comprendió, según cada pieza:
+
+- concepción de la idea;
+- investigación y definición del enfoque;
+- planeación;
+- preparación logística y técnica;
+- coordinación de grabación;
+- grabación directa o supervisión de la grabación;
+- selección y organización de material;
+- edición;
+- corrección;
+- ajustes de imagen, audio, texto, ritmo y formato;
+- adaptación para diferentes plataformas;
+- definición de estrategia de publicación;
+- administración y seguimiento;
+- conservación y respaldo de archivos.
+
+Las cantidades anteriores constituyen mínimos históricos aproximados y podrán actualizarse mediante analíticas de plataforma, archivos, publicaciones, proyectos de edición, discos, respaldos, registros de cuenta u otros medios verificables.
+
+Este trabajo fue determinante para la construcción de la biblioteca audiovisual, las cuentas y canales, la comunidad, el posicionamiento, la presencia digital, el goodwill, la capacidad futura de monetización y el Patrimonio Empresarial.
+
+<!-- FIN-PRODUCCION-DIGITAL-FUNDACIONAL-ANDRES -->
+
+---
+
 # 11. DECLARACIÓN FINAL
 
 Las partes manifiestan que el presente documento refleja de manera fiel los hechos que dieron origen al Proyecto y constituye su memoria histórica oficial.

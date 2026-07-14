@@ -420,6 +420,154 @@ Sin embargo, podrá afectar:
 
 ---
 
+<!-- REGISTRO-TRABAJO-DIGITAL-ANDRES -->
+
+# 12A. REGISTRO HISTÓRICO DE PRODUCCIÓN, EDICIÓN Y ESTRATEGIA DIGITAL DE ANDRÉS
+
+Se registra como aporte histórico de trabajo profesional no remunerado y como componente susceptible de valoración dentro del Capital Empresarial Fundacional la actividad desarrollada por ANDRÉS DAVID MEJÍA HERRERA en la concepción, preparación, grabación, producción, edición, ajuste, publicación, administración y estrategia del contenido digital de EL PROYECTO.
+
+A la fecha de este registro se identifican, como cantidades mínimas aproximadas:
+
+| Plataforma o formato | Cantidad mínima aproximada |
+|---|---:|
+| Reels para Instagram | Más de 80 |
+| Publicaciones en Facebook | Más de 1.200 |
+| Videos largos en YouTube | 43 |
+| Publicaciones en TikTok | Más de 300 |
+
+El reconocimiento comprende, cuando corresponda:
+
+- ideación;
+- investigación;
+- estrategia;
+- planeación;
+- preparación técnica y logística;
+- grabación;
+- dirección o supervisión de grabación;
+- organización y selección de archivos;
+- edición;
+- posproducción;
+- corrección;
+- ajustes;
+- adaptación de formatos;
+- publicación;
+- administración de plataformas;
+- análisis de desempeño;
+- respaldo y conservación de material.
+
+## 12A.1. Naturaleza del aporte
+
+Este registro reconoce tiempo profesional, trabajo creativo, trabajo técnico, producción, edición, estrategia, administración, utilización de infraestructura y equipos, costo de oportunidad e impacto en la creación del Patrimonio Empresarial.
+
+## 12A.2. Evidencia
+
+El aporte podrá demostrarse mediante publicaciones, analíticas de plataforma, registros administrativos, archivos fuente, proyectos de edición, metadatos, fotografías, videos, discos, respaldos, mensajes, cronologías, testimonios y cualquier otro medio legalmente válido.
+
+No será obligatorio individualizar cada publicación dentro del presente Anexo para reconocer la existencia del trabajo global ejecutado.
+
+## 12A.3. Valoración económica posterior
+
+El valor económico permanecerá pendiente de determinación hasta que se aplique una metodología verificable basada en horas o jornadas estimadas, complejidad, tipo de pieza, funciones desarrolladas, tarifa profesional de referencia, costo razonable de sustitución, valor de mercado de servicios equivalentes, impacto producido y evidencia disponible.
+
+La ausencia de una valoración inmediata no significa gratuidad, donación, renuncia ni inexistencia del aporte.
+
+## 12A.4. Prevención de doble contabilización
+
+Las mismas actividades no podrán valorarse nuevamente bajo otra categoría cuando ya hayan sido incluidas en este registro.
+
+Deberá diferenciarse entre trabajo personal, dinero efectivamente desembolsado, equipos utilizados, software y licencias, almacenamiento, transporte, logística y pagos realizados a terceros.
+
+## 12A.5. Efectos
+
+Este registro:
+
+- no crea automáticamente una relación laboral;
+- no constituye por sí solo salario;
+- no determina todavía una deuda líquida;
+- no impone obligaciones futuras de producción;
+- no obliga a ANDRÉS DAVID MEJÍA HERRERA a continuar prestando el mismo volumen de trabajo;
+- deberá ser considerado en valoración, Buy-Out, reorganización, venta, liquidación y determinación del Capital Empresarial Fundacional.
+
+<!-- FIN-REGISTRO-TRABAJO-DIGITAL-ANDRES -->
+
+---
+
+<!-- APARTADO-12B-BENEFICIOS-TALENTO -->
+
+# 12B. REGISTRO DE BENEFICIOS DEPORTIVOS, PROFESIONALES Y PROMOCIONALES RECIBIDOS POR EL TALENTO
+
+Con fines de transparencia, trazabilidad y valoración integral de la relación empresarial, podrán registrarse los beneficios económicos, deportivos, profesionales, publicitarios y estratégicos recibidos por LUIS FELIPE GIL BETANCUR durante la ejecución de EL PROYECTO.
+
+Podrán registrarse, entre otros:
+
+- inscripciones a competencias;
+- transporte;
+- hospedaje;
+- alimentación relacionada con eventos;
+- combustible;
+- llantas;
+- repuestos;
+- mantenimiento;
+- asistencia técnica;
+- preparación de vehículos;
+- utilización de vehículos y equipos;
+- producción audiovisual;
+- fotografías;
+- grabaciones;
+- edición;
+- publicidad;
+- administración de redes;
+- crecimiento de comunidad;
+- gestión de patrocinadores;
+- posicionamiento de imagen;
+- creación de portafolio;
+- oportunidades comerciales;
+- formación, asesoría y acompañamiento profesional.
+
+Cada registro deberá indicar, cuando sea posible:
+
+| Campo | Información |
+|---|---|
+| Fecha | Momento en que se recibió el beneficio |
+| Concepto | Descripción del beneficio |
+| Beneficiario | Persona que recibió el beneficio |
+| Fuente | Andrés, patrocinio, ingreso del Proyecto u otra |
+| Valor | Costo pagado o valoración razonable |
+| Soporte | Factura, comprobante, publicación, contrato u otro |
+| Clasificación | Gasto, inversión, patrocinio, beneficio o activo |
+| Observación | Finalidad y relación con EL PROYECTO |
+
+El registro tendrá como finalidad demostrar los recursos y oportunidades aplicados al desarrollo deportivo, profesional y público de EL TALENTO.
+
+El registro no permitirá presumir automáticamente que:
+
+- EL TALENTO debe reembolsar personalmente todos los valores;
+- los beneficios constituyen salario;
+- los beneficios sustituyen cualquier participación económica futura;
+- todo gasto realizado fue un pago directo a EL TALENTO;
+- existe relación laboral;
+- el valor reputacional puede cobrarse como deuda líquida.
+
+Un valor solamente podrá descontarse de una suma futura a favor de EL TALENTO cuando:
+
+1. exista una cláusula contractual expresa que autorice el descuento;
+
+2. el valor se encuentre debidamente soportado;
+
+3. su clasificación sea compatible con el descuento;
+
+4. no haya sido contabilizado previamente como Capital Empresarial Fundacional, gasto operativo, patrocinio o inversión;
+
+5. no exista doble contabilización.
+
+Los beneficios reputacionales, de exposición, comunidad, trayectoria y posicionamiento podrán reconocerse como parte de la propuesta de valor, pero no se convertirán unilateralmente en una deuda dineraria contra EL TALENTO.
+
+Este registro deberá considerarse junto con los aportes, trabajo, imagen, capacidades deportivas, conocimientos técnicos y demás contribuciones verificables de ambas partes cuando se realice una valoración integral, un Buy-Out, una reorganización, una venta o una liquidación.
+
+<!-- FIN-APARTADO-12B-BENEFICIOS-TALENTO -->
+
+---
+
 # 13. VALORACIÓN DEL TRABAJO NO REMUNERADO
 
 El trabajo profesional no remunerado podrá registrarse históricamente cuando sea relevante y verificable.
