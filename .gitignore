@@ -2,3 +2,8 @@
 audit-*.md
 contrato-maestro-reescrito.md
 exportar-auditoria-actual.ps1
+*.md.backup-*
+backup-*/
+*.ps1
+revision-*.zip
+revision-global-contractual.md

@@ -404,7 +404,7 @@ Estos porcentajes son provisionales.
 
 La participación definitiva se calculará de acuerdo con la siguiente fórmula:
 
-**Total efectivamente pagado por cada parte  total efectivamente pagado por ambas partes  100.**
+**La participación definitiva de cada parte se calculará dividiendo el total efectivamente pagado por esa parte entre el total efectivamente pagado por ambas partes y multiplicando el resultado por cien.**
 
 La responsabilidad conjunta frente al saldo pendiente no significa que cada parte tenga automáticamente derecho a la mitad de dicho saldo.
 
@@ -523,6 +523,127 @@ Estos pagos:
 - no transfieren propiedad;
 - no crean obligación permanente de continuar pagándolos;
 - deberán registrarse como gasto operativo, anticipo o aporte pendiente de reconocimiento, según corresponda.
+
+---
+
+<!-- INVENTARIO-FISICO-TECNOLOGICO-ACTUALIZADO -->
+
+# 11.4. INVENTARIO FÍSICO, AUDIOVISUAL Y TECNOLÓGICO
+
+Las partes dejan constancia de los activos físicos, audiovisuales, tecnológicos, deportivos y de almacenamiento utilizados para el desarrollo de EL PROYECTO.
+
+La utilización de bienes personales dentro de EL PROYECTO no transfiere automáticamente su propiedad.
+
+Los activos identificados como aportados por ANDRÉS DAVID MEJÍA HERRERA continúan siendo de su propiedad personal, salvo transferencia expresa, escrita y documentada.
+
+## 11.4.1. Inventario consolidado
+
+| Activo o recurso | Cantidad | Propietario, aportante o responsable | Modalidad | Valor aproximado | Estado u observaciones |
+|---|---:|---|---|---:|---|
+| Suzuki Swift GTi | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal utilizado por EL PROYECTO | Desarrollo histórico referencial registrado en otros anexos | Patrimonio personal de Andrés |
+| Yacar Car Cross | 1 | Participación económica según pagos efectuados por Andrés y Luis Felipe | Activo destinado a la actividad deportiva | $65.000.000 COP | Sujeto a saldo pendiente y participación definitiva |
+| Tráiler | 1 | Propietario externo | Bien recibido en préstamo | No aplica como activo de EL PROYECTO | Debe mantenerse y devolverse en buen estado |
+| GoPro 12 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.000.000 COP cada una; total $2.000.000 COP | Seminuevas |
+| GoPro 13 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.200.000 COP cada una; total $2.400.000 COP | Seminuevas |
+| Baterías GoPro | 6 | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Utilizadas con las cámaras |
+| Cargadores GoPro | Los utilizados para las seis baterías | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Uso audiovisual |
+| Micrófono | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal aportado en uso | $800.000 COP | Producción audiovisual |
+| Discos duros de 10 TB | 2 | ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo | $1.300.000 COP cada uno; total $2.600.000 COP | Capacidad conjunta de 20 TB |
+| Discos SSD de 2 TB | 3 | ANDRÉS DAVID MEJÍA HERRERA | Edición y respaldo | $1.000.000 COP cada uno; total $3.000.000 COP | Capacidad conjunta de 6 TB |
+| Google Photos | Suscripción mensual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo digital | $50.000 COP mensuales desde 2024 | Total acumulado pendiente de liquidación |
+| Lentes aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
+| Computadores aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
+| Teléfonos aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
+
+## 11.4.2. Valor consolidado de activos personales valorados
+
+| Activo | Cantidad | Valor unitario aproximado | Valor total aproximado |
+|---|---:|---:|---:|
+| GoPro 12 | 2 | $1.000.000 COP | $2.000.000 COP |
+| GoPro 13 | 2 | $1.200.000 COP | $2.400.000 COP |
+| Micrófono | 1 | $800.000 COP | $800.000 COP |
+| Discos duros de 10 TB | 2 | $1.300.000 COP | $2.600.000 COP |
+| Discos SSD de 2 TB | 3 | $1.000.000 COP | $3.000.000 COP |
+| **Total aproximado valorado** |  |  | **$10.800.000 COP** |
+
+El valor de $10.800.000 COP es una referencia patrimonial de activos personales utilizados por EL PROYECTO.
+
+No constituye automáticamente una deuda personal de Luis Felipe, una cuenta de cobro inmediata, un activo compartido ni una transferencia de propiedad.
+
+## 11.4.3. Cámaras GoPro
+
+ANDRÉS DAVID MEJÍA HERRERA aportó cuatro cámaras GoPro: dos GoPro 12 y dos GoPro 13, todas en estado seminuevo.
+
+Las cámaras continúan siendo propiedad personal de Andrés.
+
+Su utilización no constituye donación, transferencia, copropiedad ni autorización para venderlas o entregarlas a terceros.
+
+No será necesario incluir seriales, fechas individuales, ubicaciones, custodios o fotografías.
+
+## 11.4.3.1. Valor consolidado de cámaras GoPro
+
+| Modelo | Cantidad | Valor unitario aproximado | Valor total aproximado | Estado |
+|---|---:|---:|---:|---|
+| GoPro 12 | 2 | $1.000.000 COP | $2.000.000 COP | Seminuevas |
+| GoPro 13 | 2 | $1.200.000 COP | $2.400.000 COP | Seminuevas |
+| **Total** | **4** |  | **$4.400.000 COP** | Seminuevas |
+
+El valor total aproximado de las cuatro cámaras GoPro corresponde a **$4.400.000 COP**.
+
+Este valor constituye una referencia patrimonial de activos personales de ANDRÉS DAVID MEJÍA HERRERA utilizados por EL PROYECTO y no representa automáticamente una deuda a cargo de EL PROYECTO o de LUIS FELIPE GIL BETANCUR.
+
+---
+## 11.4.4. Baterías y cargadores
+
+ANDRÉS DAVID MEJÍA HERRERA aportó seis baterías GoPro y sus cargadores.
+
+Continúan siendo propiedad personal de Andrés. Su valor permanece pendiente de valoración.
+
+## 11.4.5. Micrófono
+
+ANDRÉS DAVID MEJÍA HERRERA aportó un micrófono valorado aproximadamente en $800.000 COP.
+
+Continúa siendo propiedad personal de Andrés.
+
+## 11.4.6. Infraestructura de almacenamiento
+
+| Tipo | Cantidad | Capacidad individual | Capacidad total | Valor total |
+|---|---:|---:|---:|---:|
+| Discos duros | 2 | 10 TB | 20 TB | $2.600.000 COP |
+| Discos SSD | 3 | 2 TB | 6 TB | $3.000.000 COP |
+| **Total** | **5** |  | **26 TB** | **$5.600.000 COP** |
+
+Los discos físicos continúan siendo propiedad personal de Andrés.
+
+La propiedad del medio físico deberá diferenciarse de los derechos intelectuales, de imagen y económicos sobre los archivos almacenados.
+
+## 11.4.7. Google Photos
+
+Desde 2024, ANDRÉS DAVID MEJÍA HERRERA paga aproximadamente $50.000 COP mensuales por Google Photos para almacenamiento y respaldo de material relacionado con EL PROYECTO.
+
+El total acumulado será igual al número de mensualidades efectivamente pagadas multiplicado por $50.000 COP.
+
+## 11.4.8. Tráiler recibido en préstamo
+
+EL PROYECTO utiliza un tráiler recibido en préstamo de un propietario externo.
+
+No pertenece a EL PROYECTO, Andrés ni Luis Felipe. No constituye aporte de capital.
+
+Debe mantenerse y devolverse en buen estado, considerando el desgaste normal del uso autorizado.
+
+No podrá venderse, transferirse, gravarse ni entregarse a terceros sin autorización.
+
+## 11.4.9. Activos no aportados
+
+No se registran lentes, computadores ni teléfonos como aportes patrimoniales.
+
+## 11.4.10. Evidencia
+
+No será necesario adjuntar fotografías, seriales, fechas, ubicaciones, custodios o facturas completas.
+
+La existencia y uso de los activos podrá acreditarse mediante contenido audiovisual, archivos, publicaciones, metadatos, comprobantes, conversaciones, testimonios y otros medios legalmente válidos.
+
+<!-- FIN-INVENTARIO-FISICO-TECNOLOGICO-ACTUALIZADO -->
 
 ---
 

@@ -807,6 +807,89 @@ La falta de incorporación física de fotografías o videos dentro del presente 
 
 ---
 
+<!-- INGRESOS-PATROCINIOS-RECUPERACIONES-HISTORICAS -->
+
+# 23.2. INGRESOS, PATROCINIOS Y RECUPERACIONES HISTÓRICAS
+
+## 23.2.1. Ingresos de Facebook
+
+Las cuentas de Facebook vinculadas con EL PROYECTO generaron ingresos históricos aproximados por USD 1.000.
+
+Estos recursos fueron reinvertidos en EL PROYECTO.
+
+ANDRÉS DAVID MEJÍA HERRERA recibió personalmente $0 COP por este concepto.
+
+Los USD 1.000 no constituyen recuperación personal de capital ni utilidad distribuida.
+
+## 23.2.2. Patrocinio Liqui Moly
+
+Se registra un patrocinio histórico aproximado de Liqui Moly por $35.000.000 COP.
+
+ANDRÉS DAVID MEJÍA HERRERA declara haber recibido personalmente $0 COP por este patrocinio.
+
+## 23.2.3. Patrocinio Interllantas
+
+Se registra un patrocinio histórico aproximado de Interllantas por $15.000.000 COP.
+
+ANDRÉS DAVID MEJÍA HERRERA declara haber recibido personalmente $0 COP por este patrocinio.
+
+## 23.2.4. Consolidado de patrocinios
+
+| Patrocinador | Valor histórico aproximado | Tratamiento |
+|---|---:|---|
+| Liqui Moly | $35.000.000 COP | Recurso o beneficio de EL PROYECTO |
+| Interllantas | $15.000.000 COP | Recurso o beneficio de EL PROYECTO |
+| **Total** | **$50.000.000 COP** | No constituye recuperación personal de Andrés |
+
+## 23.2.5. Recuperaciones personales de Andrés
+
+| Concepto | Valor recibido por Andrés |
+|---|---:|
+| Distribución de ingresos de Facebook | $0 COP |
+| Recuperación derivada de Liqui Moly | $0 COP |
+| Recuperación derivada de Interllantas | $0 COP |
+| Pagos que regresaron personalmente a Andrés | $0 COP |
+| Retiros o utilidades distribuidas a Andrés | $0 COP |
+
+La reinversión de ingresos o el pago directo de gastos empresariales no equivale a recuperación personal.
+
+## 23.2.6. Información pendiente a cargo de Luis Felipe
+
+LUIS FELIPE GIL BETANCUR deberá informar:
+
+- dinero aplicado a eventos;
+- gastos pagados directamente por patrocinadores;
+- valores utilizados para pagar deudas o activos;
+- retiros, transferencias o distribuciones;
+- valores recibidos personalmente;
+- beneficios en especie.
+
+## 23.2.7. Estado provisional
+
+| Concepto | Valor | Estado |
+|---|---:|---|
+| Ingresos Facebook | USD 1.000 | Reinvertidos |
+| Recuperación personal de Andrés por Facebook | $0 COP | Ninguna |
+| Patrocinio Liqui Moly | $35.000.000 COP | Identificado |
+| Patrocinio Interllantas | $15.000.000 COP | Identificado |
+| Total patrocinios | $50.000.000 COP | Recursos de EL PROYECTO |
+| Recuperación personal de Andrés por patrocinios | $0 COP | Ninguna |
+| Pagos que regresaron personalmente a Andrés | $0 COP | Ninguno identificado |
+| Dinero aplicado a eventos | Pendiente | Felipe deberá informar |
+| Gastos pagados directamente por patrocinadores | Pendiente | Felipe deberá informar |
+| Valores aplicados a deudas o activos | Pendiente | Felipe deberá informar |
+| Retiros o distribuciones | Pendiente | Felipe deberá informar |
+
+## 23.2.8. Regla contra doble contabilización
+
+La reinversión empresarial no equivale a recuperación personal de capital.
+
+Los ingresos y patrocinios utilizados para pagar gastos no podrán contabilizarse simultáneamente como utilidad distribuida, recuperación personal o aporte personal.
+
+<!-- FIN-INGRESOS-PATROCINIOS-RECUPERACIONES-HISTORICAS -->
+
+---
+
 # 24. ACTUALIZACIÓN
 
 Este documento permanecerá abierto durante toda la vida del Proyecto.
