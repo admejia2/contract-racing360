@@ -1015,6 +1015,56 @@ Ningún ingreso, aporte, patrocinio, gasto, devolución o recuperación podrá c
 
 ---
 
+<!-- APARTADO-23-5-EXIGIBILIDAD-ACTA-SALDO -->
+
+# 23.5. DETERMINACIÓN, RECONOCIMIENTO Y EXIGIBILIDAD DEL SALDO
+
+El Capital Empresarial Fundacional no constituirá automáticamente una deuda personal mensual a cargo de LUIS FELIPE GIL BETANCUR por el solo hecho de existir aportes históricos.
+
+Sin embargo, el saldo reconocido deberá pagarse prioritariamente con los ingresos, activos, precio de venta, indemnizaciones, monetización y demás recursos económicos de EL PROYECTO antes de distribuir excedentes o valor residual.
+
+El saldo podrá adquirir exigibilidad cuando ocurra alguno de los siguientes eventos:
+
+1. venta total o parcial de EL PROYECTO;
+
+2. liquidación;
+
+3. Buy-Out;
+
+4. continuidad unilateral de la explotación de la marca, cuentas, contenido o activos;
+
+5. apropiación o retención no autorizada de ingresos o activos;
+
+6. retiro acompañado de incumplimiento de las obligaciones de transición;
+
+7. competencia desleal comprobada mediante uso o desvío de activos de EL PROYECTO;
+
+8. acuerdo escrito de LAS PARTES.
+
+Para que un saldo dinerario pueda exigirse directamente deberá constar en un acta o documento firmado que indique como mínimo:
+
+- acreedor;
+- obligado;
+- saldo nominal;
+- recuperaciones descontadas;
+- actualización aplicada;
+- moneda;
+- fecha de corte;
+- evento de exigibilidad;
+- plazo de pago;
+- fuente de pago;
+- garantías, cuando correspondan.
+
+La última Acta de Cierre Financiero servirá como base probatoria y de conciliación, pero no sustituirá los requisitos legales aplicables a una obligación clara, expresa y exigible cuando no haya sido aceptada por la parte obligada.
+
+Cuando LUIS FELIPE GIL BETANCUR continúe explotando unilateralmente activos económicos de EL PROYECTO después de un evento de terminación o Buy-Out, los ingresos netos derivados de dicha explotación deberán aplicarse prioritariamente al pago de los saldos reconocidos, sin perjuicio de las acciones legales procedentes.
+
+No existirá responsabilidad solidaria de terceros, sociedades futuras o personas vinculadas salvo que la asuman expresamente por escrito o que la ley la establezca.
+
+<!-- FIN-APARTADO-23-5-EXIGIBILIDAD-ACTA-SALDO -->
+
+---
+
 # 24. ACTUALIZACIÓN
 
 Este documento permanecerá abierto durante toda la vida del Proyecto.

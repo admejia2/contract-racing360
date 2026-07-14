@@ -456,31 +456,50 @@ Toda migración deberá documentarse mediante acuerdo escrito de LAS PARTES.
 
 ---
 
-## CLÁUSULA 25. CASCADA OBLIGATORIA DE PAGOS Y PROHIBICIÓN DE DISTRIBUCIONES ANTICIPADAS
+## CLÁUSULA 25. CASCADA OBLIGATORIA DE PAGOS, LÍMITE DE RESERVAS Y AMORTIZACIÓN DEL CAPITAL
 
-Todo ingreso en dinero o susceptible de valoración económica recibido directa o indirectamente por EL PROYECTO deberá registrarse y aplicarse conforme al siguiente orden:
+Todo ingreso en dinero efectivamente recibido por EL PROYECTO deberá registrarse y aplicarse conforme al siguiente orden:
 
 1. impuestos, retenciones y obligaciones legales exigibles;
 
 2. obligaciones laborales o contractuales vencidas y debidamente soportadas;
 
-3. gastos operativos indispensables para conservar la continuidad de EL PROYECTO;
+3. costos directos indispensables para producir o conservar el ingreso específico;
 
-4. pagos a proveedores y compromisos previamente autorizados;
+4. gastos operativos ordinarios indispensables para mantener la continuidad de EL PROYECTO;
 
-5. mantenimiento, reparación, seguros, almacenamiento, inscripciones, transporte y conservación de activos esenciales;
+5. pagos a proveedores y compromisos previamente autorizados;
 
-6. constitución o reposición de una reserva operativa razonable aprobada conforme a las reglas de gobierno;
+6. mantenimiento, reparación, seguros, almacenamiento, transporte y conservación de activos esenciales;
 
-7. reembolsos documentados y autorizados que no constituyan recuperación duplicada;
+7. constitución o reposición de una reserva operativa limitada;
 
-8. pago de deudas empresariales exigibles;
+8. reembolsos documentados y autorizados que no constituyan doble recuperación;
 
-9. recuperación del Capital Empresarial Fundacional y de las inversiones posteriores reconocidas, junto con la actualización monetaria pactada;
+9. pago de deudas empresariales exigibles;
 
-10. distribución de excedentes libres, únicamente después de encontrarse totalmente recuperados los conceptos anteriores.
+10. amortización y recuperación del Capital Empresarial Fundacional y de las inversiones posteriores reconocidas, junto con la actualización monetaria pactada;
 
-Mientras exista saldo pendiente del Capital Empresarial Fundacional o de inversiones posteriores reconocidas, no podrán distribuirse a ninguna de LAS PARTES:
+11. distribución de excedentes libres, únicamente después de cumplidas las prioridades anteriores.
+
+La reserva operativa no podrá superar el equivalente a dos meses del promedio de gastos operativos ordinarios efectivamente pagados durante los seis meses inmediatamente anteriores.
+
+Para calcular la reserva no se incluirán:
+
+- adquisición extraordinaria de vehículos o activos;
+- inversiones no recurrentes;
+- competencias futuras no contratadas;
+- gastos personales;
+- anticipos no soportados;
+- obligaciones creadas con el propósito de retrasar la recuperación del capital.
+
+Una vez atendidos los numerales 1 a 6 y constituida la reserva máxima permitida, deberá destinarse como mínimo el cincuenta por ciento de todo flujo de caja libre a la amortización directa del Capital Empresarial Fundacional hasta su recuperación total y actualizada.
+
+Para esta cláusula, flujo de caja libre significa el dinero efectivamente recibido que permanezca disponible después de impuestos, costos directos indispensables, obligaciones vencidas, gastos operativos ordinarios y reserva máxima permitida.
+
+Los patrocinios en especie o condicionados se aplicarán conforme a su finalidad contractual y no se considerarán flujo de caja libre mientras no sean convertidos legítimamente en dinero disponible.
+
+Mientras exista saldo pendiente del Capital Empresarial Fundacional o de inversiones posteriores reconocidas, no podrán distribuirse a LAS PARTES:
 
 - excedentes libres;
 - utilidades;
@@ -488,30 +507,14 @@ Mientras exista saldo pendiente del Capital Empresarial Fundacional o de inversi
 - dividendos;
 - retiros personales;
 - beneficios económicos personales;
-- pagos en especie con finalidad personal;
 - préstamos encubiertos;
 - gastos personales cargados a EL PROYECTO;
 - pagos simulados mediante terceros;
 - facturación sin causa empresarial real.
 
-La prohibición podrá exceptuarse únicamente mediante acuerdo previo, expreso y escrito de LAS PARTES, referido a un ingreso, operación, evento o transacción específica.
+La excepción a esta prohibición deberá constar en acuerdo previo, expreso y escrito de LAS PARTES, referido a una operación o ingreso específico.
 
-No se considerarán distribución de excedentes libres:
-
-- impuestos;
-- gastos operativos soportados;
-- pagos reales a proveedores;
-- mantenimiento de activos;
-- reservas aprobadas;
-- reembolsos documentados;
-- honorarios expresamente autorizados por escrito;
-- pagos de deudas empresariales;
-- devoluciones de anticipos debidamente soportadas;
-- recuperación del Capital Empresarial Fundacional.
-
-Ninguna operación podrá clasificarse simultáneamente como gasto, aporte, recuperación y distribución.
-
-La desviación de ingresos hacia cuentas personales, nuevas marcas, terceros, sociedades, canales o vehículos relacionados no alterará la aplicación obligatoria de esta cascada cuando los recursos provengan materialmente de EL PROYECTO.
+Ninguna parte podrá aumentar artificialmente gastos, anticipar compras, crear reservas injustificadas, desviar ingresos o modificar su clasificación para impedir o retrasar la amortización del Capital Empresarial Fundacional.
 
 ---
 
@@ -851,7 +854,6 @@ Requerirán aprobación escrita de ambas partes:
 - transferencia definitiva de marca principal;
 - endeudamiento relevante garantizado con activos esenciales;
 - liquidación;
-- Buy-Out;
 - licencia permanente de imagen o réplica digital;
 - modificación de porcentajes económicos;
 - disposición de activos esenciales compartidos.
@@ -977,6 +979,55 @@ El incumplimiento probado podrá generar:
 - demás consecuencias legalmente procedentes.
 
 No se aplicarán sanciones desproporcionadas ni pérdida automática de todos los derechos económicos.
+
+---
+
+<!-- CLAUSULA-55A-PENAL-RESTITUCION -->
+
+## CLÁUSULA 55A. CLÁUSULA PENAL, RESTITUCIÓN Y CONSECUENCIAS ECONÓMICAS
+
+Las siguientes conductas constituirán incumplimientos especialmente graves cuando sean intencionales, injustificados y puedan acreditarse mediante medios verificables:
+
+1. bloquear o retener accesos esenciales por más de cinco días hábiles después de un requerimiento escrito;
+
+2. eliminar administradores o modificar mecanismos de recuperación con el propósito de excluir a la otra parte;
+
+3. desviar ingresos, monetización, patrocinios o pagos pertenecientes a EL PROYECTO;
+
+4. eliminar, destruir u ocultar deliberadamente archivos maestros o contenido de valor empresarial;
+
+5. vender, transferir, gravar u ocultar activos sin autorización;
+
+6. retener físicamente activos esenciales después de exigirse válidamente su entrega;
+
+7. transferir cuentas, marca, comunidad o contratos a terceros para eludir los derechos económicos de la otra parte.
+
+La parte incumplida pagará a la parte cumplida, según la gravedad de la conducta:
+
+- diez millones de pesos por bloqueo o retención temporal subsanable de accesos;
+
+- treinta millones de pesos por desvío de ingresos, retención material de activos o exclusión operativa grave;
+
+- cincuenta millones de pesos por eliminación intencional de contenido esencial, transferencia no autorizada de cuentas o apropiación definitiva de activos empresariales.
+
+Cuando el valor económico apropiado, desviado, destruido o retenido sea superior a la pena anterior, la pena será equivalente a dicho valor, sin exceder los límites permitidos por la legislación aplicable.
+
+La pena será compatible con:
+
+- cesación de la conducta;
+- restitución de activos;
+- entrega de accesos;
+- devolución de ingresos;
+- cumplimiento de la obligación principal;
+- medidas urgentes de protección.
+
+Los perjuicios adicionales que excedan la pena solo podrán reclamarse cuando sean legalmente procedentes y se encuentren demostrados.
+
+Salvo conducta que produzca daño irreparable, deberá existir requerimiento escrito y un plazo de cinco días hábiles para corregir el incumplimiento antes de causar la pena.
+
+La exigibilidad de la pena dependerá de que la obligación, el hecho activador y su cuantía puedan determinarse de manera clara, expresa y exigible conforme al presente contrato y a la evidencia disponible.
+
+<!-- FIN-CLAUSULA-55A-PENAL-RESTITUCION -->
 
 ---
 
@@ -1245,6 +1296,84 @@ La oferta deberá indicar:
 - tratamiento de contenidos;
 - obligaciones pendientes;
 - transición operativa.
+
+---
+
+<!-- CLAUSULA-66A-BUYOUT-DEADLOCK -->
+
+## CLÁUSULA 66A. ACTIVACIÓN DEL BUY-OUT Y RESOLUCIÓN DE BLOQUEO
+
+Cualquiera de LAS PARTES podrá activar por escrito el procedimiento de Buy-Out cuando ocurra alguno de los siguientes eventos:
+
+1. inactividad operativa continua superior a sesenta días calendario que afecte materialmente la continuidad;
+
+2. desacuerdo insalvable que paralice una decisión esencial durante más de treinta días calendario;
+
+3. retiro permanente;
+
+4. incumplimiento material probado y no subsanado dentro del plazo contractual;
+
+5. apropiación, bloqueo o desviación de cuentas, activos, ingresos o relaciones comerciales;
+
+6. imposibilidad permanente de continuar la operación conjunta.
+
+La comunicación de activación deberá indicar:
+
+- el evento ocurrido;
+- los hechos y soportes;
+- los derechos o activos comprendidos;
+- la alternativa propuesta;
+- el saldo provisional del Capital Empresarial Fundacional;
+- la fecha de corte.
+
+LAS PARTES dispondrán de quince días calendario para acordar el alcance del Buy-Out, el valor y la forma de pago.
+
+Si no existe acuerdo sobre el valor, deberán designar un perito independiente.
+
+Si una parte no designa perito o no participa dentro de los diez días hábiles siguientes al requerimiento, la otra podrá solicitar su designación a la Cámara de Comercio de Medellín para Antioquia, a un centro de conciliación autorizado o a una entidad profesional independiente con experiencia en valoración empresarial, activos digitales o propiedad intelectual.
+
+La falta de participación de una parte no suspenderá indefinidamente el procedimiento.
+
+El perito deberá:
+
+- declarar independencia y ausencia de conflicto de interés;
+- permitir a ambas partes presentar información;
+- identificar activos, pasivos y contingencias;
+- determinar el saldo del Capital Empresarial Fundacional;
+- evitar doble contabilización;
+- diferenciar bienes personales y activos empresariales;
+- establecer el valor económico residual.
+
+El dictamen será obligatorio para LAS PARTES salvo error aritmético manifiesto, fraude, conflicto de interés no revelado o violación grave del procedimiento.
+
+Antes de calcular el valor residual de la participación de EL TALENTO deberán descontarse o pagarse:
+
+1. impuestos y obligaciones con terceros;
+
+2. deudas empresariales;
+
+3. préstamos y anticipos reconocidos;
+
+4. saldo actualizado del Capital Empresarial Fundacional;
+
+5. demás derechos de recuperación.
+
+La transferencia de derechos patrimoniales, cuentas, marca o activos solo se producirá contra el pago acordado o contra la constitución efectiva de garantías suficientes cuando exista pago aplazado.
+
+En caso de pago a plazos deberán pactarse como mínimo:
+
+- cuota inicial;
+- fechas de vencimiento;
+- intereses de mora dentro de los límites legales;
+- garantía;
+- cláusula aceleratoria;
+- suspensión de la transferencia definitiva hasta el pago o garantía acordada.
+
+La parte vendedora deberá firmar y ejecutar los documentos razonablemente necesarios para materializar la transferencia dentro de los cinco días hábiles siguientes al pago o constitución de las garantías.
+
+La negativa injustificada a firmar permitirá exigir el cumplimiento por los mecanismos legales aplicables, sin que opere apropiación automática de derechos personalísimos o bienes no incluidos en la operación.
+
+<!-- FIN-CLAUSULA-66A-BUYOUT-DEADLOCK -->
 
 ---
 
@@ -1527,6 +1656,64 @@ El presente contrato se regirá por las leyes de la República de Colombia.
 ## CLÁUSULA 89. DOMICILIO CONTRACTUAL
 
 Para efectos contractuales se fija como domicilio principal Medellín y su área metropolitana, sin perjuicio de que las actividades se desarrollen en otras ciudades o países.
+
+---
+
+<!-- CLAUSULA-89A-NOTIFICACIONES-FIRMA -->
+
+## CLÁUSULA 89A. COMUNICACIONES, NOTIFICACIONES Y FIRMA ELECTRÓNICA
+
+LAS PARTES designan los siguientes canales:
+
+### EL FUNDADOR
+
+- correo electrónico: andresmejia2@gmail.com;
+- WhatsApp: 3007190514.
+
+### EL TALENTO
+
+- correo electrónico: fepi1918@gmail.com;
+- WhatsApp: 3163606442.
+
+Las comunicaciones contractuales podrán enviarse mediante correo electrónico o mensajes de datos dirigidos a los canales designados.
+
+Cada parte deberá informar por escrito cualquier cambio de canal. Mientras no lo haga, serán válidas las comunicaciones enviadas al último canal informado.
+
+Una comunicación se entenderá recibida:
+
+- en correo electrónico, cuando exista constancia técnica de envío y no se reciba mensaje automático de rechazo;
+
+- en WhatsApp, cuando el mensaje figure como entregado al número designado, sin perjuicio de la posibilidad de demostrar una falla técnica o acceso no autorizado.
+
+Los mensajes de datos podrán utilizarse para:
+
+- requerimientos;
+- entrega de soportes;
+- convocatorias;
+- estados financieros;
+- proyectos de acta;
+- aprobaciones operativas;
+- avisos de incumplimiento;
+- activación de valoración o Buy-Out.
+
+Las modificaciones permanentes relacionadas con porcentajes económicos, propiedad, Capital Empresarial Fundacional, Buy-Out, venta, liquidación, cesión de derechos o reforma del contrato deberán constar en documento identificable y ser aceptadas mediante firma manuscrita, firma digital, firma electrónica confiable o aceptación expresa verificable del texto completo.
+
+Un mensaje informal o aislado como “ok”, “listo” o expresión semejante no modificará por sí solo porcentajes, titularidades o saldos, salvo que permita identificar inequívocamente el documento completo aprobado y la intención de obligarse.
+
+LAS PARTES reconocen validez a las firmas electrónicas o digitales que permitan:
+
+- identificar al firmante;
+- asociarlo con el documento;
+- conservar la integridad del texto;
+- registrar fecha y hora;
+- mantener trazabilidad;
+- detectar modificaciones posteriores.
+
+Cada parte recibirá una copia íntegra del documento firmado.
+
+Cuando sea posible, se conservará el archivo final en formato no editable y su hash SHA-256 como mecanismo adicional de integridad.
+
+<!-- FIN-CLAUSULA-89A-NOTIFICACIONES-FIRMA -->
 
 ---
 

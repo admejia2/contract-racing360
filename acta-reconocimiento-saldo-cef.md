@@ -1,0 +1,113 @@
+# ACTA DE RECONOCIMIENTO, CONCILIACIÓN Y DETERMINACIÓN DEL SALDO DEL CAPITAL EMPRESARIAL FUNDACIONAL
+
+**Fecha de corte:** ______________________________
+
+**Fecha de firma:** ______________________________
+
+Entre:
+
+**ANDRÉS DAVID MEJÍA HERRERA**, identificado con C.C. No. 1035425065, quien actúa como acreedor del saldo reconocido;
+
+y
+
+**LUIS FELIPE GIL BETANCUR**, identificado con C.C. No. 1026152827, quien actúa en la calidad y con el alcance de obligación expresamente definido en la presente Acta;
+
+se deja constancia de lo siguiente:
+
+## 1. SALDO INICIAL
+
+Saldo reconocido al inicio del período:
+
+**$______________________________ COP**
+
+## 2. NUEVAS INVERSIONES RECONOCIDAS
+
+| Fecha | Concepto | Soporte | Valor |
+|---|---|---|---:|
+| | | | |
+
+Total nuevas inversiones:
+
+**$______________________________ COP**
+
+## 3. RECUPERACIONES DESCONTADAS
+
+| Fecha | Concepto | Soporte | Valor |
+|---|---|---|---:|
+| | | | |
+
+Total recuperado:
+
+**$______________________________ COP**
+
+## 4. ACTUALIZACIÓN MONETARIA
+
+IPC aplicado:
+
+**______________________________ %**
+
+Valor de actualización:
+
+**$______________________________ COP**
+
+## 5. SALDO FINAL RECONOCIDO
+
+Las partes reconocen que, a la fecha de corte indicada, el saldo económico corresponde a:
+
+**$______________________________ COP**
+
+## 6. NATURALEZA Y OBLIGADO
+
+Marcar y completar la alternativa aceptada:
+
+[ ] El saldo será pagado exclusivamente con ingresos, activos, precio de venta, liquidación o recursos de EL PROYECTO antes de distribuir excedentes.
+
+[ ] LUIS FELIPE GIL BETANCUR reconoce una obligación personal a favor de ANDRÉS DAVID MEJÍA HERRERA por la suma de:
+
+**$______________________________ COP**
+
+[ ] Otra modalidad:
+
+____________________________________________________________________
+
+## 7. EVENTO DE EXIGIBILIDAD
+
+El saldo será exigible cuando ocurra:
+
+____________________________________________________________________
+
+## 8. FECHA O PLAZO DE PAGO
+
+____________________________________________________________________
+
+## 9. GARANTÍAS
+
+____________________________________________________________________
+
+## 10. DECLARACIÓN
+
+Las partes manifiestan que revisaron los soportes, recuperaciones y actualización incluidos en esta Acta.
+
+La presente Acta no implica doble contabilización y reemplaza únicamente el saldo del período anterior, sin eliminar la memoria histórica de sus componentes.
+
+## FIRMAS
+
+_________________________________
+
+**ANDRÉS DAVID MEJÍA HERRERA**  
+C.C. No. 1035425065  
+
+Firma: __________________________
+
+Fecha: __________________________
+
+---
+
+_________________________________
+
+**LUIS FELIPE GIL BETANCUR**  
+C.C. No. 1026152827  
+
+Firma: __________________________
+
+Fecha: __________________________
