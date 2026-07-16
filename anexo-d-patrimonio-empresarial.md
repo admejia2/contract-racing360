@@ -1,9 +1,13 @@
 # ANEXO D
-# PATRIMONIO EMPRESARIAL DEL PROYECTO
+# PATRIMONIO EMPRESARIAL DE FELIPEGIL360
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -56,7 +60,7 @@ Podrán integrar el Patrimonio Empresarial:
 - comunidad digital;
 - biblioteca audiovisual;
 - fotografías, videos y producciones;
-- cursos y productos digitales;
+- cursos conjuntos y productos digitales creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - contratos y relaciones con patrocinadores;
 - bases de datos legítimamente construidas;
 - procesos y metodologías documentadas;
@@ -67,6 +71,21 @@ Podrán integrar el Patrimonio Empresarial:
 - oportunidades comerciales originadas por los activos o la actividad del Proyecto.
 
 La ausencia de un activo en un listado no elimina su posible vinculación con el Proyecto cuando pueda demostrarse mediante cualquier medio probatorio válido.
+
+---
+
+# 4A. EXCLUSIÓN DE CURSOS Y ACTIVIDADES EDUCATIVAS HISTÓRICAS
+
+No integran el Patrimonio Empresarial los cursos, coaching, clínicas de conducción, simulador, telemetría, asesorías técnicas o metodologías de enseñanza que EL TALENTO desarrollaba de forma independiente antes del inicio de FELIPEGIL360 o que posteriormente organice de manera verdaderamente independiente.
+
+Solo formarán parte del Patrimonio Empresarial aquellos productos educativos que:
+
+- hayan sido acordados previamente por escrito;
+- se presenten como producto oficial de FELIPEGIL360;
+- sean financiados, producidos o comercializados sustancialmente con recursos empresariales;
+- utilicen cuentas empresariales, campañas pagadas, bases de clientes, personal, equipos o producción de EL PROYECTO.
+
+El uso incidental de la cuenta personal de Instagram de EL TALENTO no convertirá por sí solo una actividad independiente en activo empresarial.
 
 ---
 
@@ -113,7 +132,7 @@ Los activos adquiridos con:
 - patrocinios;
 - monetización;
 - publicidad;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - productos;
 - eventos;
 - servicios;
@@ -166,7 +185,7 @@ Los conocimientos, habilidades y experiencia personal de las partes no son aprop
 Sí podrán integrar el Patrimonio Empresarial los resultados creados mediante esas capacidades, tales como:
 
 - contenidos;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - manuales;
 - guiones;
 - metodologías documentadas;
@@ -175,7 +194,7 @@ Sí podrán integrar el Patrimonio Empresarial los resultados creados mediante e
 - software;
 - campañas;
 - formatos;
-- materiales educativos.
+- materiales educativos conjuntos creados específicamente para FELIPEGIL360.
 
 ---
 

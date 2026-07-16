@@ -1,4 +1,4 @@
-# ACTA FUNDACIONAL DEL PROYECTO
+# ACTA FUNDACIONAL DEL PROYECTO EMPRESARIAL FELIPEGIL360
 
 ## ACTA No. 001
 
@@ -48,7 +48,7 @@ Durante el año 2022, en la ciudad de Medellín, las partes iniciaron una relaci
 
 Una vez solucionado el inconveniente y restablecido el funcionamiento del automóvil, ANDRÉS DAVID MEJÍA HERRERA identificó en los conocimientos técnicos, habilidades deportivas y potencial comunicativo de LUIS FELIPE GIL BETANCUR una oportunidad para desarrollar un proyecto empresarial.
 
-En ese momento no existía una marca personal consolidada, un producto comercial organizado, una estructura empresarial, una comunidad digital significativa ni una fuente estable de ingresos construida alrededor de LUIS FELIPE GIL BETANCUR.
+En ese momento EL TALENTO ya contaba con trayectoria deportiva, conocimientos técnicos, reconocimiento personal, una cuenta de Instagram, audiencia previa, contactos, apoyos y actividades educativas independientes. Sin embargo, dichos elementos no estaban integrados en una estructura empresarial conjunta, una producción audiovisual permanente, una biblioteca organizada, una estrategia estable de monetización ni un Patrimonio Empresarial como el desarrollado posteriormente mediante FELIPEGIL360.
 
 Como consecuencia de dicha identificación, ANDRÉS DAVID MEJÍA HERRERA propuso la creación de redes sociales, la producción audiovisual, el desarrollo de contenido especializado, la participación estratégica en actividades deportivas y la organización de una estructura empresarial capaz de transformar aquel potencial en un Patrimonio Empresarial sostenible.
 
@@ -58,7 +58,7 @@ Como consecuencia de dicha identificación, ANDRÉS DAVID MEJÍA HERRERA propuso
 
 Las partes reconocen expresamente que la iniciativa de crear y estructurar el Proyecto fue propuesta por ANDRÉS DAVID MEJÍA HERRERA.
 
-El Proyecto nació desde cero.
+La estructura empresarial, audiovisual, digital y patrimonial de FELIPEGIL360 comenzó desde una etapa inicial de organización, sin perjuicio de la trayectoria deportiva, conocimientos técnicos, reconocimiento personal, cuenta de Instagram, audiencia previa, contactos, apoyos y actividades educativas que EL TALENTO ya desarrollaba antes del 1 de junio de 2022.
 
 Al momento de su creación:
 
@@ -90,7 +90,7 @@ Entre ellas:
 - patrocinadores;
 - representación de marcas;
 - publicidad;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - conferencias;
 - eventos;
 - productos físicos;
@@ -266,8 +266,6 @@ Desde el nacimiento del Proyecto, las partes aceptaron los siguientes principios
 
 ---
 
-<!-- PRODUCCION-DIGITAL-FUNDACIONAL-ANDRES -->
-
 # 10A. PRODUCCIÓN, EDICIÓN Y ESTRATEGIA DIGITAL EJECUTADA POR ANDRÉS
 
 Las partes reconocen que ANDRÉS DAVID MEJÍA HERRERA, en su calidad de Fundador, Director Estratégico y Productor Ejecutivo, asumió de manera principal y continua la concepción, preparación, grabación, producción, edición, ajuste, publicación, administración y estrategia de una parte sustancial del contenido digital desarrollado desde el nacimiento del Proyecto.
@@ -300,7 +298,27 @@ Las cantidades anteriores constituyen mínimos históricos aproximados y podrán
 
 Este trabajo fue determinante para la construcción de la biblioteca audiovisual, las cuentas y canales, la comunidad, el posicionamiento, la presencia digital, el goodwill, la capacidad futura de monetización y el Patrimonio Empresarial.
 
-<!-- FIN-PRODUCCION-DIGITAL-FUNDACIONAL-ANDRES -->
+---
+
+# 10B. IDENTIDAD HISTÓRICA Y CRECIMIENTO DIGITAL
+
+LAS PARTES reconocen que el proyecto iniciado el 1 de junio de 2022 fue identificado públicamente como FELIPEGIL360.
+
+Como referencias históricas aproximadas sujetas a evidencia, Instagram tenía cerca de sesenta publicaciones y diez mil seguidores al inicio; durante FELIPEGIL360 alcanzó aproximadamente doscientas setenta publicaciones, llegó a un máximo cercano a noventa mil seguidores y posteriormente se estabilizó alrededor de sesenta mil.
+
+El crecimiento posterior estuvo influenciado por trayectoria, imagen, inversión, financiación, actividad deportiva, producción, grabación, edición, estrategia, administración, publicación y creación de comunidad.
+
+La cuenta conservará su titularidad personal, pero el valor incremental atribuible a FELIPEGIL360 deberá considerarse cuando proceda en valoración, Buy-Out o liquidación.
+
+---
+
+# 10C. PRINCIPIO DE EQUILIBRIO ECONÓMICO Y RECIPROCIDAD
+
+LAS PARTES reconocen que el Proyecto no fue concebido para que una sola parte asuma de manera permanente inversión, gastos, pérdidas y riesgos mientras la otra concentra para sí los beneficios generados con recursos u oportunidades empresariales.
+
+Las actividades personales preexistentes y legítimamente independientes conservarán su titularidad e ingresos. Sin embargo, el uso de activos, producción, publicidad, bases de datos, contactos, patrocinadores o recursos de FELIPEGIL360 deberá ser transparente y generar el reembolso o contraprestación que corresponda.
+
+Ninguna necesidad personal autoriza a apropiarse de oportunidades empresariales ni a trasladar injustificadamente a la otra parte los costos necesarios para sostener EL PROYECTO.
 
 ---
 

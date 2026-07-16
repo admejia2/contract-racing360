@@ -1,9 +1,13 @@
 # ANEXO C
-# REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DEL PROYECTO
+# REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
 **Versión: 3.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -420,8 +424,6 @@ Sin embargo, podrá afectar:
 
 ---
 
-<!-- REGISTRO-TRABAJO-DIGITAL-ANDRES -->
-
 # 12A. REGISTRO HISTÓRICO DE PRODUCCIÓN, EDICIÓN Y ESTRATEGIA DIGITAL DE ANDRÉS
 
 Se registra como aporte histórico de trabajo profesional no remunerado y como componente susceptible de valoración dentro del Capital Empresarial Fundacional la actividad desarrollada por ANDRÉS DAVID MEJÍA HERRERA en la concepción, preparación, grabación, producción, edición, ajuste, publicación, administración y estrategia del contenido digital de EL PROYECTO.
@@ -488,11 +490,7 @@ Este registro:
 - no obliga a ANDRÉS DAVID MEJÍA HERRERA a continuar prestando el mismo volumen de trabajo;
 - deberá ser considerado en valoración, Buy-Out, reorganización, venta, liquidación y determinación del Capital Empresarial Fundacional.
 
-<!-- FIN-REGISTRO-TRABAJO-DIGITAL-ANDRES -->
-
 ---
-
-<!-- APARTADO-12B-BENEFICIOS-TALENTO -->
 
 # 12B. REGISTRO DE BENEFICIOS DEPORTIVOS, PROFESIONALES Y PROMOCIONALES RECIBIDOS POR EL TALENTO
 
@@ -564,8 +562,6 @@ Los beneficios reputacionales, de exposición, comunidad, trayectoria y posicion
 
 Este registro deberá considerarse junto con los aportes, trabajo, imagen, capacidades deportivas, conocimientos técnicos y demás contribuciones verificables de ambas partes cuando se realice una valoración integral, un Buy-Out, una reorganización, una venta o una liquidación.
 
-<!-- FIN-APARTADO-12B-BENEFICIOS-TALENTO -->
-
 ---
 
 # 13. VALORACIÓN DEL TRABAJO NO REMUNERADO
@@ -625,7 +621,7 @@ Estos recursos incluyen:
 - patrocinios;
 - monetización;
 - publicidad;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - conferencias;
 - eventos;
 - productos físicos;
@@ -844,8 +840,6 @@ Si no existe acuerdo, el registro permanecerá identificado como controvertido y
 
 ---
 
-<!-- REGISTROS-ECONOMICOS-HISTORICOS-INICIALES -->
-
 # 23.1. Registros económicos históricos identificados
 
 Los siguientes registros consolidan información histórica declarada por las partes.
@@ -955,8 +949,6 @@ La falta de incorporación física de fotografías o videos dentro del presente 
 
 ---
 
-<!-- INGRESOS-PATROCINIOS-RECUPERACIONES-HISTORICAS -->
-
 # 23.2. INGRESOS, PATROCINIOS Y RECUPERACIONES HISTÓRICAS
 
 ## 23.2.1. Ingresos de Facebook
@@ -1034,11 +1026,7 @@ La reinversión empresarial no equivale a recuperación personal de capital.
 
 Los ingresos y patrocinios utilizados para pagar gastos no podrán contabilizarse simultáneamente como utilidad distribuida, recuperación personal o aporte personal.
 
-<!-- FIN-INGRESOS-PATROCINIOS-RECUPERACIONES-HISTORICAS -->
-
 ---
-
-<!-- BLINDAJE-IPC-CIERRE-FINANCIERO-ANUAL -->
 
 # 23.3. ACTUALIZACIÓN MONETARIA DEL CAPITAL EMPRESARIAL FUNDACIONAL
 
@@ -1159,11 +1147,7 @@ No se entenderá que la falta de objeción crea por sí sola una confesión irre
 
 Ningún ingreso, aporte, patrocinio, gasto, devolución o recuperación podrá contabilizarse simultáneamente bajo dos categorías que produzcan un doble beneficio o una doble reducción del saldo.
 
-<!-- FIN-BLINDAJE-IPC-CIERRE-FINANCIERO-ANUAL -->
-
 ---
-
-<!-- APARTADO-23-5-EXIGIBILIDAD-ACTA-SALDO -->
 
 # 23.5. DETERMINACIÓN, RECONOCIMIENTO Y EXIGIBILIDAD DEL SALDO
 
@@ -1208,8 +1192,6 @@ La última Acta de Cierre Financiero servirá como base probatoria y de concilia
 Cuando LUIS FELIPE GIL BETANCUR continúe explotando unilateralmente activos económicos de EL PROYECTO después de un evento de terminación o Buy-Out, los ingresos netos derivados de dicha explotación deberán aplicarse prioritariamente al pago de los saldos reconocidos, sin perjuicio de las acciones legales procedentes.
 
 No existirá responsabilidad solidaria de terceros, sociedades futuras o personas vinculadas salvo que la asuman expresamente por escrito o que la ley la establezca.
-
-<!-- FIN-APARTADO-23-5-EXIGIBILIDAD-ACTA-SALDO -->
 
 ---
 
@@ -1307,6 +1289,18 @@ Reconocen especialmente que:
 9. la recuperación de valores históricos no obliga a reinvertirlos;
 
 10. ningún aporte podrá contabilizarse dos veces.
+
+---
+
+# 24A. EQUILIBRIO ECONÓMICO Y NO TRASLADO SISTEMÁTICO DE COSTOS
+
+El reconocimiento de actividades personales legítimas de cualquiera de LAS PARTES no elimina la obligación de diferenciar los costos, recursos y oportunidades de FELIPEGIL360.
+
+No podrán cargarse al Capital Empresarial Fundacional gastos personales, familiares o ajenos al Proyecto. Tampoco podrá excluirse del patrimonio o de los ingresos empresariales una oportunidad originada, negociada, financiada o producida directamente mediante recursos de FELIPEGIL360 presentándola artificialmente como personal.
+
+Cuando una actividad personal utilice recursos empresariales, su titular conservará el ingreso personal que legítimamente le corresponda, pero deberá reconocerse el costo directo, reembolso o contraprestación acordada por los recursos utilizados.
+
+La recuperación del Capital Empresarial Fundacional tendrá prioridad sobre distribuciones de excedentes empresariales, pero no convierte automáticamente los ingresos personales independientes en recursos del Proyecto.
 
 ---
 

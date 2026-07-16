@@ -1,9 +1,13 @@
 # ANEXO G
-# LIBRO DEL PROYECTO Y MEMORIA EMPRESARIAL
+# LIBRO DE FELIPEGIL360 Y MEMORIA EMPRESARIAL
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -119,6 +123,23 @@ La falta de registro inmediato no extingue estos derechos.
 
 ---
 
+# 7A. REGISTRO DEL EQUILIBRIO ECONÓMICO
+
+El Libro podrá conservar evidencia sobre:
+
+- recursos empresariales utilizados en actividades personales;
+- reembolsos y contraprestaciones;
+- oportunidades personales y empresariales;
+- costos soportados por cada parte;
+- gastos autorizados, controvertidos o urgentes;
+- compromisos empresariales cumplidos o pendientes;
+- esfuerzos de autofinanciación;
+- decisiones que trasladen costos o riesgos entre LAS PARTES.
+
+El registro deberá diferenciar necesidades personales legítimas de obligaciones y oportunidades propias de FELIPEGIL360.
+
+---
+
 # 8. PARTICIPACIÓN DE LUIS FELIPE
 
 Podrá conservarse evidencia sobre:
@@ -138,8 +159,6 @@ Podrá conservarse evidencia sobre:
 Una acusación unilateral no constituye automáticamente incumplimiento probado.
 
 ---
-
-<!-- REGLA-EVIDENCIA-MULTIMEDIA-EXTERNA -->
 
 # 8.1. Evidencia multimedia y documentación externa
 

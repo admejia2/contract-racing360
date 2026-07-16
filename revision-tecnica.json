@@ -1,0 +1,57 @@
+[
+  {
+    "archivo": "acta-fundacional.md",
+    "bytes": 19000,
+    "sha256": "5b089ec088dffab5493497ccc7e529d5c4003c4c5e621a28f2b81e3c4163cb27"
+  },
+  {
+    "archivo": "acta-reconocimiento-saldo-cef.md",
+    "bytes": 3047,
+    "sha256": "eb6b0fab95e537f77f9a53b315c51aee79fdf9247ea3ae377a1cf977899eab0b"
+  },
+  {
+    "archivo": "anexo-a-cronologia-oficial.md",
+    "bytes": 25119,
+    "sha256": "7e000835207f2096db33048b4430a74a73dc45491b4fd9b24d0507af9b83e9d5"
+  },
+  {
+    "archivo": "anexo-b-inventario-inicial.md",
+    "bytes": 35578,
+    "sha256": "8200340b0af8e2a6727c2f58974a272c3d7d35d8a7e22788e34d565291da1726"
+  },
+  {
+    "archivo": "anexo-c-capital-empresarial-fundacional.md",
+    "bytes": 46980,
+    "sha256": "74a8f48d16489d16f418a8249ada36f1aabababeafc150ee78059a23b66fbf2b"
+  },
+  {
+    "archivo": "anexo-d-patrimonio-empresarial.md",
+    "bytes": 11455,
+    "sha256": "584979246c41becdfcd0979093f1befd03a323433b795d7a8f0be154972148c4"
+  },
+  {
+    "archivo": "anexo-e-propiedad-intelectual-e-ia.md",
+    "bytes": 9790,
+    "sha256": "2932d67544d1a60c2c24d0dcbdd487f32cb8485e42f63bce79d3e1f76c9dca22"
+  },
+  {
+    "archivo": "anexo-f-gobierno-corporativo.md",
+    "bytes": 29398,
+    "sha256": "84abfc3b3655bf79d4bce50ede5ea0d9f3c3be480579ac84dd1cea998828695a"
+  },
+  {
+    "archivo": "anexo-g-libro-del-proyecto.md",
+    "bytes": 7468,
+    "sha256": "426b76c2f05781b439c778a69093228c1bd73880360007b7a66c25ce35d614d1"
+  },
+  {
+    "archivo": "anexo-h-matriz-de-propiedad.md",
+    "bytes": 9150,
+    "sha256": "b8e682d8a793629d5b18ed4714c50d9ace894600224bb78a874e9dc5cf2a58c9"
+  },
+  {
+    "archivo": "contrato.md",
+    "bytes": 80715,
+    "sha256": "0049267e2e5de91fdc00ce44e18e77d0bbc10b820c5fb7e24d2f4174d911eb92"
+  }
+]

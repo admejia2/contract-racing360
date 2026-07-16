@@ -1,9 +1,13 @@
 # ANEXO F
-# MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DEL PROYECTO
+# MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DE FELIPEGIL360
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -184,7 +188,7 @@ Corresponderá principalmente a LUIS FELIPE GIL BETANCUR:
 - atender campañas aprobadas;
 - cumplir compromisos con patrocinadores;
 - participar en entrevistas y eventos;
-- participar en cursos y conferencias acordados;
+- participar en cursos conjuntos y conferencias previamente acordados;
 - mantener preparación razonable para actividades deportivas aprobadas;
 - proteger la reputación;
 - informar impedimentos con anticipación;
@@ -507,6 +511,24 @@ Ninguna parte podrá:
 - omitir comisiones;
 - alterar informes;
 - utilizar recursos sin soporte.
+
+---
+
+# 17A. EQUILIBRIO ECONÓMICO Y RECIPROCIDAD OPERATIVA
+
+La operación deberá evitar que una sola parte soporte de manera sistemática los costos, riesgos y obligaciones mientras la otra concentra los beneficios inmediatos derivados de recursos u oportunidades empresariales.
+
+Las actividades personales legítimas conservarán su independencia. Sin embargo, cuando utilicen activos, equipos, campañas, producción, bases de datos, contactos, patrocinadores o recursos de FELIPEGIL360, deberán identificarse previamente los recursos utilizados y acordarse su reembolso o contraprestación.
+
+Cada responsable deberá considerar el costo real de sus decisiones y colaborar razonablemente para que EL PROYECTO avance hacia la autofinanciación.
+
+# 17B. DISCIPLINA PRESUPUESTAL Y GASTOS PERSONALES
+
+Los gastos personales o familiares no podrán cargarse a EL PROYECTO. Los gastos empresariales deberán contar, cuando sea razonablemente posible, con presupuesto, soporte, finalidad, responsable y fuente de pago.
+
+Un gasto unilateral no genera reembolso automático. Las urgencias podrán reconocerse posteriormente cuando protejan personas, activos, contratos o continuidad y sean razonables, verificables y proporcionales.
+
+Ninguna parte podrá comprometer el crédito, patrimonio o capacidad financiera de la otra sin autorización previa y expresa.
 
 ---
 
@@ -920,8 +942,6 @@ Las partes reconocen que:
 12. la continuidad y protección del Patrimonio Empresarial deberán prevalecer sobre bloqueos injustificados.
 
 ---
-
-<!-- REGLA-OPERATIVA-INACTIVIDAD-CONSERVACION-DERECHOS -->
 
 # CONSERVACIÓN DE DERECHOS DURANTE LA INACTIVIDAD O REDUCCIÓN OPERATIVA
 

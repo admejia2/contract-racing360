@@ -1,9 +1,13 @@
 # ANEXO E
-# PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL
+# PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL DE FELIPEGIL360
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -58,7 +62,7 @@ Los derechos personalísimos no podrán utilizarse para apropiarse unilateralmen
 
 # 5. CONTENIDOS
 
-Los videos, fotografías, audios, guiones, diseños, cursos, transmisiones, campañas, miniaturas, archivos maestros y demás contenidos creados para el Proyecto constituyen activos empresariales, sin perjuicio de los derechos morales y personalísimos aplicables.
+Los videos, fotografías, audios, guiones, diseños, cursos conjuntos, transmisiones, campañas, miniaturas, archivos maestros y demás contenidos creados específicamente para EL PROYECTO constituyen activos empresariales, sin perjuicio de los derechos morales, personalísimos y de las actividades educativas independientes reconocidas a EL TALENTO.
 
 La aparición frente a cámara no atribuye automáticamente todos los derechos patrimoniales de una producción.
 
@@ -97,11 +101,34 @@ Ninguna parte podrá unilateralmente:
 
 ---
 
+# 7A. INSTAGRAM PERSONAL DE EL TALENTO
+
+La cuenta personal de Instagram de EL TALENTO, creada antes del 1 de junio de 2022, conserva su titularidad personal, exclusiva e intransferible.
+
+La titularidad personal de la cuenta no elimina:
+
+- los derechos sobre contenidos legítimamente producidos para FELIPEGIL360;
+- los derechos de archivo y prueba;
+- el reconocimiento económico del valor incremental demostrablemente generado mediante inversión, producción, edición, estrategia, administración, publicidad, competencias y recursos de EL PROYECTO;
+- las obligaciones de transición y cumplimiento de campañas vigentes.
+
+El reconocimiento del valor incremental no permite retener la cuenta ni impedir su utilización personal por EL TALENTO después de la terminación.
+
+Después de la terminación no podrán realizarse nuevas campañas, promociones, declaraciones, réplicas digitales o usos que aparenten una vinculación vigente de EL TALENTO sin autorización previa y escrita.
+
+# 7B. CURSOS Y ACTIVIDADES EDUCATIVAS PREEXISTENTES
+
+Los cursos, coaching, clínicas, simulador, telemetría, asesorías y metodologías históricas e independientes de EL TALENTO no constituyen activos de FELIPEGIL360.
+
+Solo serán activos empresariales los productos educativos creados específicamente para EL PROYECTO mediante acuerdo previo y escrito que determine inversión, producción, propiedad, costos, ingresos, bases de datos y derechos sobre grabaciones.
+
+---
+
 # 8. CURSOS, MÉTODOS Y PRODUCTOS
 
 Los conocimientos personales continúan perteneciendo a cada parte.
 
-Los cursos, guiones, grabaciones, documentos, metodologías estructuradas, materiales, productos y formatos creados dentro del Proyecto constituyen activos explotables conforme al Contrato Maestro.
+Los cursos conjuntos, guiones, grabaciones, documentos, metodologías estructuradas, materiales, productos y formatos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito constituyen activos explotables conforme al Contrato Maestro. Esta regla no incluye las actividades educativas históricas o verdaderamente independientes de EL TALENTO.
 
 ---
 
@@ -169,7 +196,7 @@ Deberán respetarse las licencias y derechos de terceros.
 
 # 13. INGRESOS
 
-Los ingresos obtenidos mediante contenido, marca, cuentas, comunidad, licencias, campañas, cursos, productos, tecnología o inteligencia artificial autorizada serán ingresos del Proyecto cuando se originen en activos o relaciones desarrollados dentro de éste.
+Los ingresos obtenidos mediante contenido, marca, cuentas, comunidad, licencias, campañas, cursos conjuntos, productos, tecnología o inteligencia artificial autorizada serán ingresos de EL PROYECTO cuando se originen sustancialmente en activos, recursos o relaciones desarrollados dentro de éste. Se excluyen los ingresos de actividades educativas históricas o independientes de EL TALENTO, salvo acuerdo escrito o uso sustancial de recursos empresariales.
 
 ---
 

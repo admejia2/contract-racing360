@@ -1,9 +1,13 @@
 # ANEXO B
-# INVENTARIO INICIAL DE BIENES, ACTIVOS, RECURSOS Y APORTES FUNDACIONALES
+# INVENTARIO INICIAL DE BIENES, ACTIVOS, RECURSOS Y APORTES FUNDACIONALES DE FELIPEGIL360
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -155,6 +159,18 @@ El valor registrado podrá corresponder a:
 - valor por determinar.
 
 El registro de un valor no modifica la titularidad del activo.
+
+---
+
+# 6A. REGISTRO ESPECIAL DE INSTAGRAM PERSONAL
+
+| Activo | Titular jurídico | Situación al inicio | Tratamiento durante FELIPEGIL360 | Tratamiento económico |
+|---|---|---|---|---|
+| Cuenta personal de Instagram de LUIS FELIPE GIL BETANCUR | LUIS FELIPE GIL BETANCUR | Preexistente al 1 de junio de 2022; aproximadamente 60 publicaciones y 10.000 seguidores, cifras sujetas a prueba | Utilizada dentro de la estrategia de contenido, producción, edición, administración y crecimiento digital del Proyecto | La cuenta no se transfiere; el valor incremental demostrablemente atribuible a FELIPEGIL360 podrá considerarse en valoración, Buy-Out o liquidación |
+
+Las cifras deberán acreditarse mediante analíticas, capturas, archivos históricos, métricas de interacción e informes técnicos.
+
+Cuando existan indicadores de audiencia artificial o inauténtica, estos deberán documentarse mediante herramienta utilizada, fecha, metodología, porcentaje estimado y soportes verificables.
 
 ---
 
@@ -364,8 +380,6 @@ Ninguna afirmación contenida en este Anexo reemplazará los documentos de propi
 
 ---
 
-<!-- FICHA-REAL-YACAR-Y-SWIFT -->
-
 # 11.1. Ficha económica y operativa del Yacar Car Cross
 
 | Campo | Información |
@@ -526,8 +540,6 @@ Estos pagos:
 
 ---
 
-<!-- INVENTARIO-FISICO-TECNOLOGICO-ACTUALIZADO -->
-
 # 11.4. INVENTARIO FÍSICO, AUDIOVISUAL Y TECNOLÓGICO
 
 Las partes dejan constancia de los activos físicos, audiovisuales, tecnológicos, deportivos y de almacenamiento utilizados para el desarrollo de EL PROYECTO.
@@ -543,14 +555,18 @@ Los activos identificados como aportados por ANDRÉS DAVID MEJÍA HERRERA contin
 | Suzuki Swift GTi | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal utilizado por EL PROYECTO | Desarrollo histórico referencial registrado en otros anexos | Patrimonio personal de Andrés |
 | Yacar Car Cross | 1 | Participación económica según pagos efectuados por Andrés y Luis Felipe | Activo destinado a la actividad deportiva | $65.000.000 COP | Sujeto a saldo pendiente y participación definitiva |
 | Tráiler | 1 | Propietario externo | Bien recibido en préstamo | No aplica como activo de EL PROYECTO | Debe mantenerse y devolverse en buen estado |
-| GoPro 12 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.000.000 COP cada una; total $2.000.000 COP | Seminuevas |
-| GoPro 13 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.200.000 COP cada una; total $2.400.000 COP | Seminuevas |
+| GoPro 12 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.700.000 COP cada una; total $3.400.000 COP | Seminuevas |
+| GoPro 13 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.900.000 COP cada una; total $3.800.000 COP | Seminuevas |
 | Baterías GoPro | 6 | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Utilizadas con las cámaras |
 | Cargadores GoPro | Los utilizados para las seis baterías | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Uso audiovisual |
-| Micrófono | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal aportado en uso | $800.000 COP | Producción audiovisual |
+| Micrófono | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal aportado en uso | $1.000.000 COP | Producción audiovisual |
+| Memorias microSD | Varias, capacidad total de 2 TB | ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento removible aportado en uso | $1.500.000 COP total | Grabación y respaldo audiovisual |
+| Gimbal | 1 | ANDRÉS DAVID MEJÍA HERRERA | Estabilizador personal aportado en uso | $1.000.000 COP | Producción audiovisual |
+| Soportes para cámaras | Varios | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | $700.000 COP total | Montaje de cámaras y producción audiovisual |
 | Discos duros de 10 TB | 2 | ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo | $1.300.000 COP cada uno; total $2.600.000 COP | Capacidad conjunta de 20 TB |
 | Discos SSD de 2 TB | 3 | ANDRÉS DAVID MEJÍA HERRERA | Edición y respaldo | $1.000.000 COP cada uno; total $3.000.000 COP | Capacidad conjunta de 6 TB |
 | Google Photos | Suscripción mensual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo digital | $50.000 COP mensuales desde 2024 | Total acumulado pendiente de liquidación |
+| CapCut Pro | Suscripción anual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Edición audiovisual | $300.000 COP anuales desde 2023 | Total acumulado pendiente de liquidación |
 | Lentes aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
 | Computadores aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
 | Teléfonos aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
@@ -559,14 +575,14 @@ Los activos identificados como aportados por ANDRÉS DAVID MEJÍA HERRERA contin
 
 | Activo | Cantidad | Valor unitario aproximado | Valor total aproximado |
 |---|---:|---:|---:|
-| GoPro 12 | 2 | $1.000.000 COP | $2.000.000 COP |
-| GoPro 13 | 2 | $1.200.000 COP | $2.400.000 COP |
-| Micrófono | 1 | $800.000 COP | $800.000 COP |
+| GoPro 12 | 2 | $1.700.000 COP | $3.400.000 COP |
+| GoPro 13 | 2 | $1.900.000 COP | $3.800.000 COP |
+| Micrófono | 1 | $1.000.000 COP | $1.000.000 COP |
 | Discos duros de 10 TB | 2 | $1.300.000 COP | $2.600.000 COP |
 | Discos SSD de 2 TB | 3 | $1.000.000 COP | $3.000.000 COP |
-| **Total aproximado valorado** |  |  | **$10.800.000 COP** |
+| **Total aproximado valorado** |  |  | **$17.000.000 COP** |
 
-El valor de $10.800.000 COP es una referencia patrimonial de activos personales utilizados por EL PROYECTO.
+El valor de $17.000.000 COP es una referencia patrimonial de activos personales utilizados por EL PROYECTO.
 
 No constituye automáticamente una deuda personal de Luis Felipe, una cuenta de cobro inmediata, un activo compartido ni una transferencia de propiedad.
 
@@ -584,11 +600,11 @@ No será necesario incluir seriales, fechas individuales, ubicaciones, custodios
 
 | Modelo | Cantidad | Valor unitario aproximado | Valor total aproximado | Estado |
 |---|---:|---:|---:|---|
-| GoPro 12 | 2 | $1.000.000 COP | $2.000.000 COP | Seminuevas |
-| GoPro 13 | 2 | $1.200.000 COP | $2.400.000 COP | Seminuevas |
-| **Total** | **4** |  | **$4.400.000 COP** | Seminuevas |
+| GoPro 12 | 2 | $1.700.000 COP | $3.400.000 COP | Seminuevas |
+| GoPro 13 | 2 | $1.900.000 COP | $3.800.000 COP | Seminuevas |
+| **Total** | **4** |  | **$7.200.000 COP** | Seminuevas |
 
-El valor total aproximado de las cuatro cámaras GoPro corresponde a **$4.400.000 COP**.
+El valor total aproximado de las cuatro cámaras GoPro corresponde a **$7.200.000 COP**.
 
 Este valor constituye una referencia patrimonial de activos personales de ANDRÉS DAVID MEJÍA HERRERA utilizados por EL PROYECTO y no representa automáticamente una deuda a cargo de EL PROYECTO o de LUIS FELIPE GIL BETANCUR.
 
@@ -601,7 +617,7 @@ Continúan siendo propiedad personal de Andrés. Su valor permanece pendiente de
 
 ## 11.4.5. Micrófono
 
-ANDRÉS DAVID MEJÍA HERRERA aportó un micrófono valorado aproximadamente en $800.000 COP.
+ANDRÉS DAVID MEJÍA HERRERA aportó un micrófono valorado aproximadamente en $1.000.000 COP.
 
 Continúa siendo propiedad personal de Andrés.
 
@@ -617,13 +633,37 @@ Los discos físicos continúan siendo propiedad personal de Andrés.
 
 La propiedad del medio físico deberá diferenciarse de los derechos intelectuales, de imagen y económicos sobre los archivos almacenados.
 
-## 11.4.7. Google Photos
+## 11.4.7. Memorias microSD
+
+ANDRÉS DAVID MEJÍA HERRERA aportó varias memorias microSD con capacidad total aproximada de 2 TB, valoradas conjuntamente en **$1.500.000 COP**.
+
+Continúan siendo propiedad personal de Andrés y fueron utilizadas para grabación, almacenamiento temporal y respaldo audiovisual.
+
+## 11.4.8. Gimbal
+
+ANDRÉS DAVID MEJÍA HERRERA aportó un gimbal valorado aproximadamente en **$1.000.000 COP**.
+
+Continúa siendo propiedad personal de Andrés y fue utilizado para estabilización y producción audiovisual.
+
+## 11.4.9. Soportes para cámaras
+
+ANDRÉS DAVID MEJÍA HERRERA aportó diversos soportes para cámaras, valorados conjuntamente en **$700.000 COP**.
+
+Continúan siendo propiedad personal de Andrés y fueron utilizados para montaje de cámaras y producción audiovisual.
+
+## 11.4.10. CapCut Pro
+
+Desde 2023, ANDRÉS DAVID MEJÍA HERRERA paga aproximadamente **$300.000 COP anuales** por CapCut Pro para edición y producción de contenido relacionado con EL PROYECTO.
+
+El total acumulado será igual al número de anualidades efectivamente pagadas multiplicado por $300.000 COP.
+
+## 11.4.11. Google Photos
 
 Desde 2024, ANDRÉS DAVID MEJÍA HERRERA paga aproximadamente $50.000 COP mensuales por Google Photos para almacenamiento y respaldo de material relacionado con EL PROYECTO.
 
 El total acumulado será igual al número de mensualidades efectivamente pagadas multiplicado por $50.000 COP.
 
-## 11.4.8. Tráiler recibido en préstamo
+## 11.4.12. Tráiler recibido en préstamo
 
 EL PROYECTO utiliza un tráiler recibido en préstamo de un propietario externo.
 
@@ -633,17 +673,15 @@ Debe mantenerse y devolverse en buen estado, considerando el desgaste normal del
 
 No podrá venderse, transferirse, gravarse ni entregarse a terceros sin autorización.
 
-## 11.4.9. Activos no aportados
+## 11.4.13. Activos no aportados
 
 No se registran lentes, computadores ni teléfonos como aportes patrimoniales.
 
-## 11.4.10. Evidencia
+## 11.4.14. Evidencia
 
 No será necesario adjuntar fotografías, seriales, fechas, ubicaciones, custodios o facturas completas.
 
 La existencia y uso de los activos podrá acreditarse mediante contenido audiovisual, archivos, publicaciones, metadatos, comprobantes, conversaciones, testimonios y otros medios legalmente válidos.
-
-<!-- FIN-INVENTARIO-FISICO-TECNOLOGICO-ACTUALIZADO -->
 
 ---
 
@@ -655,7 +693,7 @@ Los activos adquiridos exclusivamente con:
 - monetización;
 - publicidad;
 - ventas;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - servicios;
 - demás ingresos propios;
@@ -731,7 +769,7 @@ Deberán registrarse separadamente:
 - videos;
 - miniaturas;
 - guiones;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - manuales;
 - metodologías desarrolladas;
 - procesos internos;
@@ -807,7 +845,7 @@ Las necesidades futuras deberán cubrirse prioritariamente con:
 - patrocinios;
 - monetización;
 - ventas;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - servicios;
 - licenciamientos;

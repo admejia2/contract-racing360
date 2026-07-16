@@ -10,9 +10,13 @@ Entre:
 
 y
 
-**LUIS FELIPE GIL BETANCUR**, identificado con C.C. No. 1026152827, quien actúa en la calidad y con el alcance de obligación expresamente definido en la presente Acta;
+**LUIS FELIPE GIL BETANCUR**, identificado con C.C. No. 1026152827, quien interviene para revisar, aceptar o controvertir el saldo y únicamente asumirá obligación personal cuando esa alternativa sea marcada, completada y firmada expresamente;
 
 se deja constancia de lo siguiente:
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
+
+---
 
 ## 1. SALDO INICIAL
 

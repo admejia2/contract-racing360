@@ -1,4 +1,4 @@
-# ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL RACING360
+# ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
 
 **Versión 5.0 — Contrato Maestro Consolidado**
 
@@ -37,11 +37,19 @@ celebran el presente **ACUERDO DE FUNDADORES**, que regulará sus derechos, obli
 
 ---
 
-## CLÁUSULA 2. NOMBRE Y ALCANCE DEL PROYECTO
+## CLÁUSULA 2. NOMBRE, IDENTIDAD Y ALCANCE DEL PROYECTO
 
-Para efectos contractuales, el conjunto de actividades, activos, cuentas, contenidos, relaciones, oportunidades, productos, servicios y negocios desarrollados por las partes alrededor del automovilismo, la creación de contenido, la marca personal, la actividad deportiva y la explotación comercial se denominará **EL PROYECTO**.
+LAS PARTES reconocen que desde el 1 de junio de 2022 el proyecto empresarial conjunto ha sido identificado y desarrollado bajo la denominación **FELIPEGIL360**.
 
-La referencia a Racing360, FelipeGil360, Andrés Mejía Racing o cualquier otra denominación comercial utilizada por las partes no modificará por sí sola los derechos económicos establecidos en este contrato.
+Para efectos del presente contrato, FELIPEGIL360, también denominado EL PROYECTO, comprende la operación histórica construida alrededor de la trayectoria, imagen, conocimiento técnico y actividad deportiva de EL TALENTO, junto con la iniciativa empresarial, inversión, financiación, dirección estratégica, producción, edición, administración y tecnología aportadas por EL FUNDADOR.
+
+La utilización del nombre de EL TALENTO dentro de FELIPEGIL360 no implica que todos los activos, cuentas, contenidos, relaciones, ingresos o derechos económicos sean de propiedad exclusiva de EL TALENTO.
+
+Tampoco transfiere al Proyecto los derechos personalísimos de EL TALENTO.
+
+La titularidad y tratamiento económico de cada activo deberá determinarse según fecha de creación, titularidad previa, fuente de financiación, trabajo ejecutado, administración, producción, soportes, acuerdos escritos y reglas del presente contrato.
+
+Toda referencia a EL PROYECTO significará FELIPEGIL360.
 
 ---
 
@@ -58,21 +66,21 @@ EL PROYECTO no constituye por sí mismo una persona jurídica independiente y, p
 
 ---
 
-## CLÁUSULA 4. ORIGEN DEL PROYECTO
+## CLÁUSULA 4. ORIGEN Y APORTES PREEXISTENTES
 
-Las partes reconocen que:
+LAS PARTES reconocen que:
 
-1. EL PROYECTO inició formalmente el **1 de junio de 2022**;
+a) EL PROYECTO inició oficialmente el 1 de junio de 2022;
 
-2. la iniciativa empresarial fue propuesta, estructurada y dirigida inicialmente por EL FUNDADOR;
+b) EL TALENTO ya contaba con trayectoria deportiva, conocimiento técnico, victorias, reconocimiento personal, contactos, apoyos y actividades educativas independientes;
 
-3. al momento de iniciar no existían una empresa organizada, una comunidad digital consolidada, una estructura estable de monetización, una biblioteca audiovisual relevante, una red consolidada de patrocinadores ni un patrimonio empresarial autónomo;
+c) ello no implica afirmar, sin evidencia, que antes del Proyecto ya existieran una empresa digital organizada, biblioteca audiovisual relevante, estrategia permanente de contenidos, comunidad comercial consolidada, monetización estable o estructura empresarial equivalente a la desarrollada posteriormente;
 
-4. EL TALENTO contaba con conocimientos técnicos, habilidades deportivas y potencial comunicativo, pero dichos atributos aún no constituían una marca comercial consolidada ni una fuente estable de ingresos;
+d) EL FUNDADOR propuso y estructuró la operación empresarial, audiovisual y digital organizada;
 
-5. EL FUNDADOR aportó recursos económicos, activos personales, infraestructura, producción, tecnología, dirección, administración, tiempo profesional y exposición patrimonial para iniciar y desarrollar EL PROYECTO;
+e) EL FUNDADOR aportó inversión, financiación, activos, dirección estratégica, producción, edición, administración, tecnología, tiempo profesional y exposición patrimonial;
 
-6. el valor empresarial actual es resultado de un proceso acumulativo de inversión, estrategia, producción, participación técnica, actividad deportiva, contenido, comunidad y relaciones comerciales.
+f) el valor actual de FELIPEGIL360 es resultado acumulativo de los aportes sustanciales de ambas partes.
 
 ---
 
@@ -85,7 +93,7 @@ EL PROYECTO tiene como finalidad construir, proteger y explotar un patrimonio em
 - publicidad;
 - representación de marcas;
 - participación deportiva;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - conferencias;
 - consultorías;
@@ -272,7 +280,7 @@ Corresponderá principalmente a EL TALENTO:
 - aportar y validar conocimientos técnicos;
 - participar en actividades deportivas aprobadas;
 - atender compromisos con patrocinadores;
-- participar en entrevistas, eventos, cursos y campañas acordadas;
+- participar en entrevistas, eventos, cursos conjuntos y campañas previamente acordadas;
 - proteger la reputación de EL PROYECTO;
 - informar oportunamente impedimentos;
 - colaborar con líneas de negocio que requieran razonablemente su presencia o conocimiento.
@@ -296,8 +304,6 @@ No se exigirá disponibilidad absoluta y deberán respetarse:
 La negativa reiterada e injustificada a participar en actividades razonables, financiadas, coordinadas y previamente acordadas podrá constituir incumplimiento.
 
 ---
-
-<!-- CLAUSULA-17A-PROPUESTA-VALOR -->
 
 ## CLÁUSULA 17A. PROPUESTA DE VALOR, BENEFICIOS PRESENTES Y ÉXITO COMPARTIDO
 
@@ -383,8 +389,6 @@ La ausencia de alguno de esos resultados no constituirá por sí sola incumplimi
 
 Ninguna parte podrá exigir para sí todo el valor del éxito obtenido, pues este será resultado de la integración de los aportes, funciones, recursos, imagen, trabajo, capacidades y riesgos asumidos por ambas partes, sin perjuicio de la prioridad del Capital Empresarial Fundacional y de las reglas económicas que posteriormente se acuerden por escrito.
 
-<!-- FIN-CLAUSULA-17A-PROPUESTA-VALOR -->
-
 ---
 
 ## CLÁUSULA 18. PROHIBICIÓN DE PARALIZACIÓN
@@ -425,7 +429,7 @@ La operación, producción, crecimiento y actividad deportiva deberán financiar
 - patrocinios;
 - monetización;
 - publicidad;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - productos;
 - servicios;
@@ -482,7 +486,7 @@ Son ingresos de EL PROYECTO los recursos generados mediante:
 - patrocinio;
 - monetización;
 - publicidad;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - productos;
 - servicios;
@@ -510,13 +514,11 @@ No podrán desviarse unilateralmente a fines personales ajenos al acuerdo corres
 
 ---
 
-<!-- NATURALEZA-Y-DENOMINACION-PROYECTO -->
-
 ## CLÁUSULA 24A. NATURALEZA Y DENOMINACIÓN DE LA RELACIÓN
 
 Para todos los efectos del presente contrato, la actividad regulada se denominará:
 
-**PROYECTO EMPRESARIAL CONJUNTO RACING360**
+**PROYECTO EMPRESARIAL CONJUNTO FelipeGil360**
 
 o, cuando el contexto lo permita:
 
@@ -542,11 +544,7 @@ La eventual constitución futura de una sociedad, vehículo empresarial, nueva m
 
 Toda migración deberá documentarse mediante acuerdo escrito de LAS PARTES.
 
-<!-- FIN-NATURALEZA-Y-DENOMINACION-PROYECTO -->
-
 ---
-
-<!-- CLAUSULA-24B-REVISION-CEF -->
 
 ## CLÁUSULA 24B. REVISIÓN Y OBJECIÓN DEL CAPITAL EMPRESARIAL FUNDACIONAL
 
@@ -572,11 +570,7 @@ Las objeciones no impedirán reconocer la parte del saldo que no se encuentre di
 
 El derecho de revisión no autoriza a EL TALENTO a eliminar registros, alterar soportes, bloquear cierres, retener información ni desconocer aportes verificables efectivamente realizados por EL FUNDADOR.
 
-<!-- FIN-CLAUSULA-24B-REVISION-CEF -->
-
 ---
-
-<!-- CLAUSULA-24C-VALORACION-INDEPENDIENTE -->
 
 ## CLÁUSULA 24C. VALORACIÓN INDEPENDIENTE DE APORTES Y TRABAJO NO REMUNERADO
 
@@ -614,8 +608,6 @@ LAS PARTES podrán presentar observaciones y evidencia antes de emitirse el dict
 El resultado será obligatorio para LAS PARTES, salvo error aritmético manifiesto, fraude, conflicto de interés no revelado o violación grave del procedimiento.
 
 Los costos de valoración serán asumidos inicialmente por partes iguales, sin perjuicio de que el profesional, conciliador, árbitro o autoridad competente determine una distribución diferente cuando una objeción resulte manifiestamente infundada o abusiva.
-
-<!-- FIN-CLAUSULA-24C-VALORACION-INDEPENDIENTE -->
 
 ---
 
@@ -706,8 +698,6 @@ En ausencia de una regla específica firmada, no podrá presumirse una distribuc
 
 ---
 
-<!-- CLAUSULA-27A-DETERMINACION-ECONOMICA-FUTURA -->
-
 ## CLÁUSULA 27A. DETERMINACIÓN POSTERIOR DE LA PARTICIPACIÓN ECONÓMICA
 
 LAS PARTES reconocen que a la fecha de firma no existe un porcentaje general y definitivo de distribución económica sobre el valor residual de EL PROYECTO.
@@ -751,8 +741,6 @@ Mientras no exista dicho anexo:
 La obligación de negociar el anexo económico deberá ejecutarse de buena fe, pero no obligará a ninguna parte a aceptar un porcentaje que no considere debidamente soportado.
 
 La falta de acuerdo se resolverá mediante valoración independiente y los mecanismos de negociación, conciliación, Buy-Out o liquidación establecidos en el contrato.
-
-<!-- FIN-CLAUSULA-27A-DETERMINACION-ECONOMICA-FUTURA -->
 
 ---
 
@@ -810,11 +798,62 @@ Su utilización podrá generar reconocimiento económico, pero no transferencia 
 
 ---
 
-## CLÁUSULA 31. ACTIVOS DE EL TALENTO
+## CLÁUSULA 31. ACTIVOS Y ACTIVIDADES EDUCATIVAS DE EL TALENTO
 
-Los bienes personales, implementos deportivos, licencias, certificaciones, herramientas y demás activos propios de EL TALENTO conservarán su titularidad original.
+Los bienes personales y activos propios de EL TALENTO conservarán su titularidad original.
 
-Su uso dentro de EL PROYECTO no transfiere la propiedad.
+LAS PARTES reconocen que antes de FELIPEGIL360 EL TALENTO ya desarrollaba cursos, coaching automovilístico, clínicas de conducción, simulador, telemetría, asesorías técnicas y metodologías de enseñanza.
+
+La propiedad de esas actividades históricas y el ciento por ciento de sus ingresos corresponderán a EL TALENTO cuando sean organizadas y dictadas personalmente por él, no se presenten como producto oficial de FELIPEGIL360, no exista acuerdo escrito que las convierta en producto conjunto, no sean financiadas por EL PROYECTO y no utilicen sustancialmente cuentas empresariales, publicidad pagada, bases de clientes, personal, producción, equipos o recursos de FELIPEGIL360.
+
+La promoción ocasional mediante su Instagram personal no convertirá automáticamente el curso en ingreso del Proyecto.
+
+Solo será producto educativo conjunto aquel acordado previamente por escrito y desarrollado sustancialmente con recursos empresariales.
+
+Cuando una actividad personal utilice un recurso específico del Proyecto podrá pactarse únicamente el reembolso o contraprestación de ese recurso, sin transferir la propiedad general del curso.
+
+---
+
+## CLÁUSULA 31A. EQUILIBRIO ECONÓMICO, RECIPROCIDAD Y CONCIENCIA DE COSTOS
+
+LAS PARTES reconocen que la sostenibilidad de FELIPEGIL360 exige una relación razonablemente equilibrada entre los beneficios obtenidos, los recursos utilizados, las obligaciones asumidas, el trabajo ejecutado y los riesgos soportados por cada una.
+
+La existencia de necesidades económicas personales no autoriza a ninguna de LAS PARTES para:
+
+- apropiarse de oportunidades que correspondan a EL PROYECTO;
+- trasladar sistemáticamente a la otra parte los costos, pérdidas, deudas, mantenimientos o inversiones necesarios para sostener la operación;
+- utilizar gratuitamente activos, equipos, producción, personal, publicidad, bases de datos, contactos, patrocinadores o recursos empresariales para generar ingresos personales;
+- incumplir compromisos vigentes con EL PROYECTO, patrocinadores, clientes o aliados;
+- disponer de ingresos empresariales como si fueran ingresos personales;
+- impedir o dificultar injustificadamente la recuperación del Capital Empresarial Fundacional.
+
+Los cursos, coaching, clínicas, asesorías, actividades de simulador, telemetría y metodologías históricas e independientes de EL TALENTO continuarán siendo de su propiedad y sus ingresos pertenecerán íntegramente a él cuando se cumplan las condiciones establecidas en la Cláusula 31.
+
+Dichos ingresos personales independientes no estarán obligatoriamente destinados a financiar FELIPEGIL360, pagar el Capital Empresarial Fundacional ni atender gastos empresariales, salvo acuerdo escrito, aporte voluntario o existencia de una obligación personal expresamente reconocida.
+
+Cuando una actividad personal utilice recursos de FELIPEGIL360, EL TALENTO deberá informar previamente los recursos que pretende utilizar, obtener autorización cuando corresponda, reembolsar el costo directo razonable o pagar la contraprestación acordada, cumplir los compromisos empresariales incompatibles previamente adquiridos, diferenciar claramente la actividad personal de los productos oficiales y abstenerse de captar como personales oportunidades negociadas, financiadas o desarrolladas directamente por EL PROYECTO.
+
+EL FUNDADOR tampoco estará obligado a financiar cursos personales, necesidades económicas personales, actividades no aprobadas ni gastos sin relación comprobable con FELIPEGIL360.
+
+LAS PARTES deberán mantener conciencia razonable sobre los costos reales de vehículos, equipos, mantenimiento, reparación, almacenamiento, parqueadero, seguros, producción, edición, tecnología, suscripciones, publicidad, créditos, eventos, transporte, inscripciones, logística, trabajo profesional no remunerado y recuperación pendiente del Capital Empresarial Fundacional.
+
+Ninguna parte estará obligada a comprometer recursos personales que afecten irrazonablemente su mínimo vital, obligaciones familiares o estabilidad financiera. Sin embargo, ambas deberán colaborar razonablemente mediante trabajo, cumplimiento, generación de oportunidades, transparencia y cuidado de los recursos para que FELIPEGIL360 avance hacia su autofinanciación y no dependa permanentemente del patrimonio personal de una sola parte.
+
+Cuando exista controversia sobre si una oportunidad es personal o empresarial, se analizarán su origen, quién obtuvo al cliente, la cuenta o marca utilizada, los recursos y costos involucrados, la producción realizada, la base de datos empleada, los patrocinadores relacionados y las comunicaciones previas.
+
+Esta cláusula no permite apropiarse de ingresos personales legítimos, pero impide presentar artificialmente como personal una actividad empresarial para evadir costos, obligaciones, participación económica o recuperación de capital.
+
+## CLÁUSULA 31B. PRESUPUESTO, GASTOS Y AUSENCIA DE REEMBOLSO AUTOMÁTICO
+
+Todo gasto realizado con expectativa de reembolso, reconocimiento como inversión o incorporación al Capital Empresarial Fundacional deberá estar relacionado con FELIPEGIL360 y contar, cuando sea razonablemente posible, con autorización, presupuesto, soporte y finalidad documentada.
+
+Los gastos personales, familiares o ajenos al objeto de EL PROYECTO no podrán cargarse a FELIPEGIL360. La realización unilateral de un gasto no obliga automáticamente a la otra parte a reembolsarlo.
+
+Los gastos urgentes necesarios para proteger personas, activos, contratos o continuidad operativa podrán reconocerse posteriormente cuando sean razonables, verificables y proporcionales.
+
+Antes de asumir nuevas obligaciones relevantes, LAS PARTES deberán evaluar disponibilidad de caja, obligaciones existentes, recuperación pendiente del Capital Empresarial Fundacional, capacidad real de pago, necesidad, alternativas de menor costo, impacto esperado y responsable del pago.
+
+Ninguna parte podrá comprometer el crédito, patrimonio o capacidad financiera de la otra sin autorización previa y expresa.
 
 ---
 
@@ -898,7 +937,7 @@ EL TALENTO autoriza el uso razonable de su imagen, voz, nombre artístico o come
 - portafolios;
 - campañas;
 - propuestas comerciales;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - productos;
 - patrocinadores aprobados;
 - actividades relacionadas con el objeto empresarial.
@@ -909,7 +948,7 @@ No se autorizan usos ilícitos, engañosos, difamatorios, pornográficos, polít
 
 ## CLÁUSULA 38. CONTENIDOS
 
-Los videos, fotografías, audios, transmisiones, entrevistas, podcasts, cursos, guiones, diseños, miniaturas, publicaciones, archivos maestros y demás materiales producidos para EL PROYECTO constituyen activos empresariales.
+Los videos, fotografías, audios, transmisiones, entrevistas, podcasts, cursos conjuntos, guiones, diseños, miniaturas, publicaciones, archivos maestros y demás materiales producidos específicamente para EL PROYECTO constituyen activos empresariales. Esta regla no comprende las actividades educativas históricas o verdaderamente independientes de EL TALENTO.
 
 Se respetarán:
 
@@ -930,7 +969,7 @@ Podrán conservarse y explotarse:
 
 - publicaciones históricas;
 - biblioteca audiovisual;
-- materiales educativos;
+- materiales educativos conjuntos;
 - campañas cumplidas;
 - archivos documentales;
 - contenido monetizado;
@@ -949,23 +988,21 @@ La inclusión del nombre de EL TALENTO en una marca no transfiere su nombre civi
 
 ---
 
-## CLÁUSULA 41. CUENTAS Y REDES SOCIALES
+## CLÁUSULA 41. CUENTAS, REDES SOCIALES E INSTAGRAM PERSONAL
 
-Las cuentas oficiales, canales, páginas, dominios, sistemas de monetización, cuentas publicitarias, analíticas y herramientas creadas o desarrolladas para EL PROYECTO constituyen activos empresariales.
+La cuenta personal de Instagram de EL TALENTO, creada antes del 1 de junio de 2022, conservará su titularidad personal, exclusiva e intransferible.
 
-El correo, teléfono o perfil personal utilizado para registrarlos no determina por sí solo su titularidad económica.
+Como referencia histórica aproximada sujeta a verificación, al inicio tenía cerca de sesenta publicaciones y aproximadamente diez mil seguidores.
 
-Ninguna parte podrá unilateralmente:
+Durante FELIPEGIL360 recibió producción, grabación, edición, estrategia, administración, financiación, contenido y actividad deportiva vinculados con EL PROYECTO.
 
-- eliminar administradores;
-- cambiar mecanismos de recuperación;
-- retener accesos;
-- ocultar ingresos;
-- transferir cuentas;
-- eliminar contenido;
-- desviar audiencias;
-- bloquear la operación;
-- apropiarse de monetización.
+Como referencia aproximada alcanzó cerca de doscientas setenta publicaciones, llegó a un máximo cercano a noventa mil seguidores y posteriormente se estabilizó alrededor de sesenta mil.
+
+La propiedad personal de la cuenta no elimina el reconocimiento económico del valor incremental demostrablemente generado por inversión, producción, grabación, edición, estrategia, administración, publicidad, competencias, contenidos, relaciones y recursos de FELIPEGIL360.
+
+Ese valor incremental podrá considerarse en valoración, Buy-Out, compensación o liquidación sin transferir la propiedad de la cuenta a EL FUNDADOR.
+
+Las cuentas empresariales creadas, financiadas, alimentadas y administradas para FELIPEGIL360 formarán parte del Patrimonio Empresarial conforme a su origen y soportes.
 
 ---
 
@@ -978,8 +1015,6 @@ La estructura organizada de cuentas, contenido, métricas, relaciones, posiciona
 El goodwill desarrollado mediante inversión, estrategia, producción, actividad deportiva, contenido y comunidad forma parte del Patrimonio Empresarial.
 
 ---
-
-<!-- CLAUSULA-42A-IMAGEN-POSTERIOR -->
 
 ## CLÁUSULA 42A. USO DE CONTENIDOS E IMAGEN DESPUÉS DE LA TERMINACIÓN
 
@@ -1019,8 +1054,6 @@ La eliminación de contenido histórico únicamente procederá por:
 - infracción legal comprobada;
 - afectación grave y objetiva a derechos fundamentales;
 - incumplimiento de una obligación contractual específica.
-
-<!-- FIN-CLAUSULA-42A-IMAGEN-POSTERIOR -->
 
 ---
 
@@ -1137,22 +1170,13 @@ para obtener una ventaja desproporcionada o destruir el valor de EL PROYECTO.
 
 ---
 
-## CLÁUSULA 50. CONFLICTOS DE INTERÉS
+## CLÁUSULA 50. CONFLICTOS DE INTERÉS, ACTIVIDADES PERSONALES Y OPORTUNIDADES DEL PROYECTO
 
-Toda oportunidad que utilice sustancialmente la marca, comunidad, activos, relaciones, contenido o goodwill de EL PROYECTO deberá informarse.
+Las actividades históricas e independientes de coaching, cursos, instrucción, simulador, telemetría o clínicas de manejo de EL TALENTO no constituirán por sí mismas competencia desleal ni desvío.
 
-Las actividades estrictamente personales y ajenas a los activos de EL PROYECTO podrán desarrollarse libremente, siempre que no exista:
-
-- confusión de marca;
-- competencia desleal;
-- desvío de oportunidades;
-- uso no autorizado de activos;
-- incumplimiento con patrocinadores.
+Podrá existir conflicto cuando una actividad personal capte clientes originados directamente en FELIPEGIL360, utilice cuentas, campañas, bases de datos, activos o contenido empresarial sin autorización, facture por fuera una oportunidad negociada conjuntamente, utilice patrocinadores o recursos pagados por EL PROYECTO, interfiera con contratos vigentes o genere confusión deliberada sobre la marca.
 
 ---
-
-# CAPÍTULO VIII
-# INCUMPLIMIENTO Y MEDIDAS CORRECTIVAS
 
 ## CLÁUSULA 51. INCUMPLIMIENTO
 
@@ -1240,8 +1264,6 @@ No se aplicarán sanciones desproporcionadas ni pérdida automática de todos lo
 
 ---
 
-<!-- CLAUSULA-55A-PENAL-RESTITUCION -->
-
 ## CLÁUSULA 55A. CLÁUSULA PENAL, RESTITUCIÓN Y CONSECUENCIAS ECONÓMICAS
 
 Las siguientes conductas constituirán incumplimientos especialmente graves cuando sean intencionales, injustificados y puedan acreditarse mediante medios verificables:
@@ -1285,8 +1307,6 @@ Salvo conducta que produzca daño irreparable, deberá existir requerimiento esc
 
 La exigibilidad de la pena dependerá de que la obligación, el hecho activador y su cuantía puedan determinarse de manera clara, expresa y exigible conforme al presente contrato y a la evidencia disponible.
 
-<!-- FIN-CLAUSULA-55A-PENAL-RESTITUCION -->
-
 ---
 
 # CAPÍTULO IX
@@ -1307,22 +1327,27 @@ Durante el periodo de transición deberá colaborar razonablemente en:
 
 ---
 
-## CLÁUSULA 57. EFECTO DEL RETIRO
+## CLÁUSULA 57. EFECTO DEL RETIRO Y TRATAMIENTO DE INSTAGRAM
 
-El retiro no permite llevarse unilateralmente:
+En caso de retiro de EL TALENTO, la cuenta personal de Instagram permanecerá bajo su control y propiedad exclusiva.
 
-- cuentas;
-- marca;
-- contenidos;
-- comunidad;
-- contratos;
-- ingresos;
-- biblioteca audiovisual;
-- activos;
-- relaciones comerciales;
-- goodwill.
+Dentro de los diez días hábiles siguientes al inicio de la transición, LAS PARTES deberán:
 
-Los derechos de la parte que se retira deberán resolverse mediante continuidad, licencia, Buy-Out, venta, distribución o liquidación.
+- retirar o actualizar accesos administrativos que ya no correspondan;
+- conservar copias de analíticas, publicaciones, archivos y soportes relacionados con la actividad de FELIPEGIL360;
+- identificar campañas, obligaciones y publicaciones pendientes;
+- acordar la continuidad o cierre de compromisos comerciales vigentes;
+- abstenerse de borrar, ocultar o alterar material empresarial necesario para valoración, prueba o rendición de cuentas.
+
+La devolución y continuidad personal de la cuenta no eliminarán:
+
+- los derechos sobre contenidos legítimamente producidos;
+- los derechos de archivo y prueba;
+- las obligaciones económicas pendientes;
+- el reconocimiento del valor incremental demostrablemente producido por FELIPEGIL360;
+- las compensaciones que resulten de una valoración independiente.
+
+El reconocimiento del valor incremental no permitirá retener la cuenta, impedir su uso personal por EL TALENTO ni presentarlo como vinculado a nuevas campañas después de la terminación sin su autorización previa y escrita.
 
 ---
 
@@ -1349,8 +1374,6 @@ Si EL FUNDADOR reduce o termina su actividad operativa:
 - podrá activarse Buy-Out o reorganización si la continuidad lo requiere.
 
 ---
-
-<!-- CLAUSULA-59A-CONSERVACION-DERECHOS-INACTIVIDAD -->
 
 ## CLÁUSULA 59A. CONSERVACIÓN DE DERECHOS EN CASO DE INACTIVIDAD, REDUCCIÓN OPERATIVA O SUSPENSIÓN
 
@@ -1557,8 +1580,6 @@ La oferta deberá indicar:
 
 ---
 
-<!-- CLAUSULA-66A-BUYOUT-DEADLOCK -->
-
 ## CLÁUSULA 66A. ACTIVACIÓN DEL BUY-OUT Y RESOLUCIÓN DE BLOQUEO
 
 Cualquiera de LAS PARTES podrá activar por escrito el procedimiento de Buy-Out cuando ocurra alguno de los siguientes eventos:
@@ -1630,8 +1651,6 @@ En caso de pago a plazos deberán pactarse como mínimo:
 La parte vendedora deberá firmar y ejecutar los documentos razonablemente necesarios para materializar la transferencia dentro de los cinco días hábiles siguientes al pago o constitución de las garantías.
 
 La negativa injustificada a firmar permitirá exigir el cumplimiento por los mecanismos legales aplicables, sin que opere apropiación automática de derechos personalísimos o bienes no incluidos en la operación.
-
-<!-- FIN-CLAUSULA-66A-BUYOUT-DEADLOCK -->
 
 ---
 
@@ -1917,8 +1936,6 @@ Para efectos contractuales se fija como domicilio principal Medellín y su área
 
 ---
 
-<!-- CLAUSULA-89A-NOTIFICACIONES-FIRMA -->
-
 ## CLÁUSULA 89A. COMUNICACIONES, NOTIFICACIONES Y FIRMA ELECTRÓNICA
 
 LAS PARTES designan los siguientes canales:
@@ -1971,8 +1988,6 @@ Cada parte recibirá una copia íntegra del documento firmado.
 
 Cuando sea posible, se conservará el archivo final en formato no editable y su hash SHA-256 como mecanismo adicional de integridad.
 
-<!-- FIN-CLAUSULA-89A-NOTIFICACIONES-FIRMA -->
-
 ---
 
 ## CLÁUSULA 90. DURACIÓN INDEFINIDA, CONTINUIDAD Y PERMANENCIA DE LOS DERECHOS HISTÓRICOS
@@ -2018,9 +2033,9 @@ Toda renuncia, condonación, transacción, cesión o modificación de los derech
 
 Las partes reconocen expresamente que:
 
-1. EL PROYECTO nació desde cero como una iniciativa empresarial organizada principalmente por EL FUNDADOR;
+1. FELIPEGIL360 nació como una nueva estructura empresarial, audiovisual, digital y patrimonial organizada principalmente por EL FUNDADOR, construida alrededor de capacidades, trayectoria, imagen, conocimientos, actividades educativas y presencia personal previamente desarrolladas por EL TALENTO;
 
-2. EL TALENTO aportó capacidades técnicas, deportivas, comunicativas y participación personal esenciales;
+2. EL TALENTO aportó capacidades técnicas, deportivas, comunicativas, trayectoria, reconocimiento personal, actividades educativas independientes y participación personal esenciales;
 
 3. EL FUNDADOR asumió la mayor exposición económica, financiera y patrimonial durante la etapa fundacional;
 
@@ -2036,42 +2051,20 @@ Las partes reconocen expresamente que:
 
 9. los derechos personalísimos permanecen bajo titularidad de su titular;
 
-10. la marca, cuentas, contenido, comunidad, goodwill y relaciones desarrolladas constituyen valor empresarial;
+10. la cuenta personal de Instagram de EL TALENTO conserva su titularidad personal, sin perjuicio del reconocimiento económico del valor incremental demostrablemente producido mediante FELIPEGIL360;
 
-11. ninguna parte podrá apropiarse unilateralmente del valor construido;
+11. los cursos, coaching, clínicas, simulador, telemetría, asesorías y metodologías históricas e independientes de EL TALENTO continúan siendo de su propiedad exclusiva, salvo acuerdo previo y escrito para crear un producto conjunto;
 
-12. la recuperación de capital no obliga a reinvertir;
+12. la marca, cuentas empresariales, contenido, comunidad, goodwill y relaciones desarrolladas mediante EL PROYECTO constituyen valor empresarial;
 
-13. el retiro de una parte no elimina los derechos económicos consolidados ni permite paralizar o destruir EL PROYECTO;
+13. ninguna parte podrá apropiarse unilateralmente del valor construido mediante aportes sustanciales de ambas partes;
 
-14. toda valoración deberá reconocer dinero, activos, trabajo, tiempo, riesgo, participación técnica, imagen, obligaciones y capacidad futura de generación de ingresos;
+14. la recuperación de capital no obliga a reinvertir;
 
-15. el propósito de este contrato es proteger el valor creado y permitir que EL PROYECTO continúe operando hacia su crecimiento, sostenibilidad y éxito.
+15. el retiro de una parte no elimina los derechos económicos consolidados ni permite paralizar o destruir EL PROYECTO;
 
----
+16. toda valoración deberá reconocer dinero, activos, trabajo, tiempo, riesgo, trayectoria previa, participación técnica, imagen, producción, obligaciones y capacidad futura de generación de ingresos;
 
-# FIRMAS
-
-En constancia de aceptación, las partes firman el presente Contrato Maestro.
-
-_________________________________
-
-**ANDRÉS DAVID MEJÍA HERRERA**
-C.C. No. **1035425065**, expedida en **Copacabana**
-Fundador, Inversionista Fundacional y Director Estratégico
-
-Firma: ______________________________
-
-Fecha: ______________________________
+17. el propósito de este contrato es proteger el valor creado y permitir que EL PROYECTO continúe operando hacia su crecimiento, sostenibilidad y éxito.
 
 ---
-
-_________________________________
-
-**LUIS FELIPE GIL BETANCUR**
-C.C. No. **1026152827**, expedida en **Itagüí**
-Talento Fundador
-
-Firma: ______________________________
-
-Fecha: ______________________________

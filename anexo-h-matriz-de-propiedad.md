@@ -1,9 +1,13 @@
 # ANEXO H
-# MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS
+# MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS DE FELIPEGIL360
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -104,6 +108,38 @@ Ningún porcentaje económico se considerará propiedad jurídica sin el soporte
 
 ---
 
+# 8A. MATRIZ ESPECIAL DE INSTAGRAM PERSONAL
+
+| Elemento | Titularidad jurídica | Administración histórica | Derecho económico | Transferencia |
+|---|---|---|---|---|
+| Cuenta personal de Instagram de EL TALENTO | EL TALENTO | Según evidencia de accesos, publicaciones y administración | La audiencia previa pertenece a EL TALENTO; el valor incremental demostrablemente generado mediante FELIPEGIL360 podrá ser objeto de valoración o compensación | No se transfiere sin consentimiento expreso |
+| Contenidos producidos para FELIPEGIL360 y publicados en Instagram | Según autoría, financiación, licencias y acuerdos | Según evidencia | Podrán integrar el Patrimonio Empresarial y conservar derechos de explotación histórica | La cuenta no se transfiere por la titularidad del contenido |
+| Analíticas, reportes y archivos empresariales | Según origen y custodia | Según evidencia | Sirven para demostrar crecimiento, inversión y valor incremental | Deberán conservarse y entregarse en la transición |
+
+# 8B. MATRIZ ESPECIAL DE CURSOS Y ACTIVIDADES EDUCATIVAS
+
+| Actividad | Titularidad | Ingreso |
+|---|---|---|
+| Cursos, coaching, clínicas, simulador, telemetría y asesorías históricas e independientes de EL TALENTO | EL TALENTO | 100 % de EL TALENTO |
+| Producto educativo creado específicamente para FELIPEGIL360 mediante acuerdo previo y escrito | Según acuerdo | Según acuerdo |
+| Actividad personal que utilice un recurso específico del Proyecto | EL TALENTO conserva la actividad | Puede generar reembolso o contraprestación por el recurso utilizado |
+
+---
+
+# 8C. MATRIZ DE RECURSOS EMPRESARIALES UTILIZADOS EN ACTIVIDADES PERSONALES
+
+| Situación | Titular del ingreso | Tratamiento de recursos de FELIPEGIL360 |
+|---|---|---|
+| Curso histórico e independiente sin recursos empresariales sustanciales | EL TALENTO | No genera participación para EL PROYECTO |
+| Actividad personal con uso autorizado de un recurso específico | Titular de la actividad personal | Reembolso del costo directo o contraprestación acordada |
+| Oportunidad originada, negociada, financiada o producida directamente por FELIPEGIL360 | Según Contrato Maestro y acuerdo económico | Se trata como oportunidad empresarial |
+| Curso o producto educativo conjunto acordado por escrito | Según acuerdo | Costos e ingresos según acuerdo previo |
+| Gasto personal o familiar | Parte que lo realiza | No podrá cargarse a EL PROYECTO |
+
+La necesidad económica personal no modifica por sí sola la naturaleza personal o empresarial de una oportunidad.
+
+---
+
 # 9. ACTIVOS DIGITALES
 
 Las cuentas digitales deberán diferenciar:
@@ -128,7 +164,7 @@ El Proyecto conservará los derechos económicos y de explotación legítima sob
 
 # 11. ACTIVOS CON INGRESOS DEL PROYECTO
 
-Los activos adquiridos mediante patrocinios, monetización, ventas, cursos, eventos, servicios u otros ingresos propios estarán económicamente vinculados al Proyecto.
+Los activos adquiridos mediante patrocinios, monetización, ventas, cursos conjuntos, eventos, servicios u otros ingresos propios de FELIPEGIL360 estarán económicamente vinculados a EL PROYECTO. Se excluyen los ingresos personales derivados de las actividades educativas históricas o independientes de EL TALENTO.
 
 Ninguna parte podrá apropiarse unilateralmente de ellos por figurar como comprador formal o administrador.
 

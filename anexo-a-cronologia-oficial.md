@@ -1,9 +1,13 @@
 # ANEXO A
-# CRONOLOGÍA OFICIAL DEL PROYECTO
+# CRONOLOGÍA OFICIAL DEL PROYECTO FELIPEGIL360
 
 **Versión: 2.0**
 
 Documento integrante del Sistema Documental del Proyecto.
+
+---
+
+> **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
 ---
 
@@ -64,15 +68,15 @@ El Suzuki Swift GTi había sido adquirido por ANDRÉS DAVID MEJÍA HERRERA vario
 
 Una vez solucionado el inconveniente técnico, ANDRÉS DAVID MEJÍA HERRERA identificó que los conocimientos técnicos, habilidades deportivas y potencial comunicativo de LUIS FELIPE GIL BETANCUR podían servir como base para desarrollar una iniciativa empresarial.
 
-En ese momento, dichos atributos constituían capacidades personales con potencial, pero todavía no estaban organizados como:
+En ese momento, EL TALENTO ya contaba con trayectoria deportiva, conocimientos técnicos, reconocimiento personal, cuenta de Instagram, audiencia previa, contactos, apoyos y actividades educativas independientes. Sin embargo, dichos elementos todavía no estaban integrados en una estructura empresarial conjunta organizada como:
 
 - una marca comercial consolidada;
 - un producto empresarial terminado;
-- una comunidad digital significativa;
+- una comunidad digital empresarial consolidada y depurada, diferenciada de la audiencia personal previa;
 - una estructura organizada de monetización;
 - una producción audiovisual permanente;
 - una biblioteca de contenido con valor comercial;
-- una red consolidada de patrocinadores;
+- una red empresarial consolidada y documentada de patrocinadores vinculada a FELIPEGIL360;
 - un Patrimonio Empresarial independiente;
 - una fuente estable de ingresos vinculada a su actividad pública.
 
@@ -116,7 +120,7 @@ Al momento de iniciar el Proyecto:
 - no existía un Patrimonio Empresarial organizado;
 - no existía certeza acerca de la viabilidad económica de la iniciativa.
 
-Por lo anterior, el Proyecto comenzó desde una etapa de creación empresarial y patrimonial.
+Por lo anterior, FELIPEGIL360 comenzó desde una etapa de creación y organización empresarial y patrimonial, apoyándose en capacidades y activos personales preexistentes de EL TALENTO y en la inversión, estructuración, producción y dirección aportadas por EL FUNDADOR.
 
 ---
 
@@ -129,7 +133,7 @@ El Proyecto buscó transformar capacidades personales y deportivas en activos or
 - monetización de contenido;
 - patrocinios;
 - representación de marcas;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - conferencias;
 - eventos;
 - publicidad;
@@ -293,7 +297,7 @@ Con el crecimiento del Proyecto se hizo cada vez más relevante que su operació
 - monetización;
 - publicidad;
 - productos;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - servicios;
 - licenciamientos;
@@ -353,7 +357,7 @@ Estos recursos incluyen:
 - ingresos provenientes de patrocinios;
 - monetización de plataformas;
 - publicidad;
-- cursos;
+- cursos conjuntos creados específicamente para FELIPEGIL360 mediante acuerdo previo y escrito;
 - eventos;
 - productos;
 - servicios;
@@ -401,8 +405,6 @@ La sostenibilidad del Proyecto requiere que LUIS FELIPE GIL BETANCUR continúe p
 Su participación personal constituye una función continua y esencial, sin que ello implique disponibilidad absoluta ni desconocimiento de su salud, seguridad o circunstancias justificadas.
 
 ---
-
-<!-- REGISTRO-HISTORICO-ACTIVOS-EVENTOS-2023-2026 -->
 
 # 7.5. Inversiones, logística y desarrollo deportivo documentados
 
