@@ -1,6 +1,6 @@
 # ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
 
-**Versión 5.0 — Contrato Maestro Consolidado**
+**Versión 5.1 — Contrato Maestro Consolidado**
 
 ---
 
@@ -673,6 +673,59 @@ Ninguna parte podrá aumentar artificialmente gastos, anticipar compras, crear r
 
 ---
 
+---
+
+---
+
+## CLÁUSULA 24D. RECONOCIMIENTO DE TRABAJO, INVERSIÓN Y RIESGO
+
+Los desembolsos, activos, servicios profesionales, producción, edición, administración, dirección estratégica, tecnología, logística, tiempo y riesgo patrimonial aportados para FELIPEGIL360 deberán ser reconocidos de acuerdo con su verdadera naturaleza y evidencia disponible.
+
+No será obligatorio que cada hora, actividad o gasto haya sido previamente registrado para que pueda ser demostrado posteriormente.
+
+La valoración podrá reconstruirse mediante:
+
+- archivos;
+- publicaciones;
+- proyectos de edición;
+- mensajes;
+- calendarios;
+- desplazamientos;
+- comprobantes;
+- entregables;
+- tarifas razonables de mercado;
+- costo de sustitución;
+- testimonios;
+- demás evidencia válida.
+
+El reconocimiento no implicará doble contabilización ni deuda personal automática de EL TALENTO.
+
+Los valores reconocidos se tendrán en cuenta obligatoriamente en la determinación del Capital Empresarial Fundacional, participación económica, recuperación de capital, Buy-Out, venta o liquidación.
+
+## CLÁUSULA 25A. TRAZABILIDAD DE INGRESOS Y RECURSOS
+
+Todo ingreso recibido por concepto de monetización, patrocinio, publicidad, contenido, evento, producto, servicio, licencia, curso conjunto u oportunidad de FELIPEGIL360 deberá ser informado, soportado y destinado conforme al Contrato Maestro.
+
+El hecho de que un ingreso empresarial sea recibido en una cuenta personal no modifica su naturaleza ni lo convierte en propiedad exclusiva del titular de la cuenta.
+
+Quien reciba recursos empresariales deberá:
+
+1. informar oportunamente su recepción;
+
+2. identificar su origen y finalidad;
+
+3. conservar el soporte correspondiente;
+
+4. evitar su mezcla injustificada con recursos personales;
+
+5. transferirlos, aplicarlos o registrarlos conforme a las reglas económicas de EL PROYECTO;
+
+6. rendir cuenta razonable cuando sea solicitado.
+
+Los ingresos personales verdaderamente independientes de cada parte conservarán su naturaleza personal.
+
+Ninguna parte podrá ocultar, desviar, retener o presentar como personal un ingreso que haya sido generado sustancialmente mediante activos, recursos, relaciones o actividades de FELIPEGIL360.
+
 ## CLÁUSULA 26. RECUPERACIÓN DEL CAPITAL
 
 El Capital Empresarial Fundacional podrá reconocerse o recuperarse mediante:
@@ -857,6 +910,34 @@ Ninguna parte podrá comprometer el crédito, patrimonio o capacidad financiera 
 
 ---
 
+---
+
+## CLÁUSULA 31C. HONESTIDAD, TRANSPARENCIA Y PROTECCIÓN ECONÓMICA GENERAL
+
+LAS PARTES deberán ejecutar el presente contrato con honestidad, transparencia, lealtad, buena fe, cooperación, trazabilidad y respeto por los aportes, bienes, derechos, trabajo, riesgos y necesidades legítimas de la otra parte.
+
+Ninguna parte podrá aprovechar vacíos, errores, falta de actualización documental, informalidad operativa, control material de una cuenta, titularidad formal, acceso técnico, necesidad económica, silencio o ausencia temporal de la otra para apropiarse de activos, ingresos, oportunidades, relaciones, contenidos, información o derechos económicos que correspondan total o parcialmente a FELIPEGIL360.
+
+La falta de registro individual de una cuenta, activo, plataforma, ingreso, patrocinador, contenido, equipo, gasto, inversión u oportunidad no impedirá reconocer su verdadera naturaleza cuando pueda demostrarse mediante evidencia suficiente.
+
+Para determinar si un recurso pertenece, se vincula o genera obligaciones frente a FELIPEGIL360 se analizarán, entre otros criterios:
+
+- su origen;
+- la fuente de financiación;
+- quién asumió el riesgo;
+- quién realizó el trabajo;
+- los recursos utilizados;
+- la marca o cuenta mediante la cual se desarrolló;
+- el cliente o patrocinador involucrado;
+- la finalidad;
+- las comunicaciones existentes;
+- el beneficio obtenido;
+- la conducta histórica de LAS PARTES.
+
+En caso de duda razonable, ninguna parte podrá actuar unilateralmente en beneficio propio. Deberá informar a la otra, conservar el activo o recurso, evitar daños y procurar una solución verificable y razonable.
+
+Esta cláusula no convierte automáticamente ingresos personales legítimos en ingresos del Proyecto ni crea obligaciones personales no pactadas.
+
 ## CLÁUSULA 32. ACTIVOS ADQUIRIDOS CON INGRESOS DE EL PROYECTO
 
 Los activos adquiridos con ingresos de EL PROYECTO estarán económicamente vinculados al Patrimonio Empresarial.
@@ -1005,6 +1086,57 @@ Ese valor incremental podrá considerarse en valoración, Buy-Out, compensación
 Las cuentas empresariales creadas, financiadas, alimentadas y administradas para FELIPEGIL360 formarán parte del Patrimonio Empresarial conforme a su origen y soportes.
 
 ---
+
+---
+
+## CLÁUSULA 41A. CONTROL, CONTINUIDAD Y TRAZABILIDAD DE ACTIVOS DIGITALES
+
+Toda cuenta, canal, dominio, plataforma, sistema de monetización, almacenamiento, herramienta tecnológica, cuenta publicitaria o infraestructura creada, adquirida, financiada o utilizada sustancialmente para FELIPEGIL360 quedará sometida a las reglas de protección del Patrimonio Empresarial, aunque no se encuentre individualmente relacionada en un anexo.
+
+EL FUNDADOR deberá conservar acceso administrativo suficiente a los activos digitales empresariales para ejercer sus funciones de dirección, supervisión, respaldo y protección patrimonial.
+
+EL TALENTO conservará la titularidad y control de sus cuentas personales preexistentes, sin perjuicio de los accesos operativos autorizados, contenidos empresariales, obligaciones de transición y derechos económicos reconocidos a FELIPEGIL360.
+
+Ninguna parte podrá unilateralmente:
+
+- eliminar administradores;
+- bloquear accesos legítimos;
+- cambiar sistemas de monetización;
+- transferir cuentas o dominios;
+- eliminar contenidos o respaldos;
+- modificar datos de recuperación con intención de excluir a la otra;
+- ocultar analíticas o ingresos;
+- impedir la continuidad razonable de EL PROYECTO.
+
+Toda modificación crítica deberá ser informada y conservar trazabilidad suficiente.
+
+En caso de retiro, controversia o terminación, LAS PARTES deberán realizar una transición ordenada, preservar la evidencia, devolver bienes personales y mantener temporalmente los accesos estrictamente necesarios para proteger los derechos contractuales existentes.
+
+---
+
+## CLÁUSULA 41B. VALOR INCREMENTAL DE INSTAGRAM
+
+La cuenta personal de Instagram de EL TALENTO conservará su titularidad personal.
+
+Sin embargo, en caso de retiro, Buy-Out, reorganización, venta o liquidación, deberá reconocerse el valor incremental demostrablemente generado durante FELIPEGIL360 mediante inversión, producción, edición, administración, estrategia, publicidad, contenido, competencias, relaciones comerciales y demás recursos empresariales.
+
+Ese valor se determinará razonablemente mediante acuerdo o valoración independiente, considerando, según la evidencia disponible:
+
+- crecimiento de audiencia;
+- calidad y autenticidad de la comunidad;
+- alcance e interacción;
+- crecimiento de publicaciones;
+- ingresos históricos;
+- capacidad comercial;
+- costos de producción y administración;
+- publicidad y recursos invertidos;
+- contenido producido;
+- goodwill desarrollado;
+- recuperaciones económicas previamente obtenidas.
+
+La falta de una fórmula matemática previa no eliminará el derecho al reconocimiento.
+
+Ninguna valoración podrá apropiarse del valor personal previo de EL TALENTO ni desconocer el valor empresarial producido mediante FELIPEGIL360.
 
 ## CLÁUSULA 42. COMUNIDAD Y GOODWILL
 
@@ -1654,6 +1786,23 @@ La negativa injustificada a firmar permitirá exigir el cumplimiento por los mec
 
 ---
 
+---
+
+## CLÁUSULA 66B. SALIDA RECÍPROCA EN ACTIVOS COMPARTIDOS
+
+Cuando exista un bloqueo insalvable sobre un activo compartido y no sea posible acordar su venta, uso, administración o liquidación, cualquiera de LAS PARTES podrá presentar una oferta escrita para adquirir la participación económica de la otra.
+
+La parte receptora podrá:
+
+- aceptar la venta de su participación al precio propuesto; o
+- adquirir la participación del oferente utilizando la misma valoración proporcional.
+
+La oferta deberá ser seria, verificable, incluir forma y plazo de pago y demostrar capacidad razonable de cumplimiento.
+
+Este mecanismo podrá aplicarse a vehículos, equipos u otros activos compartidos cuya participación económica pueda determinarse.
+
+Antes de su aplicación deberán descontarse las obligaciones directamente asociadas con el activo y respetarse los bienes personales y derechos de terceros.
+
 ## CLÁUSULA 67. PRECIO DEL BUY-OUT
 
 El precio deberá reconocer, según corresponda:
@@ -1834,6 +1983,23 @@ Esta cláusula no impide desarrollar actividades personales legítimas que no ut
 
 # CAPÍTULO XIII
 # SOLUCIÓN DE CONTROVERSIAS
+
+---
+
+## CLÁUSULA 78A. NO DESVÍO Y NO CAPTACIÓN
+
+Durante la vigencia del contrato y por un periodo razonable posterior a su terminación, ninguna parte podrá desviar, inducir o aprovechar de manera desleal relaciones con patrocinadores, clientes, proveedores, colaboradores o aliados desarrolladas sustancialmente mediante FELIPEGIL360.
+
+Esta regla no impedirá:
+
+- relaciones personales demostrablemente anteriores;
+- actividades profesionales legítimas;
+- cursos históricos independientes de EL TALENTO;
+- oportunidades obtenidas sin utilizar información, activos o relaciones empresariales protegidas.
+
+En caso de controversia se analizarán el origen de la relación, la fecha, las gestiones realizadas, los recursos utilizados y la participación efectiva de cada parte.
+
+La prohibición se limitará a impedir la apropiación o desviación desleal y no podrá utilizarse para impedir injustificadamente que una parte trabaje o genere ingresos legítimos.
 
 ## CLÁUSULA 79. NEGOCIACIÓN DIRECTA
 

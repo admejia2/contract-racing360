@@ -1,7 +1,7 @@
 # ANEXO E
 # PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL DE FELIPEGIL360
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -123,6 +123,18 @@ Los cursos, coaching, clínicas, simulador, telemetría, asesorías y metodolog�
 Solo serán activos empresariales los productos educativos creados específicamente para EL PROYECTO mediante acuerdo previo y escrito que determine inversión, producción, propiedad, costos, ingresos, bases de datos y derechos sobre grabaciones.
 
 ---
+
+---
+
+# 7C. CONTINUIDAD Y PROTECCIÓN GENERAL DE ACTIVOS DIGITALES
+
+Toda cuenta, canal, dominio, plataforma, sistema de monetización, almacenamiento, cuenta publicitaria o infraestructura utilizada sustancialmente para FELIPEGIL360 quedará protegida aunque no haya sido individualizada.
+
+EL FUNDADOR deberá conservar acceso administrativo suficiente a los activos empresariales y EL TALENTO conservará el control de sus cuentas personales preexistentes.
+
+Ninguna parte podrá bloquear accesos legítimos, ocultar analíticas o ingresos, transferir cuentas, eliminar respaldos o cambiar datos críticos con intención de excluir a la otra.
+
+En caso de retiro o controversia se aplicará una transición ordenada y se conservará la evidencia.
 
 # 8. CURSOS, MÉTODOS Y PRODUCTOS
 

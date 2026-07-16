@@ -1,7 +1,7 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
-**Versión: 3.0**
+**Versión: 3.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1303,6 +1303,26 @@ Cuando una actividad personal utilice recursos empresariales, su titular conserv
 La recuperación del Capital Empresarial Fundacional tendrá prioridad sobre distribuciones de excedentes empresariales, pero no convierte automáticamente los ingresos personales independientes en recursos del Proyecto.
 
 ---
+
+---
+
+# 23.8. RECONSTRUCCIÓN RAZONABLE Y AUSENCIA DE FORMALISMO EXCESIVO
+
+La falta de registro previo, formato específico o consolidación inmediata no eliminará un aporte, desembolso, activo, servicio, trabajo profesional, costo de oportunidad o riesgo patrimonial cuando pueda reconstruirse razonablemente.
+
+Podrán utilizarse archivos, publicaciones, proyectos de edición, mensajes, calendarios, desplazamientos, comprobantes, entregables, tarifas de mercado, costo de sustitución, testimonios y demás evidencia válida.
+
+Toda reconstrucción deberá respetar:
+
+- honestidad;
+- transparencia;
+- proporcionalidad;
+- no doble contabilización;
+- descuento de recuperaciones;
+- diferenciación entre patrimonio personal y empresarial;
+- ausencia de deuda personal automática de EL TALENTO.
+
+La información incompleta podrá mantenerse como pendiente o controvertida sin ser eliminada.
 
 # FIRMAS
 

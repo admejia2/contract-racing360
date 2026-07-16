@@ -1,57 +1,79 @@
-[
-  {
-    "archivo": "acta-fundacional.md",
-    "bytes": 19000,
-    "sha256": "5b089ec088dffab5493497ccc7e529d5c4003c4c5e621a28f2b81e3c4163cb27"
+{
+  "acta-fundacional.md": {
+    "bytes": 20110,
+    "sha256": "fb3c94e7cc9084fbc3ac0bfbb7f6e42a289eb84056ecc51c47578cd9c3b24bcb",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "acta-reconocimiento-saldo-cef.md",
-    "bytes": 3047,
-    "sha256": "eb6b0fab95e537f77f9a53b315c51aee79fdf9247ea3ae377a1cf977899eab0b"
+  "acta-reconocimiento-saldo-cef.md": {
+    "bytes": 3508,
+    "sha256": "26b4997104d189748dcfe6912431d76147ed251d46739b84908bd9e5643c6d15",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-a-cronologia-oficial.md",
-    "bytes": 25119,
-    "sha256": "7e000835207f2096db33048b4430a74a73dc45491b4fd9b24d0507af9b83e9d5"
+  "anexo-a-cronologia-oficial.md": {
+    "bytes": 25487,
+    "sha256": "274fbd7cfad39b9ec665226f9af2ef7d535d7df68e90e161b852088f57f21487",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-b-inventario-inicial.md",
-    "bytes": 35578,
-    "sha256": "8200340b0af8e2a6727c2f58974a272c3d7d35d8a7e22788e34d565291da1726"
+  "anexo-b-inventario-inicial.md": {
+    "bytes": 36198,
+    "sha256": "772c8f6fc766fb5ed98760849d2895d032d3831920e8b694959927296d4d3329",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-c-capital-empresarial-fundacional.md",
-    "bytes": 46980,
-    "sha256": "74a8f48d16489d16f418a8249ada36f1aabababeafc150ee78059a23b66fbf2b"
+  "anexo-c-capital-empresarial-fundacional.md": {
+    "bytes": 47874,
+    "sha256": "ee299464ec177806b369bd9c590879ebf7d5f089051b444826e32378d40a1cda",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-d-patrimonio-empresarial.md",
-    "bytes": 11455,
-    "sha256": "584979246c41becdfcd0979093f1befd03a323433b795d7a8f0be154972148c4"
+  "anexo-d-patrimonio-empresarial.md": {
+    "bytes": 11991,
+    "sha256": "e012a9384f6fdcc597842406b3b3b97a17a85193f78e95bc5937a665c34a9fb1",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-e-propiedad-intelectual-e-ia.md",
-    "bytes": 9790,
-    "sha256": "2932d67544d1a60c2c24d0dcbdd487f32cb8485e42f63bce79d3e1f76c9dca22"
+  "anexo-e-propiedad-intelectual-e-ia.md": {
+    "bytes": 10537,
+    "sha256": "78dc1f5f1e900030dd24c76fa3d5c4ecb14e69e3e1687fc253e6ec0f339e6f88",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-f-gobierno-corporativo.md",
-    "bytes": 29398,
-    "sha256": "84abfc3b3655bf79d4bce50ede5ea0d9f3c3be480579ac84dd1cea998828695a"
+  "anexo-f-gobierno-corporativo.md": {
+    "bytes": 30233,
+    "sha256": "38caaf0fcc5e10c3560c9e9070ecf06e8ab434c6166e40477c34befb9cc9baab",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-g-libro-del-proyecto.md",
-    "bytes": 7468,
-    "sha256": "426b76c2f05781b439c778a69093228c1bd73880360007b7a66c25ce35d614d1"
+  "anexo-g-libro-del-proyecto.md": {
+    "bytes": 7996,
+    "sha256": "c5eb6f9e3a1f5aa4f860749e90af5ca6daf5626dd44161df5507da76aa0c0f2e",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "anexo-h-matriz-de-propiedad.md",
-    "bytes": 9150,
-    "sha256": "b8e682d8a793629d5b18ed4714c50d9ace894600224bb78a874e9dc5cf2a58c9"
+  "anexo-h-matriz-de-propiedad.md": {
+    "bytes": 9732,
+    "sha256": "4a9f7006c4f295bebfe9795f8abc5738cab507e6a2082ad0cd1fb963a516432c",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   },
-  {
-    "archivo": "contrato.md",
-    "bytes": 80715,
-    "sha256": "0049267e2e5de91fdc00ce44e18e77d0bbc10b820c5fb7e24d2f4174d911eb92"
+  "contrato.md": {
+    "bytes": 89431,
+    "sha256": "8704e481ebba45a3b0da98b71912dd287998a816f711921fa4abe78183d57fb6",
+    "trailing_newline": true,
+    "contains_racing360": false,
+    "contains_nacio_desde_cero": false
   }
-]
+}

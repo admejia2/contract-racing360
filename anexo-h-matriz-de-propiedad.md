@@ -1,7 +1,7 @@
 # ANEXO H
 # MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS DE FELIPEGIL360
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -70,6 +70,16 @@ Administrar, controlar técnicamente, custodiar, reparar, usar o mantener un act
 El administrador o custodio no podrá apropiarse unilateralmente del activo, sus ingresos o sus accesos.
 
 ---
+
+---
+
+# 5A. REGLA GENERAL DE DETERMINACIÓN SIN INVENTARIO EXHAUSTIVO
+
+La falta de una fila específica en la Matriz no elimina derechos económicos, de recuperación, administración, uso o titularidad que puedan acreditarse.
+
+La verdadera naturaleza de un activo, ingreso u oportunidad se determinará por su origen, financiación, riesgo, trabajo, finalidad, cuentas utilizadas, relaciones involucradas, beneficio obtenido y evidencia disponible.
+
+En caso de duda, ninguna parte podrá apropiarse unilateralmente del activo o ingreso hasta aclarar razonablemente su naturaleza.
 
 # 6. BIENES PERSONALES
 

@@ -1,7 +1,7 @@
 # ANEXO A
 # CRONOLOGÍA OFICIAL DEL PROYECTO FELIPEGIL360
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -607,6 +607,14 @@ Su interpretación deberá respetar especialmente que:
 8. el valor actualmente existente deberá analizarse como el resultado de un proceso empresarial progresivo, acumulativo y documentable.
 
 ---
+
+---
+
+# 10A. CRITERIO DE INTERPRETACIÓN POSTERIOR
+
+Los hechos históricos no dependerán exclusivamente de haber sido registrados en tiempo real.
+
+Cuando exista información incompleta, se reconstruirá razonablemente mediante evidencia, conducta histórica, transparencia, trazabilidad y buena fe, sin permitir apropiaciones unilaterales ni doble contabilización.
 
 # FIRMAS
 

@@ -94,6 +94,16 @@ Las partes manifiestan que revisaron los soportes, recuperaciones y actualizaci�
 
 La presente Acta no implica doble contabilización y reemplaza únicamente el saldo del período anterior, sin eliminar la memoria histórica de sus componentes.
 
+---
+
+## 10A. PRINCIPIOS DE REVISIÓN
+
+La ausencia de un formato previo o de un registro contemporáneo no eliminará automáticamente un aporte o recuperación que pueda demostrarse.
+
+La revisión deberá realizarse con honestidad, transparencia, trazabilidad, no doble contabilización y descuento de todas las recuperaciones conocidas.
+
+Ningún saldo se convertirá en obligación personal de LUIS FELIPE GIL BETANCUR salvo aceptación expresa en esta Acta.
+
 ## FIRMAS
 
 _________________________________

@@ -1,7 +1,7 @@
 # ANEXO B
 # INVENTARIO INICIAL DE BIENES, ACTIVOS, RECURSOS Y APORTES FUNDACIONALES DE FELIPEGIL360
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -173,6 +173,16 @@ Las cifras deberán acreditarse mediante analíticas, capturas, archivos histór
 Cuando existan indicadores de audiencia artificial o inauténtica, estos deberán documentarse mediante herramienta utilizada, fecha, metodología, porcentaje estimado y soportes verificables.
 
 ---
+
+---
+
+# 6B. AUSENCIA DE INVENTARIO EXHAUSTIVO
+
+El presente Inventario no requiere identificar manualmente cada activo menor, accesorio, cuenta, licencia, archivo o gasto para que pueda ser reconocido.
+
+Los elementos omitidos podrán acreditarse mediante facturas, archivos, publicaciones, metadatos, mensajes, fotografías, videos, testimonios, extractos y demás evidencia válida.
+
+La falta de registro no permitirá apropiarse de un bien ajeno ni desconocer un aporte real.
 
 # 7. ACTIVOS PERSONALES DE ANDRÉS UTILIZADOS POR EL PROYECTO
 
@@ -557,8 +567,8 @@ Los activos identificados como aportados por ANDRÉS DAVID MEJÍA HERRERA contin
 | Tráiler | 1 | Propietario externo | Bien recibido en préstamo | No aplica como activo de EL PROYECTO | Debe mantenerse y devolverse en buen estado |
 | GoPro 12 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.700.000 COP cada una; total $3.400.000 COP | Seminuevas |
 | GoPro 13 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.900.000 COP cada una; total $3.800.000 COP | Seminuevas |
-| Baterías GoPro | 6 | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Utilizadas con las cámaras |
-| Cargadores GoPro | Los utilizados para las seis baterías | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Uso audiovisual |
+| Baterías GoPro | 7 | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | $120.000 COP cada una; total $840.000 COP | Utilizadas con las cámaras |
+| Cargadores GoPro | Los utilizados para las siete baterías | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Uso audiovisual |
 | Micrófono | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal aportado en uso | $1.000.000 COP | Producción audiovisual |
 | Memorias microSD | Varias, capacidad total de 2 TB | ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento removible aportado en uso | $1.500.000 COP total | Grabación y respaldo audiovisual |
 | Gimbal | 1 | ANDRÉS DAVID MEJÍA HERRERA | Estabilizador personal aportado en uso | $1.000.000 COP | Producción audiovisual |
@@ -578,11 +588,12 @@ Los activos identificados como aportados por ANDRÉS DAVID MEJÍA HERRERA contin
 | GoPro 12 | 2 | $1.700.000 COP | $3.400.000 COP |
 | GoPro 13 | 2 | $1.900.000 COP | $3.800.000 COP |
 | Micrófono | 1 | $1.000.000 COP | $1.000.000 COP |
+| Baterías GoPro | 7 | $120.000 COP | $840.000 COP |
 | Discos duros de 10 TB | 2 | $1.300.000 COP | $2.600.000 COP |
 | Discos SSD de 2 TB | 3 | $1.000.000 COP | $3.000.000 COP |
-| **Total aproximado valorado** |  |  | **$17.000.000 COP** |
+| **Total aproximado valorado** |  |  | **$17.840.000 COP** |
 
-El valor de $17.000.000 COP es una referencia patrimonial de activos personales utilizados por EL PROYECTO.
+El valor de $17.840.000 COP es una referencia patrimonial de activos personales utilizados por EL PROYECTO.
 
 No constituye automáticamente una deuda personal de Luis Felipe, una cuenta de cobro inmediata, un activo compartido ni una transferencia de propiedad.
 
@@ -611,9 +622,11 @@ Este valor constituye una referencia patrimonial de activos personales de ANDRÉ
 ---
 ## 11.4.4. Baterías y cargadores
 
-ANDRÉS DAVID MEJÍA HERRERA aportó seis baterías GoPro y sus cargadores.
+ANDRÉS DAVID MEJÍA HERRERA aportó siete baterías GoPro y sus cargadores.
 
-Continúan siendo propiedad personal de Andrés. Su valor permanece pendiente de valoración.
+Cada batería se valora aproximadamente en **$120.000 COP**, para un valor total aproximado de **$840.000 COP**.
+
+Continúan siendo propiedad personal de Andrés.
 
 ## 11.4.5. Micrófono
 

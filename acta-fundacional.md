@@ -336,6 +336,22 @@ Las partes reconocen especialmente que el capital y el riesgo económico asumido
 
 ---
 
+---
+
+# 10C. PRINCIPIOS DE HONESTIDAD, TRANSPARENCIA Y CONTINUIDAD
+
+LAS PARTES declaran que la relación empresarial deberá ejecutarse con honestidad, transparencia, lealtad, trazabilidad, buena fe y respeto por los aportes y necesidades legítimas de ambas.
+
+La ausencia de un registro individual no permitirá desconocer un aporte, activo, ingreso, trabajo, riesgo u oportunidad cuando pueda acreditarse por medios razonables.
+
+Ninguna parte podrá utilizar el control técnico, la titularidad formal, una necesidad económica, la informalidad operativa o la falta de actualización documental para apropiarse unilateralmente de valor empresarial.
+
+Los ingresos empresariales deberán ser informados y trazables; los ingresos personales verdaderamente independientes conservarán su naturaleza personal.
+
+Los activos digitales empresariales deberán conservar continuidad, respaldo y acceso administrativo suficiente para evitar bloqueos, pérdidas o apropiaciones.
+
+Estas reglas no imponen burocracia excesiva y se aplicarán según la evidencia, la conducta histórica y las buenas prácticas razonables.
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman la presente Acta Fundacional.

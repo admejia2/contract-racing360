@@ -1,7 +1,7 @@
 # ANEXO G
 # LIBRO DE FELIPEGIL360 Y MEMORIA EMPRESARIAL
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -103,6 +103,16 @@ Serán admisibles como soporte, según corresponda:
 No será obligatorio utilizar un formato específico para que el aporte, trabajo, inversión o actividad pueda ser reconocido.
 
 ---
+
+---
+
+# 6A. PRINCIPIO DE SUFICIENCIA PROBATORIA
+
+No será obligatorio completar inventarios exhaustivos, formularios permanentes o registros manuales de cada actuación.
+
+Un hecho podrá demostrarse mediante cualquier evidencia razonable y legalmente válida, incluyendo la conducta histórica, archivos digitales, extractos, mensajes, analíticas, publicaciones, testimonios y comprobantes.
+
+La ausencia de formalización inmediata no autoriza ocultar, negar o apropiarse de un aporte, ingreso, activo, derecho u oportunidad.
 
 # 7. CAPITAL, TRABAJO Y RIESGO
 

@@ -1,7 +1,7 @@
 # ANEXO F
 # MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DE FELIPEGIL360
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -213,6 +213,20 @@ Las actividades deberán coordinarse con anticipación razonable y respetar:
 La negativa reiterada e injustificada a participar en actividades previamente acordadas podrá constituir incumplimiento.
 
 ---
+
+---
+
+# 6C. BUENAS PRÁCTICAS DE TRANSPARENCIA Y CONTROL
+
+La operación diaria no requerirá documentar manualmente cada actuación para que sea válida, pero deberá respetar honestidad, transparencia, trazabilidad razonable y conservación de evidencia.
+
+Los ingresos empresariales deberán informarse y soportarse. El control de una cuenta personal no transforma un ingreso empresarial en ingreso personal.
+
+Los activos digitales empresariales deberán conservar acceso administrativo, respaldo y continuidad suficientes.
+
+Ante una duda sobre la naturaleza personal o empresarial de una oportunidad, quien pretenda ejecutarla deberá informar, evitar decisiones irreversibles y procurar una solución razonable.
+
+Ninguna parte podrá comprometer el crédito, patrimonio o capacidad financiera de la otra sin autorización expresa.
 
 # 7. CLASIFICACIÓN DE DECISIONES
 

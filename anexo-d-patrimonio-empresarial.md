@@ -1,7 +1,7 @@
 # ANEXO D
 # PATRIMONIO EMPRESARIAL DE FELIPEGIL360
 
-**Versión: 2.0**
+**Versión: 2.0A**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -88,6 +88,16 @@ Solo formarán parte del Patrimonio Empresarial aquellos productos educativos qu
 El uso incidental de la cuenta personal de Instagram de EL TALENTO no convertirá por sí solo una actividad independiente en activo empresarial.
 
 ---
+
+---
+
+# 4B. PROTECCIÓN GENERAL SIN LISTADO EXHAUSTIVO
+
+La ausencia de un activo, cuenta, relación, ingreso, oportunidad o derecho en un listado no elimina su posible vinculación con FELIPEGIL360.
+
+La vinculación se determinará mediante origen, financiación, riesgo, trabajo, recursos utilizados, finalidad, relaciones comerciales, conducta histórica y evidencia disponible.
+
+Ninguna parte podrá aprovechar el control material, titularidad formal o falta de actualización para apropiarse unilateralmente del valor empresarial.
 
 # 5. BIENES PERSONALES
 
