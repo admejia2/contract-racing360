@@ -1,6 +1,6 @@
 # ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
 
-**Versión 8.1 — Contrato Maestro ajustado para Yacar artesanal**
+**Versión 8.2 — Contrato Maestro con retribución del CEF y supervivencia de obligaciones**
 
 ---
 
@@ -998,6 +998,26 @@ Ninguna parte podrá apropiarse unilateralmente de ellos por aparecer como compr
 
 ---
 
+## CLÁUSULA 32A. COMPROMISO DE BUENA FE PARA EL RECONOCIMIENTO Y RETRIBUCIÓN DEL CEF
+
+LAS PARTES reconocen que el Capital Empresarial Fundacional —CEF— representa los recursos, inversiones, activos, trabajo profesional, producción, administración, financiación, tiempo, riesgo y exposición patrimonial que hicieron posible la creación y desarrollo de FELIPEGIL360.
+
+El CEF no constituye automáticamente una deuda personal e inmediata de EL TALENTO ni una garantía de recuperación integral con su patrimonio personal.
+
+Sin embargo, LAS PARTES asumen un compromiso contractual permanente de buena fe, lealtad, transparencia, colaboración y diligencia razonable orientado a procurar su reconocimiento y retribución económica cuando EL PROYECTO genere recursos o se produzcan eventos de liquidez.
+
+LAS PARTES deberán conservar la trazabilidad del CEF, registrar ingresos y recuperaciones, aplicar la prelación de pagos, colaborar en su conciliación y considerarlo obligatoriamente en cualquier Buy-Out, venta, reorganización, constitución de sociedad, adjudicación o liquidación.
+
+La recuperación se realizará prioritariamente mediante ingresos, monetización, patrocinios, venta de productos o activos, indemnizaciones, Buy-Out, inversión externa, transferencia a una futura sociedad, venta o liquidación.
+
+La ausencia temporal de ingresos o el fracaso comercial no constituirán por sí solos incumplimiento ni generarán automáticamente obligación personal de pago.
+
+Sí constituirá incumplimiento grave cualquier conducta intencional y probada dirigida a ocultar ingresos, desviar recursos, manipular costos, reducir artificialmente el valor empresarial, impedir injustificadamente la valoración o frustrar deliberadamente la recuperación del CEF cuando exista capacidad económica.
+
+Antes de distribuir valor residual, LAS PARTES deberán conciliar el CEF y descontar conceptos reembolsados, amortizados, compensados o ya reconocidos en una valoración o Buy-Out.
+
+---
+
 ## CLÁUSULA 33. MEJORAS SOBRE ACTIVOS AJENOS
 
 El pago de reparaciones, mejoras o gastos sobre un activo perteneciente a otra persona no transfiere automáticamente su propiedad.
@@ -1612,6 +1632,33 @@ Su finalidad consiste en impedir que el cese de funciones sea utilizado para:
 - desconocer el CEF y demás obligaciones pendientes.
 
 Cuando el cese sea injustificado y además esté acompañado de apropiación, ocultamiento, desvío o destrucción de valor empresarial, procederán las consecuencias por incumplimiento previstas en este contrato.
+
+---
+
+## CLÁUSULA 61B. SUPERVIVENCIA DE DEUDAS Y OBLIGACIONES VIGENTES
+
+La suspensión, inactividad, terminación, separación, cese de funciones, Buy-Out, reorganización o liquidación de FELIPEGIL360 no extinguirá por sí sola las deudas, cuotas, saldos, contratos y obligaciones válidamente asumidos antes de dicho evento.
+
+Cada obligación continuará a cargo de quien la haya asumido, firmado, autorizado o causado, salvo pago, compensación, novación, condonación, sustitución aceptada por el acreedor u otro modo legal de extinción.
+
+En consecuencia:
+
+1. EL TALENTO continuará pagando íntegramente las cuotas correspondientes a la obligación de veinte millones de pesos ($20.000.000 COP) asumida para el Yacar Car Cross.
+2. EL TALENTO continuará aportando doscientos mil pesos ($200.000 COP) mensuales al saldo de quince millones de pesos ($15.000.000 COP), mientras dicho saldo exista, salvo modificación escrita.
+3. EL FUNDADOR continuará pagando íntegramente las cuotas correspondientes a su obligación de treinta millones de pesos ($30.000.000 COP).
+4. EL FUNDADOR continuará pagando el valor restante de cada cuota correspondiente al saldo de quince millones de pesos ($15.000.000 COP), conforme al acuerdo reconocido.
+5. Las obligaciones operativas o comerciales aprobadas conjuntamente se atenderán según la distribución escrita o, en ausencia de ella, por quien las haya asumido frente al tercero.
+6. Ninguna parte podrá alegar la terminación del Proyecto como causa automática para dejar de pagar una obligación vigente.
+
+LAS PARTES deberán actuar de buena fe para mantener al día las obligaciones, informar dificultades, entregar comprobantes, evitar mora y procurar renegociaciones razonables.
+
+La colaboración de buena fe no convierte una deuda exclusiva en obligación solidaria de la otra parte.
+
+Ninguna nueva deuda podrá imputarse a una parte sin consentimiento previo, expreso y verificable.
+
+Quien pague una obligación que correspondía total o parcialmente a la otra parte tendrá derecho a reembolso, compensación, cuenta por cobrar o reconocimiento en Buy-Out o liquidación.
+
+La mera inactividad o terminación contractual no constituirá novación, condonación ni liberación de obligaciones.
 
 ---
 
@@ -2234,6 +2281,25 @@ Antes de firmar, cada parte deberá marcar su aceptación respecto de las materi
 Las casillas deberán marcarse de puño y letra al momento de la firma.
 
 La falta de marca en una materia esencial deberá aclararse antes del reconocimiento notarial y no podrá suplirse mediante presunción.
+
+## CLÁUSULA 97A. ACEPTACIÓN ESPECÍFICA DE OBLIGACIONES VIGENTES
+
+LAS PARTES declaran comprender y aceptar que la terminación o suspensión de FELIPEGIL360 no elimina deudas ya asumidas.
+
+| Declaración | Andrés | Felipe |
+|---|---|---|
+| Comprendo que mis obligaciones personales continúan aunque el Proyecto se detenga | [ ] | [ ] |
+| Comprendo que el CEF no es automáticamente deuda personal de Felipe | [ ] | [ ] |
+| Comprendo que el CEF debe ser reconocido y retribuido de buena fe cuando exista liquidez | [ ] | [ ] |
+| Comprendo la distribución actual de obligaciones del Yacar | [ ] | [ ] |
+| Comprendo que no puedo trasladar mis deudas a la otra parte sin consentimiento | [ ] | [ ] |
+| Comprendo que pagar por la otra parte genera derecho de reembolso o compensación | [ ] | [ ] |
+
+EL TALENTO declara especialmente conocer que su cese de participación no extingue la obligación de $20.000.000 COP asumida para el Yacar ni el aporte mensual de $200.000 COP al saldo de $15.000.000 COP.
+
+EL FUNDADOR declara especialmente conocer que su cese de participación no extingue la obligación de $30.000.000 COP asumida para el Yacar ni el valor restante de las cuotas del saldo de $15.000.000 COP.
+
+---
 
 ## CLÁUSULA 98. DECLARACIÓN FINAL
 

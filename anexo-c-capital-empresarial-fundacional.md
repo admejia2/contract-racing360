@@ -1,7 +1,7 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
-**Versión: 6.0**
+**Versión: 6.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1312,6 +1312,31 @@ Su reconocimiento como aporte no lo convierte automáticamente en deuda personal
 # 23.13. REGLA DE RECUPERACIONES
 
 Todo ingreso, patrocinio, reembolso, venta de activo, indemnización, monetización o beneficio económico aplicado a un costo previamente asumido deberá registrarse como recuperación y descontarse antes de determinar el saldo definitivo.
+
+---
+
+# 23.14. COMPROMISO DE RETRIBUCIÓN DE BUENA FE
+
+El CEF no será utilizado como mecanismo de cobro personal automático contra LUIS FELIPE GIL BETANCUR.
+
+Ambas partes reconocen un deber contractual de buena fe orientado a procurar su retribución cuando existan ingresos, excedentes, venta, Buy-Out, inversión externa, monetización, adjudicación, liquidación u otro evento de liquidez.
+
+No podrá distribuirse valor residual sin considerar previamente el saldo conciliado del CEF, recuperaciones, reembolsos, obligaciones pendientes y la prohibición de doble contabilización.
+
+La falta de ingresos no constituye incumplimiento. El ocultamiento, desvío o manipulación deliberada para impedir la recuperación sí podrá constituir incumplimiento grave.
+
+# 23.15. SUPERVIVENCIA DE OBLIGACIONES
+
+El cierre o suspensión de EL PROYECTO no extingue obligaciones previamente asumidas.
+
+| Obligación | Responsable |
+|---|---|
+| $30.000.000 COP asumidos desde junio de 2025 | Andrés |
+| $20.000.000 COP asumidos desde diciembre de 2025 | Felipe |
+| $200.000 COP mensuales sobre el saldo de $15.000.000 COP | Felipe |
+| Resto de cada cuota del saldo de $15.000.000 COP | Andrés |
+
+Los pagos efectuados por una parte en reemplazo de la otra deberán registrarse como reembolso, compensación, cuenta por cobrar o aporte adicional, según corresponda.
 
 ---
 

@@ -1,7 +1,7 @@
 # ANEXO F
 # MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DE FELIPEGIL360
 
-**Versión: 5.0**
+**Versión: 5.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1081,6 +1081,18 @@ La coordinación deberá operar mediante:
 No deberán utilizarse llamados de atención laborales, horarios rígidos, disponibilidad permanente ni sanciones disciplinarias.
 
 El incumplimiento contractual se tramitará mediante requerimientos escritos y mecanismos civiles o comerciales.
+
+---
+
+# 26D. CONTROL DE DEUDAS Y OBLIGACIONES EN CURSO
+
+La administración mantendrá un registro actualizado de acreedor, concepto, capital, interés, cuota, vencimiento, responsable, pagos, saldo y soportes.
+
+La suspensión de actividades deberá acompañarse de un plan de cierre que identifique obligaciones vigentes, recursos, responsables, fechas de pago, activos por preservar y contratos por cumplir o cerrar.
+
+Ninguna parte podrá aprobar nuevas obligaciones a cargo de la otra sin consentimiento expreso.
+
+La prioridad del cierre será evitar mora, pérdida de activos y perjuicios frente a terceros.
 
 ---
 

@@ -1,7 +1,7 @@
 # ANEXO H
 # MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS DE FELIPEGIL360
 
-**Versión: 5.0**
+**Versión: 5.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -299,6 +299,21 @@ LAS PARTES reconocen que el Yacar Car Cross es un vehículo artesanal de compete
 
 La ausencia de documento formal del vendedor no impide el reconocimiento interno de los pagos ni obliga a suspender la firma del Sistema Documental.
 
+
+---
+
+# 14C. MATRIZ DE OBLIGACIONES QUE SOBREVIVEN A LA TERMINACIÓN
+
+| Obligación | Responsable inicial | Efecto de la terminación |
+|---|---|---|
+| Crédito Yacar $30.000.000 | Andrés | Continúa hasta pago o extinción legal |
+| Crédito Yacar $20.000.000 | Felipe | Continúa hasta pago o extinción legal |
+| Aporte mensual $200.000 al saldo Yacar | Felipe | Continúa mientras exista el saldo |
+| Resto de la cuota del saldo Yacar | Andrés | Continúa mientras exista el saldo |
+| Deudas operativas aprobadas | Quien las haya asumido | Continúan según contrato o acreedor |
+| CEF | Proyecto y eventos de liquidez | No se convierte en deuda personal automática |
+
+La terminación no modifica por sí sola al deudor ni crea solidaridad.
 
 ---
 

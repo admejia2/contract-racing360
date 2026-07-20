@@ -54,6 +54,16 @@ Cada parte declara comprender especialmente:
 - que los contenidos históricos tienen tratamiento distinto de campañas futuras;
 - que ninguna cláusula elimina derechos legales irrenunciables.
 
+## 3A. CONCIENCIA SOBRE DEUDAS EN CURSO
+
+LAS PARTES declaran comprender que detener, suspender o terminar FELIPEGIL360 no extingue las obligaciones económicas previamente asumidas.
+
+Felipe declara conocer especialmente que continuará atendiendo su obligación de $20.000.000 COP relacionada con el Yacar y su aporte mensual de $200.000 COP al saldo de $15.000.000 COP.
+
+Andrés declara conocer especialmente que continuará atendiendo su obligación de $30.000.000 COP relacionada con el Yacar y el valor restante de cada cuota del saldo de $15.000.000 COP.
+
+Ambas partes deberán colaborar de buena fe para evitar mora, pérdida de activos y perjuicios, sin crear solidaridad no pactada.
+
 ## 4. NEGOCIACIÓN
 
 Las partes dejan constancia de las modificaciones solicitadas y aceptadas:
