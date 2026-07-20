@@ -1,7 +1,7 @@
 # ANEXO E
 # PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL DE FELIPEGIL360
 
-**Versión: 4.0**
+**Versión: 4.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 

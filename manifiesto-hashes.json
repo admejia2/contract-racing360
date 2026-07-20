@@ -1,0 +1,67 @@
+{
+  "status": "OK",
+  "checks": [],
+  "authoritative_values": {
+    "cef_minimo_provisional": 85020000,
+    "yacar_total": 65000000,
+    "andres_yacar": 30000000,
+    "felipe_yacar": 20000000,
+    "saldo_yacar": 15000000,
+    "participacion_residual": {
+      "andres": "65%",
+      "felipe": "35%"
+    },
+    "no_captacion_activa": "12 meses",
+    "continuidad_valor": "sin plazo fijo mientras exista conexión demostrable"
+  },
+  "files": {
+    "acta-fundacional.md": {
+      "bytes": 22316,
+      "sha256": "9f0ae5b5d74396a078e989b1d1dea463e9c61f708175532d5cac57a24bbaf687"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 26469,
+      "sha256": "f572496ad93a0f721a64c7a8592faa433dd6472d754784448e3bcc133ac27559"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 39330,
+      "sha256": "6e7b19bae21323f4d2bd7bd9d46b2e2fae8c075bc32b86bf31af41d4bf853895"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 52897,
+      "sha256": "d490e160663b7387a9e88a9cb3f1474001bf22e413c3375c2320543241aabb79"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 12748,
+      "sha256": "30038be191256ed5c379816ab5f9e77d5bd1877cc0a0ea6511629930ab8d27eb"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 11954,
+      "sha256": "2b6f7fc8081daf95fe2969fb8828c130aaf43818f218bee4e72f26253128fa39"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 31393,
+      "sha256": "6c07cc79be344d8a8382ba3780615c27e308214f5401099e9370024fc1fa16fe"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 8595,
+      "sha256": "43d081bd6674f4935c596805943800eeb289fe923d3517087cf990d77166c087"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 12458,
+      "sha256": "af9e97a6d325c0623dd1e002bfc132cd6f65894efa0a44fa86b806e63772c863"
+    },
+    "contrato.md": {
+      "bytes": 102866,
+      "sha256": "3aacd081c585a0bf31e12e9fa28894c46e0d2f1f48de1c3ce9317992ace08702"
+    },
+    "documento-complementario-vendedor-yacar.md": {
+      "bytes": 3358,
+      "sha256": "b0714ad5b9c27e8f317f1eb16e3bd629acdec431b15a07ecbe04743bf9dc96a4"
+    },
+    "guia-final-firma.md": {
+      "bytes": 1204,
+      "sha256": "cb55ac2b9f0c0d071c610b767d69fe230154f0747bb4cded8a0b39776ffaaebd"
+    }
+  }
+}

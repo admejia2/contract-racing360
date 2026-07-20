@@ -1,7 +1,7 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
-**Versión: 5.0**
+**Versión: 5.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1402,6 +1402,23 @@ Toda reconstrucción deberá respetar:
 - ausencia de deuda personal automática de EL TALENTO.
 
 La información incompleta podrá mantenerse como pendiente o controvertida sin ser eliminada.
+
+## REGLA DE PRECISIÓN DE LA TASA DEL YACAR
+
+La tasa informada para las obligaciones relacionadas con el Yacar es del uno coma cinco por ciento (1,5 %).
+
+Antes de liquidar intereses, mora, saldos o cuotas deberá incorporarse al Sistema Documental un soporte o acta firmada que precise:
+
+- periodicidad mensual o anual;
+- naturaleza nominal o efectiva;
+- base de liquidación;
+- cálculo sobre saldo o sobre valor inicial;
+- fecha de causación;
+- forma de imputación de los pagos.
+
+Mientras no exista esa precisión, ninguna parte podrá imponer unilateralmente una modalidad de cálculo.
+
+---
 
 # FIRMAS
 

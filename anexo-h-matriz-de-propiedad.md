@@ -1,7 +1,7 @@
 # ANEXO H
 # MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS DE FELIPEGIL360
 
-**Versión: 4.0**
+**Versión: 4.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -260,9 +260,9 @@ Las partes reconocen que:
 - Documento formal de compraventa: **no existe a la fecha**.
 - Persona vendedora: **no identificada documentalmente dentro del Sistema Documental a la fecha del cierre**. La identificación podrá incorporarse posteriormente mediante acta.
 - Posesión física y custodia actual: **ANDRÉS DAVID MEJÍA HERRERA**.
-- Obligación de Andrés: **$30.000.000 COP**, desde junio de 2025, tasa informada 1,5 %, plazo 60 meses.
-- Obligación de Felipe: **$20.000.000 COP**, desde diciembre de 2025, tasa informada 1,5 %, plazo 60 meses.
-- Saldo con el vendedor: **$15.000.000 COP**, desde julio de 2026, tasa informada 1,5 %.
+- Obligación de Andrés: **$30.000.000 COP**, desde junio de 2025, tasa informada 1,5 %, pendiente de precisión escrita sobre modalidad y base de liquidación, plazo 60 meses.
+- Obligación de Felipe: **$20.000.000 COP**, desde diciembre de 2025, tasa informada 1,5 %, pendiente de precisión escrita sobre modalidad y base de liquidación, plazo 60 meses.
+- Saldo con el vendedor: **$15.000.000 COP**, desde julio de 2026, tasa informada 1,5 %, pendiente de precisión escrita sobre modalidad y base de liquidación.
 - Felipe pagará las cuotas de su obligación de $20.000.000 COP y aportará **$200.000 COP mensuales** al saldo de $15.000.000 COP.
 - Andrés pagará las cuotas de su obligación de $30.000.000 COP y el valor restante de las cuotas del saldo de $15.000.000 COP.
 - La participación económica específica se actualizará según capital efectivamente pagado.
@@ -285,6 +285,23 @@ En caso de explotación externa o posterior, deberán diferenciarse:
 | Goodwill transferido a nueva cuenta o marca | Conserva naturaleza empresarial mientras exista conexión |
 
 No existirá caducidad contractual fija para el reconocimiento del componente atribuible a FELIPEGIL360.
+
+---
+
+## REGLA DE PRECISIÓN DE LA TASA DEL YACAR
+
+La tasa informada para las obligaciones relacionadas con el Yacar es del uno coma cinco por ciento (1,5 %).
+
+Antes de liquidar intereses, mora, saldos o cuotas deberá incorporarse al Sistema Documental un soporte o acta firmada que precise:
+
+- periodicidad mensual o anual;
+- naturaleza nominal o efectiva;
+- base de liquidación;
+- cálculo sobre saldo o sobre valor inicial;
+- fecha de causación;
+- forma de imputación de los pagos.
+
+Mientras no exista esa precisión, ninguna parte podrá imponer unilateralmente una modalidad de cálculo.
 
 ---
 

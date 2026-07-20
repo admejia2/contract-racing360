@@ -1,7 +1,7 @@
 # ANEXO A
 # CRONOLOGÍA OFICIAL DEL PROYECTO FELIPEGIL360
 
-**Versión: 4.0**
+**Versión: 4.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 

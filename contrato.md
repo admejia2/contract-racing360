@@ -1,6 +1,6 @@
 # ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
 
-**Versión 7.0 — Contrato Maestro conciliado para revisión notarial**
+**Versión 7.1 — Contrato Maestro corregido para firma notarial**
 
 ---
 
@@ -1103,7 +1103,7 @@ La estructura económica reconocida es:
 
 2. LUIS FELIPE GIL BETANCUR asumió veinte millones de pesos ($20.000.000 COP), desde diciembre de 2025, a una tasa informada del uno coma cinco por ciento (1,5 %) y plazo de sesenta (60) meses. Felipe pagará íntegramente las cuotas correspondientes a dicha obligación.
 
-3. Existe un saldo de quince millones de pesos ($15.000.000 COP) directamente con la persona vendedora, desde julio de 2026, con tasa informada del uno coma cinco por ciento (1,5 %).
+3. Existe un saldo de quince millones de pesos ($15.000.000 COP) directamente con la persona vendedora, desde julio de 2026, con tasa informada del uno coma cinco por ciento (1,5 %), cuya modalidad deberá precisarse por escrito conforme a esta cláusula.
 
 4. Frente al saldo de quince millones de pesos, LUIS FELIPE GIL BETANCUR aportará doscientos mil pesos ($200.000 COP) mensuales y ANDRÉS DAVID MEJÍA HERRERA pagará el valor restante de cada cuota.
 
@@ -2059,7 +2059,12 @@ Esta cláusula no impide desarrollar actividades personales legítimas que no ut
 
 ## CLÁUSULA 78A. NO DESVÍO Y NO CAPTACIÓN
 
-Durante la vigencia del contrato y por un periodo razonable posterior a su terminación, ninguna parte podrá desviar, inducir o aprovechar de manera desleal relaciones con patrocinadores, clientes, proveedores, colaboradores o aliados desarrolladas sustancialmente mediante FELIPEGIL360.
+Durante la vigencia del contrato y durante los doce (12) meses siguientes a su terminación válida, ninguna parte podrá realizar actos activos de desvío, inducción, captación o aprovechamiento desleal respecto de patrocinadores, clientes, proveedores, colaboradores o aliados:
+
+- con contrato vigente;
+- con negociación activa;
+- desarrollados sustancialmente mediante FELIPEGIL360;
+- conocidos mediante información confidencial de EL PROYECTO.
 
 Esta regla no impedirá:
 
@@ -2071,6 +2076,8 @@ Esta regla no impedirá:
 En caso de controversia se analizarán el origen de la relación, la fecha, las gestiones realizadas, los recursos utilizados y la participación efectiva de cada parte.
 
 La prohibición se limitará a impedir la apropiación o desviación desleal y no podrá utilizarse para impedir injustificadamente que una parte trabaje o genere ingresos legítimos.
+
+El plazo de doce (12) meses regula únicamente la captación o el desvío activo de relaciones. No limita la duración de los derechos económicos sobre el goodwill, valor incremental, contenidos, comunidad u otros activos empresariales, los cuales permanecerán mientras subsista conexión demostrable con FELIPEGIL360.
 
 ## CLÁUSULA 78B. PERMANENCIA DEL VALOR EMPRESARIAL Y SEGUIMIENTO ECONÓMICO
 
@@ -2433,7 +2440,7 @@ Las partes declaran haber leído, entendido y aceptado íntegramente este Contra
 
 ## ANDRÉS DAVID MEJÍA HERRERA
 
-Identificación: ______________________________________
+Identificación: C.C. No. 1035425065, expedida en Copacabana
 
 Firma: _______________________________________________
 
@@ -2441,7 +2448,7 @@ Fecha: _______________________________________________
 
 ## LUIS FELIPE GIL BETANCUR
 
-Identificación: ______________________________________
+Identificación: C.C. No. 1026152827, expedida en Itagüí
 
 Firma: _______________________________________________
 

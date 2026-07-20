@@ -1,7 +1,7 @@
 # ANEXO G
 # LIBRO DE FELIPEGIL360 Y MEMORIA EMPRESARIAL
 
-**Versión: 4.0**
+**Versión: 4.1**
 
 Documento integrante del Sistema Documental del Proyecto.
 
