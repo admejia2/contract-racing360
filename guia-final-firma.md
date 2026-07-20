@@ -5,7 +5,7 @@
 1. Contrato Maestro, versión 7.1.
 2. Acta Fundacional, versión 2.0.
 3. Anexos A a H.
-4. Documento del vendedor del Yacar, únicamente cuando la persona vendedora complete y firme la información.
+4. No se requiere documento del vendedor para firmar el acuerdo interno, debido a la naturaleza artesanal del Yacar y a la ausencia histórica de contrato formal.
 
 ## Documento que no debe firmarse todavía
 
@@ -32,4 +32,11 @@ El Acta de Reconocimiento, Conciliación y Determinación del CEF continúa como
 
 ## Precisión todavía necesaria
 
-La tasa del 1,5 % quedó reconocida, pero su periodicidad, naturaleza y base de liquidación deben constar por escrito antes de calcular intereses o mora.
+La tasa quedó reconocida como 1,5 % mensual. Antes de discutir intereses o mora deberá reconstruirse la base exacta de liquidación con los pagos y evidencias disponibles.
+
+
+## Yacar artesanal
+
+- No tiene matrícula, licencia de tránsito, factura comercial ordinaria ni contrato formal incorporado.
+- La firma del vendedor no es condición para firmar el acuerdo interno entre Andrés y Felipe.
+- Los derechos económicos se acreditan con pagos, mensajes, transferencias, posesión y demás evidencia.

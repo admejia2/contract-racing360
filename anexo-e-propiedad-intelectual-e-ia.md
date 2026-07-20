@@ -1,7 +1,7 @@
 # ANEXO E
 # PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL DE FELIPEGIL360
 
-**Versión: 4.1**
+**Versión: 5.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -272,6 +272,55 @@ Las partes reconocen que:
 6. los ingresos derivados de los activos serán tratados conforme al Contrato Maestro;
 
 7. la protección de derechos personales no destruye los derechos económicos adquiridos por el Proyecto.
+
+---
+
+# 12A. CADENA DE TITULARIDAD Y TERCEROS
+
+El presente acuerdo solo transfiere o licencia derechos que pertenezcan legítimamente a quien los concede.
+
+Para contenidos creados por fotógrafos, camarógrafos, editores, diseñadores, músicos, agencias, pilotos invitados u otros terceros deberán conservarse:
+
+- contrato;
+- licencia;
+- cesión;
+- autorización de imagen;
+- factura o soporte;
+- alcance territorial;
+- duración;
+- modalidades de explotación.
+
+La falta de autorización de un tercero no podrá subsanarse mediante declaración exclusiva de Andrés o Felipe.
+
+# 12B. INVENTARIO DE CONTENIDOS HISTÓRICOS
+
+La biblioteca histórica deberá identificarse mediante:
+
+- enlace o repositorio;
+- carpeta;
+- fecha de corte;
+- plataforma;
+- título o rango de publicaciones;
+- autor o productor conocido;
+- archivos maestros disponibles;
+- restricciones de terceros.
+
+El inventario podrá hacerse por lotes y no requiere describir individualmente cada archivo cuando el conjunto pueda identificarse objetivamente.
+
+# 12C. PRODUCCIÓN FUTURA
+
+Ninguna cláusula se interpretará como cesión general e indeterminada de toda la producción intelectual futura de una persona ni como obligación de no crear.
+
+Cada contenido futuro quedará sujeto al acuerdo, encargo, campaña o producción específica mediante el cual sea creado.
+
+# 12D. CAMPAÑAS NUEVAS DESPUÉS DE LA SEPARACIÓN
+
+Después de la separación:
+
+- podrá mantenerse la explotación editorial y monetización del contenido histórico;
+- no podrán crearse nuevas declaraciones, simulaciones o apariciones;
+- ninguna campaña nueva de un tercero podrá presentar a EL TALENTO como vinculado sin autorización específica;
+- no podrán utilizarse nombre, imagen o voz para productos nuevos no relacionados con el contenido histórico sin autorización.
 
 ---
 

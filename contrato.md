@@ -1,6 +1,6 @@
 # ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
 
-**Versión 7.1 — Contrato Maestro corregido para firma notarial**
+**Versión 8.1 — Contrato Maestro ajustado para Yacar artesanal**
 
 ---
 
@@ -416,6 +416,30 @@ EL FUNDADOR podrá delegar funciones operativas sin perder:
 - sus derechos sobre activos y decisiones reservadas.
 
 EL TALENTO podrá recibir apoyo técnico, deportivo, audiovisual o comercial sin que ello elimine sus obligaciones personales esenciales.
+
+---
+
+## CLÁUSULA 17B. AUTONOMÍA, AUSENCIA DE SUBORDINACIÓN Y PREVALENCIA DE LA REALIDAD
+
+LAS PARTES celebran un acuerdo empresarial y no pretenden crear una relación laboral.
+
+Cada parte conservará autonomía técnica, administrativa y temporal dentro de sus responsabilidades.
+
+No existirán:
+
+- jornada laboral impuesta;
+- disponibilidad permanente;
+- reglamento de trabajo;
+- poder disciplinario laboral;
+- salario periódico por la sola disponibilidad;
+- exclusividad general;
+- órdenes continuas sobre modo, tiempo y cantidad propias de una relación subordinada.
+
+La coordinación de campañas, grabaciones, presupuestos y obligaciones comerciales no constituirá por sí sola subordinación.
+
+No obstante, LAS PARTES reconocen que la realidad de la ejecución prevalece sobre el nombre del contrato. Si en la práctica llegaren a configurarse los elementos legales de una relación laboral, ninguna cláusula podrá utilizarse para renunciar a derechos mínimos e irrenunciables.
+
+Cada parte deberá evitar prácticas que contradigan la autonomía aquí pactada.
 
 ---
 
@@ -1091,9 +1115,9 @@ La inclusión del nombre de EL TALENTO en una marca no transfiere su nombre civi
 
 ## CLÁUSULA 40A. YACAR CAR CROSS: ADQUISICIÓN, POSESIÓN Y PARTICIPACIÓN ECONÓMICA
 
-LAS PARTES reconocen que el Yacar Car Cross fue adquirido para actividades relacionadas con FELIPEGIL360, sin que actualmente exista factura, contrato formal de compraventa o registro que determine por sí solo su titularidad jurídica.
+LAS PARTES reconocen que el Yacar Car Cross es un vehículo artesanal de competencia, sin matrícula, licencia de tránsito, factura comercial ordinaria ni contrato formal de compraventa incorporado al Sistema Documental. Esta circunstancia no elimina el acuerdo material de adquisición ni los derechos económicos internos derivados de los pagos. La adquisición, posesión, aportes y saldo podrán acreditarse mediante comprobantes, transferencias, mensajes, fotografías, videos, testimonios, entrega material, historial de pagos y demás medios de prueba legalmente admisibles.
 
-A la fecha de cierre documental, la persona vendedora no se encuentra identificada documentalmente dentro del Sistema Documental. Esta ausencia no elimina el reconocimiento interno de la adquisición, los pagos, el saldo ni las obligaciones económicas entre LAS PARTES. Cuando se obtenga la identificación o un documento del vendedor, deberá incorporarse mediante acta de actualización sin modificar retroactivamente los pagos reconocidos.
+La identidad de la persona vendedora no es un requisito para la eficacia interna de este acuerdo entre LAS PARTES. Podrá incorporarse posteriormente si aparece evidencia suficiente, sin que ello condicione la firma del Contrato Maestro ni modifique retroactivamente los pagos reconocidos.
 
 La posesión física y custodia actual del Yacar Car Cross se encuentra en cabeza de **ANDRÉS DAVID MEJÍA HERRERA**.
 
@@ -1103,7 +1127,7 @@ La estructura económica reconocida es:
 
 2. LUIS FELIPE GIL BETANCUR asumió veinte millones de pesos ($20.000.000 COP), desde diciembre de 2025, a una tasa informada del uno coma cinco por ciento (1,5 %) y plazo de sesenta (60) meses. Felipe pagará íntegramente las cuotas correspondientes a dicha obligación.
 
-3. Existe un saldo de quince millones de pesos ($15.000.000 COP) directamente con la persona vendedora, desde julio de 2026, con tasa informada del uno coma cinco por ciento (1,5 %), cuya modalidad deberá precisarse por escrito conforme a esta cláusula.
+3. Existe un saldo de quince millones de pesos ($15.000.000 COP) directamente con la persona vendedora, desde julio de 2026, con tasa del uno coma cinco por ciento (1,5 %) mensual, cuya base de liquidación deberá acreditarse conforme a esta cláusula.
 
 4. Frente al saldo de quince millones de pesos, LUIS FELIPE GIL BETANCUR aportará doscientos mil pesos ($200.000 COP) mensuales y ANDRÉS DAVID MEJÍA HERRERA pagará el valor restante de cada cuota.
 
@@ -1444,481 +1468,268 @@ No se aplicarán sanciones desproporcionadas ni pérdida automática de todos lo
 
 ---
 
-## CLÁUSULA 55A. CLÁUSULA PENAL, RESTITUCIÓN Y CONSECUENCIAS ECONÓMICAS
+## CLÁUSULA 55A. CLÁUSULA PENAL Y PROHIBICIÓN DE DOBLE REPARACIÓN
 
-Las siguientes conductas constituirán incumplimientos especialmente graves cuando sean intencionales, injustificados y puedan acreditarse mediante medios verificables:
+Constituirán incumplimientos especialmente graves, cuando sean intencionales, injustificados y probados:
 
-1. bloquear o retener accesos esenciales por más de cinco días hábiles después de un requerimiento escrito;
+1. bloquear accesos esenciales después de requerimiento escrito;
+2. desviar ingresos o patrocinios;
+3. destruir u ocultar archivos maestros;
+4. disponer de activos sin autorización;
+5. transferir cuentas, contratos o marca para eludir derechos económicos;
+6. ocultar información relevante durante valoración o Buy-Out.
 
-2. eliminar administradores o modificar mecanismos de recuperación con el propósito de excluir a la otra parte;
+La pena convencional será equivalente al menor de los siguientes valores:
 
-3. desviar ingresos, monetización, patrocinios o pagos pertenecientes a EL PROYECTO;
+- el veinte por ciento (20 %) del daño económico directamente demostrado; o
+- treinta millones de pesos ($30.000.000 COP), actualizados anualmente por IPC.
 
-4. eliminar, destruir u ocultar deliberadamente archivos maestros o contenido de valor empresarial;
+Cuando el valor apropiado o retenido deba ser restituido, la restitución no constituirá perjuicio adicional sino devolución del activo o ingreso correspondiente.
 
-5. vender, transferir, gravar u ocultar activos sin autorización;
+La parte cumplida podrá reclamar perjuicios adicionales únicamente por conceptos diferentes, demostrados y no cubiertos por la pena.
 
-6. retener físicamente activos esenciales después de exigirse válidamente su entrega;
+En ningún caso podrán cobrarse dos veces el mismo daño mediante pena, CEF, compensación, restitución, Buy-Out e indemnización.
 
-7. transferir cuentas, marca, comunidad o contratos a terceros para eludir los derechos económicos de la otra parte.
-
-La parte incumplida pagará a la parte cumplida, según la gravedad de la conducta:
-
-- diez millones de pesos por bloqueo o retención temporal subsanable de accesos;
-
-- treinta millones de pesos por desvío de ingresos, retención material de activos o exclusión operativa grave;
-
-- cincuenta millones de pesos por eliminación intencional de contenido esencial, transferencia no autorizada de cuentas o apropiación definitiva de activos empresariales.
-
-Cuando el valor económico apropiado, desviado, destruido o retenido sea superior a la pena anterior, la pena será equivalente a dicho valor, sin exceder los límites permitidos por la legislación aplicable.
-
-La pena será compatible con:
-
-- cesación de la conducta;
-- restitución de activos;
-- entrega de accesos;
-- devolución de ingresos;
-- cumplimiento de la obligación principal;
-- medidas urgentes de protección.
-
-Los perjuicios adicionales que excedan la pena solo podrán reclamarse cuando sean legalmente procedentes y se encuentren demostrados.
-
-Salvo conducta que produzca daño irreparable, deberá existir requerimiento escrito y un plazo de cinco días hábiles para corregir el incumplimiento antes de causar la pena.
-
-La exigibilidad de la pena dependerá de que la obligación, el hecho activador y su cuantía puedan determinarse de manera clara, expresa y exigible conforme al presente contrato y a la evidencia disponible.
+Salvo fraude, destrucción irreversible o riesgo de pérdida inmediata, deberá existir requerimiento escrito y plazo de diez (10) días hábiles para subsanar.
 
 ---
 
 # CAPÍTULO IX
 # RETIRO, INCAPACIDAD Y CONTINUIDAD
 
-## CLÁUSULA 56. RETIRO VOLUNTARIO
+## CLÁUSULA 56. CESE DE LA PARTICIPACIÓN PERSONAL Y SEPARACIÓN ECONÓMICA
 
-La parte que desee retirarse deberá comunicarlo por escrito con una anticipación mínima de **sesenta días calendario**, salvo acuerdo diferente.
+LAS PARTES reconocen que ninguna disposición del presente contrato podrá interpretarse como autorización para imponer por la fuerza una prestación personal, una aparición pública, una conducción deportiva o una actividad contraria a la libertad, salud, seguridad o dignidad de una persona.
 
-Durante el periodo de transición deberá colaborar razonablemente en:
+Cuando una parte decida cesar total o sustancialmente sus funciones personales, deberá comunicarlo por escrito con una anticipación razonable no inferior a sesenta (60) días calendario, salvo fuerza mayor, incapacidad, riesgo grave o incumplimiento esencial de la otra parte.
 
-- entrega de accesos;
-- cumplimiento de contratos vigentes;
-- transferencia operativa;
-- conservación de activos;
-- cierre o continuidad de campañas;
-- información necesaria para valoración.
+El cese material de funciones no extinguirá automáticamente:
 
----
+- derechos económicos consolidados;
+- titularidad de bienes personales;
+- Capital Empresarial Fundacional;
+- obligaciones pendientes;
+- licencias válidamente concedidas sobre contenido histórico;
+- derechos de valoración, Buy-Out, venta o liquidación;
+- deberes de entrega, confidencialidad y rendición de cuentas.
 
-## CLÁUSULA 57. EFECTO DEL RETIRO Y TRATAMIENTO DE INSTAGRAM
+El cese de funciones personales activará obligatoriamente el procedimiento de transición, valoración y definición económica previsto en este contrato.
 
-En caso de retiro de EL TALENTO, la cuenta personal de Instagram permanecerá bajo su control y propiedad exclusiva.
+## CLÁUSULA 57. TRANSICIÓN OBLIGATORIA Y RAZONABLE
 
-Dentro de los diez días hábiles siguientes al inicio de la transición, LAS PARTES deberán:
+Durante la transición, cada parte deberá colaborar razonablemente en:
 
-- retirar o actualizar accesos administrativos que ya no correspondan;
-- conservar copias de analíticas, publicaciones, archivos y soportes relacionados con la actividad de FELIPEGIL360;
-- identificar campañas, obligaciones y publicaciones pendientes;
-- acordar la continuidad o cierre de compromisos comerciales vigentes;
-- abstenerse de borrar, ocultar o alterar material empresarial necesario para valoración, prueba o rendición de cuentas.
+- entrega y actualización de accesos;
+- inventario de activos;
+- cumplimiento o cierre de contratos vigentes;
+- conservación de archivos y evidencia;
+- identificación de campañas pendientes;
+- rendición de cuentas;
+- separación de bienes personales y empresariales;
+- valoración;
+- Buy-Out, venta, reorganización o liquidación.
 
-La devolución y continuidad personal de la cuenta no eliminarán:
+La transición no podrá imponer:
 
-- los derechos sobre contenidos legítimamente producidos;
-- los derechos de archivo y prueba;
+- trabajo gratuito ilimitado;
+- disponibilidad absoluta;
+- nuevas competencias o actividades de riesgo;
+- nuevas campañas de terceros no aprobadas;
+- producción intelectual futura indeterminada;
+- renuncia a derechos legales irrenunciables.
+
+## CLÁUSULA 58. TRATAMIENTO DE INSTAGRAM Y CUENTAS PERSONALES
+
+La cuenta personal de Instagram de EL TALENTO permanecerá bajo su titularidad y control.
+
+La separación no eliminará:
+
+- los derechos sobre contenidos históricos legítimamente producidos;
+- las copias de analíticas y evidencia;
 - las obligaciones económicas pendientes;
-- el reconocimiento del valor incremental demostrablemente producido por FELIPEGIL360;
-- las compensaciones que resulten de una valoración independiente.
+- la valoración del incremento empresarial atribuible a FELIPEGIL360 a la fecha de corte;
+- los contratos vigentes aprobados.
 
-El reconocimiento del valor incremental no permitirá retener la cuenta, impedir su uso personal por EL TALENTO ni presentarlo como vinculado a nuevas campañas después de la terminación sin su autorización previa y escrita.
+EL PROYECTO no podrá impedir el uso personal futuro de la cuenta ni aparentar que EL TALENTO continúa vinculado después de la separación.
 
----
+EL TALENTO no podrá borrar, ocultar o trasladar activos empresariales identificables, contratos, ingresos, contenidos o bases de datos que no sean de su propiedad personal.
 
-## CLÁUSULA 58. RETIRO DE EL TALENTO
+## CLÁUSULA 59. CESE OPERATIVO DE EL FUNDADOR
 
-Si EL TALENTO deja de participar de forma permanente:
+La reducción o terminación de funciones operativas de EL FUNDADOR no eliminará:
 
-- sus derechos personalísimos continuarán protegidos;
-- los contenidos existentes podrán seguir siendo explotados conforme a este contrato;
-- deberán cumplirse campañas y obligaciones vigentes;
-- no conservará indefinidamente beneficios futuros que dependan de una participación personal que ya no presta, salvo derechos consolidados o acuerdo diferente;
-- su participación económica futura podrá ajustarse mediante Buy-Out o valoración.
+- el CEF;
+- inversiones y derechos económicos consolidados;
+- propiedad sobre bienes personales;
+- derechos de valoración, Buy-Out, venta o liquidación.
 
----
+La suspensión de nuevos aportes personales no constituirá incumplimiento.
 
-## CLÁUSULA 59. RETIRO DE EL FUNDADOR
+EL FUNDADOR continuará obligado a entregar información, rendir cuentas y abstenerse de apropiarse unilateralmente de activos empresariales.
 
-Si EL FUNDADOR reduce o termina su actividad operativa:
+## CLÁUSULA 60. INCAPACIDAD, FUERZA MAYOR Y RIESGO
 
-- conservará el reconocimiento del Capital Empresarial Fundacional;
-- conservará derechos económicos consolidados;
-- la suspensión de nuevas inversiones no será abandono;
-- podrá delegarse la operación;
-- podrá activarse Buy-Out o reorganización si la continuidad lo requiere.
+La incapacidad, enfermedad, accidente, fuerza mayor o riesgo grave no constituirán automáticamente incumplimiento.
 
----
+LAS PARTES procurarán, en este orden:
 
-## CLÁUSULA 59A. CONSERVACIÓN DE DERECHOS EN CASO DE INACTIVIDAD, REDUCCIÓN OPERATIVA O SUSPENSIÓN
+1. adaptar funciones;
+2. reprogramar actividades;
+3. suspender actividades de riesgo;
+4. delegar tareas no personalísimas;
+5. utilizar contenido histórico;
+6. reorganizar la operación;
+7. activar valoración o Buy-Out cuando la imposibilidad sea permanente.
 
-La suspensión temporal o indefinida de actividades, la reducción de publicaciones, la ausencia de competencias, la disminución de ingresos, la falta de nuevos negocios, la interrupción de campañas o cualquier periodo de inactividad de EL PROYECTO no extinguirá, reducirá ni transferirá automáticamente:
+## CLÁUSULA 61. SEPARACIÓN SIN LIQUIDACIÓN ECONÓMICA
 
-- el Capital Empresarial Fundacional;
-- las inversiones posteriores reconocidas;
-- los derechos económicos consolidados;
-- los préstamos, anticipos, reembolsos o recuperaciones pendientes;
-- la titularidad de bienes personales;
-- los derechos relacionados con valoración, Buy-Out, venta, reorganización o liquidación;
-- el reconocimiento del dinero, activos, trabajo, tiempo, riesgo y recursos históricamente aportados.
+Ninguna parte podrá utilizar el cese de funciones o la separación material para apropiarse de activos, ingresos, contratos, contenidos, cuentas empresariales, relaciones o goodwill identificable de FELIPEGIL360.
 
-La inactividad, suspensión o disminución de operaciones no constituirá por sí sola:
+La parte que cese su participación personal deberá definir su situación económica mediante:
 
-- abandono;
-- renuncia;
-- donación;
-- cesión;
-- transferencia de propiedad;
-- pérdida de participación;
-- pérdida de derechos económicos consolidados;
-- pérdida del reconocimiento histórico;
-- autorización para la apropiación unilateral de activos o valor empresarial.
+- permanencia como titular económico pasivo;
+- Buy-Out;
+- venta;
+- reorganización societaria;
+- adjudicación de activos;
+- liquidación acordada.
 
-La reducción, modificación, delegación o terminación de las funciones operativas de EL FUNDADOR no eliminará:
+La separación material sin completar alguno de estos mecanismos no convierte los activos empresariales en propiedad exclusiva de quien los controle físicamente.
 
-- el reconocimiento del Capital Empresarial Fundacional;
-- sus derechos económicos consolidados;
-- la propiedad de sus bienes personales;
-- sus derechos en procesos de valoración, Buy-Out, venta, reorganización o liquidación;
-- el reconocimiento de inversiones, préstamos, anticipos y gastos demostrables.
+## CLÁUSULA 61A. AUSENCIA DE RETIRO ECONÓMICO GRATUITO
 
-La decisión de EL FUNDADOR de:
+No existe un derecho a retirarse económicamente de FELIPEGIL360 llevándose o explotando de manera exclusiva el valor empresarial conjunto sin efectuar valoración, compensación y cierre patrimonial.
 
-- no efectuar nuevos aportes;
-- no asumir nuevos créditos;
-- no cubrir déficits;
-- no financiar nuevas competencias;
-- cambiar la forma de ejecutar sus funciones;
-- delegar actividades operativas;
-- reducir temporal o permanentemente su dedicación;
+Esta cláusula no obliga a prestar servicios personales indefinidamente.
 
-no constituirá incumplimiento, abandono, renuncia ni causa de pérdida de derechos históricos.
+Su finalidad consiste en impedir que el cese de funciones sea utilizado para:
 
-Lo anterior no exime a EL FUNDADOR de responder por fraude, dolo, apropiación de activos, ocultamiento deliberado de información o incumplimiento grave probado de obligaciones que continúen siendo exigibles.
+- desviar activos o ingresos;
+- trasladar contratos o patrocinadores;
+- apropiarse de contenidos;
+- convertir goodwill conjunto en patrimonio personal exclusivo;
+- evitar el Buy-Out o la liquidación;
+- desconocer el CEF y demás obligaciones pendientes.
 
-La reducción o terminación de funciones futuras no podrá utilizarse para desconocer derechos económicos generados por aportes, activos, trabajo, riesgo o actividades ejecutadas con anterioridad.
-
-Los bienes adquiridos con patrimonio personal conservarán su titularidad original.
-
-El Capital Empresarial Fundacional y los demás aportes reconocidos constituyen derechos económicos a favor de su aportante, pero no implican automáticamente que todos los activos integrantes del Patrimonio Empresarial sean propiedad jurídica exclusiva de una sola parte.
-
-Cuando la inactividad continua de EL PROYECTO supere seis meses, cualquiera de las partes podrá solicitar por escrito:
-
-1. inventario actualizado de activos y obligaciones;
-
-2. relación de ingresos, gastos y contratos vigentes;
-
-3. determinación de saldos pendientes;
-
-4. plan de reactivación;
-
-5. reorganización de funciones;
-
-6. valoración del Patrimonio Empresarial;
-
-7. propuesta de Buy-Out;
-
-8. venta de activos;
-
-9. liquidación ordenada.
-
-Mientras se determina la continuidad, ninguna parte podrá:
-
-- apropiarse unilateralmente de activos;
-- eliminar, transferir o retener cuentas;
-- desviar ingresos;
-- borrar contenido;
-- excluir injustificadamente administradores;
-- ocultar información;
-- disponer de la marca o del goodwill;
-- explotar exclusivamente relaciones comerciales desarrolladas mediante EL PROYECTO;
-- desconocer derechos económicos consolidados de la otra parte.
-
-La conservación contractual de los derechos no impide la aplicación de los términos legales, cargas probatorias, requisitos de titularidad y mecanismos judiciales previstos por la legislación colombiana.
-
----
-
-## CLÁUSULA 60. INCAPACIDAD TEMPORAL
-
-La incapacidad temporal, enfermedad o accidente no constituye automáticamente incumplimiento.
-
-Las partes procurarán:
-
-- reprogramar;
-- delegar;
-- suspender actividades de riesgo;
-- cumplir compromisos esenciales;
-- preservar la continuidad.
-
----
-
-## CLÁUSULA 61. INCAPACIDAD PERMANENTE O FALLECIMIENTO
-
-En caso de incapacidad permanente o fallecimiento de una parte:
-
-- se preservarán los derechos económicos consolidados;
-- los derechos personalísimos se tratarán conforme a la ley;
-- los herederos no asumirán automáticamente funciones personales;
-- podrá activarse Buy-Out;
-- deberá evitarse la paralización o destrucción del valor empresarial;
-- los activos y obligaciones deberán inventariarse y valorarse.
-
----
-
-## CLÁUSULA 61A. PERMANENCIA Y AUSENCIA DE RETIRO VOLUNTARIO ORDINARIO
-
-LAS PARTES reconocen que FELIPEGIL360 fue concebido como un Proyecto empresarial de largo plazo y que la inversión, trabajo, riesgo, imagen, reputación, contenido y comunidad fueron aportados con la expectativa legítima de alcanzar crecimiento, diversificación, sostenibilidad y éxito empresarial.
-
-En consecuencia, ninguna parte tendrá un derecho ordinario, libre, discrecional o unilateral de retiro por simple cambio de interés, cansancio ordinario, falta temporal de rentabilidad, ausencia de viralización, aparición de una mejor oportunidad, deseo de operar individualmente o intención de explotar por fuera el valor construido.
-
-La separación anticipada únicamente podrá producirse por:
-
-1. fuerza mayor o caso fortuito imprevisible, irresistible y debidamente probado;
-2. incapacidad médica grave, permanente o prolongada que imposibilite las funciones esenciales;
-3. fallecimiento;
-4. incumplimiento grave, esencial y no subsanado de la otra parte;
-5. riesgo grave para la vida, salud o integridad que no pueda mitigarse razonablemente;
-6. imposibilidad jurídica definitiva;
-7. acuerdo escrito de ambas partes;
-8. Buy-Out, venta, reorganización o liquidación ejecutados conforme al Contrato Maestro.
-
-Cuando sea posible adaptar funciones, suspender actividades de riesgo, delegar tareas, explotar contenidos históricos o continuar mediante formatos alternativos, la imposibilidad de ejecutar una actividad específica no extinguirá automáticamente toda la relación contractual.
-
-La interrupción o abandono sin causal autorizada constituirá incumplimiento grave y activará valoración, Buy-Out, compensaciones, cláusula penal, rendición de cuentas y reparación de perjuicios demostrados, sin extinguir los derechos históricos ni las licencias sobre contenido legítimamente producido.
-
-Ninguna forma de retiro, abandono o inactividad podrá utilizarse para trasladar, extraer o explotar exclusivamente por fuera el goodwill, audiencia, reputación, contenidos, relaciones, oportunidades o demás valor creado mediante FELIPEGIL360.
+Cuando el cese sea injustificado y además esté acompañado de apropiación, ocultamiento, desvío o destrucción de valor empresarial, procederán las consecuencias por incumplimiento previstas en este contrato.
 
 ---
 
 # CAPÍTULO X
 # VALORACIÓN Y BUY-OUT
 
-## CLÁUSULA 62. EVENTOS DE VALORACIÓN
+## CLÁUSULA 62. FECHA DE CORTE DE VALORACIÓN
 
-Procederá valoración en caso de:
+La valoración se realizará a la fecha inmediatamente anterior al primero de los siguientes eventos:
 
-- retiro material, abandono o separación por causal autorizada;
-- Buy-Out;
-- venta;
-- ingreso de inversionistas;
-- constitución de sociedad;
-- incapacidad permanente;
-- fallecimiento;
-- terminación;
-- liquidación;
-- desacuerdo sobre participación;
-- reorganización relevante.
+- comunicación de cese sustancial de funciones;
+- incumplimiento grave que afecte la continuidad;
+- solicitud formal de Buy-Out;
+- transferencia o explotación externa no autorizada;
+- decisión conjunta de venta o liquidación.
 
----
+No se tendrá en cuenta la reducción artificial de valor causada posteriormente por ocultamiento, bloqueo, eliminación, abandono o desvío.
 
-## CLÁUSULA 63. ELEMENTOS DE VALORACIÓN
+## CLÁUSULA 63. COMPONENTES DE LA VALORACIÓN
 
-La valoración deberá considerar:
+La valoración deberá separar, sin doble reconocimiento:
 
-- ingresos históricos;
-- ingresos proyectados razonablemente;
-- contratos vigentes;
-- comunidad;
-- analíticas;
-- marca;
-- goodwill;
-- biblioteca audiovisual;
-- tecnología;
-- activos físicos;
-- obligaciones;
-- riesgos;
-- dependencia de cada persona;
-- Capital Empresarial Fundacional;
-- inversiones posteriores;
-- trabajo y funciones pendientes;
-- costos de continuidad;
-- contingencias;
-- recuperaciones ya recibidas.
-
----
+1. activos tangibles;
+2. caja, cuentas por cobrar y pasivos;
+3. CEF reconocido y recuperaciones;
+4. contenidos y biblioteca audiovisual;
+5. marcas, cuentas y activos digitales;
+6. contratos e ingresos recurrentes;
+7. goodwill empresarial;
+8. valor personal preexistente;
+9. valor incremental empresarial;
+10. dependencia de persona clave;
+11. valor nuevo posterior verdaderamente independiente;
+12. obligaciones de transición.
 
 ## CLÁUSULA 64. METODOLOGÍA
 
-La valoración podrá utilizar una o varias metodologías apropiadas, incluyendo:
+El perito utilizará una combinación razonable de:
 
-- flujo de caja;
-- múltiplos de ingresos o utilidades;
-- valor de activos;
-- costo de reposición;
-- transacciones comparables;
-- valor de liquidación;
-- valoración de intangibles.
+- valor neto de activos;
+- ingresos históricos normalizados;
+- flujo de caja descontado cuando exista información suficiente;
+- múltiplos comparables cuando sean aplicables;
+- costo de reposición de contenidos y activos;
+- métricas verificables de audiencia y monetización;
+- contratos y oportunidades con probabilidad objetiva;
+- descuento por dependencia de persona clave;
+- descuento por falta de liquidez.
 
-No se utilizará una metodología que ignore de manera manifiesta la verdadera naturaleza de EL PROYECTO.
+No podrán valorarse como ingresos ciertos simples expectativas, seguidores no auténticos o oportunidades sin soporte.
 
----
+## CLÁUSULA 65. DESIGNACIÓN DEL PERITO
 
-## CLÁUSULA 65. PERITO
+LAS PARTES intentarán designar de común acuerdo, dentro de diez (10) días hábiles, un profesional independiente con experiencia en valoración empresarial, activos digitales o propiedad intelectual.
 
-Si las partes no acuerdan el valor, designarán un profesional independiente con experiencia en valoración empresarial, activos digitales, propiedad intelectual o industrias creativas.
+Si no existe acuerdo, cualquiera podrá solicitar la designación a:
 
-Si no logran acordar el perito dentro de quince días hábiles, cada parte designará uno y ambos seleccionarán un tercero.
+- una cámara de comercio;
+- un centro de conciliación;
+- una asociación profesional;
+- la autoridad judicial competente.
 
----
+Cada parte entregará la información solicitada dentro de diez (10) días hábiles.
 
-## CLÁUSULA 66. BUY-OUT
+La negativa injustificada permitirá al perito trabajar con la evidencia disponible y considerar la falta de información como factor adverso, sin presumir automáticamente hechos no probados.
 
-El Buy-Out permitirá que una parte adquiera total o parcialmente los derechos económicos de la otra.
+## CLÁUSULA 66. ACTIVACIÓN DEL BUY-OUT
 
-La oferta deberá indicar:
+El Buy-Out podrá activarse por:
 
-- derechos incluidos;
-- activos comprendidos;
-- valor;
-- forma de pago;
-- garantías;
-- fecha de transferencia;
-- tratamiento de contratos;
-- tratamiento de contenidos;
-- obligaciones pendientes;
-- transición operativa.
+- acuerdo mutuo;
+- cese permanente de funciones esenciales;
+- incapacidad permanente;
+- incumplimiento grave;
+- bloqueo insalvable;
+- explotación externa de activos empresariales;
+- imposibilidad de continuar razonablemente la operación conjunta.
 
----
-
-## CLÁUSULA 66A. ACTIVACIÓN DEL BUY-OUT Y RESOLUCIÓN DE BLOQUEO
-
-Cualquiera de LAS PARTES podrá activar por escrito el procedimiento de Buy-Out cuando ocurra alguno de los siguientes eventos:
-
-1. inactividad operativa continua superior a sesenta días calendario que afecte materialmente la continuidad;
-
-2. desacuerdo insalvable que paralice una decisión esencial durante más de treinta días calendario;
-
-3. abandono, retiro material o separación por causal autorizada;
-
-4. incumplimiento material probado y no subsanado dentro del plazo contractual;
-
-5. apropiación, bloqueo o desviación de cuentas, activos, ingresos o relaciones comerciales;
-
-6. imposibilidad permanente de continuar la operación conjunta.
-
-La comunicación de activación deberá indicar:
-
-- el evento ocurrido;
-- los hechos y soportes;
-- los derechos o activos comprendidos;
-- la alternativa propuesta;
-- el saldo provisional del Capital Empresarial Fundacional;
-- la fecha de corte.
-
-LAS PARTES dispondrán de quince días calendario para acordar el alcance del Buy-Out, el valor y la forma de pago.
-
-Si no existe acuerdo sobre el valor, deberán designar un perito independiente.
-
-Si una parte no designa perito o no participa dentro de los diez días hábiles siguientes al requerimiento, la otra podrá solicitar su designación a la Cámara de Comercio de Medellín para Antioquia, a un centro de conciliación autorizado o a una entidad profesional independiente con experiencia en valoración empresarial, activos digitales o propiedad intelectual.
-
-La falta de participación de una parte no suspenderá indefinidamente el procedimiento.
-
-El perito deberá:
-
-- declarar independencia y ausencia de conflicto de interés;
-- permitir a ambas partes presentar información;
-- identificar activos, pasivos y contingencias;
-- determinar el saldo del Capital Empresarial Fundacional;
-- evitar doble contabilización;
-- diferenciar bienes personales y activos empresariales;
-- establecer el valor económico residual.
-
-El dictamen será obligatorio para LAS PARTES salvo error aritmético manifiesto, fraude, conflicto de interés no revelado o violación grave del procedimiento.
-
-Antes de calcular el valor residual de la participación de EL TALENTO deberán descontarse o pagarse:
-
-1. impuestos y obligaciones con terceros;
-
-2. deudas empresariales;
-
-3. préstamos y anticipos reconocidos;
-
-4. saldo actualizado del Capital Empresarial Fundacional;
-
-5. demás derechos de recuperación.
-
-La transferencia de derechos patrimoniales, cuentas, marca o activos solo se producirá contra el pago acordado o contra la constitución efectiva de garantías suficientes cuando exista pago aplazado.
-
-En caso de pago a plazos deberán pactarse como mínimo:
-
-- cuota inicial;
-- fechas de vencimiento;
-- intereses de mora dentro de los límites legales;
-- garantía;
-- cláusula aceleratoria;
-- suspensión de la transferencia definitiva hasta el pago o garantía acordada.
-
-La parte vendedora deberá firmar y ejecutar los documentos razonablemente necesarios para materializar la transferencia dentro de los cinco días hábiles siguientes al pago o constitución de las garantías.
-
-La negativa injustificada a firmar permitirá exigir el cumplimiento por los mecanismos legales aplicables, sin que opere apropiación automática de derechos personalísimos o bienes no incluidos en la operación.
-
----
-
-## CLÁUSULA 66B. SALIDA RECÍPROCA EN ACTIVOS COMPARTIDOS
-
-Cuando exista un bloqueo insalvable sobre un activo compartido y no sea posible acordar su venta, uso, administración o liquidación, cualquiera de LAS PARTES podrá presentar una oferta escrita para adquirir la participación económica de la otra.
-
-La parte receptora podrá:
-
-- aceptar la venta de su participación al precio propuesto; o
-- adquirir la participación del oferente utilizando la misma valoración proporcional.
-
-La oferta deberá ser seria, verificable, incluir forma y plazo de pago y demostrar capacidad razonable de cumplimiento.
-
-Este mecanismo podrá aplicarse a vehículos, equipos u otros activos compartidos cuya participación económica pueda determinarse.
-
-Antes de su aplicación deberán descontarse las obligaciones directamente asociadas con el activo y respetarse los bienes personales y derechos de terceros.
+El Buy-Out no será automático hasta que exista precio determinado o determinable, forma de pago y documentos de transferencia.
 
 ## CLÁUSULA 67. PRECIO DEL BUY-OUT
 
-El precio deberá reconocer, según corresponda:
+El precio será:
 
-- participación económica;
-- Capital Empresarial Fundacional;
-- inversiones posteriores;
-- activos;
-- pasivos;
-- ingresos pendientes;
-- valor de marca;
-- goodwill;
-- dependencia de la persona;
-- obligaciones de transición;
-- recuperaciones previamente recibidas.
+**valor económico de la participación objeto de compra  
+más derechos económicos consolidados  
+menos deudas, anticipos, recuperaciones y compensaciones aplicables.**
 
-No podrá utilizarse el mismo concepto dos veces.
+El CEF se tratará separadamente del porcentaje 65/35 y no podrá cobrarse dos veces.
 
----
+Cuando el mismo aporte ya esté reflejado en el valor empresarial, el perito deberá realizar el ajuste correspondiente.
 
-## CLÁUSULA 68. FORMA DE PAGO
+## CLÁUSULA 68. PAGO, GARANTÍAS Y TRANSFERENCIA
 
-El Buy-Out podrá pagarse:
+Salvo acuerdo diferente:
 
-- de contado;
-- por cuotas;
-- mediante activos;
-- con combinación de dinero y activos;
-- mediante participación temporal en ingresos;
-- por otro mecanismo acordado.
+- veinte por ciento (20 %) se pagará al cierre;
+- el saldo podrá pagarse hasta en treinta y seis (36) cuotas mensuales;
+- el saldo causará la tasa máxima legal permitida o la tasa menor acordada;
+- deberán existir pagaré, garantía sobre activos, fiducia, prenda, codeudor u otra garantía razonable;
+- la transferencia de derechos se realizará proporcionalmente contra pago;
+- el incumplimiento de tres cuotas permitirá acelerar el saldo, previa constitución en mora conforme a la ley.
 
-Cuando exista pago diferido deberán establecerse garantías y consecuencias por mora.
+Ninguna parte estará obligada a transferir definitivamente la totalidad de sus derechos sin recibir el pago o garantías acordadas.
 
----
+## CLÁUSULA 69. IMPOSIBILIDAD DE COMPRA
 
-## CLÁUSULA 69. DERECHO DE PREFERENCIA
+Si ninguna parte puede adquirir la participación de la otra, deberán considerarse en este orden:
 
-Antes de vender a un tercero una participación económica relevante, la parte vendedora deberá ofrecerla primero a la otra parte en condiciones sustancialmente equivalentes.
+1. permanencia económica pasiva;
+2. administración independiente de activos separados;
+3. venta a tercero con derecho de preferencia;
+4. venta de activos;
+5. liquidación ordenada.
 
-El plazo para ejercer la preferencia será de **treinta días calendario** desde la recepción de la oferta completa.
+No podrá forzarse una compra sin capacidad de pago demostrable.
 
 ---
-
-# CAPÍTULO XI
-# VENTA, SOCIEDAD Y LIQUIDACIÓN
 
 ## CLÁUSULA 70. FUTURA SOCIEDAD
 
@@ -2079,123 +1890,59 @@ La prohibición se limitará a impedir la apropiación o desviación desleal y n
 
 El plazo de doce (12) meses regula únicamente la captación o el desvío activo de relaciones. No limita la duración de los derechos económicos sobre el goodwill, valor incremental, contenidos, comunidad u otros activos empresariales, los cuales permanecerán mientras subsista conexión demostrable con FELIPEGIL360.
 
-## CLÁUSULA 78B. PERMANENCIA DEL VALOR EMPRESARIAL Y SEGUIMIENTO ECONÓMICO
+## CLÁUSULA 78B. PERMANENCIA DE LOS ACTIVOS HISTÓRICOS Y CRISTALIZACIÓN DEL GOODWILL
 
-LAS PARTES reconocen que el valor empresarial construido mediante FELIPEGIL360 puede continuar existiendo, producir efectos y generar beneficios durante un periodo indefinido, incluso después del retiro, separación, inactividad, transformación, reorganización o terminación de la relación operativa entre LAS PARTES.
+Los contenidos, contratos, cuentas empresariales, marcas, bases de datos legítimas, archivos, productos y demás activos identificables de FELIPEGIL360 conservarán su naturaleza empresarial durante el término legal y contractual aplicable.
 
-El goodwill, reputación incremental, posicionamiento, comunidad, recordación, confianza, relaciones comerciales, contenidos, portafolio, capacidad de convocatoria, valor incremental de cuentas personales, oportunidades y demás ventajas desarrolladas sustancialmente mediante FELIPEGIL360 no perderán su naturaleza empresarial por:
+En caso de separación, el goodwill y el valor incremental empresarial se determinarán a la fecha de corte prevista en la Cláusula 62.
 
-- el simple paso del tiempo;
-- el cambio de cuenta;
-- el cambio de plataforma;
-- la modificación de marca;
-- la creación de una nueva sociedad;
-- el retiro o inactividad de una parte;
-- la utilización mediante terceros;
-- la transformación del modelo de negocio.
+Una vez determinado ese valor, deberá materializarse mediante:
 
-Mientras un ingreso, activo, negocio, oportunidad, relación, cuenta, producto, servicio o valorización sea atribuible total o parcialmente al valor construido mediante FELIPEGIL360, el componente atribuible conservará su naturaleza empresarial y se someterá a la participación económica definitiva:
-
-- sesenta y cinco por ciento (65 %) para ANDRÉS DAVID MEJÍA HERRERA;
-- treinta y cinco por ciento (35 %) para LUIS FELIPE GIL BETANCUR.
-
-Esta regla no estará sometida a un plazo contractual fijo y permanecerá aplicable mientras subsista una relación causal, económica o comercial demostrable entre la explotación realizada y el valor empresarial construido mediante FELIPEGIL360.
-
-La explotación podrá producirse directa o indirectamente mediante:
-
-- cuentas personales;
-- nuevas redes sociales;
-- marcas distintas;
-- sociedades;
-- familiares;
-- representantes;
-- terceros;
-- patrocinadores;
-- agencias;
-- productos;
-- cursos;
-- eventos;
-- canales;
-- cualquier otro mecanismo de explotación.
-
-El cambio de forma, nombre, cuenta, plataforma, titular formal o vehículo jurídico no modificará la naturaleza económica del valor explotado.
-
-Para establecer la existencia y proporción de la conexión deberán analizarse:
-
-- origen de la audiencia;
-- evolución de seguidores;
-- reputación y posicionamiento;
-- contenidos utilizados;
-- patrocinadores, clientes y aliados;
-- inversión publicitaria;
-- producción y edición;
-- administración;
-- oportunidades recibidas;
-- portafolio;
-- cuentas utilizadas;
-- relación temática y comercial;
-- ingresos y valorización obtenidos;
-- trabajo, inversión y riesgo posteriores verdaderamente independientes.
-
-No quedará comprendido el valor nuevo que una parte demuestre haber creado de manera verdaderamente independiente, sin utilizar sustancialmente:
-
-- activos de FELIPEGIL360;
-- comunidad empresarial;
-- contenidos;
-- relaciones;
-- patrocinadores;
-- inversión;
-- reputación incremental;
-- información confidencial;
-- oportunidades originadas en EL PROYECTO.
-
-Cuando exista mezcla entre valor histórico y valor nuevo, deberá efectuarse una valoración proporcional que separe ambos componentes.
-
-La parte que explote valor por fuera deberá suministrar información suficiente para determinar ingresos, contratos, métricas, patrocinadores, clientes, productos, cuentas utilizadas, costos y terceros involucrados cuando existan indicios razonables de conexión con FELIPEGIL360.
-
-La presente cláusula no constituye prohibición general de trabajar, competir, desarrollar actividades personales ni generar nuevo valor.
-
-Su finalidad es impedir que el valor empresarial conjunto sea convertido unilateralmente en patrimonio personal exclusivo y garantizar que los beneficios derivados de dicho valor continúen reconociéndose según la participación económica acordada.
-
----
-
-## CLÁUSULA 78C. RETIRO, ABANDONO Y PROHIBICIÓN DE EXTRACCIÓN DEL VALOR CONSTRUIDO
-
-Ninguna parte podrá utilizar el retiro, abandono, inactividad o separación como mecanismo para trasladar, extraer, concentrar o explotar exclusivamente por fuera de FELIPEGIL360 el valor empresarial construido conjuntamente.
-
-No se reconocerá como retiro legítimo aquel cuya finalidad real o efecto sustancial consista en:
-
-- continuar por fuera el mismo posicionamiento empresarial;
-- trasladar audiencia, comunidad o patrocinadores;
-- explotar el goodwill incremental;
-- utilizar el portafolio construido como activo personal exclusivo;
-- replicar productos, formatos o relaciones empresariales;
-- monetizar por fuera activos o ventajas desarrollados mediante EL PROYECTO.
-
-Cuando una parte explote externamente valor atribuible total o parcialmente a FELIPEGIL360, deberá valorarse separadamente:
-
-1. el valor personal preexistente e independiente;
-2. el valor empresarial incremental construido mediante FELIPEGIL360;
-3. el valor creado posteriormente mediante recursos, trabajo y riesgo verdaderamente independientes;
-4. los activos, relaciones, contenidos y oportunidades utilizados;
-5. los ingresos, beneficios y valorización derivados de cada componente.
-
-Sobre el componente atribuible a FELIPEGIL360 se aplicará permanentemente la participación económica 65 % para EL FUNDADOR y 35 % para EL TALENTO mientras subsista conexión demostrable.
-
-La aplicación podrá materializarse mediante:
-
-- pago directo;
-- compensación en Buy-Out;
-- participación en ingresos;
-- cuenta por cobrar;
+- Buy-Out;
+- participación económica pasiva;
+- pago;
 - adjudicación de activos;
-- reconocimiento sobre valorización;
-- indemnización;
-- cualquier mecanismo económicamente equivalente.
+- participación temporal sobre ingresos identificados;
+- otro mecanismo expresamente acordado.
 
-La omisión, ocultamiento, triangulación o utilización de terceros no eliminará la obligación económica.
+No existirá un derecho flotante e ilimitado sobre toda la actividad profesional futura de una persona.
 
-El retiro tampoco extinguirá las licencias sobre contenido histórico, los derechos patrimoniales, la confidencialidad, la prohibición de desvío, el CEF ni el derecho de la otra parte a exigir valoración y compensación.
+Sí permanecerán sujetos al reparto 65 % para EL FUNDADOR y 35 % para EL TALENTO:
+
+- ingresos de contenidos históricos;
+- contratos celebrados antes de la fecha de corte;
+- productos empresariales identificados;
+- activos adjudicados conjuntamente;
+- ingresos de cuentas empresariales;
+- explotación posterior de activos concretos no incluidos o no pagados en el Buy-Out.
+
+Cuando un activo o goodwill haya sido íntegramente valorado y pagado dentro del Buy-Out, no volverá a generar participación económica por el mismo concepto.
+
+## CLÁUSULA 78C. EXPLOTACIÓN EXTERNA DE ACTIVOS IDENTIFICABLES
+
+Ninguna parte podrá utilizar el cese de funciones para trasladar o explotar exclusivamente por fuera:
+
+- contenidos empresariales;
+- cuentas empresariales;
+- contratos;
+- bases de datos;
+- marcas;
+- patrocinios activos;
+- productos;
+- archivos;
+- oportunidades documentadas;
+- goodwill no liquidado.
+
+Cuando exista explotación externa, deberá diferenciarse:
+
+1. valor personal preexistente;
+2. activo empresarial identificable;
+3. goodwill valorado a la fecha de corte;
+4. trabajo, inversión y riesgo posteriores independientes.
+
+El componente empresarial no liquidado se someterá al reparto 65/35 o a la compensación definida en el Buy-Out.
+
+La actividad nueva e independiente, desarrollada sin utilizar sustancialmente activos empresariales no liquidados, pertenecerá a quien la cree.
 
 ---
 
@@ -2431,6 +2178,77 @@ Las partes reconocen expresamente que:
 
 17. el propósito de este contrato es proteger el valor creado y permitir que EL PROYECTO continúe operando hacia su crecimiento, sostenibilidad y éxito.
 
+
+---
+
+# CAPÍTULO XV
+# CONSENTIMIENTO INFORMADO Y DECLARACIÓN DE NEGOCIACIÓN
+
+## CLÁUSULA 95. LECTURA Y COMPRENSIÓN
+
+Cada parte declara que:
+
+1. recibió el texto completo del Contrato Maestro y sus anexos antes de la firma;
+2. tuvo oportunidad real de leerlos sin presión de tiempo;
+3. pudo formular preguntas y proponer cambios;
+4. comprende la diferencia entre titularidad jurídica, participación económica, CEF, goodwill, licencia, Buy-Out, cláusula penal y derechos personalísimos;
+5. conoce los riesgos económicos y jurídicos del Proyecto;
+6. entiende que la notaría autentica firmas y declaraciones, pero no reemplaza asesoría jurídica independiente.
+
+## CLÁUSULA 96. NEGOCIACIÓN REAL Y AUSENCIA DE IMPOSICIÓN
+
+LAS PARTES declaran que el contrato fue discutido y ajustado a partir de sus aportes, funciones, riesgos y expectativas.
+
+Ninguna parte manifiesta firmar:
+
+- bajo violencia;
+- amenaza;
+- engaño;
+- error esencial;
+- presión económica ilegítima;
+- aprovechamiento de incapacidad;
+- espacios esenciales en blanco.
+
+Cada parte reconoce que pudo solicitar asesoría jurídica independiente y que la decisión de firmar es libre.
+
+Esta declaración no constituye renuncia a derechos irrenunciables ni impide alegar posteriormente fraude, violencia, error, dolo, nulidad o incumplimiento cuando realmente existan.
+
+## CLÁUSULA 97. ACEPTACIÓN INDIVIDUAL DE MATERIAS ESENCIALES
+
+Antes de firmar, cada parte deberá marcar su aceptación respecto de las materias siguientes:
+
+| Materia | Andrés | Felipe |
+|---|---|---|
+| Participación residual 65 % / 35 % | [ ] | [ ] |
+| Reconocimiento y recuperación separada del CEF | [ ] | [ ] |
+| Titularidad personal del Swift | [ ] | [ ] |
+| Tratamiento económico específico del Yacar | [ ] | [ ] |
+| Titularidad personal de Instagram de Felipe | [ ] | [ ] |
+| Licencia sobre contenidos históricos | [ ] | [ ] |
+| Transición, valoración y Buy-Out ante separación | [ ] | [ ] |
+| No captación activa por 12 meses | [ ] | [ ] |
+| Propiedad intelectual y derechos personalísimos | [ ] | [ ] |
+| Cláusula penal y prohibición de doble cobro | [ ] | [ ] |
+| Solución de controversias | [ ] | [ ] |
+
+Las casillas deberán marcarse de puño y letra al momento de la firma.
+
+La falta de marca en una materia esencial deberá aclararse antes del reconocimiento notarial y no podrá suplirse mediante presunción.
+
+## CLÁUSULA 98. DECLARACIÓN FINAL
+
+LAS PARTES manifiestan que entienden que FELIPEGIL360 es un proyecto empresarial de riesgo, sin garantía de éxito, ingresos, viralización, patrocinadores o valorización.
+
+Ambas aceptan aportar trabajo, colaboración y diligencia dentro de los límites pactados, y reconocen que:
+
+- Andrés no garantiza financiación permanente;
+- Felipe no garantiza resultados deportivos o comerciales;
+- ninguna parte puede apropiarse unilateralmente del valor conjunto;
+- ninguna parte está obligada a renunciar a su libertad, salud o derechos legales;
+- los desacuerdos deberán resolverse mediante los procedimientos pactados;
+- los derechos económicos deberán determinarse con evidencia, sin doble contabilización.
+
+Esta declaración forma parte esencial del consentimiento contractual.
 
 ---
 

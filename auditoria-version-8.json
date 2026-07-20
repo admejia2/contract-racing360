@@ -1,0 +1,71 @@
+{
+  "status": "OK",
+  "issues": [],
+  "version": "8.0",
+  "files": {
+    "acta-consentimiento-informado.md": {
+      "bytes": 3671,
+      "sha256": "ca302e1d10e6d0a09c82bb532f210355324ca02bbd9f80616c516bde07ce175c"
+    },
+    "acta-fundacional.md": {
+      "bytes": 22316,
+      "sha256": "9f0ae5b5d74396a078e989b1d1dea463e9c61f708175532d5cac57a24bbaf687"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 26469,
+      "sha256": "f572496ad93a0f721a64c7a8592faa433dd6472d754784448e3bcc133ac27559"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 39330,
+      "sha256": "6e7b19bae21323f4d2bd7bd9d46b2e2fae8c075bc32b86bf31af41d4bf853895"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 54679,
+      "sha256": "b0743acb64f9f6ac401f9616c8ba8e2b2be440430e2c5b4add226cdc30a3f7aa"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 12748,
+      "sha256": "30038be191256ed5c379816ab5f9e77d5bd1877cc0a0ea6511629930ab8d27eb"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 13779,
+      "sha256": "55ef2eb0440958d739bde37c008c780a31fabf7acea7abd6952ea6ff856f12f4"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 32050,
+      "sha256": "e69acf0bb2c22d020b654c0e44468897ea98a43a5b826d4c829248cd95e93b2d"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 8595,
+      "sha256": "43d081bd6674f4935c596805943800eeb289fe923d3517087cf990d77166c087"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 13100,
+      "sha256": "2cd2e09090a1f51f612885a0b048c9a5d98c1daddd82e000d8c18fd5d3909c37"
+    },
+    "anexo-i-inventario-contenidos-historicos.md": {
+      "bytes": 1045,
+      "sha256": "b49b7dab32dac4dd2bd88572381c870390348114c40e2c99c11ce59e957e9e4e"
+    },
+    "contrato.md": {
+      "bytes": 95174,
+      "sha256": "125110ad9785eb9b873cfecf4e64b18dab23ee3bd35cf51c890164223f56ae09"
+    },
+    "documento-complementario-vendedor-yacar.md": {
+      "bytes": 3358,
+      "sha256": "b0714ad5b9c27e8f317f1eb16e3bd629acdec431b15a07ecbe04743bf9dc96a4"
+    },
+    "guia-final-firma.md": {
+      "bytes": 1204,
+      "sha256": "cb55ac2b9f0c0d071c610b767d69fe230154f0747bb4cded8a0b39776ffaaebd"
+    },
+    "informe-auditoria-juridica-version-8.md": {
+      "bytes": 1599,
+      "sha256": "22a90a66c2ebc6e7b280ddc20b39ff00b62c276d99e78109c56cb565cba1fa47"
+    },
+    "manifiesto-hashes.json": {
+      "bytes": 2261,
+      "sha256": "0bd45725b4520aabebb253a09777f6e4fc40167fe5595a0686212c9cb44b8e57"
+    }
+  }
+}

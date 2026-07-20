@@ -1,7 +1,7 @@
 # ANEXO F
 # MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DE FELIPEGIL360
 
-**Versión: 4.1**
+**Versión: 5.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1061,6 +1061,26 @@ EL FUNDADOR deberá estructurar y documentar estrategias razonables de diversifi
 EL TALENTO deberá colaborar razonablemente en las estrategias aprobadas que requieran su participación y no podrá bloquear injustificadamente la transformación de audiencia, reputación y posicionamiento en activos empresariales.
 
 El retiro o inactividad no extinguirá el valor construido ni permitirá su explotación personal exclusiva.
+
+---
+
+# 26C. COORDINACIÓN SIN SUBORDINACIÓN
+
+La dirección estratégica de EL FUNDADOR no autoriza control disciplinario laboral sobre EL TALENTO.
+
+La coordinación deberá operar mediante:
+
+- calendarios acordados;
+- campañas aprobadas;
+- presupuestos;
+- entregables;
+- disponibilidad informada;
+- autonomía técnica;
+- posibilidad razonable de rechazar actividades no aprobadas, inseguras o incompatibles.
+
+No deberán utilizarse llamados de atención laborales, horarios rígidos, disponibilidad permanente ni sanciones disciplinarias.
+
+El incumplimiento contractual se tramitará mediante requerimientos escritos y mecanismos civiles o comerciales.
 
 ---
 

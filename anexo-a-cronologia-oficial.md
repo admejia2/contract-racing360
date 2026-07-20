@@ -622,6 +622,15 @@ Los hechos posteriores que exploten dicho valor podrán incorporarse a la cronol
 
 ---
 
+## NATURALEZA ARTESANAL Y PRUEBA DEL YACAR
+
+LAS PARTES reconocen que el Yacar Car Cross es un vehículo artesanal de competencia, sin matrícula, licencia de tránsito, factura comercial ordinaria ni contrato formal de compraventa incorporado al Sistema Documental. Esta circunstancia no elimina el acuerdo material de adquisición ni los derechos económicos internos derivados de los pagos. La adquisición, posesión, aportes y saldo podrán acreditarse mediante comprobantes, transferencias, mensajes, fotografías, videos, testimonios, entrega material, historial de pagos y demás medios de prueba legalmente admisibles.
+
+La ausencia de documento formal del vendedor no impide el reconocimiento interno de los pagos ni obliga a suspender la firma del Sistema Documental.
+
+
+---
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman el presente Anexo.

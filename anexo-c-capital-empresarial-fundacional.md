@@ -1,7 +1,7 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
-**Versión: 5.1**
+**Versión: 6.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1276,6 +1276,45 @@ Ambos conceptos deberán aplicarse sin doble contabilización.
 
 ---
 
+# 23.11. CLASIFICACIÓN PARA EVITAR SOBREVALORACIÓN
+
+Para el cierre definitivo del CEF, cada concepto deberá clasificarse como:
+
+| Categoría | Tratamiento |
+|---|---|
+| Dinero desembolsado y no recuperado | Valor nominal soportado, actualizado cuando proceda |
+| Crédito personal | Capital pagado, intereses y costos directamente atribuibles |
+| Equipo conservado por su propietario | Depreciación, deterioro, costo de uso o valor consumido; no necesariamente el 100 % del activo |
+| Equipo transferido al Proyecto | Valor de transferencia acordado |
+| Trabajo no remunerado | Valoración razonable con evidencia de tareas, tiempo, tarifa y beneficio |
+| Riesgo y costo de oportunidad | Criterios de valoración, no partidas duplicadas |
+| Reparación o mejora | Valor pagado y efecto económico acreditado |
+| Patrocinio o recuperación | Debe descontarse del aporte correspondiente |
+
+El valor provisional de equipos por $17.840.000 COP deberá revisarse en el Acta definitiva para determinar qué parte corresponde a propiedad conservada, depreciación, costo de uso o transferencia efectiva.
+
+# 23.12. TRABAJO NO REMUNERADO
+
+El trabajo no remunerado podrá reconocerse como aporte empresarial cuando se demuestre mediante:
+
+- archivos;
+- publicaciones;
+- mensajes;
+- registros;
+- entregables;
+- fechas;
+- estimación razonable de horas;
+- tarifa de referencia;
+- beneficio para EL PROYECTO.
+
+Su reconocimiento como aporte no lo convierte automáticamente en deuda personal de la otra parte.
+
+# 23.13. REGLA DE RECUPERACIONES
+
+Todo ingreso, patrocinio, reembolso, venta de activo, indemnización, monetización o beneficio económico aplicado a un costo previamente asumido deberá registrarse como recuperación y descontarse antes de determinar el saldo definitivo.
+
+---
+
 # 24. ACTUALIZACIÓN
 
 Este documento permanecerá abierto durante toda la vida del Proyecto.
@@ -1403,20 +1442,17 @@ Toda reconstrucción deberá respetar:
 
 La información incompleta podrá mantenerse como pendiente o controvertida sin ser eliminada.
 
-## REGLA DE PRECISIÓN DE LA TASA DEL YACAR
+## REGLA DE LA TASA DEL YACAR
 
-La tasa informada para las obligaciones relacionadas con el Yacar es del uno coma cinco por ciento (1,5 %).
+La tasa acordada e informada por LAS PARTES es del uno coma cinco por ciento (1,5 %) mensual. La base exacta de liquidación —sobre saldo insoluto, capital inicial u otra fórmula— deberá acreditarse con los comprobantes, mensajes, tablas de pago o demás evidencia disponible. En ausencia de prueba suficiente sobre la base, ninguna parte podrá imponer unilateralmente una fórmula distinta de la que pueda reconstruirse de los pagos efectivamente realizados.
+---
 
-Antes de liquidar intereses, mora, saldos o cuotas deberá incorporarse al Sistema Documental un soporte o acta firmada que precise:
+## NATURALEZA ARTESANAL Y PRUEBA DEL YACAR
 
-- periodicidad mensual o anual;
-- naturaleza nominal o efectiva;
-- base de liquidación;
-- cálculo sobre saldo o sobre valor inicial;
-- fecha de causación;
-- forma de imputación de los pagos.
+LAS PARTES reconocen que el Yacar Car Cross es un vehículo artesanal de competencia, sin matrícula, licencia de tránsito, factura comercial ordinaria ni contrato formal de compraventa incorporado al Sistema Documental. Esta circunstancia no elimina el acuerdo material de adquisición ni los derechos económicos internos derivados de los pagos. La adquisición, posesión, aportes y saldo podrán acreditarse mediante comprobantes, transferencias, mensajes, fotografías, videos, testimonios, entrega material, historial de pagos y demás medios de prueba legalmente admisibles.
 
-Mientras no exista esa precisión, ninguna parte podrá imponer unilateralmente una modalidad de cálculo.
+La ausencia de documento formal del vendedor no impide el reconocimiento interno de los pagos ni obliga a suspender la firma del Sistema Documental.
+
 
 ---
 

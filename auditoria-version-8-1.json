@@ -1,0 +1,80 @@
+{
+  "status": "OK",
+  "issues": [],
+  "confirmed_facts": {
+    "tasa": "1,5 % mensual",
+    "base_liquidacion": "por reconstruir con evidencia",
+    "yacar": "vehículo artesanal de competencia",
+    "contrato_vendedor": "no existe y no es requisito para firma interna"
+  },
+  "files": {
+    "acta-consentimiento-informado.md": {
+      "bytes": 3708,
+      "sha256": "48cedea3946d239fbceeb7c838131f70302eea6c4345af0f187ae0283b67064a"
+    },
+    "acta-fundacional.md": {
+      "bytes": 22316,
+      "sha256": "9f0ae5b5d74396a078e989b1d1dea463e9c61f708175532d5cac57a24bbaf687"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 27253,
+      "sha256": "a6a5f55e606eaddf08ab89a1e0356ce7538f9fc2c25349921e5f1feef3b36f3f"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 39976,
+      "sha256": "ebb02f425f31a7b00aac0a0e6f2f64412b89bf6928c3c79c40b4a5b38c047750"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 55369,
+      "sha256": "ae5a3dde64567b6515e125f392be0ba60981cdcae8b456904c8aaafc3360273a"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 12748,
+      "sha256": "30038be191256ed5c379816ab5f9e77d5bd1877cc0a0ea6511629930ab8d27eb"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 13779,
+      "sha256": "55ef2eb0440958d739bde37c008c780a31fabf7acea7abd6952ea6ff856f12f4"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 32050,
+      "sha256": "e69acf0bb2c22d020b654c0e44468897ea98a43a5b826d4c829248cd95e93b2d"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 8595,
+      "sha256": "43d081bd6674f4935c596805943800eeb289fe923d3517087cf990d77166c087"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 13118,
+      "sha256": "38b1db67a6330f2ed73d7b17ba5ae08ed8187622b1c78ee9814a77a6af5822ed"
+    },
+    "anexo-i-inventario-contenidos-historicos.md": {
+      "bytes": 1045,
+      "sha256": "b49b7dab32dac4dd2bd88572381c870390348114c40e2c99c11ce59e957e9e4e"
+    },
+    "auditoria-version-8.json": {
+      "bytes": 2506,
+      "sha256": "8cf94551e7e6210b3770c83cdae2926a301f0a80fa30499bd61a3b81bd6a8ff2"
+    },
+    "contrato.md": {
+      "bytes": 95352,
+      "sha256": "7fdcad77eeb1fb4ba657249b2ca3160b2f0419a8967de2754578d1a3a7d4bb23"
+    },
+    "documentos-opcionales-no-requeridos/reconocimiento-opcional-vendedor-yacar.md": {
+      "bytes": 3358,
+      "sha256": "b0714ad5b9c27e8f317f1eb16e3bd629acdec431b15a07ecbe04743bf9dc96a4"
+    },
+    "guia-final-firma.md": {
+      "bytes": 1606,
+      "sha256": "fba6785202f431b790dca78b27bfb3815ae54e32bb5bc59116295b2ae2857985"
+    },
+    "informe-auditoria-juridica-version-8.md": {
+      "bytes": 1740,
+      "sha256": "18af22a851e1101772521ec0eff9b951e364a470e083bedeea6901f77bdd57e1"
+    },
+    "manifiesto-hashes.json": {
+      "bytes": 2261,
+      "sha256": "0bd45725b4520aabebb253a09777f6e4fc40167fe5595a0686212c9cb44b8e57"
+    }
+  }
+}
