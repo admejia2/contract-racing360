@@ -1,7 +1,7 @@
 # ANEXO B
 # INVENTARIO INICIAL DE BIENES, ACTIVOS, RECURSOS Y APORTES FUNDACIONALES DE FELIPEGIL360
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -174,8 +174,6 @@ Cuando existan indicadores de audiencia artificial o inauténtica, estos deberá
 
 ---
 
----
-
 # 6B. AUSENCIA DE INVENTARIO EXHAUSTIVO
 
 El presente Inventario no requiere identificar manualmente cada activo menor, accesorio, cuenta, licencia, archivo o gasto para que pueda ser reconocido.
@@ -196,8 +194,8 @@ La falta de registro no permitirá apropiarse de un bien ajeno ni desconocer un 
 | Clasificación | Propiedad personal utilizada por el Proyecto |
 | Transferencia de propiedad | No |
 | Uso dentro del Proyecto | Competencias, pruebas, producción audiovisual, generación de contenido y posicionamiento |
-| Custodio | Por documentar |
-| Estado | Por actualizar |
+| Custodio | ANDRÉS DAVID MEJÍA HERRERA |
+| Estado | Activo personal operativo sujeto a desgaste, reparaciones y mantenimiento; su condición exacta se verificará al momento de inventario, entrega o valoración |
 | Soportes | Documento de propiedad, fotografías, facturas, registros de mantenimiento y demás evidencias disponibles |
 
 El Suzuki Swift GTi continuó siendo propiedad personal de ANDRÉS DAVID MEJÍA HERRERA.
@@ -401,7 +399,7 @@ Ninguna afirmación contenida en este Anexo reemplazará los documentos de propi
 | Pagado por Andrés | $30.000.000 COP |
 | Origen del aporte de Andrés | Crédito personal asumido en junio de 2025 |
 | Pagado por Luis Felipe | $20.000.000 COP |
-| Origen del aporte de Luis Felipe | Crédito personal asumido en enero de 2026 |
+| Origen del aporte de Luis Felipe | Crédito personal asumido en diciembre de 2025 |
 | Total pagado | $50.000.000 COP |
 | Saldo pendiente | $15.000.000 COP |
 | Aporte de patrocinadores al precio de compra | $0 COP |
@@ -447,7 +445,7 @@ Entre las actividades identificadas se encuentran:
 - puesta a punto;
 - preparación previa a eventos.
 
-Los valores exactos permanecerán pendientes mientras no hayan sido consolidados.
+La existencia de estos costos queda reconocida. Su cuantificación permanece abierta únicamente hasta consolidar soportes y evitar doble contabilización.
 
 En los trabajos de suspensión y llantas se reconoce preliminarmente:
 
@@ -539,7 +537,7 @@ Este valor solo se registrará separadamente de los $40.000.000 COP cuando corre
 
 Desde el año 2024, ANDRÉS DAVID MEJÍA HERRERA ha asumido aproximadamente **$130.000 COP mensuales** por parqueadero del vehículo y del tráiler utilizados para las actividades de EL PROYECTO.
 
-El valor total acumulado queda pendiente de liquidación hasta identificar el número exacto de mensualidades pagadas.
+Para el corte provisional al 20 de julio de 2026 se reconocen treinta y una (31) mensualidades estimadas, equivalentes a **$4.030.000 COP**. El valor podrá ajustarse con los pagos acreditados.
 
 Estos pagos:
 
@@ -568,15 +566,15 @@ Los activos identificados como aportados por ANDRÉS DAVID MEJÍA HERRERA contin
 | GoPro 12 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.700.000 COP cada una; total $3.400.000 COP | Seminuevas |
 | GoPro 13 | 2 | ANDRÉS DAVID MEJÍA HERRERA | Activos personales aportados en uso | $1.900.000 COP cada una; total $3.800.000 COP | Seminuevas |
 | Baterías GoPro | 7 | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | $120.000 COP cada una; total $840.000 COP | Utilizadas con las cámaras |
-| Cargadores GoPro | Los utilizados para las siete baterías | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Pendiente de valoración | Uso audiovisual |
+| Cargadores GoPro | Los utilizados para las siete baterías | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | Incluidos en la valoración conjunta de baterías y accesorios | Uso audiovisual; no se valoran nuevamente por separado |
 | Micrófono | 1 | ANDRÉS DAVID MEJÍA HERRERA | Activo personal aportado en uso | $1.000.000 COP | Producción audiovisual |
 | Memorias microSD | Varias, capacidad total de 2 TB | ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento removible aportado en uso | $1.500.000 COP total | Grabación y respaldo audiovisual |
 | Gimbal | 1 | ANDRÉS DAVID MEJÍA HERRERA | Estabilizador personal aportado en uso | $1.000.000 COP | Producción audiovisual |
 | Soportes para cámaras | Varios | ANDRÉS DAVID MEJÍA HERRERA | Accesorios personales aportados en uso | $700.000 COP total | Montaje de cámaras y producción audiovisual |
 | Discos duros de 10 TB | 2 | ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo | $1.300.000 COP cada uno; total $2.600.000 COP | Capacidad conjunta de 20 TB |
 | Discos SSD de 2 TB | 3 | ANDRÉS DAVID MEJÍA HERRERA | Edición y respaldo | $1.000.000 COP cada uno; total $3.000.000 COP | Capacidad conjunta de 6 TB |
-| Google Photos | Suscripción mensual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo digital | $50.000 COP mensuales desde 2024 | Total acumulado pendiente de liquidación |
-| CapCut Pro | Suscripción anual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Edición audiovisual | $300.000 COP anuales desde 2023 | Total acumulado pendiente de liquidación |
+| Google Photos | Suscripción mensual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Almacenamiento y respaldo digital | $50.000 COP mensuales desde 2024 | Estimación provisional al 20 de julio de 2026: 31 meses, $1.550.000 COP |
+| CapCut Pro | Suscripción anual | Pagada por ANDRÉS DAVID MEJÍA HERRERA | Edición audiovisual | $300.000 COP anuales desde 2023 | Estimación provisional 2023-2026: 4 anualidades, $1.200.000 COP |
 | Lentes aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
 | Computadores aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
 | Teléfonos aportados | 0 | No aplica | No se registran aportes | $0 COP | No aplica |
@@ -668,13 +666,13 @@ Continúan siendo propiedad personal de Andrés y fueron utilizados para montaje
 
 Desde 2023, ANDRÉS DAVID MEJÍA HERRERA paga aproximadamente **$300.000 COP anuales** por CapCut Pro para edición y producción de contenido relacionado con EL PROYECTO.
 
-El total acumulado será igual al número de anualidades efectivamente pagadas multiplicado por $300.000 COP.
+Para el corte provisional se reconocen cuatro (4) anualidades entre 2023 y 2026, equivalentes a **$1.200.000 COP**, sujetas a ajuste según los pagos efectivamente acreditados.
 
 ## 11.4.11. Google Photos
 
 Desde 2024, ANDRÉS DAVID MEJÍA HERRERA paga aproximadamente $50.000 COP mensuales por Google Photos para almacenamiento y respaldo de material relacionado con EL PROYECTO.
 
-El total acumulado será igual al número de mensualidades efectivamente pagadas multiplicado por $50.000 COP.
+Para el corte provisional al 20 de julio de 2026 se reconocen treinta y una (31) mensualidades, equivalentes a **$1.550.000 COP**, sujetas a ajuste según los pagos efectivamente acreditados.
 
 ## 11.4.12. Tráiler recibido en préstamo
 
@@ -998,6 +996,41 @@ El Inventario deberá utilizarse para determinar de manera objetiva:
 - con qué finalidad;
 - bajo qué titularidad;
 - con qué obligaciones pendientes.
+
+---
+
+# REGISTRO ACTUALIZADO DEL YACAR CAR CROSS
+
+- Documento formal de compraventa: **no existe a la fecha**.
+- Persona vendedora: **no identificada documentalmente dentro del Sistema Documental a la fecha del cierre**. Su identificación podrá incorporarse posteriormente sin modificar los pagos y obligaciones aquí reconocidos.
+- Posesión física y custodia actual: **ANDRÉS DAVID MEJÍA HERRERA**.
+- Obligación de Andrés: **$30.000.000 COP**, desde junio de 2025, tasa informada 1,5 %, plazo 60 meses.
+- Obligación de Felipe: **$20.000.000 COP**, desde diciembre de 2025, tasa informada 1,5 %, plazo 60 meses.
+- Saldo con el vendedor: **$15.000.000 COP**, desde julio de 2026, tasa informada 1,5 %.
+- Felipe pagará las cuotas de su obligación de $20.000.000 COP y aportará **$200.000 COP mensuales** al saldo de $15.000.000 COP.
+- Andrés pagará las cuotas de su obligación de $30.000.000 COP y el valor restante de las cuotas del saldo de $15.000.000 COP.
+- La participación económica específica se actualizará según capital efectivamente pagado.
+- Intereses, mantenimiento, reparaciones y mejoras se registrarán separadamente.
+- No podrá disponerse del vehículo sin autorización escrita de ambas partes.
+
+---
+
+# REGISTRO DE ACTIVOS INTANGIBLES DE CONTINUIDAD
+
+También integran el inventario económico, aunque no sean bienes físicos:
+
+- goodwill;
+- reputación incremental;
+- posicionamiento;
+- comunidad;
+- capacidad de convocatoria;
+- relaciones;
+- valor incremental de cuentas;
+- biblioteca y portafolio;
+- capacidad de monetización;
+- oportunidades derivadas.
+
+Estos activos conservarán su naturaleza empresarial mientras continúen siendo explotados y exista conexión demostrable con FELIPEGIL360.
 
 ---
 

@@ -1,7 +1,7 @@
 # ANEXO E
 # PROPIEDAD INTELECTUAL, IMAGEN, ACTIVOS DIGITALES E INTELIGENCIA ARTIFICIAL DE FELIPEGIL360
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -124,8 +124,6 @@ Solo serán activos empresariales los productos educativos creados específicame
 
 ---
 
----
-
 # 7C. CONTINUIDAD Y PROTECCIÓN GENERAL DE ACTIVOS DIGITALES
 
 Toda cuenta, canal, dominio, plataforma, sistema de monetización, almacenamiento, cuenta publicitaria o infraestructura utilizada sustancialmente para FELIPEGIL360 quedará protegida aunque no haya sido individualizada.
@@ -135,6 +133,28 @@ EL FUNDADOR deberá conservar acceso administrativo suficiente a los activos emp
 Ninguna parte podrá bloquear accesos legítimos, ocultar analíticas o ingresos, transferir cuentas, eliminar respaldos o cambiar datos críticos con intención de excluir a la otra.
 
 En caso de retiro o controversia se aplicará una transición ordenada y se conservará la evidencia.
+
+# 7D. ALCANCE TERRITORIAL, TEMPORAL Y POSTERIOR A LA TERMINACIÓN
+
+La autorización de uso de nombre, imagen, voz y participación incorporada en contenidos legítimamente producidos para FELIPEGIL360 tendrá alcance mundial.
+
+Durante la vigencia comprende publicación, edición técnica, promoción, monetización, archivo, portafolio y campañas aprobadas.
+
+Después de la terminación podrán conservarse, publicarse y monetizarse permanentemente los contenidos históricos, sin aparentar continuidad, crear declaraciones nuevas, simular apariciones mediante inteligencia artificial ni vincular a EL TALENTO con nuevas campañas de terceros sin autorización.
+
+El retiro no extinguirá el goodwill ni el valor empresarial ya construido. Dicho valor y el valor incremental que cada parte conserve deberán incluirse en la valoración de salida.
+
+---
+
+# 7E. CONTINUIDAD INDEFINIDA DEL VALOR DIGITAL
+
+El retiro, separación o cambio de plataforma no extinguirá el valor incremental de las cuentas, contenidos, audiencia, reputación o posicionamiento desarrollado mediante FELIPEGIL360.
+
+Mientras exista explotación demostrablemente conectada con EL PROYECTO, el componente económico atribuible conservará la participación 65 % para Andrés y 35 % para Felipe.
+
+La regla no impide la creación de valor nuevo e independiente, pero exige separar y valorar proporcionalmente el componente histórico empresarial.
+
+---
 
 # 8. CURSOS, MÉTODOS Y PRODUCTOS
 

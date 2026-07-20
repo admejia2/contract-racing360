@@ -1,6 +1,6 @@
 # ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
 
-**Versión 5.1 — Contrato Maestro Consolidado**
+**Versión 7.0 — Contrato Maestro conciliado para revisión notarial**
 
 ---
 
@@ -611,6 +611,34 @@ Los costos de valoración serán asumidos inicialmente por partes iguales, sin p
 
 ---
 
+## CLÁUSULA 24E. INTEGRACIÓN COMPLETA DE COSTOS DERIVADOS AL CEF
+
+Integrarán el Capital Empresarial Fundacional todos los costos, gastos, inversiones, servicios, obligaciones, intereses, pérdidas, depreciaciones extraordinarias, trabajo profesional no remunerado y afectaciones patrimoniales razonablemente derivados de la creación, financiación, producción, administración, operación y desarrollo de FELIPEGIL360.
+
+El reconocimiento comprenderá, entre otros:
+
+- equipos y accesorios personales destinados o expuestos al Proyecto;
+- producción, grabación, edición y posproducción;
+- administración y dirección estratégica;
+- gestión de redes y tecnología;
+- publicidad;
+- transporte y logística;
+- mantenimiento, reparaciones y mejoras;
+- intereses y costos financieros;
+- trabajo profesional no remunerado;
+- costo de oportunidad;
+- obligaciones personales asumidas para sostener EL PROYECTO.
+
+El Suzuki Swift GTi conservará su carácter de bien personal y su valor comercial no se incorporará como activo al CEF.
+
+Sí se incorporarán los costos y afectaciones derivados de su utilización empresarial, siempre que estén acreditados y no hayan sido reconocidos previamente bajo otro concepto.
+
+El reconocimiento económico de equipos personales dentro del CEF no transfiere su titularidad. Su valor no podrá contabilizarse nuevamente como activo transferido, gasto total o compensación separada por el mismo concepto.
+
+Todo valor deberá someterse a verificación, descuento de recuperaciones y prohibición de doble reconocimiento.
+
+---
+
 ## CLÁUSULA 25. CASCADA OBLIGATORIA DE PAGOS, LÍMITE DE RESERVAS Y AMORTIZACIÓN DEL CAPITAL
 
 Todo ingreso en dinero efectivamente recibido por EL PROYECTO deberá registrarse y aplicarse conforme al siguiente orden:
@@ -670,10 +698,6 @@ Mientras exista saldo pendiente del Capital Empresarial Fundacional o de inversi
 La excepción a esta prohibición deberá constar en acuerdo previo, expreso y escrito de LAS PARTES, referido a una operación o ingreso específico.
 
 Ninguna parte podrá aumentar artificialmente gastos, anticipar compras, crear reservas injustificadas, desviar ingresos o modificar su clasificación para impedir o retrasar la amortización del Capital Empresarial Fundacional.
-
----
-
----
 
 ---
 
@@ -751,49 +775,47 @@ En ausencia de una regla específica firmada, no podrá presumirse una distribuc
 
 ---
 
-## CLÁUSULA 27A. DETERMINACIÓN POSTERIOR DE LA PARTICIPACIÓN ECONÓMICA
+## CLÁUSULA 27A. PARTICIPACIÓN ECONÓMICA GENERAL DEFINITIVA
 
-LAS PARTES reconocen que a la fecha de firma no existe un porcentaje general y definitivo de distribución económica sobre el valor residual de EL PROYECTO.
+LAS PARTES acuerdan que la participación económica general sobre el valor residual de FELIPEGIL360 será:
 
-La ausencia de porcentaje no permitirá presumir:
+- **ANDRÉS DAVID MEJÍA HERRERA: sesenta y cinco por ciento (65 %);**
+- **LUIS FELIPE GIL BETANCUR: treinta y cinco por ciento (35 %).**
 
-- igualdad económica;
-- distribución por mitades;
-- sociedad de hecho;
-- donación;
-- renuncia al Capital Empresarial Fundacional;
-- apropiación unilateral del Patrimonio Empresarial.
+Esta participación se aplicará a:
 
-La participación económica definitiva deberá establecerse mediante anexo escrito y firmado después de:
+- excedentes libres;
+- utilidades distribuibles;
+- valorización empresarial;
+- venta total o parcial;
+- ingreso de inversionistas;
+- constitución de sociedad;
+- Buy-Out;
+- liquidación;
+- valor residual del Patrimonio Empresarial.
 
-1. cerrar y conciliar el Capital Empresarial Fundacional;
+La participación no modifica ni transfiere automáticamente:
 
-2. identificar las recuperaciones efectuadas;
+- bienes personales;
+- derechos personalísimos;
+- titularidad jurídica de activos específicos;
+- Capital Empresarial Fundacional;
+- créditos o deudas individuales;
+- cursos históricos independientes de EL TALENTO;
+- cuenta personal de Instagram de EL TALENTO;
+- Suzuki Swift GTi;
+- participación económica específica sobre el Yacar Car Cross.
 
-3. valorar los aportes verificables de ambas partes;
+Antes de distribuir el valor residual deberán atenderse:
 
-4. separar los bienes personales;
+1. obligaciones legales y con terceros;
+2. costos indispensables de cierre o continuidad;
+3. deudas empresariales;
+4. recuperación del Capital Empresarial Fundacional reconocido, incluyendo todos los costos derivados y aportes acreditados;
+5. inversiones posteriores reconocidas;
+6. compensaciones por activos o valor incremental que una parte conserve personalmente.
 
-5. identificar las deudas, créditos y obligaciones pendientes;
-
-6. establecer el inventario de activos empresariales;
-
-7. valorar el aporte de imagen, actividad deportiva, conocimiento, producción, administración, estrategia y trabajo no remunerado;
-
-8. evitar doble contabilización.
-
-Mientras no exista dicho anexo:
-
-- ningún porcentaje se entenderá reconocido;
-- ninguna parte podrá atribuirse la totalidad del valor residual;
-- los ingresos se aplicarán conforme a la cascada de pagos;
-- el Capital Empresarial Fundacional conservará su prioridad;
-- las distribuciones extraordinarias requerirán acuerdo escrito;
-- los bienes personales conservarán su titularidad original.
-
-La obligación de negociar el anexo económico deberá ejecutarse de buena fe, pero no obligará a ninguna parte a aceptar un porcentaje que no considere debidamente soportado.
-
-La falta de acuerdo se resolverá mediante valoración independiente y los mecanismos de negociación, conciliación, Buy-Out o liquidación establecidos en el contrato.
+La aplicación de los porcentajes no permitirá reconocer dos veces un mismo aporte, gasto, activo, riesgo, trabajo o inversión.
 
 ---
 
@@ -907,8 +929,6 @@ Los gastos urgentes necesarios para proteger personas, activos, contratos o cont
 Antes de asumir nuevas obligaciones relevantes, LAS PARTES deberán evaluar disponibilidad de caja, obligaciones existentes, recuperación pendiente del Capital Empresarial Fundacional, capacidad real de pago, necesidad, alternativas de menor costo, impacto esperado y responsable del pago.
 
 Ninguna parte podrá comprometer el crédito, patrimonio o capacidad financiera de la otra sin autorización previa y expresa.
-
----
 
 ---
 
@@ -1069,6 +1089,36 @@ La inclusión del nombre de EL TALENTO en una marca no transfiere su nombre civi
 
 ---
 
+## CLÁUSULA 40A. YACAR CAR CROSS: ADQUISICIÓN, POSESIÓN Y PARTICIPACIÓN ECONÓMICA
+
+LAS PARTES reconocen que el Yacar Car Cross fue adquirido para actividades relacionadas con FELIPEGIL360, sin que actualmente exista factura, contrato formal de compraventa o registro que determine por sí solo su titularidad jurídica.
+
+A la fecha de cierre documental, la persona vendedora no se encuentra identificada documentalmente dentro del Sistema Documental. Esta ausencia no elimina el reconocimiento interno de la adquisición, los pagos, el saldo ni las obligaciones económicas entre LAS PARTES. Cuando se obtenga la identificación o un documento del vendedor, deberá incorporarse mediante acta de actualización sin modificar retroactivamente los pagos reconocidos.
+
+La posesión física y custodia actual del Yacar Car Cross se encuentra en cabeza de **ANDRÉS DAVID MEJÍA HERRERA**.
+
+La estructura económica reconocida es:
+
+1. ANDRÉS DAVID MEJÍA HERRERA asumió treinta millones de pesos ($30.000.000 COP), desde junio de 2025, a una tasa informada del uno coma cinco por ciento (1,5 %) y plazo de sesenta (60) meses. Andrés pagará íntegramente las cuotas correspondientes a dicha obligación.
+
+2. LUIS FELIPE GIL BETANCUR asumió veinte millones de pesos ($20.000.000 COP), desde diciembre de 2025, a una tasa informada del uno coma cinco por ciento (1,5 %) y plazo de sesenta (60) meses. Felipe pagará íntegramente las cuotas correspondientes a dicha obligación.
+
+3. Existe un saldo de quince millones de pesos ($15.000.000 COP) directamente con la persona vendedora, desde julio de 2026, con tasa informada del uno coma cinco por ciento (1,5 %).
+
+4. Frente al saldo de quince millones de pesos, LUIS FELIPE GIL BETANCUR aportará doscientos mil pesos ($200.000 COP) mensuales y ANDRÉS DAVID MEJÍA HERRERA pagará el valor restante de cada cuota.
+
+La participación económica específica sobre el Yacar se determinará según el capital efectivamente pagado por cada parte.
+
+Los intereses y costos financieros se registrarán separadamente y no incrementarán automáticamente el porcentaje sobre el valor principal del activo, salvo acuerdo escrito.
+
+Ningún pago realizado por una parte se presumirá donación, pago por cuenta de la otra ni renuncia a su derecho económico.
+
+Ninguna parte podrá vender, transferir, gravar, ocultar, entregar a terceros, retirar permanentemente, desarmar o disponer del Yacar sin autorización escrita de la otra.
+
+La titularidad jurídica deberá formalizarse con la persona vendedora. Mientras ello ocurre, LAS PARTES se reconocen mutuamente los derechos económicos derivados de sus pagos demostrables.
+
+---
+
 ## CLÁUSULA 41. CUENTAS, REDES SOCIALES E INSTAGRAM PERSONAL
 
 La cuenta personal de Instagram de EL TALENTO, creada antes del 1 de junio de 2022, conservará su titularidad personal, exclusiva e intransferible.
@@ -1084,8 +1134,6 @@ La propiedad personal de la cuenta no elimina el reconocimiento económico del v
 Ese valor incremental podrá considerarse en valoración, Buy-Out, compensación o liquidación sin transferir la propiedad de la cuenta a EL FUNDADOR.
 
 Las cuentas empresariales creadas, financiadas, alimentadas y administradas para FELIPEGIL360 formarán parte del Patrimonio Empresarial conforme a su origen y soportes.
-
----
 
 ---
 
@@ -1622,6 +1670,31 @@ En caso de incapacidad permanente o fallecimiento de una parte:
 
 ---
 
+## CLÁUSULA 61A. PERMANENCIA Y AUSENCIA DE RETIRO VOLUNTARIO ORDINARIO
+
+LAS PARTES reconocen que FELIPEGIL360 fue concebido como un Proyecto empresarial de largo plazo y que la inversión, trabajo, riesgo, imagen, reputación, contenido y comunidad fueron aportados con la expectativa legítima de alcanzar crecimiento, diversificación, sostenibilidad y éxito empresarial.
+
+En consecuencia, ninguna parte tendrá un derecho ordinario, libre, discrecional o unilateral de retiro por simple cambio de interés, cansancio ordinario, falta temporal de rentabilidad, ausencia de viralización, aparición de una mejor oportunidad, deseo de operar individualmente o intención de explotar por fuera el valor construido.
+
+La separación anticipada únicamente podrá producirse por:
+
+1. fuerza mayor o caso fortuito imprevisible, irresistible y debidamente probado;
+2. incapacidad médica grave, permanente o prolongada que imposibilite las funciones esenciales;
+3. fallecimiento;
+4. incumplimiento grave, esencial y no subsanado de la otra parte;
+5. riesgo grave para la vida, salud o integridad que no pueda mitigarse razonablemente;
+6. imposibilidad jurídica definitiva;
+7. acuerdo escrito de ambas partes;
+8. Buy-Out, venta, reorganización o liquidación ejecutados conforme al Contrato Maestro.
+
+Cuando sea posible adaptar funciones, suspender actividades de riesgo, delegar tareas, explotar contenidos históricos o continuar mediante formatos alternativos, la imposibilidad de ejecutar una actividad específica no extinguirá automáticamente toda la relación contractual.
+
+La interrupción o abandono sin causal autorizada constituirá incumplimiento grave y activará valoración, Buy-Out, compensaciones, cláusula penal, rendición de cuentas y reparación de perjuicios demostrados, sin extinguir los derechos históricos ni las licencias sobre contenido legítimamente producido.
+
+Ninguna forma de retiro, abandono o inactividad podrá utilizarse para trasladar, extraer o explotar exclusivamente por fuera el goodwill, audiencia, reputación, contenidos, relaciones, oportunidades o demás valor creado mediante FELIPEGIL360.
+
+---
+
 # CAPÍTULO X
 # VALORACIÓN Y BUY-OUT
 
@@ -1629,7 +1702,7 @@ En caso de incapacidad permanente o fallecimiento de una parte:
 
 Procederá valoración en caso de:
 
-- retiro;
+- retiro material, abandono o separación por causal autorizada;
 - Buy-Out;
 - venta;
 - ingreso de inversionistas;
@@ -1720,7 +1793,7 @@ Cualquiera de LAS PARTES podrá activar por escrito el procedimiento de Buy-Out 
 
 2. desacuerdo insalvable que paralice una decisión esencial durante más de treinta días calendario;
 
-3. retiro permanente;
+3. abandono, retiro material o separación por causal autorizada;
 
 4. incumplimiento material probado y no subsanado dentro del plazo contractual;
 
@@ -1783,8 +1856,6 @@ En caso de pago a plazos deberán pactarse como mínimo:
 La parte vendedora deberá firmar y ejecutar los documentos razonablemente necesarios para materializar la transferencia dentro de los cinco días hábiles siguientes al pago o constitución de las garantías.
 
 La negativa injustificada a firmar permitirá exigir el cumplimiento por los mecanismos legales aplicables, sin que opere apropiación automática de derechos personalísimos o bienes no incluidos en la operación.
-
----
 
 ---
 
@@ -2000,6 +2071,126 @@ Esta regla no impedirá:
 En caso de controversia se analizarán el origen de la relación, la fecha, las gestiones realizadas, los recursos utilizados y la participación efectiva de cada parte.
 
 La prohibición se limitará a impedir la apropiación o desviación desleal y no podrá utilizarse para impedir injustificadamente que una parte trabaje o genere ingresos legítimos.
+
+## CLÁUSULA 78B. PERMANENCIA DEL VALOR EMPRESARIAL Y SEGUIMIENTO ECONÓMICO
+
+LAS PARTES reconocen que el valor empresarial construido mediante FELIPEGIL360 puede continuar existiendo, producir efectos y generar beneficios durante un periodo indefinido, incluso después del retiro, separación, inactividad, transformación, reorganización o terminación de la relación operativa entre LAS PARTES.
+
+El goodwill, reputación incremental, posicionamiento, comunidad, recordación, confianza, relaciones comerciales, contenidos, portafolio, capacidad de convocatoria, valor incremental de cuentas personales, oportunidades y demás ventajas desarrolladas sustancialmente mediante FELIPEGIL360 no perderán su naturaleza empresarial por:
+
+- el simple paso del tiempo;
+- el cambio de cuenta;
+- el cambio de plataforma;
+- la modificación de marca;
+- la creación de una nueva sociedad;
+- el retiro o inactividad de una parte;
+- la utilización mediante terceros;
+- la transformación del modelo de negocio.
+
+Mientras un ingreso, activo, negocio, oportunidad, relación, cuenta, producto, servicio o valorización sea atribuible total o parcialmente al valor construido mediante FELIPEGIL360, el componente atribuible conservará su naturaleza empresarial y se someterá a la participación económica definitiva:
+
+- sesenta y cinco por ciento (65 %) para ANDRÉS DAVID MEJÍA HERRERA;
+- treinta y cinco por ciento (35 %) para LUIS FELIPE GIL BETANCUR.
+
+Esta regla no estará sometida a un plazo contractual fijo y permanecerá aplicable mientras subsista una relación causal, económica o comercial demostrable entre la explotación realizada y el valor empresarial construido mediante FELIPEGIL360.
+
+La explotación podrá producirse directa o indirectamente mediante:
+
+- cuentas personales;
+- nuevas redes sociales;
+- marcas distintas;
+- sociedades;
+- familiares;
+- representantes;
+- terceros;
+- patrocinadores;
+- agencias;
+- productos;
+- cursos;
+- eventos;
+- canales;
+- cualquier otro mecanismo de explotación.
+
+El cambio de forma, nombre, cuenta, plataforma, titular formal o vehículo jurídico no modificará la naturaleza económica del valor explotado.
+
+Para establecer la existencia y proporción de la conexión deberán analizarse:
+
+- origen de la audiencia;
+- evolución de seguidores;
+- reputación y posicionamiento;
+- contenidos utilizados;
+- patrocinadores, clientes y aliados;
+- inversión publicitaria;
+- producción y edición;
+- administración;
+- oportunidades recibidas;
+- portafolio;
+- cuentas utilizadas;
+- relación temática y comercial;
+- ingresos y valorización obtenidos;
+- trabajo, inversión y riesgo posteriores verdaderamente independientes.
+
+No quedará comprendido el valor nuevo que una parte demuestre haber creado de manera verdaderamente independiente, sin utilizar sustancialmente:
+
+- activos de FELIPEGIL360;
+- comunidad empresarial;
+- contenidos;
+- relaciones;
+- patrocinadores;
+- inversión;
+- reputación incremental;
+- información confidencial;
+- oportunidades originadas en EL PROYECTO.
+
+Cuando exista mezcla entre valor histórico y valor nuevo, deberá efectuarse una valoración proporcional que separe ambos componentes.
+
+La parte que explote valor por fuera deberá suministrar información suficiente para determinar ingresos, contratos, métricas, patrocinadores, clientes, productos, cuentas utilizadas, costos y terceros involucrados cuando existan indicios razonables de conexión con FELIPEGIL360.
+
+La presente cláusula no constituye prohibición general de trabajar, competir, desarrollar actividades personales ni generar nuevo valor.
+
+Su finalidad es impedir que el valor empresarial conjunto sea convertido unilateralmente en patrimonio personal exclusivo y garantizar que los beneficios derivados de dicho valor continúen reconociéndose según la participación económica acordada.
+
+---
+
+## CLÁUSULA 78C. RETIRO, ABANDONO Y PROHIBICIÓN DE EXTRACCIÓN DEL VALOR CONSTRUIDO
+
+Ninguna parte podrá utilizar el retiro, abandono, inactividad o separación como mecanismo para trasladar, extraer, concentrar o explotar exclusivamente por fuera de FELIPEGIL360 el valor empresarial construido conjuntamente.
+
+No se reconocerá como retiro legítimo aquel cuya finalidad real o efecto sustancial consista en:
+
+- continuar por fuera el mismo posicionamiento empresarial;
+- trasladar audiencia, comunidad o patrocinadores;
+- explotar el goodwill incremental;
+- utilizar el portafolio construido como activo personal exclusivo;
+- replicar productos, formatos o relaciones empresariales;
+- monetizar por fuera activos o ventajas desarrollados mediante EL PROYECTO.
+
+Cuando una parte explote externamente valor atribuible total o parcialmente a FELIPEGIL360, deberá valorarse separadamente:
+
+1. el valor personal preexistente e independiente;
+2. el valor empresarial incremental construido mediante FELIPEGIL360;
+3. el valor creado posteriormente mediante recursos, trabajo y riesgo verdaderamente independientes;
+4. los activos, relaciones, contenidos y oportunidades utilizados;
+5. los ingresos, beneficios y valorización derivados de cada componente.
+
+Sobre el componente atribuible a FELIPEGIL360 se aplicará permanentemente la participación económica 65 % para EL FUNDADOR y 35 % para EL TALENTO mientras subsista conexión demostrable.
+
+La aplicación podrá materializarse mediante:
+
+- pago directo;
+- compensación en Buy-Out;
+- participación en ingresos;
+- cuenta por cobrar;
+- adjudicación de activos;
+- reconocimiento sobre valorización;
+- indemnización;
+- cualquier mecanismo económicamente equivalente.
+
+La omisión, ocultamiento, triangulación o utilización de terceros no eliminará la obligación económica.
+
+El retiro tampoco extinguirá las licencias sobre contenido histórico, los derechos patrimoniales, la confidencialidad, la prohibición de desvío, el CEF ni el derecho de la otra parte a exigir valoración y compensación.
+
+---
 
 ## CLÁUSULA 79. NEGOCIACIÓN DIRECTA
 
@@ -2233,4 +2424,33 @@ Las partes reconocen expresamente que:
 
 17. el propósito de este contrato es proteger el valor creado y permitir que EL PROYECTO continúe operando hacia su crecimiento, sostenibilidad y éxito.
 
+
 ---
+
+# FIRMAS
+
+Las partes declaran haber leído, entendido y aceptado íntegramente este Contrato Maestro y sus anexos integrantes.
+
+## ANDRÉS DAVID MEJÍA HERRERA
+
+Identificación: ______________________________________
+
+Firma: _______________________________________________
+
+Fecha: _______________________________________________
+
+## LUIS FELIPE GIL BETANCUR
+
+Identificación: ______________________________________
+
+Firma: _______________________________________________
+
+Fecha: _______________________________________________
+
+## RECONOCIMIENTO NOTARIAL
+
+Notaría: _____________________________________________
+
+Ciudad: ______________________________________________
+
+Fecha de reconocimiento: ______________________________

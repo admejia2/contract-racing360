@@ -336,8 +336,6 @@ Las partes reconocen especialmente que el capital y el riesgo económico asumido
 
 ---
 
----
-
 # 10C. PRINCIPIOS DE HONESTIDAD, TRANSPARENCIA Y CONTINUIDAD
 
 LAS PARTES declaran que la relación empresarial deberá ejecutarse con honestidad, transparencia, lealtad, trazabilidad, buena fe y respeto por los aportes y necesidades legítimas de ambas.
@@ -351,6 +349,46 @@ Los ingresos empresariales deberán ser informados y trazables; los ingresos per
 Los activos digitales empresariales deberán conservar continuidad, respaldo y acceso administrativo suficiente para evitar bloqueos, pérdidas o apropiaciones.
 
 Estas reglas no imponen burocracia excesiva y se aplicarán según la evidencia, la conducta histórica y las buenas prácticas razonables.
+
+# 10D. DECISIONES ECONÓMICAS Y DE CONTINUIDAD ADOPTADAS
+
+LAS PARTES acuerdan:
+
+1. participación económica general sobre el valor residual: 65 % para ANDRÉS DAVID MEJÍA HERRERA y 35 % para LUIS FELIPE GIL BETANCUR;
+
+2. tratamiento separado de bienes personales, CEF, Yacar, Instagram personal y derechos personalísimos;
+
+3. conservación y explotación mundial y permanente del contenido histórico legítimamente producido, sin aparentar continuidad posterior de EL TALENTO;
+
+4. valoración del goodwill y del valor incremental conservado por cada parte en caso de retiro;
+
+5. prohibición de desvío activo de patrocinadores, clientes y aliados durante el contrato y por doce meses después de su terminación;
+
+6. firma manuscrita y reconocimiento notarial del paquete definitivo;
+
+7. no firma del Acta definitiva del CEF hasta su conciliación completa.
+
+---
+
+# 10E. PERMANENCIA DEL VALOR CONSTRUIDO
+
+LAS PARTES declaran que el valor empresarial construido mediante FELIPEGIL360 no tendrá una fecha contractual automática de desaparición.
+
+Mientras la reputación, comunidad, contenidos, relaciones, posicionamiento, goodwill o valor incremental continúen siendo explotados y exista conexión demostrable con EL PROYECTO, se mantendrá su naturaleza empresarial y la participación económica 65 % para Andrés y 35 % para Felipe.
+
+El retiro, cambio de cuenta, nueva marca, sociedad o utilización de terceros no convertirá unilateralmente el valor conjunto en patrimonio personal exclusivo.
+
+---
+
+# 10F. COMPROMISO DE PERMANENCIA
+
+LAS PARTES reconocen que no existe un derecho ordinario de retiro voluntario por simple conveniencia, cambio de interés, falta temporal de rentabilidad o intención de explotar individualmente el valor construido.
+
+La separación anticipada solo procederá por fuerza mayor, incapacidad grave, fallecimiento, incumplimiento esencial no subsanado, riesgo grave, imposibilidad jurídica definitiva, acuerdo escrito o Buy-Out ejecutado.
+
+El abandono sin causal no extinguirá derechos ni permitirá trasladar el goodwill, comunidad, contenidos, relaciones o posicionamiento a patrimonio personal exclusivo.
+
+---
 
 # FIRMAS
 

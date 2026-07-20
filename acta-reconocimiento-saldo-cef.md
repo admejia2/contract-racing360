@@ -16,6 +16,8 @@ se deja constancia de lo siguiente:
 
 > **Definición del Proyecto:** Para efectos del presente documento, toda referencia a **EL PROYECTO** corresponde al proyecto empresarial histórico denominado **FELIPEGIL360**, iniciado oficialmente el 1 de junio de 2022.
 
+
+> **ESTADO DEL DOCUMENTO:** BORRADOR NO APTO PARA FIRMA EN ESTA ETAPA. El CEF mínimo provisional actualmente cuantificado es de **$85.020.000 COP**, sujeto a verificación, incorporación del trabajo no remunerado, producción, edición, administración, intereses, mejoras del Yacar, demás costos derivados y descuento de recuperaciones. Esta cifra no constituye deuda personal de LUIS FELIPE GIL BETANCUR. El Acta deberá completarse y firmarse posteriormente, una vez se incorporen los conceptos aún por valorar, se descuenten recuperaciones y se determine el saldo final, sin dejar espacios esenciales en blanco.
 ---
 
 ## 1. SALDO INICIAL

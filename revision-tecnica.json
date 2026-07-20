@@ -1,79 +1,130 @@
 {
-  "acta-fundacional.md": {
-    "bytes": 20110,
-    "sha256": "fb3c94e7cc9084fbc3ac0bfbb7f6e42a289eb84056ecc51c47578cd9c3b24bcb",
+  ".gitignore": {
+    "bytes": 158,
+    "sha256": "455369130c83c1d2920c9139387deb16c84ea9d6ee913e67e74f2f2b2334c66d",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
+  },
+  "acta-fundacional.md": {
+    "bytes": 21617,
+    "sha256": "d0166d91812abeeab2fa47460269b60e5c0ccd8c0cd5da7629cefc79165d4ca3",
+    "trailing_newline": true,
+    "contains_permanent_value_rule": true,
+    "contains_65_35": true,
+    "duplicate_separators": 0
   },
   "acta-reconocimiento-saldo-cef.md": {
-    "bytes": 3508,
-    "sha256": "26b4997104d189748dcfe6912431d76147ed251d46739b84908bd9e5643c6d15",
+    "bytes": 4008,
+    "sha256": "ddfc1359c3987a8a5b7d1a686e5fabb8d00be1e49bd5741b5abfbab10fcf4c2d",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
   },
   "anexo-a-cronologia-oficial.md": {
-    "bytes": 25487,
-    "sha256": "274fbd7cfad39b9ec665226f9af2ef7d535d7df68e90e161b852088f57f21487",
+    "bytes": 25887,
+    "sha256": "c8e8e86d92e004c063c06e6c877995c14aaa4ff7a03e4cfd2a0e498926084a79",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
   },
   "anexo-b-inventario-inicial.md": {
-    "bytes": 36198,
-    "sha256": "772c8f6fc766fb5ed98760849d2895d032d3831920e8b694959927296d4d3329",
+    "bytes": 37781,
+    "sha256": "d5c383766f1bdfb36a3336e22d228e799ce4137f7c21f7fa7024e814c63cbaa8",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
   },
   "anexo-c-capital-empresarial-fundacional.md": {
-    "bytes": 47874,
-    "sha256": "ee299464ec177806b369bd9c590879ebf7d5f089051b444826e32378d40a1cda",
+    "bytes": 51998,
+    "sha256": "a5d8b6c1073d9e9d9f1882a8f96921db2263f11a0180ffa1504fae646cfbcae2",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": true,
+    "duplicate_separators": 0
   },
   "anexo-d-patrimonio-empresarial.md": {
-    "bytes": 11991,
-    "sha256": "e012a9384f6fdcc597842406b3b3b97a17a85193f78e95bc5937a665c34a9fb1",
+    "bytes": 12748,
+    "sha256": "5bcecdadd2526eaf1f7c97e3906e12687889e0ce24c03a3f82023ea07659782a",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": true,
+    "duplicate_separators": 0
   },
   "anexo-e-propiedad-intelectual-e-ia.md": {
-    "bytes": 10537,
-    "sha256": "78dc1f5f1e900030dd24c76fa3d5c4ecb14e69e3e1687fc253e6ec0f339e6f88",
+    "bytes": 11954,
+    "sha256": "bc908799e5df009084591983829908332ac8f9fc0b30eb2823c7a0d64f52ed45",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": true,
+    "duplicate_separators": 0
   },
   "anexo-f-gobierno-corporativo.md": {
-    "bytes": 30233,
-    "sha256": "38caaf0fcc5e10c3560c9e9070ecf06e8ab434c6166e40477c34befb9cc9baab",
+    "bytes": 31393,
+    "sha256": "99b86dcc0cbb2eb6231d842aaceacd446efa67ab252fbed3947b2ec978e4f780",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": true,
+    "duplicate_separators": 0
   },
   "anexo-g-libro-del-proyecto.md": {
-    "bytes": 7996,
-    "sha256": "c5eb6f9e3a1f5aa4f860749e90af5ca6daf5626dd44161df5507da76aa0c0f2e",
+    "bytes": 8595,
+    "sha256": "64360fba9d9ee466207569b782f544c9f80b2de340f933a7f9b3c3c89856bbe8",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
   },
   "anexo-h-matriz-de-propiedad.md": {
-    "bytes": 9732,
-    "sha256": "4a9f7006c4f295bebfe9795f8abc5738cab507e6a2082ad0cd1fb963a516432c",
+    "bytes": 11542,
+    "sha256": "0fd7cfc39b988b1ddb214ede06196d7e41cf5bf4cd6b65ed0857a0eaa2d18648",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": false,
+    "contains_65_35": true,
+    "duplicate_separators": 0
   },
   "contrato.md": {
-    "bytes": 89431,
-    "sha256": "8704e481ebba45a3b0da98b71912dd287998a816f711921fa4abe78183d57fb6",
+    "bytes": 99164,
+    "sha256": "f1d430d8441d636a239d4cfdfcff4a420d509e43e045eeee579fab7e93d5ab37",
     "trailing_newline": true,
-    "contains_racing360": false,
-    "contains_nacio_desde_cero": false
+    "contains_permanent_value_rule": true,
+    "contains_65_35": true,
+    "duplicate_separators": 0
+  },
+  "lista-final-notaria.md": {
+    "bytes": 2493,
+    "sha256": "01de9614dddd13f1640bdaf1ed661899d33f886631d32bd7067f99c94f7d54f2",
+    "trailing_newline": true,
+    "contains_permanent_value_rule": true,
+    "contains_65_35": true,
+    "duplicate_separators": 0
+  },
+  "nota-continuidad-valor.md": {
+    "bytes": 782,
+    "sha256": "e031685207274c572a38a184807b3f6252ad650e14d5adc1b1d81f55da03a9e2",
+    "trailing_newline": true,
+    "contains_permanent_value_rule": false,
+    "contains_65_35": true,
+    "duplicate_separators": 0
+  },
+  "nota-correccion-cef.md": {
+    "bytes": 1190,
+    "sha256": "667829b78f793b18cc19a7efb9ab527ea0111c72f5614cc408717ef97be5e7fe",
+    "trailing_newline": true,
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
+  },
+  "revision-tecnica.json": {
+    "bytes": 3606,
+    "sha256": "34abcb2cb92d5042dada1dfc6b4f834cc9d06431cb60a011c7c983bca778f4a2",
+    "trailing_newline": true,
+    "contains_permanent_value_rule": false,
+    "contains_65_35": false,
+    "duplicate_separators": 0
   }
 }

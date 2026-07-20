@@ -1,7 +1,7 @@
 # ANEXO F
 # MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DE FELIPEGIL360
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -211,8 +211,6 @@ Las actividades deberán coordinarse con anticipación razonable y respetar:
 - circunstancias justificadas.
 
 La negativa reiterada e injustificada a participar en actividades previamente acordadas podrá constituir incumplimiento.
-
----
 
 ---
 
@@ -1041,6 +1039,28 @@ Sin embargo, dichos activos y el valor construido deberán reconocer su particip
 - liquidación.
 
 La inactividad no podrá utilizarse para transformar el Patrimonio Empresarial en propiedad exclusiva de la parte que conserve el acceso técnico, la imagen pública o la operación diaria.
+
+---
+
+# 26A. REGLAS ECONÓMICAS DEFINITIVAS
+
+La participación general sobre valor residual será 65 % para ANDRÉS DAVID MEJÍA HERRERA y 35 % para LUIS FELIPE GIL BETANCUR.
+
+El CEF, bienes personales, Yacar, Instagram personal y derechos personalísimos se tratarán separadamente.
+
+La distribución de excedentes solo procederá después de atender obligaciones y recuperación económica prioritaria conforme al Contrato Maestro.
+
+---
+
+# 26B. OBLIGACIÓN CONTINUA DE CREACIÓN Y DIVERSIFICACIÓN DEL VALOR
+
+La administración deberá orientar el crecimiento hacia la creación de activos empresariales sostenibles, diversificados y menos dependientes de una sola plataforma, cuenta personal, patrocinador, algoritmo o persona.
+
+EL FUNDADOR deberá estructurar y documentar estrategias razonables de diversificación.
+
+EL TALENTO deberá colaborar razonablemente en las estrategias aprobadas que requieran su participación y no podrá bloquear injustificadamente la transformación de audiencia, reputación y posicionamiento en activos empresariales.
+
+El retiro o inactividad no extinguirá el valor construido ni permitirá su explotación personal exclusiva.
 
 ---
 

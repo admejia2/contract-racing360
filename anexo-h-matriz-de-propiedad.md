@@ -1,7 +1,7 @@
 # ANEXO H
 # MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS DE FELIPEGIL360
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -68,8 +68,6 @@ La participación económica no transfiere automáticamente la propiedad jurídi
 Administrar, controlar técnicamente, custodiar, reparar, usar o mantener un activo no convierte a la persona en su propietaria.
 
 El administrador o custodio no podrá apropiarse unilateralmente del activo, sus ingresos o sus accesos.
-
----
 
 ---
 
@@ -254,6 +252,39 @@ Las partes reconocen que:
 6. ninguna parte podrá apropiarse unilateralmente de los activos o su valor;
 
 7. la falta de una matriz detallada no elimina derechos demostrables por otros medios.
+
+---
+
+# REGISTRO ACTUALIZADO DEL YACAR CAR CROSS
+
+- Documento formal de compraventa: **no existe a la fecha**.
+- Persona vendedora: **no identificada documentalmente dentro del Sistema Documental a la fecha del cierre**. La identificación podrá incorporarse posteriormente mediante acta.
+- Posesión física y custodia actual: **ANDRÉS DAVID MEJÍA HERRERA**.
+- Obligación de Andrés: **$30.000.000 COP**, desde junio de 2025, tasa informada 1,5 %, plazo 60 meses.
+- Obligación de Felipe: **$20.000.000 COP**, desde diciembre de 2025, tasa informada 1,5 %, plazo 60 meses.
+- Saldo con el vendedor: **$15.000.000 COP**, desde julio de 2026, tasa informada 1,5 %.
+- Felipe pagará las cuotas de su obligación de $20.000.000 COP y aportará **$200.000 COP mensuales** al saldo de $15.000.000 COP.
+- Andrés pagará las cuotas de su obligación de $30.000.000 COP y el valor restante de las cuotas del saldo de $15.000.000 COP.
+- La participación económica específica se actualizará según capital efectivamente pagado.
+- Intereses, mantenimiento, reparaciones y mejoras se registrarán separadamente.
+- No podrá disponerse del vehículo sin autorización escrita de ambas partes.
+
+---
+
+# 14A. MATRIZ DE VALOR HISTÓRICO Y VALOR NUEVO
+
+En caso de explotación externa o posterior, deberán diferenciarse:
+
+| Componente | Tratamiento |
+|---|---|
+| Valor personal preexistente | Permanece con su titular |
+| Valor incremental creado mediante FELIPEGIL360 | Se distribuye 65 % Andrés / 35 % Felipe |
+| Valor nuevo verdaderamente independiente | Permanece con quien lo creó |
+| Valor mixto | Se somete a valoración proporcional |
+| Contenidos históricos | Se explotan según derechos y licencias |
+| Goodwill transferido a nueva cuenta o marca | Conserva naturaleza empresarial mientras exista conexión |
+
+No existirá caducidad contractual fija para el reconocimiento del componente atribuible a FELIPEGIL360.
 
 ---
 

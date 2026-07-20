@@ -1,7 +1,7 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
-**Versión: 3.0A**
+**Versión: 5.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -853,26 +853,17 @@ Los valores marcados como aproximados podrán precisarse posteriormente, pero no
 | CEF-003 | Eventos deportivos | Andrés | Reparaciones de cajas del Suzuki Swift GTi | Reparación deportiva | $7.200.000 | Aproximado | Seis intervenciones de aproximadamente $1.200.000 |
 | CEF-004 | Dieciséis eventos | Andrés | Gasolina y peajes para eventos de Time Attack | Gasto deportivo y logístico | $6.400.000 | Aproximado | Promedio de $400.000 por evento |
 | CEF-005 | Siete eventos | Andrés | Mano de obra mecánica para preparación previa | Preparación y mantenimiento | $2.800.000 | Aproximado | Promedio de $400.000 por evento |
-| CEF-006 | Desde 2024 | Andrés | Parqueadero mensual de vehículo y tráiler | Gasto operativo | $130.000 mensuales | Pendiente de liquidación | Falta determinar número exacto de mensualidades |
+| CEF-006 | Enero de 2024 a julio de 2026 | Andrés | Parqueadero mensual de vehículo y tráiler | Gasto operativo | $4.030.000 | Provisional cuantificado | 31 mensualidades estimadas × $130.000; sujeto a ajuste con soportes |
 | CEF-007 | Junio de 2025 | Andrés | Aporte al precio de adquisición del Yacar Car Cross | Adquisición de activo | $30.000.000 | Pagado | Recursos provenientes de crédito personal |
-| CEF-008 | Enero de 2026 | Luis Felipe | Aporte al precio de adquisición del Yacar Car Cross | Adquisición de activo | $20.000.000 | Pagado | Recursos provenientes de crédito personal |
-| CEF-009 | Pendiente | Ambas partes | Saldo del precio del Yacar Car Cross | Obligación pendiente | $15.000.000 | Pendiente | Se reconocerá según quien efectúe cada pago |
-| CEF-010 | Desarrollo histórico | Andrés | Desarrollo y preparación del Suzuki Swift GTi | Referencia de compromiso y riesgo | $40.000.000 | Referencial, no cobrable automáticamente | Patrimonio personal de Andrés; evitar doble contabilización |
-| CEF-011 | Primer año del Yacar | Andrés | Preparación, frenos, mantenimiento y resortes de suspensión | Pendiente de valoración | Por determinar | Pendiente | No existe valor consolidado |
-| CEF-012 | Intervenciones Yacar | Andrés e Interllantas | Suspensión y llantas | Aporte personal y patrocinio | Por determinar | Pendiente | Aproximadamente 35 % Andrés y 65 % patrocinador Interllantas |
+| CEF-008 | Diciembre de 2025 | Luis Felipe | Aporte al precio de adquisición del Yacar Car Cross | Adquisición de activo | $20.000.000 | Obligación asumida | Recursos provenientes de crédito personal; Felipe paga íntegramente sus cuotas |
+| CEF-009 | Desde julio de 2026 | Andrés y Luis Felipe | Saldo con la persona vendedora del Yacar Car Cross | Obligación pendiente | $15.000.000 | Forma de pago definida | Felipe aporta $200.000 mensuales y Andrés paga el valor restante de cada cuota |
+| CEF-010 | Desarrollo histórico | Andrés | Valor referencial del Suzuki Swift GTi | Activo personal excluido del CEF | $40.000.000 | Excluido como valor de activo | Solo ingresan al CEF los costos derivados de su uso empresarial que estén acreditados y no duplicados |
+| CEF-011 | Primer año del Yacar | Andrés | Preparación, frenos, mantenimiento y resortes de suspensión | Costo derivado reconocido | Por valorar | Existente, pendiente solo de cuantificación | Se incorporará al CEF con soportes y sin doble contabilización |
+| CEF-012 | Intervenciones Yacar | Andrés e Interllantas | Suspensión y llantas | Aporte personal y patrocinio | Por valorar | Existente, pendiente solo de cuantificación | Referencia preliminar: 35 % Andrés y 65 % patrocinador Interllantas |
 
-## Subtotal económico identificado
+## Subtotal económico conciliado
 
-Sin incluir:
-
-- los $30.000.000 COP de Andrés destinados al precio del Yacar;
-- los $20.000.000 COP aportados por Luis Felipe;
-- el saldo pendiente de $15.000.000 COP;
-- el valor referencial de $40.000.000 COP del desarrollo del Swift;
-- parqueadero pendiente de liquidación;
-- mantenimiento, suspensión, frenos y llantas pendientes de valor;
-
-los gastos históricos aproximados identificados a cargo de Andrés corresponden a:
+El componente mínimo provisional cuantificado del CEF de Andrés asciende a **$85.020.000 COP**, compuesto por:
 
 | Concepto | Valor |
 |---|---:|
@@ -881,10 +872,16 @@ los gastos históricos aproximados identificados a cargo de Andrés corresponden
 | Reparaciones de cajas del Swift | $7.200.000 |
 | Combustible y peajes | $6.400.000 |
 | Preparación mecánica | $2.800.000 |
-| **Subtotal aproximado** | **$30.400.000** |
+| Parqueadero provisional | $4.030.000 |
+| Capital pagado por Andrés en el Yacar | $30.000.000 |
+| Google Photos provisional | $1.550.000 |
+| CapCut Pro provisional | $1.200.000 |
+| Equipos audiovisuales y accesorios | $17.840.000 |
+| **CEF mínimo provisional cuantificado** | **$85.020.000** |
 
-Este subtotal no podrá sumarse automáticamente al valor referencial de $40.000.000 COP del desarrollo del Swift cuando dichos conceptos ya se encuentren comprendidos dentro de esa cifra.
+Este total no incluye el valor comercial del Swift, los $20.000.000 asumidos por Felipe, el saldo de $15.000.000 aún no pagado, ni los conceptos reconocidos que todavía requieren valoración.
 
+No podrá sumarse nuevamente un costo ya incorporado bajo otro registro.
 ## Regla especial sobre el Suzuki Swift GTi
 
 Los aproximadamente **$40.000.000 COP** destinados al desarrollo del Suzuki Swift GTi se registran principalmente como evidencia de:
@@ -1195,6 +1192,90 @@ No existirá responsabilidad solidaria de terceros, sociedades futuras o persona
 
 ---
 
+# 23.9. ESTIMACIÓN PROVISIONAL MÍNIMA DEL CEF DE ANDRÉS
+
+Con base exclusivamente en los valores actualmente cuantificados y con corte aproximado al 20 de julio de 2026, se establece la siguiente estimación mínima:
+
+| Concepto | Valor aproximado |
+|---|---:|
+| Publicidad y crecimiento | $5.000.000 COP |
+| Transporte y logística en camionetas | $9.000.000 COP |
+| Reparaciones de cajas del Swift | $7.200.000 COP |
+| Combustible y peajes | $6.400.000 COP |
+| Preparación mecánica | $2.800.000 COP |
+| Capital pagado por Andrés en el Yacar | $30.000.000 COP |
+| Parqueadero estimado enero de 2024 a julio de 2026: 31 meses × $130.000 | $4.030.000 COP |
+| Google Photos estimado enero de 2024 a julio de 2026: 31 meses × $50.000 | $1.550.000 COP |
+| CapCut Pro estimado 2023 a 2026: 4 anualidades × $300.000 | $1.200.000 COP |
+| Equipos audiovisuales y accesorios personales destinados al Proyecto | $17.840.000 COP |
+| **CEF mínimo provisional cuantificado** | **$85.020.000 COP** |
+
+El valor referencial o comercial del Suzuki Swift GTi no se incorporará como valor de activo dentro del CEF, porque el vehículo conserva su titularidad personal en cabeza de ANDRÉS DAVID MEJÍA HERRERA.
+
+Sin embargo, sí formarán parte del CEF, cuando sean acreditados y evitando doble contabilización, todos los costos, gastos, inversiones, pérdidas, servicios y afectaciones patrimoniales derivados de su utilización para FELIPEGIL360, incluyendo:
+
+- reparaciones;
+- repuestos;
+- preparación;
+- mantenimiento;
+- transporte;
+- combustible;
+- peajes;
+- inscripciones;
+- daños;
+- depreciación extraordinaria atribuible al uso empresarial;
+- demás costos directamente relacionados con EL PROYECTO.
+
+Además del valor mínimo cuantificado de $85.020.000 COP, deberán incorporarse al CEF mediante reconstrucción y valoración:
+
+- trabajo profesional no remunerado;
+- dirección estratégica;
+- producción audiovisual;
+- grabación;
+- edición y posproducción;
+- administración;
+- gestión de redes sociales;
+- diseño;
+- tecnología;
+- desarrollo de procesos;
+- gestión comercial;
+- coordinación logística;
+- costo de oportunidad;
+- intereses y costos financieros;
+- mejoras, preparación, mantenimiento y reparaciones del Yacar;
+- publicidad, transporte, hospedaje, inscripciones y gastos no consolidados;
+- licencias, almacenamiento, software y servicios digitales omitidos;
+- obligaciones asumidas personalmente para sostener EL PROYECTO;
+- cualquier otro costo, aporte o riesgo empresarial demostrable.
+
+Los equipos audiovisuales y accesorios valorados en $17.840.000 COP se reconocen dentro del CEF como recursos personales destinados y expuestos al Proyecto, sin que dicho reconocimiento transfiera su titularidad jurídica ni permita contabilizar simultáneamente el mismo valor como activo transferido y como gasto.
+
+La estimación:
+
+- es provisional y deberá verificarse con extractos, comprobantes, archivos, mensajes y demás evidencia;
+- representa únicamente el componente actualmente cuantificado;
+- deberá aumentar al incorporar los conceptos pendientes de valoración;
+- deberá descontar reembolsos, recuperaciones y valores ya restituidos;
+- no incluye los $20.000.000 COP asumidos por EL TALENTO;
+- no incluye como capital pagado el saldo de $15.000.000 COP aún pendiente con el vendedor;
+- no constituye por sí sola deuda personal de EL TALENTO;
+- no reemplaza el Acta definitiva de conciliación y determinación del CEF.
+
+El Acta definitiva solo deberá firmarse después de verificar los soportes, incorporar los costos derivados, descontar recuperaciones y acordar la naturaleza del obligado y la exigibilidad.
+---
+
+# 23.10. RELACIÓN ENTRE CEF Y CONTINUIDAD DEL VALOR
+
+La recuperación del CEF no extingue por sí sola la participación económica de EL FUNDADOR sobre el valor empresarial residual ni sobre el goodwill trasladado o explotado por fuera.
+
+El CEF reconoce costos, aportes, trabajo, riesgo e inversión.
+
+La participación 65 %–35 % reconoce la propiedad económica sobre el valor empresarial residual.
+
+Ambos conceptos deberán aplicarse sin doble contabilización.
+
+---
+
 # 24. ACTUALIZACIÓN
 
 Este documento permanecerá abierto durante toda la vida del Proyecto.
@@ -1301,8 +1382,6 @@ No podrán cargarse al Capital Empresarial Fundacional gastos personales, famili
 Cuando una actividad personal utilice recursos empresariales, su titular conservará el ingreso personal que legítimamente le corresponda, pero deberá reconocerse el costo directo, reembolso o contraprestación acordada por los recursos utilizados.
 
 La recuperación del Capital Empresarial Fundacional tendrá prioridad sobre distribuciones de excedentes empresariales, pero no convierte automáticamente los ingresos personales independientes en recursos del Proyecto.
-
----
 
 ---
 

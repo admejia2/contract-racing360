@@ -1,7 +1,7 @@
 # ANEXO D
 # PATRIMONIO EMPRESARIAL DE FELIPEGIL360
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -86,8 +86,6 @@ Solo formarán parte del Patrimonio Empresarial aquellos productos educativos qu
 - utilicen cuentas empresariales, campañas pagadas, bases de clientes, personal, equipos o producción de EL PROYECTO.
 
 El uso incidental de la cuenta personal de Instagram de EL TALENTO no convertirá por sí solo una actividad independiente en activo empresarial.
-
----
 
 ---
 
@@ -346,6 +344,18 @@ Las partes reconocen que:
 9. ninguna parte podrá apropiarse unilateralmente del valor construido;
 
 10. la interpretación deberá favorecer la continuidad, sostenibilidad y éxito económico del Proyecto.
+
+---
+
+# 18A. PERMANENCIA DEL GOODWILL Y DEL VALOR EMPRESARIAL
+
+El goodwill, reputación incremental, posicionamiento, comunidad, contenidos, relaciones, capacidad comercial y demás valor creado mediante FELIPEGIL360 conservarán su naturaleza empresarial mientras continúen siendo explotados o produzcan efectos económicos atribuibles al Proyecto.
+
+El paso del tiempo, cambio de cuenta, marca, plataforma, sociedad o titular formal no extinguirá dichos derechos.
+
+Cuando una parte explote por fuera valor conectado con FELIPEGIL360, el componente atribuible se distribuirá conforme a la participación general 65 % para Andrés y 35 % para Felipe.
+
+El valor nuevo verdaderamente independiente deberá separarse mediante evidencia y valoración proporcional.
 
 ---
 

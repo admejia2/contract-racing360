@@ -1,7 +1,7 @@
 # ANEXO A
 # CRONOLOGÍA OFICIAL DEL PROYECTO FELIPEGIL360
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -477,7 +477,7 @@ La cifra anterior:
 
 Desde el año 2024, ANDRÉS DAVID MEJÍA HERRERA ha asumido mensualmente aproximadamente **$130.000 COP** por concepto de parqueadero del vehículo y del tráiler utilizados para sostener la operación deportiva.
 
-El valor acumulado quedará pendiente de liquidación hasta identificar el número exacto de mensualidades pagadas.
+Para el corte provisional al 20 de julio de 2026 se reconocen treinta y una (31) mensualidades estimadas por $130.000 COP, equivalentes a **$4.030.000 COP**. La cifra conserva carácter provisional y podrá ajustarse con los pagos efectivamente acreditados.
 
 Estos pagos no constituyen donación ni crean obligación permanente de continuar financiando el parqueadero.
 
@@ -488,8 +488,8 @@ El Yacar Car Cross fue adquirido en enero de 2025 por un valor total de **$65.00
 Hasta la fecha se han identificado los siguientes aportes:
 
 - ANDRÉS DAVID MEJÍA HERRERA: **$30.000.000 COP**, provenientes de crédito personal asumido en junio de 2025;
-- LUIS FELIPE GIL BETANCUR: **$20.000.000 COP**, provenientes de crédito personal asumido en enero de 2026;
-- saldo pendiente de pago: **$15.000.000 COP**;
+- LUIS FELIPE GIL BETANCUR: **$20.000.000 COP**, provenientes de crédito personal asumido en diciembre de 2025;
+- saldo con la persona vendedora: **$15.000.000 COP**, reconocido desde julio de 2026;
 - recursos de patrocinadores destinados al precio de adquisición: **$0 COP**.
 
 El vehículo ha participado aproximadamente en **siete eventos deportivos**.
@@ -499,7 +499,7 @@ La participación provisional sobre los **$50.000.000 COP efectivamente pagados*
 - ANDRÉS DAVID MEJÍA HERRERA: **60 %**;
 - LUIS FELIPE GIL BETANCUR: **40 %**.
 
-La participación definitiva se recalculará cuando se pague el saldo pendiente, según los valores efectivamente pagados por cada parte.
+La participación económica específica se recalculará según el capital efectivamente pagado por cada parte. Felipe pagará íntegramente las cuotas de su obligación de $20.000.000 COP y aportará $200.000 COP mensuales al saldo de $15.000.000 COP; Andrés pagará íntegramente las cuotas de su obligación de $30.000.000 COP y el valor restante de las cuotas del saldo de $15.000.000 COP.
 
 La custodia actual corresponde a ANDRÉS DAVID MEJÍA HERRERA.
 
@@ -510,7 +510,7 @@ En gastos de suspensión y llantas se reconoce preliminarmente:
 - aproximadamente 35 % aportado con recursos personales de Andrés;
 - valor restante aportado por el patrocinador Interllantas.
 
-Los valores exactos de estas intervenciones permanecerán pendientes de determinación mientras no exista una cifra consolidada.
+Los valores de preparación, frenos, mantenimiento, resortes, suspensión y llantas se reconocerán dentro del CEF cuando se consoliden sus soportes. Hasta entonces se registran como conceptos existentes pendientes únicamente de valoración, no como hechos inciertos.
 
 ## 7.5.9. Finalidad del registro
 
@@ -608,13 +608,19 @@ Su interpretación deberá respetar especialmente que:
 
 ---
 
----
-
 # 10A. CRITERIO DE INTERPRETACIÓN POSTERIOR
 
 Los hechos históricos no dependerán exclusivamente de haber sido registrados en tiempo real.
 
 Cuando exista información incompleta, se reconstruirá razonablemente mediante evidencia, conducta histórica, transparencia, trazabilidad y buena fe, sin permitir apropiaciones unilaterales ni doble contabilización.
+
+# 11A. PRINCIPIO HISTÓRICO DE CONTINUIDAD DEL VALOR
+
+La evolución futura del Proyecto deberá reconocer que los efectos económicos de la reputación, comunidad, contenidos y posicionamiento construidos pueden continuar por tiempo indefinido.
+
+Los hechos posteriores que exploten dicho valor podrán incorporarse a la cronología para efectos de valoración, Buy-Out, compensación o liquidación.
+
+---
 
 # FIRMAS
 

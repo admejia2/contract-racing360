@@ -1,7 +1,7 @@
 # ANEXO G
 # LIBRO DE FELIPEGIL360 Y MEMORIA EMPRESARIAL
 
-**Versión: 2.0A**
+**Versión: 4.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -101,8 +101,6 @@ Serán admisibles como soporte, según corresponda:
 - cualquier otro medio legalmente válido.
 
 No será obligatorio utilizar un formato específico para que el aporte, trabajo, inversión o actividad pueda ser reconocido.
-
----
 
 ---
 
@@ -272,6 +270,27 @@ Las partes reconocen que:
 6. la recuperación del Capital Empresarial Fundacional no obliga a reinvertir;
 
 7. la operación deberá orientarse al crecimiento, sostenibilidad y éxito del Proyecto.
+
+---
+
+# 15A. REGISTRO DE CONTINUIDAD DEL VALOR
+
+El Libro podrá registrar hechos posteriores al retiro, separación o cambio de estructura cuando exista explotación de valor atribuible a FELIPEGIL360.
+
+Podrán registrarse:
+
+- nuevas cuentas;
+- nuevas marcas;
+- patrocinios;
+- productos;
+- cursos;
+- eventos;
+- ingresos;
+- métricas;
+- sociedades o terceros utilizados;
+- evidencias de conexión con audiencia, contenidos, reputación o relaciones históricas.
+
+El registro no convierte automáticamente todo valor posterior en empresarial, pero permitirá reconstruir y valorar el componente atribuible.
 
 ---
 
