@@ -1,7 +1,7 @@
 # ANEXO H
 # MATRIZ DE TITULARIDAD Y DERECHOS ECONÓMICOS DE FELIPEGIL360
 
-**Versión: 5.1**
+**Versión: 7.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -314,6 +314,38 @@ La ausencia de documento formal del vendedor no impide el reconocimiento interno
 | CEF | Proyecto y eventos de liquidez | No se convierte en deuda personal automática |
 
 La terminación no modifica por sí sola al deudor ni crea solidaridad.
+
+---
+
+# 14D. MATRIZ PRELIMINAR DE TRANSFERENCIA A FUTURA SAS
+
+| Activo o derecho | Situación previa | Tratamiento posible en la SAS |
+|---|---|---|
+| Marca FELIPEGIL360 | Activo empresarial contractual | Cesión o aporte |
+| Cuentas empresariales | Activo empresarial | Transferencia administrativa y económica |
+| Biblioteca histórica | Derechos según cadena de titularidad | Licencia o cesión identificada |
+| Swift GTi | Propiedad de Andrés | Permanece fuera salvo acuerdo expreso |
+| Instagram personal | Propiedad de Felipe | Permanece fuera; licencia limitada si aplica |
+| Yacar | Derechos económicos según pagos | Aporte, licencia o permanencia externa |
+| Equipos personales | Propiedad individual | Uso, arrendamiento, licencia o aporte |
+| CEF | Derecho económico prioritario | Definir como aporte, prima, deuda, licencia u otra figura |
+| Contratos | Según firmante y contraparte | Cesión o novación con autorizaciones necesarias |
+
+La constitución de la SAS no producirá transferencia automática.
+
+---
+
+# 14E. MATRIZ DE PARTICIPACIÓN POR ETAPAS
+
+| Elemento | Etapa fundacional | Etapa madura |
+|---|---|---|
+| Distribución económica | 65 % Andrés / 35 % Felipe | 55 % Andrés / 45 % Felipe |
+| Condición | CEF y prima pendientes | CEF y prima totalmente conciliados y recuperados |
+| Acciones SAS | Referencia 65 % / 35 % | Permanecen 65 % / 35 % salvo modificación formal |
+| Nuevos aportes | Se documentan separadamente | Se documentan separadamente |
+| Cambio automático de acciones | No | No |
+
+El cambio de etapa requiere acta firmada y soporte contable.
 
 ---
 

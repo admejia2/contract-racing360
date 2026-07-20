@@ -1,6 +1,6 @@
-# ACUERDO DE FUNDADORES PARA EL DESARROLLO, PROTECCIÓN Y EXPLOTACIÓN DEL PROYECTO EMPRESARIAL FelipeGil360
+# ACUERDO MARCO DE COLABORACIÓN EMPRESARIAL, ADMINISTRACIÓN DE ACTIVOS Y PARTICIPACIÓN ECONÓMICA DE FELIPEGIL360
 
-**Versión 8.2 — Contrato Maestro con retribución del CEF y supervivencia de obligaciones**
+**Versión 10.0 — Acuerdo Marco final para revisión y firma**
 
 ---
 
@@ -63,6 +63,38 @@ EL PROYECTO no constituye por sí mismo una persona jurídica independiente y, p
 - no reemplaza los documentos de propiedad, registro, cesión, licencia o financiación;
 - no elimina la obligación de diferenciar bienes personales, activos empresariales y derechos económicos;
 - no crea una sociedad de hecho por el solo uso de expresiones como patrimonio, capital, participación o proyecto empresarial.
+
+---
+
+## CLÁUSULA 3A. NATURALEZA DE COLABORACIÓN, AUSENCIA DE REPRESENTACIÓN RECÍPROCA Y RESPONSABILIDAD INDIVIDUAL
+
+LAS PARTES celebran un acuerdo marco de colaboración empresarial de naturaleza civil y comercial para regular aportes, actividades, activos, contenidos, obligaciones y derechos económicos relacionados con FELIPEGIL360.
+
+LAS PARTES manifiestan que no pretenden constituir mediante este documento:
+
+- una sociedad comercial formal;
+- una sociedad de hecho;
+- una sociedad civil;
+- una relación laboral;
+- una agencia comercial;
+- un mandato general;
+- una comunidad universal de bienes;
+- una representación legal recíproca.
+
+Cada parte conservará su personalidad, patrimonio, obligaciones, impuestos, actividad profesional y responsabilidad propios.
+
+Ninguna parte podrá, sin autorización previa, expresa y verificable:
+
+- obligar a la otra frente a terceros;
+- firmar contratos en nombre de la otra;
+- asumir créditos o garantías por la otra;
+- declarar solidaridad;
+- disponer de bienes ajenos;
+- presentarse como representante legal de una sociedad inexistente.
+
+Las obligaciones asumidas individualmente serán responsabilidad de quien las contraiga, salvo aceptación escrita conjunta o norma imperativa aplicable.
+
+Esta cláusula expresa la intención contractual, pero no podrá utilizarse para ocultar una realidad jurídica diferente, perjudicar terceros ni desconocer responsabilidades impuestas por la ley.
 
 ---
 
@@ -1018,6 +1050,55 @@ Antes de distribuir valor residual, LAS PARTES deberán conciliar el CEF y desco
 
 ---
 
+## CLÁUSULA 32B. REGISTRO PROVISIONAL DE TRABAJO AUDIOVISUAL
+
+LAS PARTES reconocen, como estimación histórica provisional desde el 1 de junio de 2022 hasta el 20 de julio de 2026, el siguiente trabajo de producción:
+
+| Actividad | Cantidad | Horas unitarias | Total |
+|---|---:|---:|---:|
+| Videos largos de YouTube | 40 | 24 | 960 horas |
+| Reels o videos cortos | 200 | 4 | 800 horas |
+| Publicaciones fotográficas | 30 | 1 | 30 horas |
+| Trabajo extraordinario en 30 videos | 30 | 48 adicionales | 1440 horas |
+| **Total provisional** | **270 publicaciones** |  | **3.230 horas** |
+
+El promedio general corresponde a **11.96 horas por publicación**, redondeado a **12 horas por publicación**.
+
+El total equivale aproximadamente a:
+
+- **403.75 jornadas de ocho horas**;
+- **20.19 meses de trabajo de tiempo completo**, usando 160 horas mensuales;
+- **65.03 horas mensuales promedio** durante el período;
+- **14.97 horas semanales promedio**.
+
+Esta estimación no constituye automáticamente deuda personal de EL TALENTO. Constituye evidencia histórica del trabajo aportado y deberá considerarse en la valoración del CEF, Buy-Out, reorganización, transferencia a SAS, venta o liquidación.
+
+### Observación sobre las cuarenta y ocho horas adicionales
+
+Las cuarenta y ocho (48) horas adicionales reconocidas para cada uno de los treinta (30) videos corresponden a actividades distintas de las veinticuatro (24) horas ordinarias ya asignadas a la producción principal de cada video.
+
+Estas horas adicionales comprenden, entre otras:
+
+- desplazamientos;
+- preparación del vehículo;
+- grabación durante competencias;
+- acompañamiento del evento;
+- montaje;
+- producción extendida;
+- selección y respaldo de archivos;
+- coordinación;
+- edición compleja;
+- correcciones;
+- publicación y distribución.
+
+En consecuencia, estas actividades no podrán considerarse incluidas dentro de las veinticuatro (24) horas ordinarias de producción de cada video.
+
+La separación entre horas ordinarias y adicionales busca evitar doble contabilización y documentar las actividades extraordinarias realmente ejecutadas.
+
+Las cifras podrán ajustarse mediante archivos, metadatos, proyectos de edición, publicaciones, mensajes, calendarios, comprobantes, registros de eventos, testimonios y demás evidencia disponible.
+
+---
+
 ## CLÁUSULA 33. MEJORAS SOBRE ACTIVOS AJENOS
 
 El pago de reparaciones, mejoras o gastos sobre un activo perteneciente a otra persona no transfiere automáticamente su propiedad.
@@ -1048,6 +1129,31 @@ Ninguna parte podrá vender, transferir, gravar, destruir, ocultar o licenciar p
 
 # CAPÍTULO VI
 # PROPIEDAD INTELECTUAL, IMAGEN Y ACTIVOS DIGITALES
+
+## CLÁUSULA 35A. CUENTA RECEPTORA, CONTROL Y CONCILIACIÓN MENSUAL
+
+Los ingresos de FELIPEGIL360 deberán recibirse preferentemente en una cuenta bancaria, cuenta de monetización o medio de pago identificado para la operación.
+
+Mientras no exista SAS, la cuenta podrá estar formalmente a nombre de EL FUNDADOR, quien actuará como administrador y custodio, sin que la titularidad formal convierta los recursos empresariales en patrimonio personal exclusivo.
+
+EL FUNDADOR deberá:
+
+- conservar extractos y comprobantes;
+- identificar cada ingreso;
+- registrar impuestos, retenciones y costos;
+- realizar conciliación mensual;
+- informar saldos y movimientos;
+- permitir acceso razonable a reportes o copias;
+- aplicar la prelación de pagos;
+- separar gastos personales.
+
+EL TALENTO deberá informar y trasladar a la operación los ingresos de FELIPEGIL360 que reciba directamente.
+
+Ninguna parte podrá omitir ingresos, redirigir monetización, retirar recursos sin soporte o mezclar fondos de manera que impida reconstruirlos.
+
+La administración de la cuenta no confiere propiedad económica exclusiva ni representación legal general.
+
+---
 
 ## CLÁUSULA 36. DERECHOS PERSONALÍSIMOS
 
@@ -1229,6 +1335,99 @@ Ese valor se determinará razonablemente mediante acuerdo o valoración independ
 La falta de una fórmula matemática previa no eliminará el derecho al reconocimiento.
 
 Ninguna valoración podrá apropiarse del valor personal previo de EL TALENTO ni desconocer el valor empresarial producido mediante FELIPEGIL360.
+
+## CLÁUSULA 41A. ETAPAS ECONÓMICAS, RECUPERACIÓN FUNDACIONAL Y REDISTRIBUCIÓN POSTERIOR
+
+LAS PARTES reconocen que la participación económica inicial de referencia de FELIPEGIL360 corresponde a:
+
+- sesenta y cinco por ciento (65 %) para EL FUNDADOR;
+- treinta y cinco por ciento (35 %) para EL TALENTO.
+
+Esta estructura reconoce la inversión, trabajo profesional, financiación, dirección, producción, administración, riesgo patrimonial y demás aportes de la etapa fundacional, sin desconocer los aportes técnicos, deportivos, personales, reputacionales y operativos de EL TALENTO.
+
+### Etapa de Recuperación Fundacional
+
+La Etapa de Recuperación Fundacional permanecerá vigente hasta que se hayan conciliado y recuperado completamente:
+
+1. el CEF neto;
+2. créditos, anticipos y cuentas por cobrar reconocidos;
+3. intereses y costos financieros directamente atribuibles;
+4. gastos pendientes asumidos para EL PROYECTO;
+5. una Prima de Retribución Fundacional equivalente al veinte por ciento (20 %) del CEF neto conciliado, salvo acuerdo escrito diferente.
+
+El CEF neto será el resultado de restar:
+
+- reembolsos;
+- recuperaciones;
+- patrocinios aplicados;
+- ventas de activos;
+- indemnizaciones;
+- valores ya reconocidos en Buy-Out;
+- cualquier concepto previamente recuperado.
+
+No podrá reconocerse dos veces el mismo desembolso, activo, trabajo, interés, riesgo o recuperación.
+
+Durante esta etapa se aplicará la prelación de pagos del Contrato Maestro y la referencia económica 65 % para EL FUNDADOR y 35 % para EL TALENTO.
+
+### Certificación del cumplimiento
+
+La Etapa de Recuperación Fundacional terminará únicamente mediante acta escrita que indique:
+
+- CEF conciliado;
+- recuperaciones;
+- costos financieros;
+- Prima de Retribución Fundacional;
+- pagos efectuados;
+- saldo final igual a cero;
+- fecha de terminación de la etapa.
+
+El acta deberá ser firmada por ambas partes y, cuando exista SAS, aprobada por el órgano societario competente con soporte contable.
+
+### Etapa Económica Madura
+
+Una vez terminada la Etapa de Recuperación Fundacional, los excedentes económicos futuros se distribuirán así:
+
+**Referencia económica madura: 55 % para EL FUNDADOR y 45 % para EL TALENTO.**
+
+- cincuenta y cinco por ciento (55 %) para EL FUNDADOR;
+- cuarenta y cinco por ciento (45 %) para EL TALENTO.
+
+Esta redistribución reconoce que el riesgo fundacional fue razonablemente retribuido y que la nueva etapa debe remunerar principalmente trabajo futuro, responsabilidad, dirección, producción, participación personal, generación de ingresos y riesgo nuevo.
+
+### Revisión según aportes futuros
+
+La distribución 55 %–45 % se revisará anualmente o cuando cambien sustancialmente las funciones.
+
+La revisión considerará:
+
+- dedicación real;
+- responsabilidades;
+- resultados;
+- generación comercial;
+- capital nuevo;
+- trabajo operativo;
+- producción;
+- administración;
+- exposición personal;
+- riesgo asumido.
+
+Los nuevos aportes de capital no modificarán automáticamente los porcentajes. Deberán documentarse como capital, préstamo, prima, anticipo, cuenta por cobrar, inversión adicional u otra figura acordada.
+
+### Diferencia entre participación económica y acciones
+
+La redistribución de excedentes no modificará automáticamente la titularidad de acciones de una futura SAS.
+
+Cualquier modificación accionaria requerirá valoración, acuerdo escrito, aprobación societaria, transferencia o emisión válida, inscripción en el libro de accionistas y cumplimiento tributario.
+
+Mientras no exista modificación formal, la estructura accionaria de referencia continuará siendo 65 % para Andrés y 35 % para Felipe, aunque la distribución económica posterior opere 55 %–45 %.
+
+### Buena fe y prohibición de prolongación artificial
+
+Ninguna parte podrá prolongar artificialmente la Etapa de Recuperación Fundacional mediante gastos innecesarios, duplicidades, valoraciones desproporcionadas, intereses no soportados, falta injustificada de conciliación u ocultamiento de recuperaciones.
+
+Tampoco podrá declararse terminada sin pagar o conciliar los derechos fundacionales reconocidos.
+
+---
 
 ## CLÁUSULA 42. COMUNIDAD Y GOODWILL
 
@@ -1470,6 +1669,33 @@ Estas medidas no deberán utilizarse para apropiación unilateral.
 
 ---
 
+## CLÁUSULA 54A. PROTOCOLO TEMPORAL DE PROTECCIÓN DE ACCESOS
+
+Ante evidencia objetiva de riesgo inmediato de eliminación, transferencia, bloqueo, fraude, desvío de monetización o pérdida de activos digitales, EL FUNDADOR podrá adoptar medidas temporales y proporcionales para preservar:
+
+- cuentas;
+- canales;
+- dominios;
+- archivos maestros;
+- repositorios;
+- sistemas de pago;
+- analíticas;
+- copias de seguridad.
+
+Las medidas podrán incluir cambio temporal de credenciales, suspensión de permisos de administración, copias forenses y congelación de retiros extraordinarios.
+
+Dentro de las cuarenta y ocho (48) horas siguientes deberá:
+
+1. informar por escrito la medida y su fundamento;
+2. preservar evidencia;
+3. permitir acceso de consulta cuando sea seguro;
+4. limitar la medida al riesgo concreto;
+5. iniciar conciliación, peritaje o mecanismo de controversia.
+
+El protocolo no permite confiscar derechos económicos, eliminar contenidos, apropiarse de cuentas personales ni fingir terminación definitiva sin el procedimiento contractual correspondiente.
+
+---
+
 ## CLÁUSULA 55. EFECTOS DEL INCUMPLIMIENTO
 
 El incumplimiento probado podrá generar:
@@ -1659,6 +1885,124 @@ Ninguna nueva deuda podrá imputarse a una parte sin consentimiento previo, expr
 Quien pague una obligación que correspondía total o parcialmente a la otra parte tendrá derecho a reembolso, compensación, cuenta por cobrar o reconocimiento en Buy-Out o liquidación.
 
 La mera inactividad o terminación contractual no constituirá novación, condonación ni liberación de obligaciones.
+
+---
+
+# CAPÍTULO IXA
+# TRANSICIÓN OBLIGATORIA A SOCIEDAD POR ACCIONES SIMPLIFICADA
+
+## CLÁUSULA 61C. SAS COMO SIGUIENTE ETAPA OBLIGATORIA
+
+LAS PARTES reconocen que el Acuerdo Marco regula una etapa transitoria de incubación y que la estructura definitiva deberá migrar a una sociedad por acciones simplificada —SAS— cuando la operación alcance relevancia económica, contractual o patrimonial.
+
+La constitución de la SAS será obligatoria cuando ocurra primero cualquiera de los siguientes eventos:
+
+1. ingresos brutos promedio iguales o superiores a diez millones de pesos ($10.000.000 COP) mensuales durante tres (3) meses consecutivos;
+2. ingresos brutos acumulados iguales o superiores a ciento veinte millones de pesos ($120.000.000 COP) en cualquier período continuo de doce (12) meses;
+3. celebración o negociación vinculante de un contrato individual por valor igual o superior a treinta millones de pesos ($30.000.000 COP);
+4. ingreso de un inversionista externo;
+5. contratación permanente de trabajadores o de dos o más contratistas operativos recurrentes;
+6. adquisición de un activo empresarial material que deba quedar separado de los patrimonios personales;
+7. exigencia de un patrocinador, aseguradora, entidad financiera o autoridad;
+8. decisión escrita de ambas partes.
+
+Los umbrales económicos se actualizarán anualmente por IPC desde 2027.
+
+## CLÁUSULA 61D. PLAZO Y PROCEDIMIENTO DE CONSTITUCIÓN
+
+Cumplido un evento de activación:
+
+- dentro de quince (15) días hábiles deberá convocarse reunión formal;
+- dentro de treinta (30) días calendario deberán aprobarse estatutos y acuerdo de accionistas;
+- dentro de noventa (90) días calendario deberá radicarse e inscribirse la SAS, salvo impedimento legal o documental probado.
+
+La falta injustificada de colaboración constituirá incumplimiento grave.
+
+Durante el trámite, el Acuerdo Marco continuará vigente.
+
+## CLÁUSULA 61E. ESTRUCTURA ECONÓMICA INICIAL DE LA SAS
+
+Salvo valoración o acuerdo escrito diferente, la estructura económica de referencia será:
+
+- Andrés: sesenta y cinco por ciento (65 %);
+- Felipe: treinta y cinco por ciento (35 %).
+
+La emisión y asignación definitiva de acciones deberá considerar:
+
+- CEF conciliado;
+- aportes de capital;
+- activos efectivamente transferidos;
+- deudas y recuperaciones;
+- propiedad intelectual;
+- Yacar;
+- cuentas y contenidos;
+- obligaciones tributarias;
+- prohibición de doble contabilización.
+
+El CEF no se convertirá automáticamente en capital social ni deuda personal. Su tratamiento deberá definirse como aporte, prima en colocación, cuenta por pagar, préstamo, licencia, derecho económico u otra figura acordada y jurídicamente válida.
+
+## CLÁUSULA 61F. TRANSFERENCIA DE ACTIVOS A LA SAS
+
+La constitución de la SAS no transferirá automáticamente bienes personales.
+
+La transferencia o licencia deberá formalizarse activo por activo o por categorías objetivamente identificables.
+
+Podrán transferirse o licenciarse:
+
+- marca FELIPEGIL360;
+- cuentas empresariales;
+- dominios;
+- biblioteca histórica;
+- contratos;
+- monetización;
+- equipos;
+- software;
+- bases de datos;
+- goodwill;
+- otros activos identificados.
+
+El Swift continuará como propiedad personal de Andrés salvo transferencia expresa.
+
+Instagram personal continuará como propiedad de Felipe salvo acuerdo diferente.
+
+El Yacar se aportará, licenciará o mantendrá fuera de la SAS según su trazabilidad, pagos, riesgos y valoración.
+
+## CLÁUSULA 61G. ESTATUTOS Y ACUERDO DE ACCIONISTAS
+
+La SAS deberá incorporar, en la medida permitida por la ley:
+
+- participación económica;
+- gobierno;
+- mayorías;
+- materias reservadas;
+- restricciones de transferencia;
+- derecho de preferencia;
+- tag-along y drag-along;
+- Buy-Out;
+- causales y procedimiento de exclusión;
+- protección del CEF;
+- propiedad intelectual;
+- solución de controversias;
+- muerte, incapacidad y sucesión;
+- no captación;
+- reglas de información;
+- seguros;
+- manejo de conflictos de interés.
+
+El acuerdo de accionistas deberá depositarse en la administración de la sociedad cuando corresponda.
+
+## CLÁUSULA 61H. NO UTILIZACIÓN DE LA SAS PARA DEFRAUDAR
+
+La SAS no podrá utilizarse para:
+
+- ocultar activos;
+- desconocer el CEF;
+- trasladar valor sin reconocimiento;
+- excluir injustificadamente a una parte;
+- eludir obligaciones vigentes;
+- perjudicar acreedores o terceros.
+
+La transferencia a la SAS deberá conservar la trazabilidad histórica y los derechos consolidados.
 
 ---
 
@@ -2148,6 +2492,35 @@ Cuando sea posible, se conservará el archivo final en formato no editable y su 
 
 ---
 
+## CLÁUSULA 89B. CUENTAS EN PARTICIPACIÓN PARA OPERACIONES PUNTUALES
+
+LAS PARTES podrán utilizar contratos de cuentas en participación únicamente para operaciones mercantiles concretas y delimitadas, tales como:
+
+- un evento;
+- una temporada;
+- un curso;
+- una campaña;
+- una producción;
+- un producto;
+- una explotación temporal específica.
+
+Cada contrato deberá definir por escrito:
+
+- operación específica;
+- partícipe gestor;
+- partícipe o partícipes;
+- aportes;
+- duración;
+- distribución de ganancias y pérdidas;
+- rendición de cuentas;
+- obligaciones tributarias;
+- tratamiento de activos;
+- terminación.
+
+La figura no se aplicará automáticamente a toda la operación de FELIPEGIL360, no convertirá a una parte en representante general de la otra y no sustituirá la obligación de constituir la SAS cuando se cumplan los umbrales previstos en la Cláusula 61C.
+
+---
+
 ## CLÁUSULA 90. DURACIÓN INDEFINIDA, CONTINUIDAD Y PERMANENCIA DE LOS DERECHOS HISTÓRICOS
 
 El presente contrato entrará en vigor desde su firma y reconocerá los hechos, aportes y relaciones desarrollados desde el inicio de EL PROYECTO el **1 de junio de 2022**.
@@ -2298,6 +2671,21 @@ LAS PARTES declaran comprender y aceptar que la terminación o suspensión de FE
 EL TALENTO declara especialmente conocer que su cese de participación no extingue la obligación de $20.000.000 COP asumida para el Yacar ni el aporte mensual de $200.000 COP al saldo de $15.000.000 COP.
 
 EL FUNDADOR declara especialmente conocer que su cese de participación no extingue la obligación de $30.000.000 COP asumida para el Yacar ni el valor restante de las cuotas del saldo de $15.000.000 COP.
+
+---
+
+## CLÁUSULA 97B. ACEPTACIÓN DE LA TRANSICIÓN A SAS
+
+LAS PARTES declaran comprender que el Acuerdo Marco es transitorio y que, cumplido cualquiera de los umbrales de la Cláusula 61C, deberán colaborar de buena fe en la constitución de la SAS.
+
+| Declaración | Andrés | Felipe |
+|---|---|---|
+| Comprendo los umbrales de activación de la SAS | [ ] | [ ] |
+| Acepto colaborar en estatutos y acuerdo de accionistas | [ ] | [ ] |
+| Comprendo que ningún activo personal se transfiere automáticamente | [ ] | [ ] |
+| Comprendo que el CEF deberá definirse al constituir la SAS | [ ] | [ ] |
+| Comprendo que la estructura accionaria inicial de referencia será 65 % / 35 % | [ ] | [ ] |
+| Acepto la redistribución económica 55 % / 45 % después de recuperar CEF y prima fundacional | [ ] | [ ] |
 
 ---
 

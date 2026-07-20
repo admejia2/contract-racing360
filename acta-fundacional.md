@@ -392,6 +392,35 @@ El abandono sin causal no extinguirá derechos ni permitirá trasladar el goodwi
 
 ---
 
+# 10G. CAMINO DE FORMALIZACIÓN SOCIETARIA
+
+LAS PARTES declaran que FELIPEGIL360 se encuentra en una etapa contractual de incubación.
+
+Cuando se cumplan los umbrales establecidos en el Contrato Maestro, la constitución de una SAS será el siguiente paso obligatorio para:
+
+- separar patrimonios;
+- formalizar el 65 % / 35 %;
+- recibir contratos e ingresos;
+- organizar impuestos y contabilidad;
+- transferir o licenciar activos;
+- contratar pólizas;
+- incorporar inversionistas;
+- proteger la continuidad.
+
+La formalización no podrá utilizarse para desconocer aportes, CEF, derechos históricos ni obligaciones vigentes.
+
+---
+
+# 10H. EVOLUCIÓN DE LA PARTICIPACIÓN ECONÓMICA
+
+La referencia económica inicial será 65 % para Andrés y 35 % para Felipe durante la recuperación fundacional.
+
+Una vez recuperados el CEF neto, costos financieros reconocidos y Prima de Retribución Fundacional, los excedentes futuros se distribuirán 55 % para Andrés y 45 % para Felipe.
+
+Esta evolución no modificará automáticamente las acciones de la futura SAS.
+
+---
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman la presente Acta Fundacional.

@@ -1,7 +1,7 @@
 # ANEXO F
 # MANUAL DE GOBIERNO, DIRECCIÓN Y OPERACIÓN DE FELIPEGIL360
 
-**Versión: 5.1**
+**Versión: 7.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1093,6 +1093,47 @@ La suspensión de actividades deberá acompañarse de un plan de cierre que iden
 Ninguna parte podrá aprobar nuevas obligaciones a cargo de la otra sin consentimiento expreso.
 
 La prioridad del cierre será evitar mora, pérdida de activos y perjuicios frente a terceros.
+
+---
+
+# 26E. COMITÉ DE TRANSICIÓN A SAS
+
+Al cumplirse un umbral de la Cláusula 61C, LAS PARTES conformarán un comité temporal integrado por ambas partes y, cuando sea viable, contador y abogado.
+
+El comité deberá preparar:
+
+- inventario de activos;
+- conciliación del CEF;
+- relación de deudas;
+- estructura accionaria;
+- estatutos;
+- acuerdo de accionistas;
+- contratos de licencia o transferencia;
+- apertura de cuenta bancaria;
+- inscripción tributaria;
+- políticas contables;
+- pólizas;
+- migración de contratos y monetización.
+
+Las decisiones y documentos deberán quedar registrados.
+
+---
+
+# 26F. CERTIFICACIÓN DE ETAPA ECONÓMICA
+
+La administración deberá preparar, al menos trimestralmente, un informe con:
+
+- saldo conciliado del CEF;
+- recuperaciones;
+- costos financieros;
+- prima fundacional;
+- pagos;
+- saldo restante;
+- fecha estimada de cierre.
+
+El cambio a la distribución 55 %–45 % solo procederá mediante acta firmada por ambas partes y soporte contable.
+
+Cuando exista SAS, el órgano competente aprobará el cambio económico sin modificar automáticamente las acciones.
 
 ---
 

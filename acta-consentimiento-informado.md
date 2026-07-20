@@ -14,7 +14,7 @@ Cada parte declara haber recibido antes de la firma:
 
 - Contrato Maestro versión 8.0;
 - Acta Fundacional;
-- Anexos A a H;
+- Anexos A a J;
 - relación de documentos excluidos de firma;
 - oportunidad para solicitar aclaraciones y cambios.
 
@@ -52,7 +52,9 @@ Cada parte declara comprender especialmente:
 - que un Buy-Out requiere valoración y pago;
 - que no puede cobrarse dos veces el mismo concepto;
 - que los contenidos históricos tienen tratamiento distinto de campañas futuras;
-- que ninguna cláusula elimina derechos legales irrenunciables.
+- que ninguna cláusula elimina derechos legales irrenunciables;
+- que el siguiente paso obligatorio, cuando se cumplan los umbrales económicos o contractuales, será constituir una SAS;
+- que los activos personales no se transferirán automáticamente a dicha sociedad.
 
 ## 3A. CONCIENCIA SOBRE DEUDAS EN CURSO
 
@@ -63,6 +65,21 @@ Felipe declara conocer especialmente que continuará atendiendo su obligación d
 Andrés declara conocer especialmente que continuará atendiendo su obligación de $30.000.000 COP relacionada con el Yacar y el valor restante de cada cuota del saldo de $15.000.000 COP.
 
 Ambas partes deberán colaborar de buena fe para evitar mora, pérdida de activos y perjuicios, sin crear solidaridad no pactada.
+
+## 3B. COMPRENSIÓN DE LA REDISTRIBUCIÓN POR ETAPAS
+
+LAS PARTES declaran comprender:
+
+- que la referencia inicial es 65 % Andrés / 35 % Felipe;
+- que el CEF neto, costos financieros y Prima de Retribución Fundacional deben recuperarse antes del cambio;
+- que la Prima de Retribución Fundacional es del 20 % del CEF neto conciliado;
+- que después se distribuirán excedentes 55 % Andrés / 45 % Felipe;
+- que las acciones de la SAS no cambian automáticamente;
+- que el cambio requiere acta firmada y soporte contable.
+
+Andrés: [ ]
+
+Felipe: [ ]
 
 ## 4. NEGOCIACIÓN
 
@@ -98,7 +115,7 @@ Felipe escribe de su puño y letra:
 
 ________________________________________________________________
 
-## 8. FIRMAS
+## FIRMAS
 
 ### ANDRÉS DAVID MEJÍA HERRERA
 

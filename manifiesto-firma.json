@@ -1,0 +1,80 @@
+{
+  "status": "OK",
+  "issues": [],
+  "version": "10.0",
+  "ready_to_print": true,
+  "economic_stages": {
+    "fundacional": {
+      "andres": "65%",
+      "felipe": "35%"
+    },
+    "premium_cef_neto": "20%",
+    "madura": {
+      "andres": "55%",
+      "felipe": "45%"
+    },
+    "shares_change_automatically": false
+  },
+  "files": {
+    "contrato.md": {
+      "bytes": 117228,
+      "sha256": "1eb276b0cdce9f66e50b42d73fd3a37585159e3288939467b475e02cec6de419"
+    },
+    "acta-fundacional.md": {
+      "bytes": 23379,
+      "sha256": "eef4679758e921fcdea695065b3cfd8f53b44854f120b5a640006f2b45ac48b3"
+    },
+    "acta-consentimiento-informado.md": {
+      "bytes": 5155,
+      "sha256": "9d6b0c67d233fe0c804ae6672973dbf92e37b87f7ea49f9cdb0560bee62fdac5"
+    },
+    "acta-cambio-etapa-economica.md": {
+      "bytes": 1129,
+      "sha256": "012f8f94ed38ca5bc176df983e2f207f417deb3141dbdfecd1b4f32b37c57fea"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 27253,
+      "sha256": "a6a5f55e606eaddf08ab89a1e0356ce7538f9fc2c25349921e5f1feef3b36f3f"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 39976,
+      "sha256": "ebb02f425f31a7b00aac0a0e6f2f64412b89bf6928c3c79c40b4a5b38c047750"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 59542,
+      "sha256": "c5e5a557a72e5c5d40ee6aa92f86c03a171a54bd310324a385dc422830fe0947"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 12748,
+      "sha256": "30038be191256ed5c379816ab5f9e77d5bd1877cc0a0ea6511629930ab8d27eb"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 13779,
+      "sha256": "55ef2eb0440958d739bde37c008c780a31fabf7acea7abd6952ea6ff856f12f4"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 33773,
+      "sha256": "9c26cab1c93ed534ecb6dcce01e6cd2e8389640357f7094f91980073a40afa2d"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 8595,
+      "sha256": "43d081bd6674f4935c596805943800eeb289fe923d3517087cf990d77166c087"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 15461,
+      "sha256": "92af6fabc63030d5cafb7219511a91fdc8463fb173f61540af2647c6ac2135c3"
+    },
+    "anexo-i-inventario-contenidos-historicos.md": {
+      "bytes": 1045,
+      "sha256": "b49b7dab32dac4dd2bd88572381c870390348114c40e2c99c11ce59e957e9e4e"
+    },
+    "anexo-j-registro-horas-trabajo.md": {
+      "bytes": 2008,
+      "sha256": "7283a57dbc9b43d59570705dbb45cdb1822e73e0d6999b92b32e5cbe4dbca833"
+    },
+    "guia-final-firma.md": {
+      "bytes": 2390,
+      "sha256": "bd71b51e4296036ae9760a6721108ba763aea347d195a497d121b072c9945865"
+    }
+  }
+}

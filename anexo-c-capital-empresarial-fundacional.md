@@ -1,7 +1,7 @@
 # ANEXO C
 # REGISTRO HISTÓRICO DEL CAPITAL EMPRESARIAL FUNDACIONAL E INVERSIONES DE FELIPEGIL360
 
-**Versión: 6.1**
+**Versión: 8.0**
 
 Documento integrante del Sistema Documental del Proyecto.
 
@@ -1337,6 +1337,72 @@ El cierre o suspensión de EL PROYECTO no extingue obligaciones previamente asum
 | Resto de cada cuota del saldo de $15.000.000 COP | Andrés |
 
 Los pagos efectuados por una parte en reemplazo de la otra deberán registrarse como reembolso, compensación, cuenta por cobrar o aporte adicional, según corresponda.
+
+---
+
+# 23.16. REGISTRO PROVISIONAL DE HORAS TRABAJADAS
+
+| Actividad | Cantidad | Horas por unidad | Total |
+|---|---:|---:|---:|
+| Videos largos de YouTube | 40 | 24 | 960 |
+| Reels o videos cortos | 200 | 4 | 800 |
+| Publicaciones fotográficas | 30 | 1 | 30 |
+| Actividades adicionales de 30 videos | 30 | 48 adicionales | 1440 |
+| **Total provisional** | **270 publicaciones** |  | **3230 horas** |
+
+Promedio total: **11.96 horas por publicación**, redondeado a **12 horas**.
+
+Equivalencias:
+
+- 403.75 jornadas de ocho horas;
+- 20.19 meses de 160 horas;
+- 65.03 horas mensuales promedio;
+- 14.97 horas semanales promedio.
+
+## Observación sobre las 48 horas adicionales
+
+Las cuarenta y ocho (48) horas adicionales reconocidas para cada uno de los treinta (30) videos corresponden a actividades distintas de las veinticuatro (24) horas ordinarias ya asignadas a la producción principal de cada video.
+
+Estas horas adicionales comprenden, entre otras:
+
+- desplazamientos;
+- preparación del vehículo;
+- grabación durante competencias;
+- acompañamiento del evento;
+- montaje;
+- producción extendida;
+- selección y respaldo de archivos;
+- coordinación;
+- edición compleja;
+- correcciones;
+- publicación y distribución.
+
+En consecuencia, estas actividades no podrán considerarse incluidas dentro de las veinticuatro (24) horas ordinarias de producción de cada video.
+
+La separación entre las horas ordinarias y las horas adicionales tiene como finalidad evitar la doble contabilización y documentar de forma transparente las actividades extraordinarias realmente ejecutadas.
+
+Las horas adicionales deberán acreditarse, cuando sea posible, mediante archivos originales, metadatos, registros de edición, publicaciones, fotografías, videos, mensajes, calendarios, comprobantes de desplazamiento, registros de eventos, testimonios y demás evidencia disponible.
+
+Esta estimación reconoce un aporte de trabajo al CEF, pero no lo convierte automáticamente en deuda personal de Felipe.
+
+---
+
+# 23.17. ETAPAS DE RECUPERACIÓN Y REDISTRIBUCIÓN
+
+Mientras exista saldo pendiente del CEF neto, costos financieros reconocidos o Prima de Retribución Fundacional, se mantendrá la referencia económica 65 % para Andrés y 35 % para Felipe, además de la prelación de pagos.
+
+La Prima de Retribución Fundacional será del veinte por ciento (20 %) del CEF neto conciliado, salvo acuerdo escrito diferente.
+
+La etapa finalizará únicamente mediante acta firmada con saldo final igual a cero.
+
+Después de la certificación, los excedentes futuros se distribuirán:
+
+- 55 % Andrés;
+- 45 % Felipe.
+
+Esta redistribución no modifica automáticamente la estructura accionaria de una futura SAS.
+
+Ninguna parte podrá prolongar artificialmente la etapa ni declarar su finalización sin conciliación suficiente.
 
 ---
 
