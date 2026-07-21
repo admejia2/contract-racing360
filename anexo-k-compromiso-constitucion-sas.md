@@ -27,6 +27,12 @@ Estructura accionaria inicial de referencia: 65 % Andrés / 35 % Felipe.
 | Activos personales | No se transfieren automáticamente |
 | Marcas y unidades | Se aportan o licencian documentalmente |
 
+## 2A. FUNDAMENTO DE LA PARTICIPACIÓN
+
+La estructura 65 % Andrés / 35 % Felipe no se sustenta únicamente en aportes de dinero o en presencia pública.
+
+Reconoce la combinación histórica de capital, riesgo, trabajo, conocimientos, estrategia, tecnología, producción, administración, imagen, ejecución técnica y desarrollo comercial.
+
 ## 3. CRONOGRAMA
 
 | Actividad | Plazo |

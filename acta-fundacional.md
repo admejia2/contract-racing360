@@ -1,6 +1,6 @@
 # ACTA FUNDACIONAL DEL PROYECTO EMPRESARIAL FELIPEGIL360
 
-**Versión: 2.0 — Conciliada para firma notarial**
+**Versión: 3.0 — Creación conjunta de valor**
 
 ## ACTA No. 001
 
@@ -29,7 +29,7 @@ Mayor de edad, identificado con cédula de ciudadanía No. 1035425065, expedida 
 - Director Estratégico;
 - Productor Ejecutivo;
 - administrador de los recursos empresariales;
-- responsable principal de la estructuración, financiación y dirección inicial del Proyecto.
+- responsable principal de la estructuración, financiación, estrategia, producción, tecnología, administración y dirección inicial del Proyecto.
 
 ---
 
@@ -79,6 +79,31 @@ Al momento de su creación:
 Las capacidades técnicas y deportivas preexistentes de LUIS FELIPE GIL BETANCUR constituían potencial humano y profesional, pero todavía no habían sido estructuradas como un producto empresarial, una marca comercial consolidada ni una fuente organizada de generación de ingresos.
 
 Las partes reconocen que el Proyecto comenzó porque ANDRÉS DAVID MEJÍA HERRERA identificó dicho potencial, formuló la iniciativa empresarial y decidió aportar recursos económicos, activos, tiempo profesional, estrategia, infraestructura y capacidad operativa para desarrollarlo, contando con la aceptación y participación de LUIS FELIPE GIL BETANCUR.
+
+---
+
+# 4A. RECONOCIMIENTO DE LA INTERDEPENDENCIA FUNDACIONAL
+
+LAS PARTES reconocen que FELIPEGIL360 no fue creado, desarrollado ni valorizado exclusivamente por el conocimiento, imagen, trayectoria o capacidades de una sola persona.
+
+El valor empresarial surgió de la combinación interdependiente de:
+
+- los conocimientos técnicos, deportivos, mecánicos, pedagógicos, comunicativos y de conducción aportados por Felipe;
+- los conocimientos estratégicos, empresariales, tecnológicos, financieros, audiovisuales, comerciales, analíticos, administrativos y operativos aportados por Andrés;
+- el capital económico generado por Andrés mediante su trabajo y capacidades profesionales;
+- la inversión, riesgo, producción, infraestructura, continuidad y dirección asumidos por Andrés;
+- la imagen, presencia pública, ejecución técnica y participación deportiva de Felipe;
+- el trabajo conjunto aplicado a redes, contenidos, comunidad, patrocinios, productos y oportunidades.
+
+Ninguno de estos elementos, aisladamente considerado, habría producido por sí solo el ecosistema, patrimonio, posicionamiento, redes, comunidad, activos, contenidos, oportunidades y goodwill desarrollados bajo FELIPEGIL360.
+
+Por tanto:
+
+- Felipe no será considerado el único creador de valor por aportar conocimiento técnico, imagen o presencia pública;
+- Andrés no será considerado únicamente inversionista, financiador o administrador;
+- la menor exposición pública de Andrés no reduce el valor de sus conocimientos, trabajo o aportes;
+- la mayor visibilidad de Felipe no convierte en personal el valor empresarial creado por ambos;
+- los conocimientos personales permanecen en cabeza de cada fundador, pero los resultados generados al aplicarlos dentro del Proyecto forman parte del ecosistema empresarial conforme a las reglas pactadas.
 
 ---
 

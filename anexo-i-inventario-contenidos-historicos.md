@@ -17,6 +17,16 @@ No es necesario listar individualmente cada archivo.
 
 La vinculación se determinará por nombre, origen, producción, financiación, publicación, administración, recursos utilizados, campañas, patrocinadores y evidencia.
 
+## 2A. ORIGEN CONJUNTO DE LOS CONTENIDOS
+
+La biblioteca histórica resulta de la combinación de:
+
+- conocimientos, participación técnica e imagen de Felipe;
+- estrategia, producción, grabación, edición, tecnología, administración y distribución de Andrés;
+- recursos y trabajo del Proyecto.
+
+La presencia de Felipe en el contenido no atribuye por sí sola la totalidad del valor patrimonial.
+
 ## 3. EXCLUSIONES
 
 No se incluyen automáticamente:

@@ -2,7 +2,7 @@
 
 ## Documentos para firmar
 
-1. Contrato Maestro, versión 15.0.
+1. Contrato Maestro, versión 16.0.
 2. Acta Fundacional, versión 2.0.
 3. Anexos A a L.
 4. No se requiere documento del vendedor para firmar el acuerdo interno, debido a la naturaleza artesanal del Yacar y a la ausencia histórica de contrato formal.
@@ -119,3 +119,14 @@ No deben distribuirse porcentajes sobre ventas brutas.
 Quedan comprendidos todos los contenidos producidos, administrados, financiados o publicados bajo FELIPEGIL360 en cualquier red desde el 1 de junio de 2022.
 
 No es necesario enumerar cada publicación antes de firmar.
+
+
+## Regla de creación conjunta de valor
+
+Antes de firmar, ambos deben confirmar expresamente:
+
+- Felipe no es el único creador de valor.
+- Andrés no es únicamente inversionista.
+- Los conocimientos y habilidades de ambos fueron esenciales.
+- El Proyecto no habría podido desarrollarse de la misma manera sin la combinación de ambos.
+- La visibilidad pública no define por sí sola la propiedad económica.

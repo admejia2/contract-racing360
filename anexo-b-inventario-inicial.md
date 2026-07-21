@@ -81,6 +81,18 @@ Todo cambio de propiedad deberá constar mediante documento expreso y verificabl
 
 ---
 
+# 3A. APORTES NO MONETARIOS DE AMBOS FUNDADORES
+
+El Inventario reconoce no solo bienes y dinero, sino también trabajo, capacidades y servicios aplicados al Proyecto.
+
+Felipe aportó capacidades técnicas, deportivas, pedagógicas, comunicativas y públicas.
+
+Andrés aportó capacidades estratégicas, tecnológicas, empresariales, audiovisuales, financieras, administrativas, comerciales y operativas.
+
+Ninguno de estos aportes deberá interpretarse como accesorio por no estar representado físicamente en un bien.
+
+---
+
 # 4. CLASIFICACIÓN JURÍDICA DE LOS ACTIVOS
 
 Cada elemento deberá clasificarse en una de las siguientes categorías:

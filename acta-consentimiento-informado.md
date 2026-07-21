@@ -12,7 +12,7 @@ En ________________________, a los ______ días del mes de __________________ de
 
 Cada parte declara haber recibido antes de la firma:
 
-- Contrato Maestro versión 15.0;
+- Contrato Maestro versión 16.0;
 - Acta Fundacional;
 - Anexos A a L;
 - relación de documentos excluidos de firma;
@@ -98,6 +98,22 @@ LAS PARTES comprenden y aceptan:
 - que deberán firmarse los Anexos K y L;
 - que no es necesario inventariar individualmente cada contenido publicado bajo FELIPEGIL360;
 - que las tablas abiertas podrán completarse posteriormente sin invalidar la firma.
+
+Andrés: [ ]
+
+Felipe: [ ]
+
+## 3D. RATIFICACIÓN DEL VALOR CREADO CONJUNTAMENTE
+
+LAS PARTES reconocen:
+
+- que Felipe no ha sido el único creador de valor;
+- que Andrés no ha aportado únicamente dinero;
+- que los conocimientos profesionales y capacidades de Andrés fueron esenciales;
+- que los conocimientos técnicos, deportivos y públicos de Felipe fueron esenciales;
+- que FELIPEGIL360 no habría podido desarrollarse de la misma manera sin la combinación de ambos;
+- que la visibilidad pública no determina por sí sola la titularidad económica;
+- que los conocimientos personales permanecen con cada fundador, pero los resultados conjuntos forman parte del ecosistema empresarial.
 
 Andrés: [ ]
 

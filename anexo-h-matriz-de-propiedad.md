@@ -79,6 +79,18 @@ La verdadera naturaleza de un activo, ingreso u oportunidad se determinará por 
 
 En caso de duda, ninguna parte podrá apropiarse unilateralmente del activo o ingreso hasta aclarar razonablemente su naturaleza.
 
+# 5B. CONOCIMIENTO PERSONAL Y VALOR RESULTANTE
+
+| Elemento | Titularidad personal | Resultado empresarial |
+|---|---|---|
+| Conocimiento técnico y deportivo de Felipe | Felipe | El resultado aplicado dentro del Proyecto puede generar activos empresariales |
+| Conocimiento estratégico, tecnológico y profesional de Andrés | Andrés | El resultado aplicado dentro del Proyecto puede generar activos empresariales |
+| Trabajo conjunto | No apropiable como conocimiento | Contenidos, redes, procesos, goodwill e ingresos según el contrato |
+
+Ninguna parte podrá equiparar visibilidad con titularidad exclusiva del valor.
+
+---
+
 # 6. BIENES PERSONALES
 
 Los bienes personales conservarán su titularidad original.

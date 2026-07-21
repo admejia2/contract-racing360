@@ -1,6 +1,6 @@
 # ACUERDO MARCO DE COLABORACIÓN EMPRESARIAL, ADMINISTRACIÓN DE ACTIVOS Y PARTICIPACIÓN ECONÓMICA DE FELIPEGIL360
 
-**Versión 15.0 — Acuerdo Marco simplificado para firma y transición a INVERSIONES RACING 360 S.A.S.**
+**Versión 16.0 — Acuerdo Marco equilibrado sobre creación conjunta de valor y transición a INVERSIONES RACING 360 S.A.S.**
 
 ---
 
@@ -41,7 +41,7 @@ celebran el presente **ACUERDO DE FUNDADORES**, que regulará sus derechos, obli
 
 LAS PARTES reconocen que desde el 1 de junio de 2022 el proyecto empresarial conjunto ha sido identificado y desarrollado bajo la denominación **FELIPEGIL360**.
 
-Para efectos del presente contrato, FELIPEGIL360, también denominado EL PROYECTO, comprende la operación histórica construida alrededor de la trayectoria, imagen, conocimiento técnico y actividad deportiva de EL TALENTO, junto con la iniciativa empresarial, inversión, financiación, dirección estratégica, producción, edición, administración y tecnología aportadas por EL FUNDADOR.
+Para efectos del presente contrato, FELIPEGIL360, también denominado EL PROYECTO, comprende la operación histórica construida mediante la combinación inseparable de las capacidades técnicas, deportivas, pedagógicas, comunicativas e imagen de EL TALENTO con las capacidades estratégicas, empresariales, tecnológicas, financieras, audiovisuales, comerciales, administrativas y operativas de EL FUNDADOR.
 
 La utilización del nombre de EL TALENTO dentro de FELIPEGIL360 no implica que todos los activos, cuentas, contenidos, relaciones, ingresos o derechos económicos sean de propiedad exclusiva de EL TALENTO.
 
@@ -113,6 +113,65 @@ d) EL FUNDADOR propuso y estructuró la operación empresarial, audiovisual y di
 e) EL FUNDADOR aportó inversión, financiación, activos, dirección estratégica, producción, edición, administración, tecnología, tiempo profesional y exposición patrimonial;
 
 f) el valor actual de FELIPEGIL360 es resultado acumulativo de los aportes sustanciales de ambas partes.
+
+---
+
+## CLÁUSULA 4A. PRINCIPIO DE CREACIÓN CONJUNTA DE VALOR
+
+LAS PARTES reconocen que FELIPEGIL360 no fue creado, desarrollado ni valorizado exclusivamente por el conocimiento, imagen, trayectoria o capacidades de una sola persona.
+
+El valor empresarial surgió de la combinación interdependiente de:
+
+- los conocimientos técnicos, deportivos, mecánicos, pedagógicos, comunicativos y de conducción aportados por Felipe;
+- los conocimientos estratégicos, empresariales, tecnológicos, financieros, audiovisuales, comerciales, analíticos, administrativos y operativos aportados por Andrés;
+- el capital económico generado por Andrés mediante su trabajo y capacidades profesionales;
+- la inversión, riesgo, producción, infraestructura, continuidad y dirección asumidos por Andrés;
+- la imagen, presencia pública, ejecución técnica y participación deportiva de Felipe;
+- el trabajo conjunto aplicado a redes, contenidos, comunidad, patrocinios, productos y oportunidades.
+
+Ninguno de estos elementos, aisladamente considerado, habría producido por sí solo el ecosistema, patrimonio, posicionamiento, redes, comunidad, activos, contenidos, oportunidades y goodwill desarrollados bajo FELIPEGIL360.
+
+Por tanto:
+
+- Felipe no será considerado el único creador de valor por aportar conocimiento técnico, imagen o presencia pública;
+- Andrés no será considerado únicamente inversionista, financiador o administrador;
+- la menor exposición pública de Andrés no reduce el valor de sus conocimientos, trabajo o aportes;
+- la mayor visibilidad de Felipe no convierte en personal el valor empresarial creado por ambos;
+- los conocimientos personales permanecen en cabeza de cada fundador, pero los resultados generados al aplicarlos dentro del Proyecto forman parte del ecosistema empresarial conforme a las reglas pactadas.
+
+---
+
+## CLÁUSULA 4B. CAPITAL HUMANO, INTELECTUAL Y PROFESIONAL DE ANDRÉS
+
+LAS PARTES reconocen que ANDRÉS DAVID MEJÍA HERRERA no ha actuado únicamente como aportante de dinero.
+
+Andrés ha aportado conocimientos, habilidades y trabajo relacionados con:
+
+- estrategia;
+- modelo de negocio;
+- tecnología;
+- infraestructura;
+- producción ejecutiva;
+- grabación y edición;
+- crecimiento de redes;
+- analítica;
+- administración;
+- finanzas;
+- evaluación de riesgo;
+- creación de procesos;
+- diseño de propuestas;
+- negociación;
+- patrocinadores;
+- organización documental;
+- continuidad operativa;
+- creación de oportunidades;
+- solución de problemas.
+
+Los recursos económicos invertidos por Andrés fueron generados mediante su trabajo, experiencia profesional, conocimientos, capacidad técnica, disciplina financiera y patrimonio preexistente.
+
+La inversión económica representa también trabajo previo, costo de oportunidad, capacidad productiva y riesgo patrimonial.
+
+La aplicación de los conocimientos de Andrés dentro del Proyecto constituye un aporte creador de valor y no una función gratuita, secundaria o meramente administrativa.
 
 ---
 
@@ -560,6 +619,20 @@ Aplica a Instagram, Facebook, YouTube, TikTok, X, páginas web, plataformas futu
 La falta de una lista exhaustiva no elimina la vinculación cuando el origen y uso puedan demostrarse.
 
 Esta regla respeta derechos de imagen, derechos morales, derechos de terceros y la propiedad personal de la cuenta de Instagram de EL TALENTO.
+
+---
+
+## CLÁUSULA 22B. CONOCIMIENTOS PERSONALES Y RESULTADOS EMPRESARIALES
+
+Los conocimientos, experiencia y capacidades personales de cada fundador permanecen bajo su titularidad.
+
+Felipe conserva sus conocimientos técnicos, deportivos, mecánicos, pedagógicos y de conducción.
+
+Andrés conserva sus conocimientos profesionales, estratégicos, tecnológicos, empresariales, financieros, audiovisuales, administrativos y comerciales.
+
+Ninguna parte adquiere propiedad sobre la mente, experiencia o capacidad profesional de la otra.
+
+Sin embargo, los contenidos, procesos, campañas, redes, sistemas, relaciones, propuestas, productos, métricas, activos, ingresos, posicionamiento y goodwill creados mediante la aplicación conjunta de dichas capacidades dentro de FELIPEGIL360 integran el ecosistema empresarial según este contrato.
 
 ---
 

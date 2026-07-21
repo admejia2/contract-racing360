@@ -60,6 +60,18 @@ Los derechos personalísimos no podrán utilizarse para apropiarse unilateralmen
 
 ---
 
+# 4A. CREACIÓN CONJUNTA SIN APROPIACIÓN DE CONOCIMIENTOS
+
+Los conocimientos personales de Felipe y Andrés permanecen en cabeza de cada uno.
+
+La propiedad intelectual empresarial comprende las obras, contenidos, procesos, diseños, campañas, sistemas y resultados creados mediante la aplicación de esos conocimientos dentro del Proyecto.
+
+La aparición frente a cámara no atribuye a Felipe la totalidad del valor intelectual.
+
+La financiación, dirección o producción tampoco atribuye a Andrés los derechos personalísimos de Felipe.
+
+---
+
 # 5. CONTENIDOS
 
 Los videos, fotografías, audios, guiones, diseños, cursos conjuntos, transmisiones, campañas, miniaturas, archivos maestros y demás contenidos creados específicamente para EL PROYECTO constituyen activos empresariales, sin perjuicio de los derechos morales, personalísimos y de las actividades educativas independientes reconocidas a EL TALENTO.

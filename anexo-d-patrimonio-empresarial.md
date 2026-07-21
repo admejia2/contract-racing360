@@ -97,6 +97,16 @@ La vinculación se determinará mediante origen, financiación, riesgo, trabajo,
 
 Ninguna parte podrá aprovechar el control material, titularidad formal o falta de actualización para apropiarse unilateralmente del valor empresarial.
 
+# 4C. ORIGEN CONJUNTO DEL PATRIMONIO
+
+El Patrimonio Empresarial no deriva únicamente de la imagen, conocimiento técnico o trayectoria de Felipe.
+
+También deriva de la estrategia, inversión, tecnología, producción, edición, redes, análisis, administración, relaciones, negociación, procesos y continuidad aportados por Andrés.
+
+El valor patrimonial se considera resultado de la combinación de aportes de ambos fundadores.
+
+---
+
 # 5. BIENES PERSONALES
 
 Los bienes adquiridos antes del Proyecto o pagados con patrimonio personal conservarán su titularidad original, salvo transferencia expresa.

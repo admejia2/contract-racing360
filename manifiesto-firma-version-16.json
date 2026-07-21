@@ -1,0 +1,89 @@
+{
+  "status": "OK",
+  "issues": [],
+  "version": "16.0",
+  "ready_to_print": true,
+  "central_principle": "El valor de FELIPEGIL360 fue creado por la combinación interdependiente de los conocimientos, habilidades, trabajo, capital y riesgo de Andrés y Felipe.",
+  "files": {
+    "acta-cambio-etapa-economica.md": {
+      "bytes": 1609,
+      "sha256": "72141557448e6bb24ecd30adffcfdbd38a2c8d1b0e310cbd52a2021852deed32"
+    },
+    "acta-consentimiento-informado.md": {
+      "bytes": 7097,
+      "sha256": "2cc96b1a4e44a58f242ac17142e63e75037eff6abb6c8f2c8dcbdcce5dfdf272"
+    },
+    "acta-fundacional.md": {
+      "bytes": 27705,
+      "sha256": "0d5b977322185cfbd7fe6a59dae1b1b62c2321f5e89650d5632bbeac8b69d8be"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 30185,
+      "sha256": "8c13466631e545460bbf4a033c860417720cf4f7fc9554ba9b14667abf43bc14"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 41526,
+      "sha256": "e083f50faf33a811d98881a448e0c138bbdd0d94b400a2dee45f320225856d4e"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 61829,
+      "sha256": "f4e9676c6dc0abee912f6e3b09f0604c5cad648e2db290d9753c01313432b9b2"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 14327,
+      "sha256": "89ae4ee9ca93f62c63a84ba28a0b4aa71378ee82525aa20d0c368d3cf962f9a4"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 15564,
+      "sha256": "17d201d7435307f7dcbb4b3fc50fed5f1d0a0bde7ad40943975e5afe56731556"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 35506,
+      "sha256": "7f3e203266fc6bc528e308450c2a25f2652d07f26f44cb80179dd6026ea5d598"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 9945,
+      "sha256": "0ebe3d88eac020899e53efccf036416afc96dee988aeff49fcd1699a27bdd9b1"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 18054,
+      "sha256": "efb3be757da000530401e29f7a9647ebcb05b432089ca217fd2c683a980cfb9d"
+    },
+    "anexo-i-inventario-contenidos-historicos.md": {
+      "bytes": 1820,
+      "sha256": "90939941342545e48bb1978f0bda23ddc926e0f929b71df3fb3a7d1323843b3e"
+    },
+    "anexo-j-registro-horas-trabajo.md": {
+      "bytes": 2959,
+      "sha256": "cb2983823069939df282fb0854d88cc86d10dc93af6b751133638e142c4a1890"
+    },
+    "anexo-k-compromiso-constitucion-sas.md": {
+      "bytes": 2566,
+      "sha256": "45e043dc170bc6be1cfbb9fca1175132869e74dd8e92506552cd3f8c0581872b"
+    },
+    "anexo-l-productos-merchandising-comercio.md": {
+      "bytes": 2222,
+      "sha256": "962d780dace3c4c2bbf6e115c95a2c9154e3319ea08478366c584d4f4901bc8b"
+    },
+    "contrato.md": {
+      "bytes": 131623,
+      "sha256": "de542d4a45776431ce795f9e929c4f5971a31b57a9508738235a5b0e432cf6f4"
+    },
+    "guia-final-firma.md": {
+      "bytes": 4378,
+      "sha256": "8038a5d4fbb55d58dc9355e3dc8b62210dae6ce8dced6da89921056ba118b28f"
+    },
+    "informe-auditoria-creacion-conjunta-version-16.md": {
+      "bytes": 997,
+      "sha256": "174c2e0f052d7dc8abb3a147c44953abd4bddd92e9b04f29430965cb00982d2a"
+    },
+    "informe-auditoria-integral-version-14.md": {
+      "bytes": 710,
+      "sha256": "544fb88ac991e558e60754f9c72dd80062accbda1274471eaa62e5fca7918d42"
+    },
+    "informe-simplificacion-version-15.md": {
+      "bytes": 490,
+      "sha256": "11a20242d4713acdafd958465509963c937d44ab7d10dd54d80a376fdf53373d"
+    }
+  }
+}

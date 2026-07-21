@@ -148,6 +148,14 @@ El registro deberá diferenciar necesidades personales legítimas de obligacione
 
 ---
 
+# 7B. REGISTRO EQUILIBRADO DE CAPACIDADES
+
+El Libro deberá conservar evidencia tanto de las capacidades técnicas, deportivas y públicas de Felipe como de las capacidades estratégicas, profesionales, tecnológicas, audiovisuales, financieras, comerciales y operativas de Andrés.
+
+La falta de exposición pública de un aporte no reduce su valor.
+
+---
+
 # 8. PARTICIPACIÓN DE LUIS FELIPE
 
 Podrá conservarse evidencia sobre:

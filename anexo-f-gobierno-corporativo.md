@@ -88,6 +88,14 @@ La dirección y operación se regirán por:
 
 El Proyecto se organizará bajo las siguientes áreas:
 
+# 4A. COMPLEMENTARIEDAD DE DIRECCIONES
+
+La Dirección Estratégica y Empresarial y la Dirección Técnica, Deportiva y de Representación son complementarias.
+
+Ninguna será interpretada como superior por razón de visibilidad pública.
+
+La creación de valor depende tanto de la ejecución técnica y pública de Felipe como de la estrategia, producción, tecnología, administración, financiación y continuidad de Andrés.
+
 ## 4.1. Dirección Estratégica y Empresarial
 
 Responsable principal:

@@ -141,6 +141,31 @@ Las partes reconocen que estos aportes tuvieron carácter habilitante, pues perm
 
 ---
 
+# 5A. ORIGEN PROFESIONAL Y HUMANO DEL CAPITAL
+
+LAS PARTES reconocen que el capital económico aportado por Andrés provino de la aplicación de sus conocimientos, habilidades profesionales, trabajo, experiencia, ahorro, disciplina financiera y capacidad productiva.
+
+No deberá describirse como un aporte puramente pasivo o carente de conocimiento.
+
+El Capital Empresarial Fundacional también comprende, cuando se documente:
+
+- estrategia;
+- tecnología;
+- producción;
+- administración;
+- desarrollo comercial;
+- análisis;
+- procesos;
+- negociación;
+- tiempo profesional;
+- trabajo intelectual;
+- costo de oportunidad;
+- riesgo patrimonial.
+
+El reconocimiento del conocimiento de Felipe no excluye ni reduce el reconocimiento del conocimiento aplicado por Andrés.
+
+---
+
 # 6. ELEMENTOS QUE PUEDEN INTEGRAR EL CAPITAL EMPRESARIAL FUNDACIONAL
 
 Podrán registrarse como Capital Empresarial Fundacional, cuando estén debidamente identificados:

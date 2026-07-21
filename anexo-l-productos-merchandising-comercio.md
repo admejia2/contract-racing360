@@ -13,6 +13,12 @@ No es necesario completar fichas, inventarios o licencias mientras no exista una
 
 Las tablas se completarán antes de fabricar o vender.
 
+## 1B. ORIGEN CONJUNTO DE LAS OPORTUNIDADES
+
+Las oportunidades de productos, cursos y comercio podrán surgir de la combinación del conocimiento técnico y público de Felipe con la estrategia, estructuración, negociación, tecnología, producción y comercialización de Andrés.
+
+Ninguna oportunidad se considerará exclusivamente personal por el solo hecho de que Felipe sea la figura visible o instructor.
+
 ## 2. FICHA DE COLECCIÓN
 
 | Campo | Información |
