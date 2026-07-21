@@ -2,7 +2,7 @@
 
 ## Documentos para firmar
 
-1. Contrato Maestro, versión 15.0.
+1. Contrato Maestro, versión 14.0.
 2. Acta Fundacional, versión 2.0.
 3. Anexos A a L.
 4. No se requiere documento del vendedor para firmar el acuerdo interno, debido a la naturaleza artesanal del Yacar y a la ausencia histórica de contrato formal.
@@ -93,29 +93,3 @@ Antes de fabricar:
 - preparar términos, garantías y tratamiento de datos.
 
 No deben distribuirse porcentajes sobre ventas brutas.
-
-
-## Información que sí debe completarse ahora
-
-- ciudad y fecha;
-- firmas;
-- declaraciones manuscritas;
-- casillas de aceptación;
-- salvedades realmente negociadas.
-
-## Información que puede quedar pendiente
-
-- saldo definitivo del CEF;
-- capital y acciones de la SAS;
-- contador, abogado y códigos CIIU;
-- inventario detallado de contenidos;
-- listado de equipos;
-- matriz de patrocinadores;
-- productos, proveedores e inventario;
-- licencias futuras.
-
-## Regla simplificada sobre contenidos
-
-Quedan comprendidos todos los contenidos producidos, administrados, financiados o publicados bajo FELIPEGIL360 en cualquier red desde el 1 de junio de 2022.
-
-No es necesario enumerar cada publicación antes de firmar.

@@ -37,19 +37,6 @@ Estructura accionaria inicial de referencia: 65 % Andrés / 35 % Felipe.
 | Firma constitutiva | 90 días |
 | Radicación registral | 120 días |
 
-## 3A. INFORMACIÓN QUE PUEDE DEFINIRSE DESPUÉS
-
-No es necesario definir antes de esta firma:
-
-- capital autorizado, suscrito y pagado;
-- número y valor nominal de acciones;
-- códigos CIIU;
-- dirección exacta;
-- contador o abogado;
-- lista final de activos transferidos.
-
-Estos datos se completarán dentro del cronograma sin modificar el 65 % Andrés / 35 % Felipe.
-
 ## 4. RATIFICACIÓN
 
 Andrés escribe:

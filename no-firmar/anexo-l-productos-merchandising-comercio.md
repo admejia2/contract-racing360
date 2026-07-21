@@ -7,12 +7,6 @@
 
 Regular el diseño, producción, compra, venta, distribución y explotación de productos de INVERSIONES RACING 360 S.A.S.
 
-## 1A. NO REQUERIDO PARA LA FIRMA ACTUAL
-
-No es necesario completar fichas, inventarios o licencias mientras no exista una colección aprobada.
-
-Las tablas se completarán antes de fabricar o vender.
-
 ## 2. FICHA DE COLECCIÓN
 
 | Campo | Información |

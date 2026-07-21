@@ -1578,14 +1578,6 @@ La recuperación del inventario precede a la distribución de utilidad.
 
 Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
 
-# 23.21. FIRMA SIN CONCILIACIÓN DEFINITIVA
-
-La firma reconoce la existencia histórica del CEF y sus reglas, pero no obliga a determinar ahora el saldo final, exigibilidad, clasificación contable o forma de pago.
-
-La conciliación definitiva se realizará después mediante acta.
-
----
-
 # FIRMAS
 
 En constancia de aceptación, las partes firman el presente Anexo.

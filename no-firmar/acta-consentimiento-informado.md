@@ -12,7 +12,7 @@ En ________________________, a los ______ días del mes de __________________ de
 
 Cada parte declara haber recibido antes de la firma:
 
-- Contrato Maestro versión 15.0;
+- Contrato Maestro versión 14.0;
 - Acta Fundacional;
 - Anexos A a L;
 - relación de documentos excluidos de firma;
@@ -95,9 +95,7 @@ LAS PARTES comprenden y aceptan:
 - que los productos con imagen o nombre de Felipe requieren licencia escrita;
 - que las ventas deberán entrar a la contabilidad de la SAS;
 - que la participación económica se calcula sobre utilidad neta, no sobre ventas brutas;
-- que deberán firmarse los Anexos K y L;
-- que no es necesario inventariar individualmente cada contenido publicado bajo FELIPEGIL360;
-- que las tablas abiertas podrán completarse posteriormente sin invalidar la firma.
+- que deberán firmarse los Anexos K y L.
 
 Andrés: [ ]
 

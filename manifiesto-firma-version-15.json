@@ -1,0 +1,103 @@
+{
+  "status": "OK",
+  "issues": [],
+  "version": "15.0",
+  "ready_to_print": true,
+  "must_fill_now": [
+    "ciudad y fecha",
+    "firmas",
+    "declaraciones manuscritas",
+    "casillas de aceptación",
+    "salvedades negociadas"
+  ],
+  "may_fill_later": [
+    "CEF definitivo",
+    "capital SAS",
+    "acciones",
+    "asesores",
+    "CIIU",
+    "inventarios",
+    "equipos",
+    "patrocinadores",
+    "productos",
+    "licencias"
+  ],
+  "files": {
+    "acta-cambio-etapa-economica.md": {
+      "bytes": 1609,
+      "sha256": "72141557448e6bb24ecd30adffcfdbd38a2c8d1b0e310cbd52a2021852deed32"
+    },
+    "acta-consentimiento-informado.md": {
+      "bytes": 6404,
+      "sha256": "11437224e2a94ba63327e82a08c27f52da50fa160fcf2e80e7a39863c1cc9d50"
+    },
+    "acta-fundacional.md": {
+      "bytes": 25811,
+      "sha256": "e7f09e5a451aab3f4cf5d42053bb803851de6286482eec968c0344ba2afce218"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 28353,
+      "sha256": "fa06c0cd48ddae70de92591a928f6e00b098634ac9effe65ccfd6f65f985913c"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 41002,
+      "sha256": "675c63b55852117e6fbe1992ef5325e277cbbd94cabd4659315ff9d56dc391e4"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 61053,
+      "sha256": "9a0f6b3853f628abc929b5ae1e9013dd4ba2247cd7d1e0767382a4a3b5dd0f8f"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 13888,
+      "sha256": "673cf27bdb03e0449597017bec98b776e9bf8f0374773d534287d732a05f77ec"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 15016,
+      "sha256": "bb68b1724fb1b254c7d2cd33d99bbf307612758982415d9fd8ec8c184139cb32"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 35078,
+      "sha256": "6a939cd95d3ceb0929beee25f04c22a1ead8991bacaa073af733455be3d041b0"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 9589,
+      "sha256": "5726d5e9358e72e809ee1355e7234abe56804f56e5239c2b20f5d375fd6d36d4"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 17424,
+      "sha256": "eb896f886cd0ae7e157f44c9aef09d999236c9a8f7bc5f48ac920e9921c29ab2"
+    },
+    "anexo-i-inventario-contenidos-historicos.md": {
+      "bytes": 1417,
+      "sha256": "a2629f65153d1dc4f4c4a761e3947c7444d739236f48e8a95a173201c5d8f091"
+    },
+    "anexo-j-registro-horas-trabajo.md": {
+      "bytes": 2959,
+      "sha256": "cb2983823069939df282fb0854d88cc86d10dc93af6b751133638e142c4a1890"
+    },
+    "anexo-k-compromiso-constitucion-sas.md": {
+      "bytes": 2223,
+      "sha256": "6987c8a046c0775f748256f9403ddb0c653101c7c58ac8a1370fe6404f074fbc"
+    },
+    "anexo-l-productos-merchandising-comercio.md": {
+      "bytes": 1809,
+      "sha256": "e85bb9fc1a992dac1998b69000bcc57e4bc2fb5522916329464b525752baad9f"
+    },
+    "contrato.md": {
+      "bytes": 127740,
+      "sha256": "e4a3048808f67a77d7addf9254b3054a008c481fdb20a55586dd23ee0fe385fc"
+    },
+    "guia-final-firma.md": {
+      "bytes": 3964,
+      "sha256": "78b6b8143a9a65fba20025b8a350b8201dc89ed5f0338cd0b827f05b104f7039"
+    },
+    "informe-auditoria-integral-version-14.md": {
+      "bytes": 710,
+      "sha256": "544fb88ac991e558e60754f9c72dd80062accbda1274471eaa62e5fca7918d42"
+    },
+    "informe-simplificacion-version-15.md": {
+      "bytes": 490,
+      "sha256": "11a20242d4713acdafd958465509963c937d44ab7d10dd54d80a376fdf53373d"
+    }
+  }
+}

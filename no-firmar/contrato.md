@@ -1,6 +1,6 @@
 # ACUERDO MARCO DE COLABORACIÓN EMPRESARIAL, ADMINISTRACIÓN DE ACTIVOS Y PARTICIPACIÓN ECONÓMICA DE FELIPEGIL360
 
-**Versión 15.0 — Acuerdo Marco simplificado para firma y transición a INVERSIONES RACING 360 S.A.S.**
+**Versión 14.0 — Acuerdo Marco integral para INVERSIONES RACING 360 S.A.S., patrocinadores y comercio**
 
 ---
 
@@ -532,34 +532,6 @@ La Cuenta de Capital servirá como referencia contractual de:
 - obligaciones.
 
 La ausencia de registro formal no extingue un derecho demostrable por otros medios válidos.
-
----
-
-## CLÁUSULA 22A. CONTENIDOS Y ACTIVIDAD DIGITAL BAJO FELIPEGIL360
-
-Quedan vinculados al ecosistema FELIPEGIL360 todos los contenidos producidos, grabados, editados, financiados, administrados, distribuidos o publicados sustancialmente por EL PROYECTO desde el 1 de junio de 2022 bajo el nombre, identidad, narrativa, cuentas, campañas o posicionamiento FELIPEGIL360.
-
-La protección comprende, sin necesidad de enumeración individual:
-
-- videos largos;
-- reels y shorts;
-- historias;
-- transmisiones;
-- fotografías;
-- publicaciones y textos;
-- miniaturas;
-- audios y guiones;
-- material bruto;
-- proyectos de edición;
-- métricas y analíticas;
-- campañas;
-- copias y adaptaciones.
-
-Aplica a Instagram, Facebook, YouTube, TikTok, X, páginas web, plataformas futuras, discos, nubes y repositorios.
-
-La falta de una lista exhaustiva no elimina la vinculación cuando el origen y uso puedan demostrarse.
-
-Esta regla respeta derechos de imagen, derechos morales, derechos de terceros y la propiedad personal de la cuenta de Instagram de EL TALENTO.
 
 ---
 
@@ -2916,32 +2888,6 @@ Esta declaración forma parte esencial del consentimiento contractual.
 ## FORMALIZACIÓN Y COMERCIO
 
 Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
-
-## CLÁUSULA 98A. SUFICIENCIA DOCUMENTAL Y CAMPOS PENDIENTES
-
-La firma no depende de completar inventarios exhaustivos de cada contenido, equipo, gasto, patrocinador o interacción.
-
-Las tablas abiertas se completarán posteriormente cuando sean necesarias y no constituyen condición de validez del acuerdo.
-
-Al firmar solo deberán completarse:
-
-- ciudad y fecha;
-- firmas;
-- declaraciones manuscritas;
-- casillas de aceptación;
-- salvedades realmente negociadas.
-
-Podrán definirse después:
-
-- saldo definitivo del CEF;
-- capital autorizado, suscrito y pagado;
-- número y valor nominal de acciones;
-- contador, abogado y códigos CIIU;
-- inventarios detallados;
-- licencias específicas;
-- productos, proveedores y colecciones.
-
----
 
 # FIRMAS
 

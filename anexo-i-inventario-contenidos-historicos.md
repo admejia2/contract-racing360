@@ -1,55 +1,40 @@
 # ANEXO I
-# INVENTARIO DE CONTENIDOS HISTÓRICOS Y CADENA DE DERECHOS
+# DECLARACIÓN GENERAL DE CONTENIDOS HISTÓRICOS DE FELIPEGIL360
 
-**Versión: 1.0**
+**Versión: 2.0 — Simplificada**
 
-## 1. FECHA DE CORTE
+## 1. ALCANCE
 
-Fecha de corte de la biblioteca: ______________________________
+LAS PARTES reconocen una biblioteca de contenidos creada, producida, editada, administrada o publicada bajo FELIPEGIL360 desde el 1 de junio de 2022.
 
-Repositorio principal: _______________________________________
+Comprende contenidos en Instagram, Facebook, YouTube, TikTok, X, páginas web, nubes, discos, repositorios y plataformas futuras.
 
-## 2. LOTES DE CONTENIDO
+Incluye videos, reels, shorts, historias, fotografías, transmisiones, audios, guiones, miniaturas, textos, material bruto, campañas, métricas, analíticas y adaptaciones.
 
-| ID | Plataforma/carpeta | Fechas | Tipo | Productor/autor | Participantes | Derechos o licencia | Restricciones |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | |
+## 2. REGLA DE PROTECCIÓN
 
-## 3. TERCEROS
+No es necesario listar individualmente cada archivo.
 
-| Nombre | Función | Contrato/licencia | Fecha | Alcance |
+La vinculación se determinará por nombre, origen, producción, financiación, publicación, administración, recursos utilizados, campañas, patrocinadores y evidencia.
+
+## 3. EXCLUSIONES
+
+No se incluyen automáticamente:
+
+- contenidos personales anteriores al 1 de junio de 2022;
+- contenidos verdaderamente independientes;
+- derechos de terceros no adquiridos;
+- la propiedad de la cuenta personal de Instagram de Felipe.
+
+## 4. INVENTARIO OPCIONAL
+
+| Plataforma o repositorio | Periodo | Tipo general | Custodio | Observaciones |
 |---|---|---|---|---|
 | | | | | |
 
-## 4. MÚSICA Y RECURSOS
+Esta tabla no necesita completarse para firmar.
 
-| Recurso | Fuente | Licencia | Restricciones |
-|---|---|---|---|
-| | | | |
-
-## 4A. CONTENIDOS UTILIZADOS EN PATROCINIOS
-
-| Patrocinador | Campaña | Contenidos | Plataformas | Métricas | Derechos de uso | Cumplimiento |
-|---|---|---|---|---|---|---|
-| | | | | | | |
-
-## 4B. CONTENIDOS DE PRODUCTO Y COMERCIO
-
-| Producto | Fotos/videos | Autor/productor | Marca utilizada | Licencia | Canal |
-|---|---|---|---|---|---|
-| | | | | | |
-
-## 5. DECLARACIÓN
-
-LAS PARTES reconocen que este inventario identifica los contenidos históricos sujetos a las licencias y derechos del Contrato Maestro.
-
-La inclusión de un archivo no transfiere derechos de terceros que no hayan sido válidamente obtenidos.
-
-### FORMALIZACIÓN Y COMERCIO
-
-Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
-
-# FIRMAS
+## FIRMAS
 
 ANDRÉS DAVID MEJÍA HERRERA: ______________________________
 
