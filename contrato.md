@@ -1,6 +1,6 @@
 # ACUERDO MARCO DE COLABORACIÓN EMPRESARIAL, ADMINISTRACIÓN DE ACTIVOS Y PARTICIPACIÓN ECONÓMICA DE FELIPEGIL360
 
-**Versión 10.0 — Acuerdo Marco final para revisión y firma**
+**Versión 14.0 — Acuerdo Marco integral para INVERSIONES RACING 360 S.A.S., patrocinadores y comercio**
 
 ---
 
@@ -1480,6 +1480,58 @@ La eliminación de contenido histórico únicamente procederá por:
 
 ---
 
+## CLÁUSULA 42B. NATURALEZA INTEGRAL DE LAS PROPUESTAS DE PATROCINIO
+
+Para efectos comerciales, un patrocinio de FELIPEGIL360 no se entenderá contratado exclusivamente por la presencia personal, deportiva o pública de EL TALENTO.
+
+El producto comercial ofrecido al patrocinador es un ecosistema integrado compuesto, según cada propuesta, por:
+
+- imagen, voz, presencia y credibilidad técnica o deportiva de EL TALENTO;
+- estrategia, dirección, producción, edición y administración de EL FUNDADOR;
+- cuentas, canales y redes sociales utilizadas por EL PROYECTO;
+- audiencia, comunidad y distribución multiplataforma;
+- alcance, impresiones, visualizaciones e interacción;
+- producción audiovisual y biblioteca de contenidos;
+- narrativa, campañas y activaciones de marca;
+- presencia en competencias, eventos, cursos o experiencias;
+- analíticas, reportes y aprendizaje acumulado;
+- posicionamiento, confianza comercial, goodwill y recordación de marca;
+- capacidad de movilizar atención, conversación y comunidades alrededor del patrocinador.
+
+La contribución de cada componente podrá variar entre campañas, pero ninguna parte podrá afirmar que el valor total de una propuesta pertenece exclusivamente a quien aparece frente a cámara, a quien controla formalmente una cuenta o a quien ejecuta una actividad aislada.
+
+Toda propuesta deberá indicar, cuando sea posible: objetivo comercial, activos y plataformas incluidos, métricas, entregables, presencia de EL TALENTO, producción requerida, duración, exclusividad, derechos de uso, precio, costos, indicadores y responsables.
+
+Los seguidores individuales no son propiedad de LAS PARTES, pero la capacidad organizada de llegar a ellos, generar interacción, producir contenido, construir confianza y entregar recordación comercial constituye valor empresarial.
+
+Los ingresos de patrocinio pertenecerán económicamente a EL PROYECTO cuando la propuesta utilice sustancialmente componentes del ecosistema FELIPEGIL360, aunque el contrato, factura, pago o cuenta receptora aparezca formalmente a nombre de una sola parte.
+
+No se considerará patrocinio personal independiente cuando la oportunidad haya sido originada, negociada, valorizada o ejecutada mediante redes, métricas, contenidos, relaciones, vehículos, eventos, producción, infraestructura, portafolios o casos de éxito del Proyecto.
+
+Una actividad será verdaderamente personal e independiente únicamente cuando pueda demostrarse que fue originada, contratada y ejecutada sin utilizar de forma sustancial activos, audiencia, goodwill, relaciones, contenidos, recursos o infraestructura de FELIPEGIL360.
+
+## CLÁUSULA 42C. CLASIFICACIÓN DE OPORTUNIDADES COMERCIALES Y PATROCINIOS
+
+Toda oportunidad deberá clasificarse como patrocinio integral de FELIPEGIL360, campaña específica del Proyecto, patrocinio personal independiente de EL TALENTO, servicio independiente de EL FUNDADOR, colaboración mixta u oportunidad por determinar.
+
+Mientras exista duda razonable, ninguna parte podrá recibir, ocultar, redirigir o explotar unilateralmente la oportunidad.
+
+El hecho de que un patrocinador mencione principalmente a Felipe, use su imagen o deposite recursos en una cuenta personal no convierte automáticamente el patrocinio en ingreso exclusivamente personal.
+
+---
+
+## CLÁUSULA 42D. RECONOCIMIENTO DE ANDRÉS COMO CREADOR ESENCIAL DE VALOR
+
+LAS PARTES declaran expresamente que ANDRÉS DAVID MEJÍA HERRERA es creador esencial de valor dentro de FELIPEGIL360 y de la estructura empresarial proyectada bajo INVERSIONES RACING 360 S.A.S.
+
+Su contribución no se limita al aporte de dinero, administración o custodia de activos. Comprende identificación de la oportunidad, estrategia, financiación, diseño del modelo de negocio, creación y administración de redes, producción ejecutiva, grabación, edición, distribución, analítica, crecimiento de comunidad, posicionamiento, propuestas, búsqueda y negociación con patrocinadores, activaciones, seguimiento, tecnología, procesos, goodwill y recordación comercial.
+
+La menor exposición pública de EL FUNDADOR no disminuye su contribución, participación económica ni derechos de reconocimiento.
+
+Ninguna parte podrá presentar a terceros una versión según la cual los activos, patrocinadores, resultados, comunidad, redes, contenidos o goodwill fueron creados exclusivamente por EL TALENTO.
+
+---
+
 ## CLÁUSULA 43. RELACIONES COMERCIALES
 
 Las relaciones con patrocinadores, clientes, proveedores, medios, organizadores, fabricantes, distribuidores y aliados estarán vinculadas a EL PROYECTO cuando hayan sido desarrolladas sustancialmente mediante su marca, comunidad, contenido, activos, inversión o estrategia.
@@ -1889,120 +1941,247 @@ La mera inactividad o terminación contractual no constituirá novación, condon
 ---
 
 # CAPÍTULO IXA
-# TRANSICIÓN OBLIGATORIA A SOCIEDAD POR ACCIONES SIMPLIFICADA
+# COMPROMISO VINCULANTE DE CONSTITUCIÓN DE INVERSIONES RACING 360 S.A.S.
 
-## CLÁUSULA 61C. SAS COMO SIGUIENTE ETAPA OBLIGATORIA
+## CLÁUSULA 61C. DECISIÓN Y OBLIGACIÓN DE CONSTITUIR LA SAS
 
-LAS PARTES reconocen que el Acuerdo Marco regula una etapa transitoria de incubación y que la estructura definitiva deberá migrar a una sociedad por acciones simplificada —SAS— cuando la operación alcance relevancia económica, contractual o patrimonial.
+LAS PARTES asumen desde esta firma una obligación contractual expresa, seria, vinculante y exigible de colaborar en la constitución e inscripción de una sociedad por acciones simplificada denominada provisionalmente **INVERSIONES RACING 360 S.A.S.**, o la variante registral disponible que conserve las expresiones “RACING 360”.
 
-La constitución de la SAS será obligatoria cuando ocurra primero cualquiera de los siguientes eventos:
+Este compromiso no constituye todavía la persona jurídica ni permite presentarse como sociedad inscrita. La SAS existirá jurídicamente únicamente después de la inscripción del documento constitutivo en el Registro Mercantil.
 
-1. ingresos brutos promedio iguales o superiores a diez millones de pesos ($10.000.000 COP) mensuales durante tres (3) meses consecutivos;
-2. ingresos brutos acumulados iguales o superiores a ciento veinte millones de pesos ($120.000.000 COP) en cualquier período continuo de doce (12) meses;
-3. celebración o negociación vinculante de un contrato individual por valor igual o superior a treinta millones de pesos ($30.000.000 COP);
-4. ingreso de un inversionista externo;
-5. contratación permanente de trabajadores o de dos o más contratistas operativos recurrentes;
-6. adquisición de un activo empresarial material que deba quedar separado de los patrimonios personales;
-7. exigencia de un patrocinador, aseguradora, entidad financiera o autoridad;
-8. decisión escrita de ambas partes.
+La obligación solo podrá modificarse por acuerdo escrito de ambas partes, imposibilidad legal objetiva, fuerza mayor probada o decisión escrita de terminar y liquidar totalmente EL PROYECTO antes de la constitución.
 
-Los umbrales económicos se actualizarán anualmente por IPC desde 2027.
+El cambio de opinión, la pérdida de interés, un desacuerdo personal o la disminución temporal de ingresos no liberarán a ninguna parte.
 
-## CLÁUSULA 61D. PLAZO Y PROCEDIMIENTO DE CONSTITUCIÓN
+## CLÁUSULA 61D. CRONOGRAMA OBLIGATORIO
 
-Cumplido un evento de activación:
+Desde la firma:
 
-- dentro de quince (15) días hábiles deberá convocarse reunión formal;
-- dentro de treinta (30) días calendario deberán aprobarse estatutos y acuerdo de accionistas;
-- dentro de noventa (90) días calendario deberá radicarse e inscribirse la SAS, salvo impedimento legal o documental probado.
+1. dentro de quince (15) días calendario se designarán contador y asesor societario;
+2. dentro de treinta (30) días se preparará la matriz de activos, deudas, CEF, propiedad intelectual, cuentas, contratos, patrocinadores e inventarios;
+3. dentro de sesenta (60) días se prepararán estatutos, acuerdo de accionistas y documentos de aporte, cesión o licencia;
+4. dentro de noventa (90) días se firmará el documento constitutivo;
+5. dentro de ciento veinte (120) días se radicará la inscripción ante la Cámara de Comercio competente.
 
-La falta injustificada de colaboración constituirá incumplimiento grave.
+Los plazos podrán ampliarse una sola vez, por máximo sesenta (60) días, mediante acta escrita y motivada.
 
-Durante el trámite, el Acuerdo Marco continuará vigente.
+## CLÁUSULA 61E. BASES SOCIETARIAS ACEPTADAS
 
-## CLÁUSULA 61E. ESTRUCTURA ECONÓMICA INICIAL DE LA SAS
+Las bases iniciales serán:
 
-Salvo valoración o acuerdo escrito diferente, la estructura económica de referencia será:
-
-- Andrés: sesenta y cinco por ciento (65 %);
-- Felipe: treinta y cinco por ciento (35 %).
-
-La emisión y asignación definitiva de acciones deberá considerar:
-
-- CEF conciliado;
-- aportes de capital;
-- activos efectivamente transferidos;
-- deudas y recuperaciones;
-- propiedad intelectual;
-- Yacar;
-- cuentas y contenidos;
-- obligaciones tributarias;
-- prohibición de doble contabilización.
-
-El CEF no se convertirá automáticamente en capital social ni deuda personal. Su tratamiento deberá definirse como aporte, prima en colocación, cuenta por pagar, préstamo, licencia, derecho económico u otra figura acordada y jurídicamente válida.
-
-## CLÁUSULA 61F. TRANSFERENCIA DE ACTIVOS A LA SAS
-
-La constitución de la SAS no transferirá automáticamente bienes personales.
-
-La transferencia o licencia deberá formalizarse activo por activo o por categorías objetivamente identificables.
-
-Podrán transferirse o licenciarse:
-
-- marca FELIPEGIL360;
-- cuentas empresariales;
-- dominios;
-- biblioteca histórica;
-- contratos;
-- monetización;
-- equipos;
-- software;
-- bases de datos;
-- goodwill;
-- otros activos identificados.
-
-El Swift continuará como propiedad personal de Andrés salvo transferencia expresa.
-
-Instagram personal continuará como propiedad de Felipe salvo acuerdo diferente.
-
-El Yacar se aportará, licenciará o mantendrá fuera de la SAS según su trazabilidad, pagos, riesgos y valoración.
-
-## CLÁUSULA 61G. ESTATUTOS Y ACUERDO DE ACCIONISTAS
-
-La SAS deberá incorporar, en la medida permitida por la ley:
-
-- participación económica;
-- gobierno;
-- mayorías;
-- materias reservadas;
-- restricciones de transferencia;
-- derecho de preferencia;
-- tag-along y drag-along;
-- Buy-Out;
-- causales y procedimiento de exclusión;
+- razón social proyectada: INVERSIONES RACING 360 S.A.S.;
+- domicilio proyectado: Medellín, Antioquia;
+- duración: indefinida;
+- estructura accionaria inicial de referencia: 65 % Andrés y 35 % Felipe;
+- representante legal inicial proyectado: Andrés, salvo acuerdo escrito diferente;
+- acuerdo de accionistas obligatorio;
+- cuenta bancaria y contabilidad separadas;
 - protección del CEF;
-- propiedad intelectual;
-- solución de controversias;
-- muerte, incapacidad y sucesión;
-- no captación;
-- reglas de información;
-- seguros;
-- manejo de conflictos de interés.
+- transferencia o licencia documentada de activos;
+- protección de patrocinadores, redes, contenidos, goodwill, comercio electrónico y marcas;
+- Buy-Out, tag-along, drag-along, restricciones de transferencia y mecanismo de solución de bloqueos.
 
-El acuerdo de accionistas deberá depositarse en la administración de la sociedad cuando corresponda.
+El capital autorizado, suscrito y pagado, número y valor nominal de acciones se definirán con asesoría profesional sin alterar el 65 %–35 % salvo acuerdo escrito.
 
-## CLÁUSULA 61H. NO UTILIZACIÓN DE LA SAS PARA DEFRAUDAR
+## CLÁUSULA 61F. UNIDADES DE NEGOCIO Y MARCAS
 
-La SAS no podrá utilizarse para:
+INVERSIONES RACING 360 S.A.S. podrá administrar distintas marcas y unidades, incluyendo:
 
-- ocultar activos;
-- desconocer el CEF;
-- trasladar valor sin reconocimiento;
-- excluir injustificadamente a una parte;
-- eludir obligaciones vigentes;
-- perjudicar acreedores o terceros.
+- FELIPEGIL360;
+- Racing360;
+- Andrés Mejía Racing;
+- producción audiovisual;
+- marketing digital;
+- patrocinio y representación comercial;
+- cursos y experiencias;
+- automovilismo y simracing;
+- productos, artículos, mercancía y merchandising;
+- comercio electrónico;
+- nuevas marcas o proyectos aprobados.
 
-La transferencia a la SAS deberá conservar la trazabilidad histórica y los derechos consolidados.
+La razón social no transfiere automáticamente a la SAS las marcas o activos personales. Cada aporte, cesión o licencia deberá documentarse.
+
+## CLÁUSULA 61G. INCUMPLIMIENTO DE LA FORMALIZACIÓN
+
+Constituirán incumplimiento grave la negativa injustificada a entregar documentos, participar, revisar, firmar actos conformes con lo acordado, conservar activos o permitir la inscripción.
+
+También constituirán incumplimiento:
+
+- intentar modificar unilateralmente el 65 %–35 %;
+- desviar activos o contratos;
+- condicionar la firma a renuncias no pactadas;
+- presentarse ante terceros como único dueño;
+- frustrar deliberadamente la constitución.
+
+La parte cumplida podrá solicitar cumplimiento, indemnización demostrada, reembolso de costos, medidas de conservación, Buy-Out o terminación por incumplimiento.
+
+## CLÁUSULA 61H. TRANSICIÓN
+
+Hasta la inscripción continuará vigente este Acuerdo Marco.
+
+Los contratos materiales nuevos deberán prever, cuando sea viable, su futura cesión o novación a la SAS.
+
+Cada obligación frente a terceros continuará a cargo de quien la asumió hasta que exista sustitución válida.
+
+Ningún activo personal se transferirá automáticamente.
+---
+
+# CAPÍTULO IXB
+# PRODUCTOS, MERCHANDISING, COMERCIO ELECTRÓNICO Y VENTAS
+
+## CLÁUSULA 61J. LÍNEA EMPRESARIAL DE PRODUCTOS
+
+LAS PARTES acuerdan que la venta de prendas, artículos, accesorios, coleccionables, productos físicos, digitales y promocionales constituirá una línea empresarial de INVERSIONES RACING 360 S.A.S.
+
+Podrán comercializarse, entre otros:
+
+- camisetas;
+- chaquetas;
+- gorras;
+- uniformes;
+- calcomanías;
+- pósteres;
+- fotografías;
+- termos;
+- llaveros;
+- productos coleccionables;
+- artículos deportivos;
+- artículos de automovilismo y simracing;
+- productos propios, licenciados o de terceros;
+- productos de patrocinadores;
+- ediciones limitadas y colaboraciones.
+
+## CLÁUSULA 61K. CANALES DE VENTA
+
+La sociedad podrá vender mediante:
+
+- tienda virtual;
+- redes sociales;
+- marketplaces;
+- eventos;
+- competencias;
+- establecimientos físicos;
+- distribuidores;
+- preventas;
+- consignación;
+- comercio nacional e internacional.
+
+Toda venta deberá registrarse en la contabilidad y cuentas de la SAS una vez constituida.
+
+## CLÁUSULA 61L. MARCAS, IMAGEN Y DISEÑOS
+
+Ningún producto podrá utilizar sin autorización documentada:
+
+- nombre civil;
+- imagen;
+- voz;
+- firma;
+- fotografía;
+- número deportivo;
+- frases personales;
+- marcas registradas;
+- logos o diseños de terceros;
+- marcas de patrocinadores.
+
+Los productos que utilicen la imagen o nombre de Felipe requerirán licencia escrita que defina alcance, territorio, duración, inventario, regalía si existe, uso posterior y tratamiento al terminar la relación.
+
+Ser accionista no sustituye la autorización específica de imagen.
+
+Los diseños creados o pagados por la sociedad deberán contar con cesión o licencia patrimonial escrita.
+
+## CLÁUSULA 61M. APROBACIÓN DE COLECCIONES Y PRESUPUESTOS
+
+Cada colección deberá contar con ficha o acta que indique:
+
+- marca;
+- diseños;
+- proveedor;
+- cantidades;
+- tallas;
+- costos;
+- presupuesto;
+- precio;
+- margen esperado;
+- derechos;
+- responsables;
+- canal;
+- fecha;
+- política de inventario.
+
+No podrán ordenarse producciones que excedan el presupuesto aprobado.
+
+La preventa y los lotes pequeños serán mecanismos preferentes durante la etapa inicial.
+
+## CLÁUSULA 61N. INGRESOS, COSTOS Y CASCADA ECONÓMICA
+
+Los ingresos brutos por productos se aplicarán en este orden:
+
+1. impuestos;
+2. comisiones de plataforma y medios de pago;
+3. costo de fabricación o compra;
+4. empaques;
+5. transporte y logística;
+6. devoluciones, garantías y reversión;
+7. publicidad;
+8. regalías específicas;
+9. recuperación de inversión del inventario;
+10. costos administrativos atribuibles;
+11. utilidad neta.
+
+La participación económica se aplicará únicamente sobre utilidad neta o valor residual, no sobre ventas brutas.
+
+## CLÁUSULA 61O. INVENTARIO Y CUSTODIA
+
+La sociedad deberá llevar inventario por referencia, diseño, talla, color, cantidad, costo, ubicación y estado.
+
+Ninguna parte podrá:
+
+- vender por fuera de la contabilidad;
+- retirar inventario sin soporte;
+- utilizarlo como pago personal;
+- regalar unidades sin autorización;
+- ocultar devoluciones;
+- alterar costos;
+- apropiarse de muestras o sobrantes.
+
+## CLÁUSULA 61P. CONSUMIDORES Y COMERCIO ELECTRÓNICO
+
+La tienda y canales deberán informar claramente:
+
+- razón social;
+- NIT;
+- contacto;
+- características;
+- disponibilidad;
+- precio total;
+- envío;
+- entrega;
+- cambios;
+- garantía;
+- retracto cuando aplique;
+- reversión de pagos cuando aplique;
+- términos;
+- tratamiento de datos;
+- mecanismos de atención.
+
+La sociedad deberá conservar soportes de pedidos, pagos, entregas, garantías, reclamaciones y devoluciones.
+
+## CLÁUSULA 61Q. TERMINACIÓN Y PRODUCTOS SOBRANTES
+
+La terminación de la relación no autoriza destruir, ocultar o apropiarse del inventario.
+
+Se realizará inventario de corte y se determinará:
+
+- venta durante período de agotamiento;
+- devolución a proveedor;
+- recompra;
+- liquidación;
+- destrucción;
+- continuidad de licencias;
+- uso de imagen;
+- distribución del resultado neto.
+
+Los productos que utilicen la imagen de Felipe solo podrán seguir vendiéndose durante el período de agotamiento expresamente autorizado.
 
 ---
 
@@ -2705,6 +2884,10 @@ Ambas aceptan aportar trabajo, colaboración y diligencia dentro de los límites
 Esta declaración forma parte esencial del consentimiento contractual.
 
 ---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
 
 # FIRMAS
 

@@ -1048,6 +1048,26 @@ La ausencia de documento formal del vendedor no impide el reconocimiento interno
 
 ---
 
+# 19A. ACTIVOS COMERCIALES DE PATROCINIO
+
+Se reconocen como activos o recursos comerciales: portafolios, propuestas, contactos, relaciones con patrocinadores, historial de campañas, métricas, casos de éxito, tarifas, metodologías de valoración, capacidad de distribución, comunidad, audiencias, procesos de producción, formatos, reportes, goodwill y recordación comercial.
+
+La imagen de EL TALENTO es un componente esencial, pero no representa por sí sola la totalidad del activo comercial ofrecido.
+
+---
+
+# 19C. INVENTARIO COMERCIAL FUTURO
+
+El inventario deberá incorporar diseños, muestras, materias primas, productos terminados, empaques, etiquetas, códigos SKU, fotografías de producto y mercancía en tránsito.
+
+La propiedad de cada diseño, marca y lote deberá estar documentada.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman el presente Anexo.

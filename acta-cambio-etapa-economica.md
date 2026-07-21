@@ -42,9 +42,15 @@ A partir de ____________________, los excedentes futuros se distribuirán:
 - 55 % Andrés;
 - 45 % Felipe.
 
-Esta Acta no modifica automáticamente las acciones de una futura SAS.
+Esta Acta no modifica automáticamente las acciones de INVERSIONES RACING 360 S.A.S.
 
-## FIRMAS
+El cambio de etapa tampoco elimina el carácter empresarial del ecosistema comercial, redes, comunidad, contenidos, métricas, goodwill ni relaciones con patrocinadores.
+
+### FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
+# FIRMAS
 
 ANDRÉS DAVID MEJÍA HERRERA: ______________________________
 

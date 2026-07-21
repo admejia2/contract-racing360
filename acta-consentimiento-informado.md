@@ -12,9 +12,9 @@ En ________________________, a los ______ días del mes de __________________ de
 
 Cada parte declara haber recibido antes de la firma:
 
-- Contrato Maestro versión 8.0;
+- Contrato Maestro versión 14.0;
 - Acta Fundacional;
-- Anexos A a J;
+- Anexos A a L;
 - relación de documentos excluidos de firma;
 - oportunidad para solicitar aclaraciones y cambios.
 
@@ -53,8 +53,10 @@ Cada parte declara comprender especialmente:
 - que no puede cobrarse dos veces el mismo concepto;
 - que los contenidos históricos tienen tratamiento distinto de campañas futuras;
 - que ninguna cláusula elimina derechos legales irrenunciables;
-- que el siguiente paso obligatorio, cuando se cumplan los umbrales económicos o contractuales, será constituir una SAS;
-- que los activos personales no se transferirán automáticamente a dicha sociedad.
+- que desde esta firma existe obligación de constituir e inscribir INVERSIONES RACING 360 S.A.S. conforme al Anexo K;
+- que los activos personales no se transferirán automáticamente a dicha sociedad;
+- que los patrocinadores contratan un ecosistema integral de talento, redes, audiencia, contenido, producción, interacción, exposición y recordación de marca, y no únicamente a Felipe como persona;
+- que un ingreso no se vuelve personal únicamente porque sea recibido, facturado o contratado formalmente por una de las partes.
 
 ## 3A. CONCIENCIA SOBRE DEUDAS EN CURSO
 
@@ -76,6 +78,24 @@ LAS PARTES declaran comprender:
 - que después se distribuirán excedentes 55 % Andrés / 45 % Felipe;
 - que las acciones de la SAS no cambian automáticamente;
 - que el cambio requiere acta firmada y soporte contable.
+
+Andrés: [ ]
+
+Felipe: [ ]
+
+## 3C. RATIFICACIÓN DE LA SAS Y DE LA LÍNEA COMERCIAL
+
+LAS PARTES comprenden y aceptan:
+
+- que la obligación de constituir la SAS nace desde esta firma;
+- que la razón social proyectada es INVERSIONES RACING 360 S.A.S.;
+- que la estructura inicial será 65 % Andrés / 35 % Felipe;
+- que FELIPEGIL360 será una marca o unidad de negocio y no la razón social;
+- que la SAS podrá vender prendas, artículos, merchandising y productos;
+- que los productos con imagen o nombre de Felipe requieren licencia escrita;
+- que las ventas deberán entrar a la contabilidad de la SAS;
+- que la participación económica se calcula sobre utilidad neta, no sobre ventas brutas;
+- que deberán firmarse los Anexos K y L.
 
 Andrés: [ ]
 

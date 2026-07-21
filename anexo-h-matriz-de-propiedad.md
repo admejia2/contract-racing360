@@ -349,6 +349,45 @@ El cambio de etapa requiere acta firmada y soporte contable.
 
 ---
 
+# 14F. MATRIZ DE PATROCINIOS Y PROPUESTAS COMERCIALES
+
+| Componente | Naturaleza | Tratamiento |
+|---|---|---|
+| Imagen y presencia de Felipe | Derecho personal autorizado | Componente de la propuesta |
+| Marca FELIPEGIL360 | Activo empresarial | Componente del Proyecto |
+| Redes empresariales | Activo empresarial según origen | Componente del Proyecto |
+| Instagram personal | Propiedad de Felipe | Se reconoce valor incremental empresarial |
+| Audiencia y seguidores | No son propiedad | La capacidad organizada de alcance es goodwill |
+| Producción y edición | Trabajo y activos del Proyecto | Componente del patrocinio |
+| Métricas y analíticas | Evidencia y activo informacional | Soportan valoración |
+| Relaciones con patrocinadores | Según origen e historial | Goodwill empresarial |
+| Ingreso integral | Ingreso del Proyecto | Se aplica cascada económica |
+
+La cuenta receptora, el nombre firmado o la presencia de EL TALENTO no determinan por sí solos la naturaleza económica.
+
+---
+
+# 14H. MATRIZ DE PRODUCTOS Y COMERCIO
+
+| Elemento | Titularidad | Tratamiento |
+|---|---|---|
+| Marca Racing 360 | Según registro o cesión | Licencia o aporte a SAS |
+| Marca FELIPEGIL360 | Según acuerdo y registro | Unidad de negocio |
+| Imagen de Felipe | Derecho personal | Licencia específica |
+| Diseño pagado por la SAS | SAS, previa cesión | Activo empresarial |
+| Inventario pagado por la SAS | SAS | Activo circulante |
+| Tienda y dominio | Según adquisición | Activo digital |
+| Base de clientes | SAS, sujeta a datos | Activo informacional |
+| Producto de patrocinador | Según contrato | Comercialización autorizada |
+
+La venta se registrará como ingreso de la SAS cuando utilice sus activos, marcas o canales.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 _________________________________

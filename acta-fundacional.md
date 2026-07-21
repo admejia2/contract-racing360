@@ -421,6 +421,46 @@ Esta evolución no modificará automáticamente las acciones de la futura SAS.
 
 ---
 
+# 10I. ESTRATEGIA COMERCIAL INTEGRAL DE PATROCINIO
+
+LAS PARTES reconocen que la estrategia de patrocinadores creada desde 2022 no se limitó a ofrecer la imagen o participación individual de LUIS FELIPE GIL BETANCUR.
+
+Para efectos comerciales, un patrocinio de FELIPEGIL360 no se entenderá contratado exclusivamente por la presencia personal, deportiva o pública de EL TALENTO.
+
+El producto comercial ofrecido al patrocinador es un ecosistema integrado compuesto, según cada propuesta, por:
+
+- imagen, voz, presencia y credibilidad técnica o deportiva de EL TALENTO;
+- estrategia, dirección, producción, edición y administración de EL FUNDADOR;
+- cuentas, canales y redes sociales utilizadas por EL PROYECTO;
+- audiencia, comunidad y distribución multiplataforma;
+- alcance, impresiones, visualizaciones e interacción;
+- producción audiovisual y biblioteca de contenidos;
+- narrativa, campañas y activaciones de marca;
+- presencia en competencias, eventos, cursos o experiencias;
+- analíticas, reportes y aprendizaje acumulado;
+- posicionamiento, confianza comercial, goodwill y recordación de marca;
+- capacidad de movilizar atención, conversación y comunidades alrededor del patrocinador.
+
+La contribución de cada componente podrá variar entre campañas, pero ninguna parte podrá afirmar que el valor total de una propuesta pertenece exclusivamente a quien aparece frente a cámara, a quien controla formalmente una cuenta o a quien ejecuta una actividad aislada.
+
+Por tanto, el patrocinador recibe una combinación de talento, redes, comunidad, producción, métricas, exposición deportiva, interacción, posicionamiento y recordación de marca. Esta combinación constituye una estrategia y un activo comercial de FELIPEGIL360.
+
+---
+
+# 10K. DECISIÓN DE FORMALIZAR Y DIVERSIFICAR
+
+LAS PARTES adoptan como camino empresarial la constitución de INVERSIONES RACING 360 S.A.S.
+
+La sociedad tendrá capacidad para administrar FELIPEGIL360 y otras unidades, así como vender productos, prendas, artículos, mercancía, merchandising y productos digitales.
+
+Esta diversificación busca que la empresa no dependa exclusivamente de una sola persona, red, patrocinador o fuente de ingresos.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman la presente Acta Fundacional.

@@ -294,6 +294,26 @@ El registro no convierte automáticamente todo valor posterior en empresarial, p
 
 ---
 
+# 13A. REGISTRO DE PROPUESTAS Y VALOR COMERCIAL
+
+El Libro podrá conservar por patrocinador: contacto, origen, propuesta, redes y métricas utilizadas, alcance ofrecido, entregables, producción, participación de EL TALENTO, inversión, costos, ingresos, resultados, interacción, recordación, renovaciones e incumplimientos.
+
+Estos registros permitirán demostrar que el patrocinio fue resultado del ecosistema integral y no exclusivamente de una actuación personal.
+
+---
+
+# 13C. REGISTRO DE PRODUCTOS Y VENTAS
+
+El Libro podrá conservar evidencia de diseños, proveedores, muestras, órdenes, inventario, precios, ventas, devoluciones, garantías, clientes, costos, campañas y utilidad neta.
+
+La ausencia de una anotación no permite ocultar ventas o inventario.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 _________________________________

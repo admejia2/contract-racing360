@@ -1547,6 +1547,37 @@ La ausencia de documento formal del vendedor no impide el reconocimiento interno
 
 ---
 
+# 23.18. NATURALEZA EMPRESARIAL DE LOS PATROCINIOS HISTÓRICOS
+
+Los patrocinios históricos deberán analizarse como resultado del ecosistema comercial de FELIPEGIL360 y no únicamente como pagos por la presencia de EL TALENTO.
+
+Se considerarán redes, alcance, audiencia, interacción, producción, edición, vehículos, competencias, estrategia, portafolios, negociación, activaciones, contenidos, seguimiento, recordación de marca y relaciones construidas.
+
+La recepción material por Felipe no convierte automáticamente el ingreso en patrocinio personal cuando se utilizó el ecosistema del Proyecto.
+
+---
+
+# 23.20. INVERSIÓN EN PRODUCTOS
+
+Toda inversión para productos deberá clasificarse como:
+
+- aporte de capital;
+- préstamo;
+- anticipo;
+- inventario financiado;
+- gasto no recuperable;
+- inversión aprobada del Proyecto.
+
+No se incorporará automáticamente al CEF sin presupuesto, soporte y clasificación.
+
+La recuperación del inventario precede a la distribución de utilidad.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman el presente Anexo.

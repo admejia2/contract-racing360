@@ -1137,6 +1137,30 @@ Cuando exista SAS, el órgano competente aprobará el cambio económico sin modi
 
 ---
 
+# 26G. GOBIERNO DE PROPUESTAS Y PATROCINIOS
+
+Toda propuesta comercial relevante deberá conservar versión enviada, destinatario, métricas, activos ofrecidos, obligaciones, precio, costos, exclusividades, plazo, derechos de uso, aprobación, contrato, comprobantes e informe de cumplimiento.
+
+EL FUNDADOR será responsable principal de estructuración, valoración, negociación, producción, seguimiento y reporte, salvo delegación. EL TALENTO será responsable de presencia, ejecución pública, validación técnica y compromisos personales aceptados.
+
+Ninguna parte podrá presentar como exclusivamente propio un patrocinio sustentado en el ecosistema FELIPEGIL360.
+
+---
+
+# 26I. GOBIERNO DE PRODUCTOS Y COMERCIO
+
+Corresponderá a la Dirección Estratégica coordinar presupuestos, proveedores, canales, inventarios, precios y reportes.
+
+Las colecciones materiales, licencias de imagen, endeudamiento, fabricación relevante y descuentos extraordinarios requerirán aprobación documentada.
+
+Deberán existir controles de inventario, caja, ventas, devoluciones y garantías.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman el presente Anexo.

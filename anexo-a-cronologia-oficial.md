@@ -631,6 +631,26 @@ La ausencia de documento formal del vendedor no impide el reconocimiento interno
 
 ---
 
+# 18A. CONSTRUCCIÓN DEL MODELO COMERCIAL PARA PATROCINADORES
+
+Desde la etapa inicial, la búsqueda de patrocinadores se estructuró alrededor de una propuesta comercial integral que combinó presencia deportiva, contenido audiovisual, redes sociales, crecimiento de audiencia, interacción, alcance, producción, activaciones, recordación de marca, credibilidad técnica y analíticas.
+
+Las marcas evaluaron a FELIPEGIL360 como plataforma comercial completa y no solo como contratación individual de un piloto.
+
+---
+
+# 18C. EVOLUCIÓN HACIA INVERSIONES RACING 360 S.A.S.
+
+La evolución natural del Proyecto conduce a una estructura societaria más amplia, capaz de administrar marcas, activos digitales, patrocinadores, contenidos y líneas comerciales.
+
+La venta de productos y merchandising se incorpora como una fuente futura de ingresos y consolidación de comunidad.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 En constancia de aceptación, las partes firman el presente Anexo.

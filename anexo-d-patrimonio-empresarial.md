@@ -359,6 +359,39 @@ El valor nuevo verdaderamente independiente deberá separarse mediante evidencia
 
 ---
 
+# 16A. ECOSISTEMA COMERCIAL DE PATROCINIO
+
+Forma parte del Patrimonio Empresarial el sistema organizado mediante el cual FELIPEGIL360 ofrece valor a patrocinadores: talento, redes, canales, comunidad, audiencia, contenidos, alcance, interacción, métricas, producción, administración, presencia deportiva, activaciones, relaciones comerciales, goodwill, posicionamiento y recordación de marca.
+
+Ningún componente aislado representa por sí solo la totalidad de la propuesta comercial.
+
+---
+
+# 16C. PRODUCTOS Y COMERCIO COMO PATRIMONIO EMPRESARIAL
+
+Integran el Patrimonio Empresarial, según su origen:
+
+- marcas;
+- diseños;
+- colecciones;
+- tienda;
+- dominio;
+- base legítima de clientes;
+- fotografías;
+- fichas;
+- inventario;
+- contratos con proveedores;
+- reputación de producto;
+- datos y analíticas comerciales.
+
+La mercancía creada con recursos de la sociedad no podrá apropiarse individualmente.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 _________________________________

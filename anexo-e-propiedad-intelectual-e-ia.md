@@ -324,6 +324,37 @@ Después de la separación:
 
 ---
 
+# 15A. PROPUESTAS COMERCIALES COMO EXPLOTACIÓN INTEGRADA
+
+Las propuestas podrán utilizar de manera autorizada imagen y voz de EL TALENTO, marca FELIPEGIL360, contenidos, cuentas, métricas, portafolios, biblioteca, eventos, vehículos, conceptos creativos, analíticas y casos de éxito.
+
+La autorización de imagen no implica que el valor de la campaña pertenezca exclusivamente a EL TALENTO. La propiedad o control formal de una cuenta tampoco atribuye en exclusiva el valor generado por la audiencia, producción, estrategia, campañas y recursos empresariales.
+
+---
+
+# 15C. PROPIEDAD INTELECTUAL APLICADA A PRODUCTOS
+
+Antes de fabricar deberán verificarse y documentarse:
+
+- titularidad de marca;
+- titularidad de diseños;
+- cesiones de diseñadores;
+- licencias de imagen;
+- licencias de patrocinadores;
+- uso de fotografías;
+- fuentes y elementos gráficos;
+- territorio;
+- duración;
+- inventario autorizado.
+
+La autorización para contenido digital no autoriza automáticamente productos físicos.
+
+---
+
+## FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
 # FIRMAS
 
 _________________________________

@@ -1,0 +1,96 @@
+{
+  "status": "OK",
+  "issues": [],
+  "version": "14.0",
+  "ready_to_print": true,
+  "company": "INVERSIONES RACING 360 S.A.S.",
+  "business_units": [
+    "FELIPEGIL360",
+    "Racing360",
+    "Andrés Mejía Racing",
+    "merchandising",
+    "e-commerce"
+  ],
+  "shares_initial": {
+    "andres": "65%",
+    "felipe": "35%"
+  },
+  "mature_economic_split": {
+    "andres": "55%",
+    "felipe": "45%"
+  },
+  "files": {
+    "acta-cambio-etapa-economica.md": {
+      "bytes": 1533,
+      "sha256": "533cb245b8d99d8ddb842f12f8800e1948513881c5377f355ab40ce1072758b8"
+    },
+    "acta-consentimiento-informado.md": {
+      "bytes": 6225,
+      "sha256": "82558f3a2129358a8333d6e643a5cccc46f6c5c4d2056b5fa7beaf03804cc957"
+    },
+    "acta-fundacional.md": {
+      "bytes": 25811,
+      "sha256": "e7f09e5a451aab3f4cf5d42053bb803851de6286482eec968c0344ba2afce218"
+    },
+    "anexo-a-cronologia-oficial.md": {
+      "bytes": 28353,
+      "sha256": "fa06c0cd48ddae70de92591a928f6e00b098634ac9effe65ccfd6f65f985913c"
+    },
+    "anexo-b-inventario-inicial.md": {
+      "bytes": 41002,
+      "sha256": "675c63b55852117e6fbe1992ef5325e277cbbd94cabd4659315ff9d56dc391e4"
+    },
+    "anexo-c-capital-empresarial-fundacional.md": {
+      "bytes": 60765,
+      "sha256": "315f2123df5bfe669d56a4528c9cbc63c686dbde5a6a34309db473f427437d81"
+    },
+    "anexo-d-patrimonio-empresarial.md": {
+      "bytes": 13888,
+      "sha256": "673cf27bdb03e0449597017bec98b776e9bf8f0374773d534287d732a05f77ec"
+    },
+    "anexo-e-propiedad-intelectual-e-ia.md": {
+      "bytes": 15016,
+      "sha256": "bb68b1724fb1b254c7d2cd33d99bbf307612758982415d9fd8ec8c184139cb32"
+    },
+    "anexo-f-gobierno-corporativo.md": {
+      "bytes": 35078,
+      "sha256": "6a939cd95d3ceb0929beee25f04c22a1ead8991bacaa073af733455be3d041b0"
+    },
+    "anexo-g-libro-del-proyecto.md": {
+      "bytes": 9589,
+      "sha256": "5726d5e9358e72e809ee1355e7234abe56804f56e5239c2b20f5d375fd6d36d4"
+    },
+    "anexo-h-matriz-de-propiedad.md": {
+      "bytes": 17424,
+      "sha256": "eb896f886cd0ae7e157f44c9aef09d999236c9a8f7bc5f48ac920e9921c29ab2"
+    },
+    "anexo-i-inventario-contenidos-historicos.md": {
+      "bytes": 1622,
+      "sha256": "6516d1ea315557c8e73810cb00c34cf436b7149b102fa8f2157050d58827b160"
+    },
+    "anexo-j-registro-horas-trabajo.md": {
+      "bytes": 2959,
+      "sha256": "cb2983823069939df282fb0854d88cc86d10dc93af6b751133638e142c4a1890"
+    },
+    "anexo-k-compromiso-constitucion-sas.md": {
+      "bytes": 1851,
+      "sha256": "97628277ced4c122fc71f6912d97888ca2fbc1df4c338969cffe3500cd1bfcce"
+    },
+    "anexo-l-productos-merchandising-comercio.md": {
+      "bytes": 1608,
+      "sha256": "56e15c930707851d1f74d73222281c6d1f62b459b5fede01da39cc6023566e77"
+    },
+    "contrato.md": {
+      "bytes": 125943,
+      "sha256": "6cf221c13f3569e12f05592cfe27dac5ad91bdd1dbe09845acec083ae23bdef9"
+    },
+    "guia-final-firma.md": {
+      "bytes": 3246,
+      "sha256": "3678fa725a79a9f8477bb4cd85bcd41ea4aae7108c29057af84b8e060d650ba0"
+    },
+    "informe-auditoria-integral-version-14.md": {
+      "bytes": 710,
+      "sha256": "544fb88ac991e558e60754f9c72dd80062accbda1274471eaa62e5fca7918d42"
+    }
+  }
+}

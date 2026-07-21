@@ -70,7 +70,25 @@ La estimación constituye evidencia del aporte de trabajo y deberá considerarse
 
 No constituye automáticamente deuda personal de Felipe ni elimina la necesidad de evitar doble contabilización.
 
-## FIRMAS
+## 6A. TRABAJO COMERCIAL Y DE PATROCINIOS
+
+Las 3.230 horas estimadas corresponden principalmente a producción y contenido. No incluyen necesariamente todo el tiempo destinado a métricas, propuestas, búsqueda de patrocinadores, reuniones, negociación, activaciones, reportes, seguimiento y renovación.
+
+Estas actividades podrán registrarse separadamente con evidencia, evitando doble contabilización.
+
+## 6B. TRABAJO DE PRODUCTOS Y COMERCIO
+
+Las horas actuales no incluyen necesariamente diseño de productos, búsqueda de proveedores, muestras, fotografía de producto, tienda, inventario, atención, logística, cambios y garantías.
+
+Estas horas deberán registrarse separadamente para evitar doble contabilización.
+
+---
+
+### FORMALIZACIÓN Y COMERCIO
+
+Este documento deberá interpretarse conjuntamente con los Anexos K y L relativos a la constitución de INVERSIONES RACING 360 S.A.S. y a productos, merchandising y comercio electrónico.
+
+# FIRMAS
 
 ANDRÉS DAVID MEJÍA HERRERA: ______________________________
 
